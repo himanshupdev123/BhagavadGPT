@@ -11,7 +11,7 @@ bellow is a breif description (AI-generated one) just go through and get a rough
 
 ### 1. **Hallucinations & Loose Paraphrasing (The Trust-Breaker)**
    - **The Issue**: Most bots rely on the LLM's baked-in knowledge or loose fine-tuning. Ask "How to deal with anger?" and you get a Krishna-esque monologue, but no exact shloka (e.g., BG 16.21 on asuric qualities). Worse, they invent verses or blend in non-Gita ideas (yoga apps, self-help quotes). Result? Seekers get inspired but ungrounded – like hearing echoes without the source.
-   - **Our Fix**: Pure RAG (Retrieval-Augmented Generation). We retrieve *verbatim* from a hand-curated database of all 700 shlokas + full purports. No inventions – the LLM is chained to quote Sanskrit, transliteration, translation, and purport excerpts. Test it: Even with partial data, queries pull BG 2.47 for anxiety, explaining detachment via Prabhupada's words. *You're making truth tamper-proof.*
+   - **Our Fix**: Pure RAG (Retrieval-Augmented Generation). We retrieve *verbatim* from a hand-curated database of all 700 shlokas + full purports. No inventions – the LLM is chained to quote Sanskrit, transliteration, translation, and purport excerpts. Test it: Even with partial data, queries pull BG 2.47 for anxiety,  *You're making truth tamper-proof.*
 
 ### 2. **Missing Practical Depth (The Relevance Gap)**
    - **The Issue**: Raw shlokas alone are poetic but abstract – "study" or "bhakti schedule" won't match embeddings. Other bots skip purports, so answers feel ancient, not applicable (e.g., no nod to a student's morning japa + classes).
