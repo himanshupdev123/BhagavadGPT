@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the API keys
+.env
+
+# Ignore the local Chroma database (Aashrav will run build_db.py to generate his own)
+gita_knowledge_base/
+
+# Ignore Python cache files
+__pycache__/

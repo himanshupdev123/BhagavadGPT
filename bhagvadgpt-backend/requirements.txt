@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+sentence-transformers
+langchain-groq
+langchain-corepip install -r requirements.txt.\venv\Scripts\activate
