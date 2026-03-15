@@ -4,11 +4,11 @@ Coming Soon this Krishna Janmashtami 2026
 ---
 
 ```markdown
-# BhagavadGPT
+#BhagavadGPT
 
 BhagavadGPT is an open-source, AI-powered spiritual guide. It uses Retrieval-Augmented Generation (RAG) combined with the lightning-fast Groq API to provide answers to modern life's questions, strictly grounded in the wisdom of the Bhagavad Gita.
 
-##  Architecture & Credits
+##Architecture & Credits
 
 This project is divided into three main components:
 
@@ -20,7 +20,7 @@ This project is divided into three main components:
 
 ---
 
-## 🛠️ Prerequisites
+##Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 * **[Git](https://git-scm.com/downloads)** * **[Python 3.10+](https://www.python.org/downloads/)** * **[Docker Desktop](https://www.docker.com/products/docker-desktop/)** (Required for the LibreChat UI)
@@ -29,9 +29,9 @@ Before you begin, ensure you have the following installed on your system:
 
 ---
 
-## Step-by-Step Installation Guide
+##Step-by-Step Installation Guide
 
-### Step 1: Clone the Repository
+###Step 1: Clone the Repository
 Open your terminal and pull the code to your local machine:
 
 ```bash
@@ -40,7 +40,7 @@ cd BhagavadGPT
 
 ```
 
-### Step 2: Build the Vector Database
+###Step 2: Build the Vector Database
 
 Before the AI can answer questions, we need to inject the Gita's wisdom into ChromaDB.
 
@@ -60,7 +60,7 @@ python build_db.py
 
 *(This script reads the JSON files, creates embeddings, and saves the database locally).*
 
-### Step 3: Set Up the AI Backend
+###Step 3: Set Up the AI Backend
 
 We need to set up an isolated Python environment to run the RAG search and connect to Groq.
 
@@ -114,7 +114,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 *(Keep this terminal window open!)*
 
-### Step 4: Set Up the Frontend (LibreChat Vault)
+###Step 4: Set Up the Frontend (LibreChat Vault)
 
 Open a **new** terminal window (leave the backend running) and navigate to the frontend.
 
@@ -161,7 +161,7 @@ docker compose up -d
 
 
 
-### Step 5: Access the Application! 🎉
+###Step 5: Access the Application! 🎉
 
 Once Docker finishes initializing:
 
@@ -185,7 +185,7 @@ Built with devotion by:
 
 ***
 
-This covers everything from the database build to the exact terminal commands! Paste this into your repository, and it will be ready to impress the world. What is next on the agenda for you and the team?
+
 
 ```
 
