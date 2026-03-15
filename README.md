@@ -68,7 +68,8 @@ cd ../bhagvadgpt-backend
 
 
 2. Create and activate a Virtual Environment:
-* **Windows:** ```bash
+* **Windows:*** 
+```bash
 python -m venv venv
 .\venv\Scripts\activate
 ```
@@ -76,7 +77,8 @@ python -m venv venv
 ```
 
 
-* **Mac/Linux:** ```bash
+* **Mac/Linux:** 
+```bash
 python -m venv venv
 source venv/bin/activate
 ```
