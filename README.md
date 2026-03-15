@@ -3,7 +3,7 @@ Coming Soon this Krishna Janmashtami 2026
 <img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/1f66cf76-8808-4040-ad5f-2b5685c43bb1" />
 ---
 
-```markdown
+
 # BhagavadGPT
 
 BhagavadGPT is an open-source, AI-powered spiritual guide. It uses Retrieval-Augmented Generation (RAG) combined with the lightning-fast Groq API to provide answers to modern life's questions, strictly grounded in the wisdom of the Bhagavad Gita.
