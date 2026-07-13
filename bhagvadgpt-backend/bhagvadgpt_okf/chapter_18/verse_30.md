@@ -21,6 +21,12 @@ tags:
 - mind control
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/30
+chapter: 18
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 30
@@ -51,3 +57,7 @@ Think about a decision you’ve been 'looping' on lately. If you apply the filte
 **Modern Applications:**
 High-Resolution Discernment, Executive Function, Choice Overload Resolution, Rational vs. Irrational Fear, Productive Rhythm, The Discipline of Freedom, Ethical Decision Making
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

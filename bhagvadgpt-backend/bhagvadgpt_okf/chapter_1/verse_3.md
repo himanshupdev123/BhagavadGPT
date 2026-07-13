@@ -6,6 +6,12 @@ description: O teacher, behold this great army of the sons of Pandu, expertly ar
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/3
+chapter: 1
+verse_number: 3
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 3
@@ -24,3 +30,7 @@ Historically, King Drupada performed a great sacrifice specifically to obtain a 
 
 Narratively, this verse emphasizes the tragic and complex web of relationships on the Kurukshetra battlefield. It illustrates how Duryodhana’s mind operates not on raw courage or righteousness, but on political maneuvering and exploiting the psychological pressure points of his own allies.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

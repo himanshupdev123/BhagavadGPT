@@ -17,6 +17,12 @@ tags:
 - the 'at any cost' mentality
 - the pressure to succeed
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/12
+chapter: 16
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 12
@@ -42,3 +48,7 @@ Would you like to explore if any of your current 'goals' feel less like a choice
 **Modern Applications:**
 lifestyle creep, ethical erosion, sunk cost fallacy, the pressure to succeed, moral compromises, anxiety of expectation, the 'at any cost' mentality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

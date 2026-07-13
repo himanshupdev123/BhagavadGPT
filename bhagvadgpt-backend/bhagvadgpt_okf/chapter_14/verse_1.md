@@ -14,6 +14,12 @@ tags:
 - self-awareness
 - understanding behavior
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/1
+chapter: 14
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 1
@@ -36,3 +42,7 @@ Before you can fix a personal problem or improve your mindset, you must thorough
 **Modern Applications:**
 mental frameworks, seeking clarity, self-awareness, understanding behavior
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

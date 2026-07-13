@@ -28,6 +28,12 @@ related:
 - chapter_2/verse_66
 - chapter_14/verse_2
 - chapter_15/verse_3
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/65
+chapter: 2
+verse_number: 65
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 65
@@ -52,3 +58,7 @@ Psychologically, the verse points to a powerful principle: emotional balance sup
 **Modern Applications:**
 emotional stability, mental clarity, overthinking, stress management, calm mind, decision making, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

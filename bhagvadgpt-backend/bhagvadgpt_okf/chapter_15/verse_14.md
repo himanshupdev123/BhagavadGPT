@@ -20,6 +20,12 @@ tags:
 - temporary
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/14
+chapter: 15
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 14
@@ -43,3 +49,7 @@ Would you like me to guide you through a quick breathing exercise to help you ph
 **Modern Applications:**
 illusion of control, somatic trust, autonomic nervous system, letting go, humility, biological intelligence, micromanagement
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

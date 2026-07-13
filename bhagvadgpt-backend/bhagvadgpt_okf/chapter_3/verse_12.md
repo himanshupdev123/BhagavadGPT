@@ -18,6 +18,12 @@ tags:
 related:
 - chapter_3/verse_10
 - chapter_3/verse_13
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/12
+chapter: 3
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 12
@@ -39,3 +45,7 @@ When we consume without contributing, we disrupt the natural equilibrium. This '
 **Modern Applications:**
 entitlement, consumerism, social responsibility, gratitude, contribution vs extraction, universal debt
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

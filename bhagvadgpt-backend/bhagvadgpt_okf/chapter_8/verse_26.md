@@ -21,6 +21,12 @@ tags:
 - the binary choice
 - the illusion of compromise
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/26
+chapter: 8
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 26
@@ -42,3 +48,7 @@ Krishna strips away the illusion of compromise. The universe operates on two per
 **Modern Applications:**
 the binary choice, eliminating the middle ground, conscious evolution vs unconscious repetition, owning your trajectory, the illusion of compromise
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

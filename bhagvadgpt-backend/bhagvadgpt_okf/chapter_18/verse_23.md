@@ -21,6 +21,12 @@ tags:
 - separation
 related:
 - chapter_17/verse_25
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/23
+chapter: 18
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 23
@@ -51,3 +57,7 @@ Think about the heaviest, most intimidating item on your to-do list right now. I
 **Modern Applications:**
 The Flow State Protocol, Task Neutrality, Scoreboard Detachment, Emotional Volatility vs. Baseline Execution, Ego-Decoupling, Sustainable High Performance, Burnout Immunity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

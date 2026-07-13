@@ -18,6 +18,12 @@ tags:
 - toxic
 - toxic personality traits
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/4
+chapter: 16
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 4
@@ -41,3 +47,7 @@ Would you like to explore how 'Dambha' (hypocrisy or performing for others) migh
 **Modern Applications:**
 toxic personality traits, narcissism, the Dark Triad, performative identity, hypersensitivity to criticism, lack of self-awareness, aggressive communication
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

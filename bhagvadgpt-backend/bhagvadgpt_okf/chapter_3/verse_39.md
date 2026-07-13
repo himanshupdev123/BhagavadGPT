@@ -23,6 +23,12 @@ tags:
 - want
 related:
 - chapter_3/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/39
+chapter: 3
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 39
@@ -47,3 +53,7 @@ This insight reveals a major challenge in human psychology. People may know the 
 **Modern Applications:**
 insatiable desire, craving and dissatisfaction, impulse control, psychology of addiction, knowledge vs behavior gap, emotional impulses, self-mastery
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

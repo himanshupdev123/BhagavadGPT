@@ -21,6 +21,12 @@ tags:
 - temporary
 related:
 - chapter_9/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/1
+chapter: 15
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 1
@@ -43,3 +49,7 @@ The "leaves" of this tree represent the societal formulas for worldly success. W
 **Modern Applications:**
 materialism, illusion, false attachments, seeking fulfillment, inverted reality, existential clarity, chasing success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

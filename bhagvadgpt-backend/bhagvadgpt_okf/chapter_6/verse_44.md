@@ -19,6 +19,12 @@ tags:
 - self development
 related:
 - chapter_4/verse_34
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/44
+chapter: 6
+verse_number: 44
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 44
@@ -42,3 +48,7 @@ In modern life, people often feel drawn toward certain forms of learning, reflec
 **Modern Applications:**
 habit formation, learning, curiosity, self development, inner drive
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

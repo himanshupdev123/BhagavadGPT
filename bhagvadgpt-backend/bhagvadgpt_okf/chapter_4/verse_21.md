@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_6/verse_24
 - chapter_6/verse_4
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/21
+chapter: 4
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 21
@@ -42,3 +48,7 @@ In modern life, people often accumulate responsibilities, possessions, and ambit
 **Modern Applications:**
 minimalism, self control, detachment, simplicity, freedom from expectations
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

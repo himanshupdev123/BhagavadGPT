@@ -27,6 +27,12 @@ related:
 - chapter_13/verse_18
 - chapter_14/verse_20
 - chapter_2/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/13
+chapter: 13
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 13
@@ -48,3 +54,7 @@ Krishna is pushing Arjuna toward 'non-dual' thinking. By stating that the ultima
 **Modern Applications:**
 binary thinking, cognitive flexibility, non-duality, fear of death, existential dread, limits of language, self-actualization, paradox
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

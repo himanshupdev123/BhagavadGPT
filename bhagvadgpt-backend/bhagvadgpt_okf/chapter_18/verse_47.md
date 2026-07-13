@@ -18,6 +18,12 @@ tags:
 - rivalry
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/47
+chapter: 18
+verse_number: 47
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 47
@@ -47,3 +53,7 @@ Are you currently exhausted because you’re trying to be 'perfect' at a role th
 **Modern Applications:**
 The End of Imposter Syndrome, Authenticity Over Excellence, Social Comparison Detox, The Expertise Trap, Psychological Friction, Biological Alignment, The Burnout of Pretense
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

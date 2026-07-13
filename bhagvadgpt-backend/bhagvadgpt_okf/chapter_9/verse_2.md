@@ -21,6 +21,12 @@ tags:
 - separation
 - sustainable habits
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/2
+chapter: 9
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 2
@@ -42,3 +48,7 @@ The ultimate test of any philosophy or psychological tool is whether you can dir
 **Modern Applications:**
 experiential learning, personal growth, sustainable habits, practical wisdom, joyful practice
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

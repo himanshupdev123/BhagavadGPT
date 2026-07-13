@@ -15,6 +15,12 @@ tags:
 - meaning
 - surface-level obsession
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/9
+chapter: 7
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 9
@@ -36,3 +42,7 @@ Krishna demands that we look deeper. By identifying Himself as the 'original fra
 **Modern Applications:**
 surface-level obsession, essentialism, endurance and resilience, deeper meaning, life force
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

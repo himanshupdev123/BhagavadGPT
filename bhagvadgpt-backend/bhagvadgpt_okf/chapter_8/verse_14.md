@@ -14,6 +14,12 @@ tags:
 - the myth of the magic pill
 - unyielding routine
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/14
+chapter: 8
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 14
@@ -35,3 +41,7 @@ Krishna reveals that the Divine is 'sulabhah' (extremely easy to obtain), but th
 **Modern Applications:**
 consistency over intensity, the myth of the magic pill, daily habits, unyielding routine, inevitable success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

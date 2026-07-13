@@ -24,6 +24,12 @@ related:
 - chapter_13/verse_7
 - chapter_14/verse_25
 - chapter_2/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/24
+chapter: 14
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 24
@@ -45,3 +51,7 @@ However, when you are firmly situated in your core self, you realize these are j
 **Modern Applications:**
 equanimity, external validation, emotional regulation, self-worth, detachment, stoicism, praise and blame
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

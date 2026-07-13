@@ -9,6 +9,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/33
+chapter: 6
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 33
@@ -30,3 +36,7 @@ Arjuna’s question also represents a universal human struggle. Even today, many
 
 By raising this concern, Arjuna creates an opportunity for Krishna to address one of the most practical challenges in self-development: how to deal with the restless and unstable mind. This exchange marks a transition from philosophical explanation to a more direct discussion of the difficulties involved in mastering attention and mental discipline.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

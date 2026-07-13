@@ -17,6 +17,12 @@ tags:
 related:
 - chapter_2/verse_31
 - chapter_3/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/31
+chapter: 4
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 31
@@ -40,3 +46,7 @@ Krishna’s teaching highlights that the spirit of sacrifice sustains both perso
 **Modern Applications:**
 responsibility, contribution, purpose, selfless action, societal duty
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

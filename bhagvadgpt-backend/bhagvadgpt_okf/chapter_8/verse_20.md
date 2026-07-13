@@ -11,6 +11,12 @@ tags:
 - the eternal safe zone
 - the ultimate anchor
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/20
+chapter: 8
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 20
@@ -32,3 +38,7 @@ Krishna points to the ultimate exit from the chaos. 'Paras tasmat tu bhavo anyo'
 **Modern Applications:**
 the ultimate anchor, psychological bulletproofing, surviving the crash, shifting core identity, the eternal safe zone
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -16,6 +16,12 @@ tags:
 - seasonal renewal
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/35
+chapter: 10
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 35
@@ -40,3 +46,7 @@ For Arjuna, these illustrations reinforce the broader teaching of the chapter. T
 **Modern Applications:**
 recognizing beauty in cycles, seasonal renewal, importance of rhythm and structure, cultural expressions of wisdom, appreciating natural cycles
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

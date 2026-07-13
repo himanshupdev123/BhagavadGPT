@@ -8,6 +8,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/50
+chapter: 11
+verse_number: 50
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 50
@@ -35,3 +41,7 @@ Narratively, the verse marks the transition from the overwhelming cosmic revelat
 
 The scene also reflects an important psychological principle. When individuals encounter overwhelming insight or intense experiences, the mind often requires grounding and reassurance before it can properly integrate what it has learned. Krishna’s return to a gentle form provides that grounding, helping Arjuna move from fear back to calm understanding.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

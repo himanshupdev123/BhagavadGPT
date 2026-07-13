@@ -20,6 +20,12 @@ tags:
 - worried
 related:
 - chapter_4/verse_18
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/7
+chapter: 15
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 7
@@ -43,3 +49,7 @@ Would you like me to help you identify which of your 'six senses' (including you
 **Modern Applications:**
 sensory overload, burnout, digital detox, the observer effect, existential wholeness, overthinking, biological friction
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

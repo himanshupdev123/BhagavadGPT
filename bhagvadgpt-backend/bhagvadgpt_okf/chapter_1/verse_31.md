@@ -25,6 +25,12 @@ related:
 - chapter_1/verse_28
 - chapter_1/verse_33
 - chapter_1/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/31
+chapter: 1
+verse_number: 31
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 31
@@ -49,3 +55,7 @@ Arjuna’s conclusion that no good can come from the battle shows the power of e
 **Modern Applications:**
 catastrophic thinking, emotional bias, moral dilemma, overthinking consequences, decision paralysis, attachment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

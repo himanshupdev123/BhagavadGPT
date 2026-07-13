@@ -7,6 +7,12 @@ tags:
 - fear
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/2
+chapter: 1
+verse_number: 2
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 2
@@ -27,3 +33,7 @@ Rather than confidently addressing his own troops, he instinctively approaches h
 
 Narratively, this sets the stage for the impending conflict. It demonstrates that the sheer size of an opposing force can be less intimidating than its precise organization and unity. By seeking out Drona, Duryodhana exposes his vulnerability, establishing the tension that precedes the great philosophical dialogue of the Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

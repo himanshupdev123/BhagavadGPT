@@ -15,6 +15,12 @@ tags:
 - the final exam of consciousness
 - the ultimate stress test
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/2
+chapter: 8
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 2
@@ -36,3 +42,7 @@ Arjuna directly confronts this ultimate stress test. He asks how someone can pos
 **Modern Applications:**
 mortality and denial, the ultimate stress test, resilience under pressure, facing the inevitable, the final exam of consciousness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

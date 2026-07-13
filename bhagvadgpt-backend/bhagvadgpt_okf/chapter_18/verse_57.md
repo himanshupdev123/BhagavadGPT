@@ -20,6 +20,12 @@ tags:
 - pride
 related:
 - chapter_2/verse_66
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/57
+chapter: 18
+verse_number: 57
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 57
@@ -39,3 +45,7 @@ For a modern individual, this is a remedy for 'decision fatigue' and the chronic
 **Modern Applications:**
 decision fatigue, mindfulness, cognitive reframing, intellectual clarity, mental focus, burnout prevention, delegation of ego
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

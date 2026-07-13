@@ -23,6 +23,12 @@ related:
 - chapter_4/verse_20
 - chapter_4/verse_26
 - chapter_4/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/35
+chapter: 6
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 35
@@ -49,3 +55,7 @@ In modern life, distractions from technology, stress, and constant information f
 **Modern Applications:**
 practice, detachment, mind training, focus, self discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

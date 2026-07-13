@@ -18,6 +18,12 @@ related:
 - chapter_3/verse_21
 - chapter_3/verse_23
 - chapter_3/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/20
+chapter: 3
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 20
@@ -39,3 +45,7 @@ Krishna explains that true mastery is achieved through action, not by avoiding i
 **Modern Applications:**
 leadership, social responsibility, setting an example, influence, role models
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -15,6 +15,12 @@ tags:
 - subconscious programming
 - victim mentality
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/14
+chapter: 5
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 14
@@ -36,3 +42,7 @@ Krishna completely strips away this psychological safety net. He explains that y
 **Modern Applications:**
 extreme ownership, victim mentality, locus of control, personal responsibility, subconscious programming
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

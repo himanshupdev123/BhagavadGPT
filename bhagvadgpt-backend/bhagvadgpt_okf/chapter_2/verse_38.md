@@ -36,6 +36,12 @@ related:
 - chapter_2/verse_48
 - chapter_2/verse_50
 - chapter_2/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/38
+chapter: 2
+verse_number: 38
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 38
@@ -60,3 +66,7 @@ Krishna’s solution is psychological equilibrium. When a person maintains inner
 **Modern Applications:**
 emotional balance, detachment from outcomes, overthinking, fear of failure, focus on duty, mental stability, managing expectations
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

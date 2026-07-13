@@ -17,6 +17,12 @@ tags:
 - non-attachment
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/40
+chapter: 18
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 40
@@ -48,3 +54,7 @@ How does it feel to know that even the 'gods' and your biggest idols are working
 **Modern Applications:**
 Universal Behavioral Framework, Radical Humility, Systems Acceptance, Cognitive Infrastructure, Human Nature Realism, Managing the Mix, The Level Playing Field
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

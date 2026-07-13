@@ -16,6 +16,12 @@ tags:
 - terminal focus
 - the power of the present moment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/5
+chapter: 8
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 5
@@ -37,3 +43,7 @@ Krishna introduces the ultimate bypass code. Even if your life was chaotic, the 
 **Modern Applications:**
 the power of the present moment, overcoming past regret, terminal focus, bypassing the matrix, absolute certainty
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

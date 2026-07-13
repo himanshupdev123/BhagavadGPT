@@ -19,6 +19,12 @@ tags:
 - surrender
 related:
 - chapter_9/verse_22
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/8
+chapter: 5
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 8
@@ -40,3 +46,7 @@ Krishna offers a radical shift in perspective to achieve the ultimate 'flow stat
 **Modern Applications:**
 observer mindset, ego detachment, flow state, letting go of control, mental fatigue
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

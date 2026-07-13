@@ -21,6 +21,12 @@ related:
 - chapter_14/verse_23
 - chapter_2/verse_26
 - chapter_9/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/27
+chapter: 2
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 27
@@ -42,3 +48,7 @@ The profound takeaway here is the psychological practice of radical acceptance. 
 **Modern Applications:**
 radical acceptance, inevitability of change, stoicism, emotional resilience, letting go of control, fear of the inevitable
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

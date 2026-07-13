@@ -9,6 +9,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/14
+chapter: 10
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 14
@@ -30,3 +36,7 @@ By declaring that he accepts Krishna's words as truth, Arjuna demonstrates that 
 
 In the narrative of the Gita, this verse reflects the moment when Arjuna moves from skepticism toward trust in the wisdom being presented. His mind is becoming prepared to receive the deeper revelations that Krishna will continue to explain in the following verses.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -22,6 +22,12 @@ tags:
 - self-control
 related:
 - chapter_9/verse_13
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/65
+chapter: 18
+verse_number: 65
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 65
@@ -43,3 +49,7 @@ Just as Arjuna was promised a successful outcome if he followed this path, moder
 **Modern Applications:**
 focus, centering, humility, mental integration, higher purpose, anxiety reduction, commitment, flow state
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

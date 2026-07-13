@@ -18,6 +18,12 @@ tags:
 - peace
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/12
+chapter: 12
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 12
@@ -44,3 +50,7 @@ Psychologically, the verse reveals a clear progression: understanding, reflectio
 **Modern Applications:**
 moving from theory to practice, importance of meditation, letting go of outcome obsession, mental freedom from pressure, achieving inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

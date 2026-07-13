@@ -22,6 +22,12 @@ tags:
 - surrender
 - systems thinking
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/17
+chapter: 13
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 17
@@ -43,3 +49,7 @@ Furthermore, Krishna describes this ultimate reality as the force that sustains 
 **Modern Applications:**
 illusion of separation, fundamental unity, radical acceptance, impermanence, entropy, systems thinking, compassion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

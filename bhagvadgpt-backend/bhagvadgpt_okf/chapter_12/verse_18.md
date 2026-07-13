@@ -14,6 +14,12 @@ tags:
 - resilience to criticism
 - stability under changing conditions
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/18
+chapter: 12
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 18
@@ -40,3 +46,7 @@ For Arjuna, this teaching directly addresses the emotional turmoil he faced on t
 **Modern Applications:**
 emotional neutrality, freedom from favoritism, resilience to criticism, detachment from praise, stability under changing conditions
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -13,6 +13,12 @@ tags:
 - problem-solving
 - stress management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/4
+chapter: 13
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 4
@@ -34,3 +40,7 @@ This is highly similar to the foundational principles of cognitive behavioral th
 **Modern Applications:**
 analytical thinking, overcoming overwhelm, cognitive restructuring, problem-solving, deconstruction, stress management, clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

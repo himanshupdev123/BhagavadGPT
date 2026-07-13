@@ -18,6 +18,12 @@ tags:
 - time management
 related:
 - chapter_6/verse_16
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/17
+chapter: 6
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 17
@@ -41,3 +47,7 @@ Krishna’s instruction highlights that lasting peace begins with disciplined li
 **Modern Applications:**
 balance, healthy lifestyle, self discipline, stress management, mental well being
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - solitude
 related:
 - chapter_6/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/11
+chapter: 13
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 11
@@ -38,3 +44,7 @@ Krishna’s call for solitude is not about misanthropy or running away to a fore
 **Modern Applications:**
 solitude, digital minimalism, deep work, focus, groupthink, cognitive bandwidth, mental hygiene
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -18,6 +18,12 @@ tags:
 - societal conditioning
 - transactional living
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/20
+chapter: 9
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 20
@@ -41,3 +47,7 @@ While this transactional approach to life does yield results, and we may indeed 
 **Modern Applications:**
 transactional living, conditional happiness, societal conditioning, ego gratification, chasing status, delayed gratification
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

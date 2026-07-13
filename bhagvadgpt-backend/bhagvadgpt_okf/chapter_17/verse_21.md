@@ -22,6 +22,12 @@ tags:
 - mind control
 - motivate
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/21
+chapter: 17
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 21
@@ -50,3 +56,7 @@ Do you ever feel that 'sting' of resentment after helping someone, or find yours
 **Modern Applications:**
 Transactional Altruism, Reciprocity Bias, Performative Philanthropy, Scarcity Mindset, Social Currency, ROI-driven Giving, Guilt-tripping and Compliance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

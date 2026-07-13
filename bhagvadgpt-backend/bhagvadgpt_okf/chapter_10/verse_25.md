@@ -18,6 +18,12 @@ tags:
 - simple but powerful practices
 - unfocused
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/25
+chapter: 10
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 25
@@ -42,3 +48,7 @@ For Arjuna, the pattern becomes clearer. The divine can be recognized in the mos
 **Modern Applications:**
 power of focused repetition, inner discipline, importance of sound and language, mental concentration, recognizing greatness in nature, simple but powerful practices
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

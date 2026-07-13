@@ -16,6 +16,12 @@ tags:
 - the cosmic filter
 - the veil of illusion
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/25
+chapter: 7
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 25
@@ -37,3 +43,7 @@ Krishna explains the mechanism of 'yoga-maya'—the divine curtain. The ultimate
 **Modern Applications:**
 the cosmic filter, spiritual entitlement, the veil of illusion, arrogance vs humility, earning clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

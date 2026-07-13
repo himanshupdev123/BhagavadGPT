@@ -19,6 +19,12 @@ related:
 - chapter_13/verse_1
 - chapter_3/verse_28
 - chapter_9/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/10
+chapter: 15
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 10
@@ -42,3 +48,7 @@ Would you like me to help you apply these "eyes of knowledge" to a specific recu
 **Modern Applications:**
 metacognition, living on autopilot, self-awareness, emotional intelligence, behavioral loops, the observer effect, subconscious programming
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

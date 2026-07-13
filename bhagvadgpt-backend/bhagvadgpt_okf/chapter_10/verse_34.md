@@ -16,6 +16,12 @@ tags:
 - resilience through change
 - same mistakes
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/34
+chapter: 10
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 34
@@ -40,3 +46,7 @@ Together, these examples show that both the transformative forces of life and th
 **Modern Applications:**
 accepting impermanence, cycle of life and death, resilience through change, inner strength, importance of patience, emotional stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

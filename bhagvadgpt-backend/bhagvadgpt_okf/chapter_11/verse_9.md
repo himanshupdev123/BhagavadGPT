@@ -5,6 +5,12 @@ description: 'Sanjaya said: O King, having spoken thus, the great Lord of yoga, 
   revealed to Arjuna His su...'
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/9
+chapter: 11
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 9
@@ -28,3 +34,7 @@ Krishna is described as the "Mahāyogeshvara," the great master of yoga. In this
 
 The verse serves as a transition from explanation to revelation. The philosophical teachings of the earlier chapters now give way to a direct and overwhelming vision meant to show Arjuna the vast scope of the divine reality Krishna has been describing.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -14,6 +14,12 @@ tags:
 - shifting perception of reality
 - unity behind diverse systems
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/39
+chapter: 11
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 39
@@ -40,3 +46,7 @@ Psychologically, this moment represents the collapse of fragmented perception. H
 **Modern Applications:**
 unity behind diverse systems, shifting perception of reality, humility before vast forces, recognizing underlying unity, expansion of worldview
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

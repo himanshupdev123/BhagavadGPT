@@ -20,6 +20,12 @@ tags:
 - rivalry
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/21
+chapter: 18
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 21
@@ -51,3 +57,7 @@ Think about a relationship or an environment (like your workplace) where you fee
 **Modern Applications:**
 Absolute Fragmentation, Zero-Sum Illusion, Hyper-Categorization, The 'Us vs. Them' Trap, Algorithmic Echo Chambers, Cognitive Efficiency, Competitive Anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

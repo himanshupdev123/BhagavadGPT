@@ -20,6 +20,12 @@ tags:
 - thinking too much
 - unshakeable focus
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/27
+chapter: 8
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 27
@@ -41,3 +47,7 @@ Krishna delivers the ultimate course correction. A true master ('yogi') fully un
 **Modern Applications:**
 analysis paralysis, execution over anxiety, simplifying the complex, unshakeable focus, bypassing systemic fear
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

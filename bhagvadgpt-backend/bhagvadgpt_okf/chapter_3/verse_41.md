@@ -19,6 +19,12 @@ tags:
 - self-discipline
 - self-regulation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/41
+chapter: 3
+verse_number: 41
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 41
@@ -43,3 +49,7 @@ The verse highlights an important psychological strategy: preventing problems is
 **Modern Applications:**
 self-discipline, managing temptations, habit control, attention management, preventing impulsive behavior, protecting mental clarity, self-regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

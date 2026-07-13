@@ -18,6 +18,12 @@ tags:
 - psychological reassurance
 - the prison of the ego
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/5
+chapter: 16
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 5
@@ -45,3 +51,7 @@ Would you like me to help you look at a recent 'moral dilemma' you had, to see h
 **Modern Applications:**
 cognitive load, freedom vs. addiction, imposter syndrome, psychological reassurance, the prison of the ego, authenticity, growth mindset
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

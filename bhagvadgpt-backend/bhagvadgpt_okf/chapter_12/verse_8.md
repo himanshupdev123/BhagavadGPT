@@ -15,6 +15,12 @@ tags:
 - mind control
 - resolving inner conflict
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/8
+chapter: 12
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 8
@@ -39,3 +45,7 @@ Psychologically, the verse emphasizes internal coherence. When attention and rea
 **Modern Applications:**
 alignment of emotion and reason, mental focus, internal coherence, clarity in decision making, resolving inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

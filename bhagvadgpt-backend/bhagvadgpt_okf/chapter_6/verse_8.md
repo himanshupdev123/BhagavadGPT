@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_2/verse_70
 - chapter_2/verse_64
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/8
+chapter: 6
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 8
@@ -43,3 +49,7 @@ In modern life, people often measure success through money, possessions, or stat
 **Modern Applications:**
 contentment, detachment, material independence, self mastery, mental balance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

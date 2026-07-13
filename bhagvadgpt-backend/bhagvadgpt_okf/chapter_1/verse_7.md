@@ -5,6 +5,12 @@ description: O best of the Brahmanas, for your information, please hear about th
   principal generals who are espe...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/7
+chapter: 1
+verse_number: 7
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 7
@@ -21,3 +27,7 @@ In this verse, King Duryodhana pivots from enumerating the formidable warriors o
 
 His decision to abruptly name his own generals is a psychological act of overcompensation. Duryodhana is trying to reassure himself by vocalizing the strength of his own military assets. Furthermore, his choice of address—highlighting Drona's status as a Brahmana rather than a Kshatriya (warrior)—is subtly complex. While it is a traditional sign of respect, it also carries a veiled undertone regarding Drona's non-martial origins, perhaps reflecting Duryodhana's underlying insecurity about whether his teacher will fight with full ferocity against his beloved students, the Pandavas. Narratively, this verse illustrates the fragile confidence of a leader who relies on external validation and the political maneuvering required to command an army before a catastrophic war.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

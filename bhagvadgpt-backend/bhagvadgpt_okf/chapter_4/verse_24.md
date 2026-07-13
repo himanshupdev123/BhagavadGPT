@@ -18,6 +18,12 @@ related:
 - chapter_14/verse_4
 - chapter_3/verse_14
 - chapter_6/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/24
+chapter: 4
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 24
@@ -41,3 +47,7 @@ In modern life, people often experience stress because they see themselves as is
 **Modern Applications:**
 unity, interconnectedness, purpose, ego reduction, spiritual awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

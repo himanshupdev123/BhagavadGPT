@@ -23,6 +23,12 @@ related:
 - chapter_14/verse_11
 - chapter_14/verse_19
 - chapter_14/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/10
+chapter: 9
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 10
@@ -44,3 +50,7 @@ The profound lesson here is to actively cultivate this "supervisor" mindset. Ins
 **Modern Applications:**
 witness consciousness, emotional regulation, self-leadership, executive function, mindfulness, locus of control
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

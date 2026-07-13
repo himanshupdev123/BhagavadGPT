@@ -22,6 +22,12 @@ related:
 - chapter_4/verse_33
 - chapter_4/verse_35
 - chapter_4/verse_38
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/37
+chapter: 4
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 37
@@ -45,3 +51,7 @@ The "fire of knowledge" symbolizes deep insight that dissolves confusion and att
 **Modern Applications:**
 self awareness, learning from mistakes, overcoming guilt, personal transformation, clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

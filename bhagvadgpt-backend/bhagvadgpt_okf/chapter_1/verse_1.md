@@ -7,6 +7,12 @@ tags:
 - detachment
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/1
+chapter: 1
+verse_number: 1
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 1
@@ -26,3 +32,7 @@ Because Kurukshetra is described as dharma-kshetra (a place of righteousness), D
 
 This verse serves as a pure narrative anchor. It introduces us to the root cause of the impending conflict: a leader's blindness, not just physically, but morally and psychologically, driven by selfish attachment. It establishes the historical context and initiates the dialogue that will soon frame Arjuna's emotional breakdown and the deep philosophical teachings that follow.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

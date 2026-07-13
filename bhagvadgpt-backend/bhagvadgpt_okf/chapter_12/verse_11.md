@@ -21,6 +21,12 @@ tags:
 - self control in decision making
 related:
 - chapter_9/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/11
+chapter: 12
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 11
@@ -45,3 +51,7 @@ Psychologically, the verse highlights the freedom that arises when effort is sep
 **Modern Applications:**
 detachment from outcomes, reducing performance anxiety, emotional stability in work, focusing on effort not results, self control in decision making
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -21,6 +21,12 @@ tags:
 - self control
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/59
+chapter: 2
+verse_number: 59
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 59
@@ -45,3 +51,7 @@ This teaching has strong psychological relevance today. Many people try to contr
 **Modern Applications:**
 overcoming temptation, habit change, self control, finding higher purpose, breaking addictive patterns, internal motivation, psychology of desire
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

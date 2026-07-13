@@ -6,6 +6,12 @@ description: 'Arjuna said: O King, at that moment Arjuna spoke these words to Hr
 tags:
 - detachment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/21
+chapter: 1
+verse_number: 21
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 21
@@ -27,3 +33,7 @@ At this point, Arjuna is still composed and acting as a warrior preparing to ass
 
 This moment represents the calm before the emotional storm. Arjuna has not yet collapsed into grief, but he is about to confront the reality of the situation. The battlefield becomes the setting where external conflict triggers internal questioning. The verse therefore serves as a narrative transition, moving the story from preparation for war into the profound philosophical dialogue that follows in the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

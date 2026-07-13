@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_13/verse_31
 - chapter_13/verse_6
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/27
+chapter: 13
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 27
@@ -42,3 +48,7 @@ Psychologically, this realization simplifies a chaotic world. When you face a di
 **Modern Applications:**
 systems thinking, deconstruction, unity in diversity, consciousness vs. matter, simplifying complexity, Grand Unified Theory, objective analysis
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

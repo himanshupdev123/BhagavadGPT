@@ -19,6 +19,12 @@ related:
 - chapter_13/verse_11
 - chapter_13/verse_2
 - chapter_13/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/10
+chapter: 6
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 10
@@ -42,3 +48,7 @@ In modern life, people are surrounded by constant noise, digital stimulation, an
 **Modern Applications:**
 meditation, focus, solitude, detachment, mindfulness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

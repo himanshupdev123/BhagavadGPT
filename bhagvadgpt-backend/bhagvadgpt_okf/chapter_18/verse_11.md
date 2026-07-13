@@ -22,6 +22,12 @@ tags:
 - perseverance
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/11
+chapter: 18
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 11
@@ -51,3 +57,7 @@ Think about the task that is draining you the most right now. Are you tired of t
 **Modern Applications:**
 Expectation Overhead, Biological Reality of Action, The Zero-Effort Illusion, Burnout Misdiagnosis, Kinetic Existence, Outcome Detachment, The True Tyagi (Renouncer)
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

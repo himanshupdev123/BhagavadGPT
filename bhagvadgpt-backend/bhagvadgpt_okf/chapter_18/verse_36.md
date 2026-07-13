@@ -15,6 +15,12 @@ tags:
 - pain
 - suffering
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/36
+chapter: 18
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 36
@@ -43,3 +49,7 @@ Think about your favorite 'escape' (Netflix, social media, shopping). After you'
 **Modern Applications:**
 Dopamine vs. Serotonin, Acquired Taste for Well-being, Junk Happiness, Sustainable Fulfillment, Neuroplasticity of Joy, Long-game Mental Health, The End of Suffering
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

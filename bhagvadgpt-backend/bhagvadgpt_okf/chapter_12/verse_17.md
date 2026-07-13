@@ -20,6 +20,12 @@ tags:
 - stable mindset
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/17
+chapter: 12
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 17
@@ -46,3 +52,7 @@ For Arjuna, this teaching directly counters the emotional turbulence that initia
 **Modern Applications:**
 emotional regulation, freedom from emotional extremes, letting go of regret and craving, stable mindset, detachment from outcomes
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

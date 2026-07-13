@@ -19,6 +19,12 @@ tags:
 related:
 - chapter_18/verse_63
 - chapter_4/verse_42
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/73
+chapter: 18
+verse_number: 73
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 73
@@ -39,3 +45,7 @@ For a modern individual, this represents the transition from 'analysis paralysis
 **Modern Applications:**
 clarity, decision-making, self-identity, overcoming doubt, resilience, accountability, mental integration
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

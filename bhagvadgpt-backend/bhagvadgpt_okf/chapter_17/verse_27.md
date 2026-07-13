@@ -19,6 +19,12 @@ tags:
 - routine
 - self-control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/27
+chapter: 17
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 27
@@ -46,3 +52,7 @@ Is there a habit or a value you've been 'visiting' occasionally that you'd like 
 **Modern Applications:**
 Identity-Based Habits, Internal Cohesion, Consistency over Intensity, Systems Thinking, Mission-Driven Action, Character Architecture, Intrinsic Integration
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

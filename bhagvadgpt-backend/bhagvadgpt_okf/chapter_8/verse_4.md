@@ -18,6 +18,12 @@ tags:
 - the internal witness
 related:
 - chapter_13/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/4
+chapter: 8
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 4
@@ -39,3 +45,7 @@ Krishna dismantles this isolation. He explains that your physical body is 'adhib
 **Modern Applications:**
 existential loneliness, the hierarchy of reality, the internal witness, interconnectedness, the illusion of isolation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 - routine
 - self-control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/2
+chapter: 12
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 2
@@ -49,3 +55,7 @@ Krishna’s teaching suggests that deep commitment to a meaningful center of lif
 **Modern Applications:**
 power of focused attention, mental unity versus distraction, commitment to a higher purpose, faith as psychological stability, developing sustained focus
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

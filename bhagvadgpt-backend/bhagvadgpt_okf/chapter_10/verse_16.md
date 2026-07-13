@@ -5,6 +5,12 @@ description: Please describe in detail Your divine manifestations by which You p
   and sustain all these worl...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/16
+chapter: 10
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 16
@@ -26,3 +32,7 @@ The question also reflects a common human need. Abstract philosophical ideas can
 
 In the structure of the Gita, this verse opens the section where Krishna will describe his "vibhutis," the remarkable manifestations of divine intelligence and power present in nature, cosmic forces, and human excellence. These examples will help Arjuna see that the divine is not distant from the world but actively present within it.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

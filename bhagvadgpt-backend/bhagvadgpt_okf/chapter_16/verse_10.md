@@ -17,6 +17,12 @@ tags:
 - the dopamine loop
 - vanity metrics
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/10
+chapter: 16
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 10
@@ -42,3 +48,7 @@ Would you like to identify one specific 'insatiable' desire in your life—somet
 **Modern Applications:**
 the dopamine loop, consumerism, vanity metrics, hedonic adaptation, lifestyle inflation, performative identity, addiction cycles
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

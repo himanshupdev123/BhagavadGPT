@@ -18,6 +18,12 @@ tags:
 - non-attachment
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/27
+chapter: 11
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 27
@@ -44,3 +50,7 @@ Psychologically, this verse confronts the human fear of loss and mortality. Peop
 **Modern Applications:**
 fear of change, accepting mortality, letting go of attachment, inevitability of time, facing harsh realities
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

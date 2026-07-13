@@ -18,6 +18,12 @@ tags:
 - separation
 related:
 - chapter_10/verse_40
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/42
+chapter: 10
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 42
@@ -42,3 +48,7 @@ Psychologically, this teaching encourages a shift away from narrow thinking. Hum
 **Modern Applications:**
 expanding perspective, seeing the bigger picture, reducing ego centered thinking, cosmic perspective on life, humility before vastness, perspective in difficult situations
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

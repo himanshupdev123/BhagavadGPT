@@ -19,6 +19,12 @@ tags:
 - trusting the process
 related:
 - chapter_5/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/13
+chapter: 15
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 13
@@ -42,3 +48,7 @@ Would you like me to help you identify one specific area of your life where you 
 **Modern Applications:**
 hyper-control, over-responsibility, letting go, trusting the process, ego detachment, invisible support systems, burnout recovery
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

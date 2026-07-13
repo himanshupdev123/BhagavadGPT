@@ -24,6 +24,12 @@ tags:
 - separation
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/15
+chapter: 16
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 15
@@ -49,3 +55,7 @@ Would you like to explore the difference between 'Status-Driven Giving' and 'Pur
 **Modern Applications:**
 Superiority Complex, Virtue Signaling, Social Comparison Theory, Performative Altruism, Status Games, Fragile Ego, The Illusion of Entitlement
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

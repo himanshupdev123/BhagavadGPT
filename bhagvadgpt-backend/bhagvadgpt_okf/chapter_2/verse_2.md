@@ -31,6 +31,12 @@ related:
 - chapter_2/verse_18
 - chapter_2/verse_31
 - chapter_2/verse_36
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/2
+chapter: 2
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 2
@@ -57,3 +63,7 @@ Just as Arjuna feels paralyzed by emotional conflict, modern individuals often e
 **Modern Applications:**
 emotional weakness, avoiding responsibility, moral confusion, courage, duty, self-discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

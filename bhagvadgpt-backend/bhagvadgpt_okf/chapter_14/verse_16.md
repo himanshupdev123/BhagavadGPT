@@ -19,6 +19,12 @@ tags:
 - toxic
 - toxic hustle
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/16
+chapter: 14
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 16
@@ -40,3 +46,7 @@ In modern life, we often wonder why we feel anxious or stuck despite working har
 **Modern Applications:**
 cause and effect, emotional ROI, burnout, intentions, toxic hustle, inner peace, consequences
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

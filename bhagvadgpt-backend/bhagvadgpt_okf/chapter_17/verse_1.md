@@ -15,6 +15,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/1
+chapter: 17
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 1
@@ -41,3 +47,7 @@ Can you think of a goal or a belief you're very 'sincere' about, but haven't act
 **Modern Applications:**
 Sincerity vs. Expertise, Intuitive vs. Principled living, The Psychology of Faith, Value-Alignment, Core Motivations, Guna Dynamics, Blind Sincerity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

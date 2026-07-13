@@ -19,6 +19,12 @@ tags:
 - the hard problem of consciousness
 - the source of awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/34
+chapter: 13
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 34
@@ -42,3 +48,7 @@ Psychologically, this verse is an invitation to recognize your own power as the 
 **Modern Applications:**
 consciousness vs. matter, the hard problem of consciousness, attentional control, subjective experience, the source of awareness, perspective shifting, clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

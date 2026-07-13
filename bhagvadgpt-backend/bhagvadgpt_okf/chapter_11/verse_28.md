@@ -21,6 +21,12 @@ tags:
 - temporary
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/28
+chapter: 11
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 28
@@ -47,3 +53,7 @@ Psychologically, the verse confronts the human illusion of total control. People
 **Modern Applications:**
 inevitability of events, illusion of control, overthinking during major decisions, accepting larger forces in life, flow of time and destiny
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -18,6 +18,12 @@ related:
 - chapter_3/verse_1
 - chapter_3/verse_4
 - chapter_3/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/8
+chapter: 14
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 8
@@ -39,3 +45,7 @@ In the modern world, this translates to chronic procrastination, mindless screen
 **Modern Applications:**
 escapism, procrastination, apathy, avoidance, laziness, mental paralysis
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -21,6 +21,12 @@ related:
 - chapter_13/verse_6
 - chapter_14/verse_23
 - chapter_14/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/1
+chapter: 13
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 1
@@ -43,3 +49,7 @@ Arjuna’s question represents the birth of deep psychological self-awareness. H
 **Modern Applications:**
 mindfulness, cognitive defusion, self-awareness, intellectual inquiry, the observer effect, objective reality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

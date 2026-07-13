@@ -5,6 +5,12 @@ description: All the great sages declare this about You, as do the divine sage N
   Asita, Devala, and Vyasa. ...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/13
+chapter: 10
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 13
@@ -26,3 +32,7 @@ In the narrative context, this strengthens Arjuna's confidence in what he is hea
 
 This verse is mainly part of Arjuna's affirmation within the dialogue. He is acknowledging that the teachings Krishna is presenting are consistent with the broader tradition of knowledge transmitted by earlier sages.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

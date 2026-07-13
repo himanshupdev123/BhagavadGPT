@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_13/verse_13
 - chapter_13/verse_16
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/18
+chapter: 13
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 18
@@ -41,3 +47,7 @@ Furthermore, Krishna collapses the traditional boundaries of learning by stating
 **Modern Applications:**
 consciousness, internal validation, flow states, non-duality, the observing self, self-actualization, overcoming external dependency
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

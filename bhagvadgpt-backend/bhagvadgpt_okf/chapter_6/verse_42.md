@@ -16,6 +16,12 @@ related:
 - chapter_6/verse_43
 - chapter_4/verse_28
 - chapter_4/verse_38
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/42
+chapter: 6
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 42
@@ -39,3 +45,7 @@ In modern life, the environment in which a person grows up often influences thei
 **Modern Applications:**
 personal growth, supportive environment, learning, long term development, opportunity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

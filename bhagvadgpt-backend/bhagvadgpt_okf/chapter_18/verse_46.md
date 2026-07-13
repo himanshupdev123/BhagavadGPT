@@ -21,6 +21,12 @@ tags:
 - passion
 - scared
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/46
+chapter: 18
+verse_number: 46
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 46
@@ -51,3 +57,7 @@ Can you imagine how the atmosphere of your workplace would change if you viewed 
 **Modern Applications:**
 Work as Worship, Sacramental Labor, Purpose-Driven Output, Spiritual Integration, The End of Existential Dread, Quality as Integrity, Vocation as Prayer
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

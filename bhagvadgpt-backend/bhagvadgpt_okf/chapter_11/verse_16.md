@@ -6,6 +6,12 @@ description: I see Your form everywhere, with many arms, stomachs, mouths, and e
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/16
+chapter: 11
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 16
@@ -31,3 +37,7 @@ For Arjuna, this experience completely transforms his understanding of Krishna. 
 
 Within the narrative of the Gita, this verse emphasizes the infinite nature of the universal form. It shows that the divine cannot be confined to a single shape, place, or moment. The cosmic vision reveals a presence that exists everywhere simultaneously, containing all forms and forces within itself.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

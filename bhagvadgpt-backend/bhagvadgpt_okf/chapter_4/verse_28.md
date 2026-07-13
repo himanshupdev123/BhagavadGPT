@@ -26,6 +26,12 @@ related:
 - chapter_4/verse_39
 - chapter_6/verse_3
 - chapter_6/verse_42
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/28
+chapter: 4
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 28
@@ -49,3 +55,7 @@ In modern life, people often look for a single perfect method for self-improveme
 **Modern Applications:**
 self improvement, discipline, personal growth, learning, commitment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

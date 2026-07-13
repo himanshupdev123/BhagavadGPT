@@ -18,6 +18,12 @@ tags:
 - the power of a single anchor
 - vibrational frequency
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/13
+chapter: 8
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 13
@@ -39,3 +45,7 @@ Krishna simplifies the process to an absolute, irreducible point: the single syl
 **Modern Applications:**
 the exit strategy, simplifying focus, the power of a single anchor, vibrational frequency, cutting through chaos
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

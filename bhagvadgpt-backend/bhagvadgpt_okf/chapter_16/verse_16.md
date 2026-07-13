@@ -16,6 +16,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/16
+chapter: 16
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 16
@@ -41,3 +47,7 @@ Would you like to explore a specific 'mental loop' or 'anxiety' that feels like 
 **Modern Applications:**
 Cognitive Overload, Decision Fatigue, Mental Fragmentation, The Dopamine Trap, Psychological Hell, Information Overload, Anxiety Loops
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

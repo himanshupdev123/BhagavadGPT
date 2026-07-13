@@ -19,6 +19,12 @@ tags:
 - purpose driven work
 - shifting motivation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/10
+chapter: 12
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 10
@@ -43,3 +49,7 @@ Psychologically, the verse highlights the power of purpose-driven action. When w
 **Modern Applications:**
 purpose driven work, shifting motivation, detachment from personal reward, meaningful action, aligning work with higher purpose
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

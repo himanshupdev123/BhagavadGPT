@@ -27,6 +27,12 @@ related:
 - chapter_2/verse_31
 - chapter_2/verse_35
 - chapter_2/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/3
+chapter: 2
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 3
@@ -51,3 +57,7 @@ Just as Arjuna becomes trapped in self-doubt and emotional weakness, modern indi
 **Modern Applications:**
 self-doubt, emotional weakness, courage, duty, overcoming fear, mental resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

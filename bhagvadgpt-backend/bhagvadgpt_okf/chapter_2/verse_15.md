@@ -18,6 +18,12 @@ related:
 - chapter_14/verse_24
 - chapter_2/verse_14
 - chapter_5/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/15
+chapter: 2
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 15
@@ -39,3 +45,7 @@ This mental equilibrium is essentially a psychological superpower. When you are 
 **Modern Applications:**
 equanimity, emotional stability, stoicism, resilience, mindset, emotional independence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

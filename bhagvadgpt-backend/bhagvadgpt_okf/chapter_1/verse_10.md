@@ -7,6 +7,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/10
+chapter: 1
+verse_number: 10
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 10
@@ -25,3 +31,7 @@ Duryodhana is attempting to reassure himself by constantly comparing external me
 
 Historically and narratively, this verse builds the tension just before the battle commences. It highlights the stark contrast between the Kauravas' reliance on sheer military volume and the Pandavas' reliance on righteous determination. Duryodhana’s intense focus on measuring 'immeasurable' versus 'limited' forces perfectly captures the psychology of a leader who measures success purely by material advantages, entirely blind to the moral reality of the conflict.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_2/verse_52
 - chapter_2/verse_6
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/16
+chapter: 4
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 16
@@ -44,3 +50,7 @@ True action and inaction are not about whether your physical body is moving or s
 **Modern Applications:**
 decision paralysis, avoidance, overthinking, intention, the illusion of inaction
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

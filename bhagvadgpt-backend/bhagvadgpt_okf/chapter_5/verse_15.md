@@ -15,6 +15,12 @@ tags:
 - self
 - self-deception
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/15
+chapter: 5
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 15
@@ -36,3 +42,7 @@ Krishna explains the true root of our suffering: our innate, crystal-clear wisdo
 **Modern Applications:**
 self-deception, accountability, moral bookkeeping, cognitive distortions, internal wisdom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

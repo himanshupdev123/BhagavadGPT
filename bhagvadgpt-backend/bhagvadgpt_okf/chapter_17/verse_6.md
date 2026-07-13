@@ -19,6 +19,12 @@ tags:
 - self
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/6
+chapter: 17
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 6
@@ -44,3 +50,7 @@ Would you like to audit your current 'hustle' or 'fitness' routine to see if itâ
 **Modern Applications:**
 Somatic Intelligence, Self-Violence, Biohacking Extremism, Burnout Culture, Mind-Body Disconnection, Body-as-Object orientation, Sustainable Discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

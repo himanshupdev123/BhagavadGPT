@@ -18,6 +18,12 @@ tags:
 - the entry points of growth
 - trauma as a trigger
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/16
+chapter: 7
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 16
@@ -39,3 +45,7 @@ Krishna identifies these four triggers. The 'arta' (the distressed) are those dr
 **Modern Applications:**
 catalysts for change, trauma as a trigger, ambition and growth, curiosity, the entry points of growth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

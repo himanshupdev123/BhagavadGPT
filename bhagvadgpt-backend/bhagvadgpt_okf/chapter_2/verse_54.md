@@ -7,6 +7,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/54
+chapter: 2
+verse_number: 54
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 54
@@ -30,3 +36,7 @@ Psychologically, this question is significant because people often understand id
 
 This moment also marks the beginning of one of the most famous sections of the Bhagavad Gita, where Krishna describes the qualities of a “sthita-prajna,” a person of steady wisdom. Through this description, Krishna will explain how emotional balance, self-control, and clarity appear in everyday actions. Arjuna’s question reflects a universal human curiosity: what does genuine mental stability actually look like in a person’s life?
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

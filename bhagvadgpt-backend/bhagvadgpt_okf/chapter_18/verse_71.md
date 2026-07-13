@@ -16,6 +16,12 @@ tags:
 - open-mindedness
 - psychological receptivity
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/71
+chapter: 18
+verse_number: 71
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 71
@@ -37,3 +43,7 @@ The 'freedom' mentioned here is the liberation from the mental weight of past mi
 **Modern Applications:**
 active listening, open-mindedness, confirmation bias, psychological receptivity, growth mindset, freedom from guilt
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -19,6 +19,12 @@ tags:
 - subconscious programming
 related:
 - chapter_15/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/8
+chapter: 9
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 8
@@ -40,3 +46,7 @@ When we fall back into toxic relationships, repeatedly procrastinate, or lose ou
 **Modern Applications:**
 habit loops, subconscious programming, conditioning, autopilot, self-awareness, emotional triggers, breaking patterns
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

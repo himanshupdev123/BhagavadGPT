@@ -6,6 +6,12 @@ description: The space between heaven and earth and all directions are filled by
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/20
+chapter: 11
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 20
@@ -31,3 +37,7 @@ Arjuna also notes that the form is not only wondrous but also terrifying. The vi
 
 For Arjuna, this experience produces both awe and fear. The beauty and grandeur of the universal form inspire amazement, while its immense scale and force reveal the overwhelming power behind creation and transformation. The vision shows that the same reality sustaining the universe also possesses the capacity to reshape it completely.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

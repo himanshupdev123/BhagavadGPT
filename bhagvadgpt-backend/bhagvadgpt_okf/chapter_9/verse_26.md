@@ -24,6 +24,12 @@ tags:
 - purpose driven action
 - sincerity of intention
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/26
+chapter: 9
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 26
@@ -46,3 +52,7 @@ Krishna redirects attention to the quality of consciousness behind an action. Wh
 **Modern Applications:**
 sincerity of intention, ego vs authenticity, finding meaning in small actions, pressure to achieve, inner motivation, purpose driven action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

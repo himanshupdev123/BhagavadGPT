@@ -23,6 +23,12 @@ tags:
 - pride
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/2
+chapter: 18
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 2
@@ -51,3 +57,7 @@ Which of these two 'editing' tools do you need more right now? Do you need *Sann
 **Modern Applications:**
 Essentialism, Outcome Independence, Expectation Management, Stoic Detachment, Editing the To-Do List, Ego-Driven Ambition, The Vanity Project
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

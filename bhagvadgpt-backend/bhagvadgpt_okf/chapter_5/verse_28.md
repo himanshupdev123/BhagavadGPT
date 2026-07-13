@@ -21,6 +21,12 @@ related:
 - chapter_16/verse_1
 - chapter_2/verse_58
 - chapter_2/verse_60
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/28
+chapter: 5
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 28
@@ -44,3 +50,7 @@ In modern life, people often experience the same cycle of desire, fear, and ange
 **Modern Applications:**
 self control, emotional regulation, fear management, anger control, inner freedom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

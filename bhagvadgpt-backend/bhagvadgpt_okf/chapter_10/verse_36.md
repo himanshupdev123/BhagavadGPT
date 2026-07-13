@@ -18,6 +18,12 @@ tags:
 - pursuit of victory
 - rivalry
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/36
+chapter: 10
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 36
@@ -42,3 +48,7 @@ For Arjuna, the verse highlights that powerful energies such as ambition, brilli
 **Modern Applications:**
 power of determination, competitive strategy, ambition and risk, brilliance and talent, pursuit of victory, ethical character
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

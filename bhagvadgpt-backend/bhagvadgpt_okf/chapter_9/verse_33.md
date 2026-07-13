@@ -20,6 +20,12 @@ tags:
 - spiritual orientation
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/33
+chapter: 9
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 33
@@ -44,3 +50,7 @@ In modern life, people often exhaust themselves chasing short lived satisfaction
 **Modern Applications:**
 impermanence of life, chasing temporary happiness, existential dissatisfaction, search for lasting purpose, beyond material success, spiritual orientation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

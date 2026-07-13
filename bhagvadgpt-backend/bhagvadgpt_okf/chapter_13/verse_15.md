@@ -22,6 +22,12 @@ related:
 - chapter_13/verse_16
 - chapter_13/verse_7
 - chapter_14/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/15
+chapter: 13
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 15
@@ -43,3 +49,7 @@ Understanding this verse is the key to deep emotional freedom. When life gets ov
 **Modern Applications:**
 the observing self, container vs. content, psychological detachment, mindfulness, paradox, Acceptance and Commitment Therapy (ACT), emotional freedom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

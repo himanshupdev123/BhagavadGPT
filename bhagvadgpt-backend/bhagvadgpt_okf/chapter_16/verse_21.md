@@ -19,6 +19,12 @@ tags:
 - separation
 - the triad of self-destruction
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/21
+chapter: 16
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 21
@@ -47,3 +53,7 @@ Which of these three—Lust (craving), Anger, or Greed (comparison)—feels like
 **Modern Applications:**
 the triad of self-destruction, cortisol and stress, dopamine loops, scarcity mindset, psychological self-preservation, prefrontal cortex health, emotional regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

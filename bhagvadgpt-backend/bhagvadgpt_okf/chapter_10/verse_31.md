@@ -20,6 +20,12 @@ tags:
 - seeing meaning in nature
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/31
+chapter: 10
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 31
@@ -44,3 +50,7 @@ For Arjuna, this teaching trains the mind to observe the world differently. Inst
 **Modern Applications:**
 purification and renewal, courage and discipline, recognizing excellence, life sustaining forces, seeing meaning in nature
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

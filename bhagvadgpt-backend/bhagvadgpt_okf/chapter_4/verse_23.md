@@ -15,6 +15,12 @@ tags:
 - purpose
 - service
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/23
+chapter: 4
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 23
@@ -38,3 +44,7 @@ In modern life, many people experience burnout because their work feels disconne
 **Modern Applications:**
 purpose, detachment, meaningful work, service, inner freedom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

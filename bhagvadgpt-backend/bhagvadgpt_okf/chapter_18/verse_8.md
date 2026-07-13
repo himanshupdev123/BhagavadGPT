@@ -21,6 +21,12 @@ tags:
 - mind control
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/8
+chapter: 18
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 8
@@ -50,3 +56,7 @@ Think about a goal, project, or habit you recently 'paused' or walked away from.
 **Modern Applications:**
 The Comfort Zone Trap, Friction Avoidance, Short-Term Relief vs. Long-Term Growth, The 'Too Hard' Basket, Emotional Regulation Failure, Algorithmic Convenience, The Illusion of Boundaries
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

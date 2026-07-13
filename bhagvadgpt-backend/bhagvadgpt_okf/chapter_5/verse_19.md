@@ -14,6 +14,12 @@ tags:
 related:
 - chapter_13/verse_10
 - chapter_14/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/19
+chapter: 5
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 19
@@ -35,3 +41,7 @@ Krishna shatters this illusion of postponed peace. He explains that the Supreme 
 **Modern Applications:**
 future-tripping, equanimity, emotional regulation, present moment awareness, delayed happiness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

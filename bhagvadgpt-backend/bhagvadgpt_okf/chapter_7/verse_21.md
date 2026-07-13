@@ -13,6 +13,12 @@ tags:
 - psychological reinforcement
 - the architecture of belief
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/21
+chapter: 7
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 21
@@ -34,3 +40,7 @@ Krishna explains the underlying mechanism behind this confirmation bias. The Sup
 **Modern Applications:**
 confirmation bias, the architecture of belief, free will, psychological reinforcement, echo chambers
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

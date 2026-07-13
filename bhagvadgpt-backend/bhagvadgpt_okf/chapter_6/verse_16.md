@@ -23,6 +23,12 @@ related:
 - chapter_2/verse_61
 - chapter_4/verse_30
 - chapter_6/verse_17
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/16
+chapter: 6
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 16
@@ -46,3 +52,7 @@ Krishna’s teaching highlights that self-development requires moderation. Balan
 **Modern Applications:**
 balance, healthy habits, self discipline, lifestyle management, mental stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_3/verse_9
 - chapter_4/verse_18
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/55
+chapter: 18
+verse_number: 55
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 55
@@ -39,3 +45,7 @@ In modern terms, this explains the limit of the purely intellectual mind. You ca
 **Modern Applications:**
 flow state, total immersion, emotional intelligence, purpose, authenticity, dedication, experiential learning
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

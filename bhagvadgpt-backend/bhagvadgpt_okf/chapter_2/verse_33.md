@@ -23,6 +23,12 @@ related:
 - chapter_3/verse_8
 - chapter_5/verse_2
 - chapter_14/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/33
+chapter: 2
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 33
@@ -44,3 +50,7 @@ This teaches a profound lesson about the nature of responsibility. We cannot ach
 **Modern Applications:**
 escapism, avoidance, responsibility, guilt, self-respect, duty, facing challenges
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

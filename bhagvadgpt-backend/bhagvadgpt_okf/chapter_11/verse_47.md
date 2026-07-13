@@ -17,6 +17,12 @@ tags:
 - rivalry
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/47
+chapter: 11
+verse_number: 47
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 47
@@ -47,3 +53,7 @@ Psychologically, the verse highlights the limits of human perception and the rol
 **Modern Applications:**
 limits of human perception, humility before deeper reality, expanded perspective, recognizing unseen layers of reality, grace in gaining insight
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

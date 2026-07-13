@@ -10,6 +10,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/34
+chapter: 6
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 34
@@ -30,3 +36,7 @@ In Arjuna’s situation, his mind was pulled between duty and emotional attachme
 
 In modern life, this description of the mind remains highly relevant. Constant stimulation from technology, responsibilities, and social pressures often makes it difficult to maintain concentration or emotional balance. People frequently feel overwhelmed by racing thoughts or shifting attention. Arjuna’s statement captures this experience precisely, setting the stage for Krishna’s response about the methods needed to train and steady the mind.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

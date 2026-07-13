@@ -18,6 +18,12 @@ tags:
 - self-reliance
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/17
+chapter: 9
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 17
@@ -39,3 +45,7 @@ When we recognize that the ultimate source of unconditional support and wisdom e
 **Modern Applications:**
 existential loneliness, internal resilience, self-reliance, emotional stability, locus of control, reparenting
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

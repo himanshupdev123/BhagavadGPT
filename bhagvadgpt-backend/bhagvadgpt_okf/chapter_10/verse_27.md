@@ -13,6 +13,12 @@ tags:
 - separation
 - strength with responsibility
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/27
+chapter: 10
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 27
@@ -37,3 +43,7 @@ Within the flow of the chapter, this verse continues building the idea that the 
 **Modern Applications:**
 leadership responsibility, power and authority, recognizing excellence, responsible leadership, strength with responsibility
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -24,6 +24,12 @@ related:
 - chapter_18/verse_66
 - chapter_2/verse_20
 - chapter_2/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/16
+chapter: 2
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 16
@@ -45,3 +51,7 @@ Seers of truth do not waste their emotional energy trying to freeze time or desp
 **Modern Applications:**
 impermanence, anxiety, attachment, existential dread, reality vs illusion, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

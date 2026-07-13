@@ -6,6 +6,12 @@ description: The seven great sages, the four ancient sages, and the Manus were b
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/6
+chapter: 10
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 6
@@ -27,3 +33,7 @@ For Arjuna, this reinforces the message introduced in the earlier verses of the 
 
 This verse is primarily descriptive rather than instructional. Its role is to outline the hierarchy of creation and to show that the most respected figures of wisdom and governance ultimately arise from the same divine origin that Krishna is revealing to Arjuna.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

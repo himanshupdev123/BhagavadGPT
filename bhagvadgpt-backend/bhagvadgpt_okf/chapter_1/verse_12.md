@@ -7,6 +7,12 @@ tags:
 - detachment
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/12
+chapter: 1
+verse_number: 12
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 12
@@ -24,3 +30,7 @@ This verse establishes the psychological and historical atmosphere immediately b
 
 Historically, the blowing of a conch shell in ancient Indian warfare marked the official declaration of combat. Bhishma did this out of duty and affection to boost Duryodhana's failing morale. However, this joy was only temporary. While Duryodhana found a brief moment of confidence in Bhishma's display of power, it sets up a powerful contrast for what happens next. Just as Arjuna soon becomes completely paralyzed by his attachments and the heavy burden of his duties when observing the armies, Duryodhana is shown here experiencing the flip side of that battlefield anxiety, relying entirely on external validation to cover up his deep-seated fear. The verse serves purely to move the narrative forward, officially opening the war and locking both sides into their destinies.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

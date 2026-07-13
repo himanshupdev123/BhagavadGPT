@@ -26,6 +26,12 @@ tags:
 related:
 - chapter_1/verse_28
 - chapter_1/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/33
+chapter: 1
+verse_number: 33
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 33
@@ -50,3 +56,7 @@ Arjuna’s reflection shows how deeply attachment and relationships shape human 
 **Modern Applications:**
 purpose of success, relationships vs ambition, ethical conflict, attachment, meaning of achievement, moral dilemma
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

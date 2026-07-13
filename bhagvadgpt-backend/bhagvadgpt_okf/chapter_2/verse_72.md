@@ -27,6 +27,12 @@ related:
 - chapter_2/verse_53
 - chapter_2/verse_65
 - chapter_6/verse_28
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/72
+chapter: 2
+verse_number: 72
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 72
@@ -51,3 +57,7 @@ Psychologically, the verse describes a deeply integrated mind. When thoughts, em
 **Modern Applications:**
 mental clarity, inner stability, emotional mastery, self realization, freedom from confusion, psychological resilience, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -15,6 +15,12 @@ tags:
 related:
 - chapter_6/verse_44
 - chapter_2/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/34
+chapter: 4
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 34
@@ -38,3 +44,7 @@ Krishna’s teaching suggests that wisdom develops when curiosity is balanced wi
 **Modern Applications:**
 mentorship, learning, humility, curiosity, self development
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

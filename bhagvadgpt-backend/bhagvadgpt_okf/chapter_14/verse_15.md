@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_14/verse_14
 - chapter_15/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/15
+chapter: 14
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 15
@@ -42,3 +48,7 @@ Conversely, if you end a phase by completely shutting down, avoiding responsibil
 **Modern Applications:**
 cycles of behavior, emotional baggage, toxic patterns, life transitions, subconscious loops, escapism, repetition
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

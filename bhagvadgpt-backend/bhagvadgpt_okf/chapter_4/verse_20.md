@@ -20,6 +20,12 @@ related:
 - chapter_4/verse_19
 - chapter_6/verse_1
 - chapter_6/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/20
+chapter: 4
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 20
@@ -43,3 +49,7 @@ Krishna’s teaching suggests a healthier approach. When a person focuses on sin
 **Modern Applications:**
 detachment, focus, work ethic, emotional independence, anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

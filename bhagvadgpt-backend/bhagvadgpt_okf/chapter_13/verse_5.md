@@ -15,6 +15,12 @@ tags:
 - wisdom
 related:
 - chapter_18/verse_70
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/5
+chapter: 13
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 5
@@ -36,3 +42,7 @@ This verse highlights the psychological necessity of relying on proven framework
 **Modern Applications:**
 intellectual rigor, mental frameworks, critical thinking, logic, epistemology, objective reality, wisdom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

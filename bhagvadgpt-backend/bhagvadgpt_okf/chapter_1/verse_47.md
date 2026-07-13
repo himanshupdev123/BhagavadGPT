@@ -7,6 +7,12 @@ tags:
 - detachment
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/47
+chapter: 1
+verse_number: 47
+speaker: Sanjaya
 ---
 
 # Chapter 1, Verse 47
@@ -30,3 +36,7 @@ This moment represents the psychological breaking point of the entire narrative.
 
 The scene now shifts from an external battlefield to an internal struggle. Arjuna’s collapse creates the conditions for the central dialogue of the Bhagavad Gita. In the silence that follows his breakdown, Krishna will begin to address the deeper questions of duty, identity, and wisdom that Arjuna is unable to resolve on his own.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

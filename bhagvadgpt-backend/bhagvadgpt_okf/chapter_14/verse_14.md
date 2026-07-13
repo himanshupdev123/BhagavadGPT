@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_14/verse_15
 - chapter_15/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/14
+chapter: 14
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 14
@@ -41,3 +47,7 @@ However, if you navigate an ending with clarity, objective acceptance, and peace
 **Modern Applications:**
 life transitions, processing endings, emotional baggage, conscious evolution, mental baseline, letting go
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -20,6 +20,12 @@ tags:
 - self
 - toxic
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/19
+chapter: 16
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 19
@@ -45,3 +51,7 @@ Would you like to identify a recurring 'loop' or 'pattern' in your life that fee
 **Modern Applications:**
 Negative Reinforcement Loops, Neural Plasticity, Self-fulfilling prophecy, Toxic echo chambers, Psychological Inertia, Behavioral Conditioning, The Algorithm of Life
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

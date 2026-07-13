@@ -17,6 +17,12 @@ tags:
 related:
 - chapter_6/verse_40
 - chapter_6/verse_45
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/41
+chapter: 6
+verse_number: 41
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 41
@@ -40,3 +46,7 @@ In modern life, people often measure success only through short-term achievement
 **Modern Applications:**
 long term growth, personal development, progress, hope, resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

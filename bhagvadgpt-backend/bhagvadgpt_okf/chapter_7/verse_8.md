@@ -15,6 +15,12 @@ tags:
 - mindfulness
 - present moment awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/8
+chapter: 7
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 8
@@ -36,3 +42,7 @@ Krishna forcefully pulls our attention back to the absolute basics. He identifie
 **Modern Applications:**
 mindfulness, grounding techniques, finding meaning in the ordinary, present moment awareness, dissociation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

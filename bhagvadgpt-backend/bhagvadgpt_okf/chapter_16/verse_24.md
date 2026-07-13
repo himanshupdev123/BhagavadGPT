@@ -22,6 +22,12 @@ tags:
 - thinking too much
 - what is right
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/24
+chapter: 16
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 24
@@ -47,3 +53,7 @@ Would you like to try a 'First Principles' exercise to help you define your own 
 **Modern Applications:**
 First Principles Thinking, Analysis Paralysis, Standard Operating Procedures (SOPs), Values-driven vs. Mood-driven, Decision frameworks, Cognitive Load reduction, Internalized ethics
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -11,6 +11,12 @@ tags:
 - psychological integration
 - unifying purpose
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/7
+chapter: 7
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 7
@@ -32,3 +38,7 @@ Krishna provides the ultimate framework for wholeness. He introduces Himself as 
 **Modern Applications:**
 psychological integration, compartmentalization, unifying purpose, core identity, fragmentation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

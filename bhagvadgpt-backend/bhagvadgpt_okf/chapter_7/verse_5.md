@@ -15,6 +15,12 @@ tags:
 - the observer
 - victim mentality
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/5
+chapter: 7
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 5
@@ -36,3 +42,7 @@ Krishna radically flips this power dynamic. He declares that pure consciousnessâ
 **Modern Applications:**
 psychological agency, victim mentality, consciousness vs. matter, the observer, internal locus of control
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

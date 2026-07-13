@@ -24,6 +24,12 @@ tags:
 - temporary
 related:
 - chapter_18/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/13
+chapter: 18
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 13
@@ -53,3 +59,7 @@ Are you currently carrying 100% of the emotional weight for a recent failure, or
 **Modern Applications:**
 The 'Self-Made' Myth, Systems Thinking, Root-Cause Analysis, The Illusion of Control, Ego Deconstruction, Hubris and Imposter Syndrome, Multi-Variable Reality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

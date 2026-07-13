@@ -14,6 +14,12 @@ tags:
 - mind control
 - pride
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/10
+chapter: 7
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 10
@@ -35,3 +41,7 @@ Krishna provides the ultimate ego check: 'I am the intelligence of the intellige
 **Modern Applications:**
 ego death, imposter syndrome, intellectual arrogance, borrowed brilliance, humility in success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

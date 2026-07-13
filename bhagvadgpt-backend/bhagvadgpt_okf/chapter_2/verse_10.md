@@ -16,6 +16,12 @@ tags:
 - perspective
 - sad
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/10
+chapter: 2
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 10
@@ -37,3 +43,7 @@ This moment exactly between the two armies represents a psychological turning po
 **Modern Applications:**
 emotional crisis, anxiety, grief, perspective, calmness under pressure, overwhelm
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

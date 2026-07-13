@@ -7,6 +7,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/41
+chapter: 1
+verse_number: 41
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 41
@@ -28,3 +34,7 @@ His concern reflects the ancient view that family stability was the foundation o
 
 Arjuna is now extending his reasoning beyond personal grief and immediate loss. He is attempting to anticipate long-term social consequences of the war. In his mind, the battle threatens not only individual lives but also the stability of the broader social system that depends on strong family structures and preserved traditions.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

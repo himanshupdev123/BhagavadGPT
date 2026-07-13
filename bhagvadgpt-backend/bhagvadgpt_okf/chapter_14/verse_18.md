@@ -20,6 +20,12 @@ tags:
 - self-actualization
 - stagnation vs evolution
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/18
+chapter: 14
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 18
@@ -41,3 +47,7 @@ Finally, operating in ignorance (tamas) forces you "downward." When you yield to
 **Modern Applications:**
 personal growth, hustle culture, downward spiral, mental trajectory, stagnation vs evolution, self-actualization, habit loops
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

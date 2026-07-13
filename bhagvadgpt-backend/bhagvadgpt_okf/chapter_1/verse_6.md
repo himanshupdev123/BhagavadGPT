@@ -5,6 +5,12 @@ description: The mighty Yudhamanyu, the very powerful Uttamaujas, the son of Sub
   (Abhimanyu), and the sons o...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/6
+chapter: 1
+verse_number: 6
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 6
@@ -21,3 +27,7 @@ In this verse, King Duryodhana concludes his enumeration of the primary warriors
 
 From a narrative and historical perspective, this verse serves to emphasize the depth and capability of the enemy's ranks. It illustrates that the threat to the Kaurava army does not solely come from the senior generals; even the youth in the Pandava camp are elite, highly trained combatants. By vocalizing this assessment, Duryodhana acknowledges the immense scale and gravity of the impending Kurukshetra war. His detailed account reflects his hyper-vigilance and underlying anxiety, serving as a strategic move to ensure that his own commander, Dronacharya, fully grasps the magnitude of the opposing force and approaches the battle without any lingering leniency toward the Pandavas.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

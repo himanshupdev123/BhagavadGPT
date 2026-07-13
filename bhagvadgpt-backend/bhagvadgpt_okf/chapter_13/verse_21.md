@@ -21,6 +21,12 @@ related:
 - chapter_13/verse_2
 - chapter_13/verse_6
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/21
+chapter: 13
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 21
@@ -42,3 +48,7 @@ Psychologically, we suffer immensely because we constantly fuse our conscious id
 **Modern Applications:**
 hardware vs. user analogy, biological determinism, subjective experience, emotional regulation, mind-body connection, cognitive defusion, agency
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -16,6 +16,12 @@ related:
 - chapter_4/verse_24
 - chapter_6/verse_30
 - chapter_6/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/4
+chapter: 14
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 4
@@ -37,3 +43,7 @@ When you truly internalize that every person, animal, and living thing shares th
 **Modern Applications:**
 universal empathy, interconnectedness, overcoming prejudice, unity, ego dissolution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

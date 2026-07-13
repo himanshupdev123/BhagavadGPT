@@ -17,6 +17,12 @@ related:
 - chapter_2/verse_63
 - chapter_2/verse_64
 - chapter_4/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/23
+chapter: 5
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 23
@@ -38,3 +44,7 @@ Krishna introduces the ancient equivalent of 'urge surfing' (sodhum). The true m
 **Modern Applications:**
 impulse control, urge surfing, emotional regulation, anger management, reactivity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

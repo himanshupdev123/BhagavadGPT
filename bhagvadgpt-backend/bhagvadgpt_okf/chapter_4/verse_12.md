@@ -17,6 +17,12 @@ tags:
 - transactional behavior
 related:
 - chapter_5/verse_22
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/12
+chapter: 4
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 12
@@ -38,3 +44,7 @@ By focusing entirely on the rapid accumulation of external success, we lock ours
 **Modern Applications:**
 instant gratification, short-term success, transactional behavior, materialism, dopamine addiction
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

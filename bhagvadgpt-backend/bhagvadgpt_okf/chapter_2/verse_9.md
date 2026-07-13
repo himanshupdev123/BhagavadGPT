@@ -8,6 +8,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/9
+chapter: 2
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 9
@@ -31,3 +37,7 @@ Just as Arjuna finally stops speaking after exhausting his arguments, modern ind
 
 Arjuna’s silence marks the end of the phase where he relies on his own understanding. This pause creates the space for transformation. With his reasoning exhausted and his confidence shaken, he is now ready to listen. Krishna’s teachings that follow will begin addressing the deeper psychological and philosophical questions underlying Arjuna’s crisis.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

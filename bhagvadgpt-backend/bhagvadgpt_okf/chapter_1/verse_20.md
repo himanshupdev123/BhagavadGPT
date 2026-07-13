@@ -7,6 +7,12 @@ tags:
 - detachment
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/20
+chapter: 1
+verse_number: 20
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 20
@@ -25,3 +31,7 @@ Just as Arjuna took up his bow in response to seeing his opponents ready for con
 
 In a historical context, this verse sets the stage for the dialogue of the Bhagavad Gita. It highlights the moment of confrontation where a person must look directly at the challenge they have agreed to face. Arjuna’s act of picking up his bow signifies his initial intent to perform his duty as a warrior, right before his personal attachments begin to cloud his judgment and trigger his emotional crisis.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

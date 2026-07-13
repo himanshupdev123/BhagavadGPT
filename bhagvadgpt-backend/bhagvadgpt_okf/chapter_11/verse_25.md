@@ -8,6 +8,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/25
+chapter: 11
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 25
@@ -33,3 +39,7 @@ In response, Arjuna appeals to Krishna as the Lord of the gods and the refuge of
 
 Within the narrative of the Gita, this verse shows Arjuna reaching the limits of what the human mind can comfortably process when confronted with the full intensity of the cosmic form.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

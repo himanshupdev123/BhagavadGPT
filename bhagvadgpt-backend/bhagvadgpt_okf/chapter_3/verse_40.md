@@ -20,6 +20,12 @@ tags:
 - sensory influence on behavior
 - thought patterns and craving
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/40
+chapter: 3
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 40
@@ -44,3 +50,7 @@ The verse highlights the importance of awareness. By recognizing how desire move
 **Modern Applications:**
 psychology of temptation, sensory influence on behavior, thought patterns and craving, loss of rational judgment, impulse formation, self-awareness of mental processes
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

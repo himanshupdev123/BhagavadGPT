@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_2/verse_64
 - chapter_6/verse_16
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/30
+chapter: 4
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 30
@@ -46,3 +52,7 @@ In modern life, irregular routines, unhealthy habits, and constant stimulation o
 **Modern Applications:**
 self discipline, healthy habits, moderation, mental balance, lifestyle control
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

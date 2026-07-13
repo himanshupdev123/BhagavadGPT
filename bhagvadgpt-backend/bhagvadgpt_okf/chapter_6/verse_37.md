@@ -8,6 +8,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/37
+chapter: 6
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 37
@@ -29,3 +35,7 @@ Arjuna’s concern shows a thoughtful and practical mindset. Instead of assuming
 
 In modern life, people often face similar doubts when pursuing personal growth or long-term goals. They may wonder whether incomplete effort leads to failure or wasted time. Arjuna’s question opens the way for Krishna to address this fear and explain how sincere effort on the path of self-development is never truly lost.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

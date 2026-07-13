@@ -20,6 +20,12 @@ tags:
 - status anxiety
 - the hedonic treadmill
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/11
+chapter: 16
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 11
@@ -45,3 +51,7 @@ Would you like to explore a specific 'must-have' goal in your life right now to 
 **Modern Applications:**
 the hedonic treadmill, high-functioning anxiety, burnout culture, materialistic nihilism, status anxiety, existential stress, loss of perspective
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

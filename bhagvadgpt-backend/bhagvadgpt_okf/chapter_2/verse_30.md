@@ -21,6 +21,12 @@ tags:
 - sad
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/30
+chapter: 2
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 30
@@ -42,3 +48,7 @@ Psychologically, this is a powerful call to absolute emotional resilience. It do
 **Modern Applications:**
 emotional resilience, existential grief, letting go, fear of loss, core identity, processing sorrow
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

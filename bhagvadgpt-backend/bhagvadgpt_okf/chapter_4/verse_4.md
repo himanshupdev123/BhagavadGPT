@@ -7,6 +7,12 @@ tags:
 - detachment
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/4
+chapter: 4
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 4
@@ -28,3 +34,7 @@ Just as Arjuna felt paralyzed by his attachments and duties, his mind here is bo
 
 Because this verse is entirely conversational and narrative, it serves as a critical setup. Arjuna's practical questioning gives Krishna the necessary opening to explain the profound difference between ordinary human existence, which is restricted by time and memory, and the supreme consciousness, which exists entirely beyond those limits.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

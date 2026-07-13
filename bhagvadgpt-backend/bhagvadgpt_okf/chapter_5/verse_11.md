@@ -24,6 +24,12 @@ tags:
 - self
 - self-improvement
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/11
+chapter: 5
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 11
@@ -45,3 +51,7 @@ Krishna reveals the secret of the true master of action. A master still acts int
 **Modern Applications:**
 intrinsic motivation, self-improvement, ego detachment, internal growth, mindful action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

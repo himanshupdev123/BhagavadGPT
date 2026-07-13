@@ -6,6 +6,12 @@ description: Therefore, all of you, assuming your respective positions at all th
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/11
+chapter: 1
+verse_number: 11
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 11
@@ -24,3 +30,7 @@ Duryodhana's instruction reveals a critical vulnerability disguised as a tactica
 
 From a historical and narrative perspective, this moment highlights the complexities of ancient warfare formations, where protecting the commander-in-chief was paramount. Duryodhana's paranoia dictates his strategy, ensuring that all flanks and entry points are fortified specifically to shield Bhishma, anticipating the focused attacks of opposing warriors. It underscores a leadership style driven by fear and dependence on external pillars of strength.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

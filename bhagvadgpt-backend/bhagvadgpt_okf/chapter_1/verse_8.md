@@ -7,6 +7,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/8
+chapter: 1
+verse_number: 8
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 8
@@ -23,3 +29,7 @@ In this verse, King Duryodhana enumerates the principal warriors commanding his 
 
 By explicitly referring to them as 'samitinjayah' or 'always victorious in battle,' Duryodhana is engaging in a crucial act of self-persuasion. From a psychological standpoint, when confronted with overwhelming anxiety or a monumental threat, an insecure leader will often attempt to bolster their confidence by leaning entirely on the past successes and reputations of others. Duryodhana’s list is not just a military briefing; it is a desperate attempt to drown out his internal fears regarding the Pandavas' organized strength. Narratively, this verse establishes the colossal power of the Kaurava army, reminding the audience that the impending war is a catastrophic clash between titans of unprecedented martial skill and complex personal allegiances.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -19,6 +19,12 @@ related:
 - chapter_4/verse_35
 - chapter_4/verse_37
 - chapter_4/verse_41
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/33
+chapter: 4
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 33
@@ -42,3 +48,7 @@ Krishna’s teaching highlights that true wisdom integrates action with understa
 **Modern Applications:**
 self awareness, wisdom, learning, clarity, purpose
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

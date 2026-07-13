@@ -5,6 +5,12 @@ description: This is my doubt, O Krishna. Please completely remove it, for no on
   else but You can dispel this un...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/39
+chapter: 6
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 39
@@ -25,3 +31,7 @@ Arjuna’s trust in Krishna’s guidance also highlights the importance of learn
 
 In modern life, people often struggle silently with uncertainty, hesitation, or conflicting ideas about their choices. Arjuna’s approach shows the value of openly seeking guidance and clarification. Honest questioning and willingness to learn allow confusion to be transformed into understanding, creating the possibility for clearer decisions and stronger inner confidence.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

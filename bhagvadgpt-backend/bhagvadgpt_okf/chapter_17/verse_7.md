@@ -19,6 +19,12 @@ tags:
 - motivate
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/7
+chapter: 17
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 7
@@ -44,3 +50,7 @@ Would you like to start with the 'Ahara' (Food) audit to see how your current cr
 **Modern Applications:**
 Gut-Brain Axis, Habit Psychology, Lifestyle Auditing, Personal Preferences as Symptoms, Energy Management, Predictive Behavior, Holistic Self-Regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

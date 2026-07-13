@@ -17,6 +17,12 @@ tags:
 - radical acceptance
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/24
+chapter: 13
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 24
@@ -38,3 +44,7 @@ When you truly 'see' that your essential self is untouched by the chaotic machin
 **Modern Applications:**
 radical acceptance, cognitive shift, breaking cyclical patterns, mental freedom, psychological resilience, overcoming the past, liberation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

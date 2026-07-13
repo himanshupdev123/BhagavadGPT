@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_31
 - chapter_3/verse_24
 - chapter_3/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/4
+chapter: 3
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 4
@@ -47,3 +53,7 @@ You cannot reach the finish line of psychological maturity by skipping the race.
 **Modern Applications:**
 escapism, responsibility, avoidance, inaction, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

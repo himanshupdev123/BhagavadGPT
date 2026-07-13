@@ -14,6 +14,12 @@ tags:
 - motivate
 - psychological momentum
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/11
+chapter: 8
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 11
@@ -35,3 +41,7 @@ Krishna introduces the concept of 'brahmacharya' (strict discipline and celibacy
 **Modern Applications:**
 energy conservation, digital minimalism, dopamine detox, discipline and restraint, psychological momentum
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

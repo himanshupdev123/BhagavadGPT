@@ -22,6 +22,12 @@ related:
 - chapter_13/verse_16
 - chapter_13/verse_2
 - chapter_13/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/23
+chapter: 14
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 23
@@ -43,3 +49,7 @@ In modern psychology, this is the exact definition of cognitive defusion and ult
 **Modern Applications:**
 the observing self, cognitive defusion, emotional resilience, stoicism, neutrality, mindfulness, stimulus and response
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

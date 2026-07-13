@@ -23,6 +23,12 @@ related:
 - chapter_2/verse_68
 - chapter_4/verse_21
 - chapter_4/verse_39
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/24
+chapter: 6
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 24
@@ -46,3 +52,7 @@ In modern life, desires are constantly stimulated by advertising, social compari
 **Modern Applications:**
 desire management, self control, mind discipline, focus, minimalism
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

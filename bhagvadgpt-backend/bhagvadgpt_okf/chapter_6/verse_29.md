@@ -20,6 +20,12 @@ related:
 - chapter_6/verse_32
 - chapter_13/verse_3
 - chapter_6/verse_30
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/29
+chapter: 6
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 29
@@ -43,3 +49,7 @@ In modern life, people often divide others based on nationality, ideology, socia
 **Modern Applications:**
 unity, empathy, shared humanity, equal vision, compassion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

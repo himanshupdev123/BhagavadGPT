@@ -22,6 +22,12 @@ tags:
 - routine
 - self-control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/34
+chapter: 3
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 34
@@ -46,3 +52,7 @@ This teaching applies directly to modern life. People often make decisions based
 **Modern Applications:**
 emotional impulses, attachment and aversion, self-control, impulsive decision making, discipline of the mind, comfort vs growth, emotional regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

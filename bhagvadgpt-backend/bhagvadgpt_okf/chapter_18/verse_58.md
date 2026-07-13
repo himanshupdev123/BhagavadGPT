@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_9/verse_1
 - chapter_9/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/58
+chapter: 18
+verse_number: 58
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 58
@@ -41,3 +47,7 @@ In a professional or personal crisis, the ego often whispers that we must handle
 **Modern Applications:**
 ego, humility, overcoming obstacles, resilience, active listening, cognitive flexibility, mental flow
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

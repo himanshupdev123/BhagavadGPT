@@ -14,6 +14,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/23
+chapter: 17
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 23
@@ -42,3 +48,7 @@ Would you like to try a '3-Second Reset' using this framework? Next time you fin
 **Modern Applications:**
 Spiritual Metadata, Metadata for Intent, Universal Checksums, Detachment Protocols, Cognitive Zoom-out, Sanitizing Motivation, The Big Picture Perspective
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

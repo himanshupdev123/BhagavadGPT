@@ -24,6 +24,12 @@ tags:
 - transactional relationships
 - unshakeable focus
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/17
+chapter: 7
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 17
@@ -45,3 +51,7 @@ Krishna points to the 'jnani'—the person of true wisdom—as the absolute idea
 **Modern Applications:**
 transactional relationships, intrinsic vs extrinsic motivation, unshakeable focus, pure devotion, consistency
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

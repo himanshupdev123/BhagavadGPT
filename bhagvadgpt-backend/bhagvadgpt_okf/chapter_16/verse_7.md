@@ -21,6 +21,12 @@ tags:
 - transparency and integrity
 - what is right
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/7
+chapter: 16
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 7
@@ -46,3 +52,7 @@ Would you like to analyze a specific habit or routine in your life to see if it 
 **Modern Applications:**
 moral compass, executive function, professional ethics, impulse control, transparency and integrity, short-termism, the 'win at any cost' mentality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

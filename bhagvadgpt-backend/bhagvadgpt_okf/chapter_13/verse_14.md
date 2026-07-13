@@ -21,6 +21,12 @@ related:
 - chapter_3/verse_11
 - chapter_3/verse_14
 - chapter_8/verse_4
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/14
+chapter: 13
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 14
@@ -42,3 +48,7 @@ In modern terms, this aligns with 'systems thinking' or viewing life through a n
 **Modern Applications:**
 interconnectedness, omnipresence, systems thinking, radical empathy, existential loneliness, collective consciousness, social anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

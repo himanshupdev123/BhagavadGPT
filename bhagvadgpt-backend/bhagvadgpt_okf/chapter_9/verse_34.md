@@ -24,6 +24,12 @@ tags:
 - what to choose
 - which path
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/34
+chapter: 9
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 34
@@ -48,3 +54,7 @@ When thoughts, actions, and values all align toward a higher goal, life gains co
 **Modern Applications:**
 mental focus, aligning thoughts and actions, purpose centered living, reducing mental distraction, clarity of direction, inner alignment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -18,6 +18,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/51
+chapter: 18
+verse_number: 51
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 51
@@ -48,3 +54,7 @@ Does your mind currently feel like a crowded airport terminal or a quiet library
 **Modern Applications:**
 Digital Minimalism, Cognitive Filter Clearing, Dopamine Baseline Reset, Emotional Neutrality, Noise-to-Signal Optimization, Self-Sovereignty, The Neutral Gear of the Mind
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

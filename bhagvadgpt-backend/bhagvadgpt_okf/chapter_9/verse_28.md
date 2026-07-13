@@ -19,6 +19,12 @@ tags:
 - pride
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/28
+chapter: 9
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 28
@@ -41,3 +47,7 @@ This does not mean abandoning responsibility. It means removing the ego's obsess
 **Modern Applications:**
 detachment from results, overthinking outcomes, fear of failure, ego and success, emotional resilience, inner freedom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

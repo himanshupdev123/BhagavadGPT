@@ -21,6 +21,12 @@ related:
 - chapter_4/verse_28
 - chapter_6/verse_41
 - chapter_6/verse_43
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/45
+chapter: 6
+verse_number: 45
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 45
@@ -44,3 +50,7 @@ In modern life, people often expect rapid results from personal development, edu
 **Modern Applications:**
 persistence, self improvement, long term growth, discipline, personal development
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

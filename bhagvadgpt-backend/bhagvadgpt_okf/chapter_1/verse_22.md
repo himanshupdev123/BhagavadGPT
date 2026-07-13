@@ -5,6 +5,12 @@ description: Let me see those who stand here eager to fight, and with whom I mus
   contend in this great battle....
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/22
+chapter: 1
+verse_number: 22
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 22
@@ -26,3 +32,7 @@ However, this request also becomes the starting point of Arjuna’s emotional tu
 
 Thus, the verse continues to build the narrative tension. Arjuna prepares to examine the battlefield, unaware that the act of seeing the people before him will soon shake his confidence and lead him into the profound inner conflict that forms the foundation of the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

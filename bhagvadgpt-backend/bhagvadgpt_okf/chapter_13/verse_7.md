@@ -23,6 +23,12 @@ related:
 - chapter_3/verse_28
 - chapter_13/verse_15
 - chapter_14/verse_11
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/7
+chapter: 13
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 7
@@ -44,3 +50,7 @@ In modern psychology, particularly in therapies like Acceptance and Commitment T
 **Modern Applications:**
 emotional defusion, emotional regulation, mindfulness, psychological resilience, detachment, Acceptance and Commitment Therapy (ACT), observer effect
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

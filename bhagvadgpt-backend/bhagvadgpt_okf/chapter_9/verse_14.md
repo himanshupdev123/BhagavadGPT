@@ -16,6 +16,12 @@ tags:
 - self-control
 related:
 - chapter_18/verse_58
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/14
+chapter: 9
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 14
@@ -37,3 +43,7 @@ Furthermore, the verse emphasizes continuous focus and bowing down, which transl
 **Modern Applications:**
 consistency, discipline, determination, habit building, humility, resilience, motivation vs discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

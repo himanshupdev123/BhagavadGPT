@@ -26,6 +26,12 @@ tags:
 - rage
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/55
+chapter: 11
+verse_number: 55
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 55
@@ -50,3 +56,7 @@ In Arjuna’s situation, this teaching directly resolves his earlier conflict. H
 **Modern Applications:**
 purpose driven action, letting go of outcome obsession, freedom from resentment, clarity in decision making, aligning actions with higher values
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

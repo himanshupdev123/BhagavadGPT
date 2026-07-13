@@ -16,6 +16,12 @@ tags:
 related:
 - chapter_10/verse_21
 - chapter_10/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/23
+chapter: 10
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 23
@@ -40,3 +46,7 @@ Within the flow of the chapter, this verse continues the series of illustrations
 **Modern Applications:**
 recognizing excellence, seeing greatness in nature, patterns in power and influence, observing extraordinary qualities, unity behind diversity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

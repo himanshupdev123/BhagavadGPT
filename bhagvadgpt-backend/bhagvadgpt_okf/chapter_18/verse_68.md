@@ -18,6 +18,12 @@ related:
 - chapter_18/verse_78
 - chapter_3/verse_26
 - chapter_3/verse_29
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/68
+chapter: 18
+verse_number: 68
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 68
@@ -37,3 +43,7 @@ In the modern world, this highlights the importance of mentorship and the sharin
 **Modern Applications:**
 mentorship, sharing knowledge, leadership, community building, purpose, legacy, social contribution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -26,6 +26,12 @@ tags:
 related:
 - chapter_2/verse_49
 - chapter_9/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/6
+chapter: 12
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 6
@@ -50,3 +56,7 @@ Through this approach, ordinary life itself becomes a form of discipline. Every 
 **Modern Applications:**
 purpose driven work, transforming motivation, single minded focus, detachment from outcomes, aligning actions with higher values
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -24,6 +24,12 @@ related:
 - chapter_4/verse_27
 - chapter_5/verse_27
 - chapter_6/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/14
+chapter: 6
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 14
@@ -47,3 +53,7 @@ In modern life, people frequently experience stress and anxiety due to uncertain
 **Modern Applications:**
 meditation, fear management, self discipline, focus, inner calm
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

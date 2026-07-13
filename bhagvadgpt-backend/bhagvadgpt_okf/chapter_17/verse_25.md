@@ -22,6 +22,12 @@ tags:
 related:
 - chapter_18/verse_23
 - chapter_18/verse_49
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/25
+chapter: 17
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 25
@@ -47,3 +53,7 @@ Think about your most important project right now. Are you doing it for 'Me' (th
 **Modern Applications:**
 Outcome Independence, Process-Oriented Growth, Psychological Distancing, Approval Trap Avoidance, Sustainable High Performance, Ego-Decoupling, Freedom from Burnout
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

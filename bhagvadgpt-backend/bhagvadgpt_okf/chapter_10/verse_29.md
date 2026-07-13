@@ -15,6 +15,12 @@ tags:
 - systems of balance
 - time management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/29
+chapter: 10
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 29
@@ -39,3 +45,7 @@ For Arjuna, this teaching provides a broader understanding of responsibility and
 **Modern Applications:**
 cosmic order, discipline and accountability, justice and consequences, systems of balance, respect for lineage, structure and regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

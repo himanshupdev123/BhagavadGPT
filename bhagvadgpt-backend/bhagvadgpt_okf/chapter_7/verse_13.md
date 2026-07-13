@@ -13,6 +13,12 @@ tags:
 - societal sleepwalking
 - the matrix of the gunas
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/13
+chapter: 7
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 13
@@ -34,3 +40,7 @@ Krishna points out that this delusion is universal; the 'whole world' is trapped
 **Modern Applications:**
 mass delusion, psychological conditioning, the matrix of the gunas, societal sleepwalking, breaking the spell
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

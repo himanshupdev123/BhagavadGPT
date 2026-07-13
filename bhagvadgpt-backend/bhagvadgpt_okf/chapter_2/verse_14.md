@@ -19,6 +19,12 @@ related:
 - chapter_13/verse_7
 - chapter_14/verse_11
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/14
+chapter: 2
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 14
@@ -40,3 +46,7 @@ The instruction here is not to become an unfeeling robot, but to develop a resil
 **Modern Applications:**
 emotional regulation, resilience, mindfulness, impermanence, mental stability, stoicism, tolerance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

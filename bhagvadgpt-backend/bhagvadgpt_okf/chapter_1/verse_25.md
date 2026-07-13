@@ -5,6 +5,12 @@ description: 'In the presence of Bhishma, Drona, and all the other kings, Krishn
   said: O Partha, behold these Kur...'
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/25
+chapter: 1
+verse_number: 25
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 25
@@ -26,3 +32,7 @@ Until this point, Arjuna was thinking like a warrior preparing for battle. But n
 
 This verse therefore marks the beginning of Arjuna’s psychological confrontation with the true cost of the war. Krishna’s instruction to “look” is not merely about observing the battlefield. It compels Arjuna to face the emotional and moral complexity of the situation. The scene sets the stage for the deep crisis that will soon emerge and ultimately lead to the teachings of the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

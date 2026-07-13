@@ -6,6 +6,12 @@ description: 'The Blessed Lord said: O Arjuna, behold My divine forms in hundred
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/5
+chapter: 11
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 5
@@ -29,3 +35,7 @@ For Arjuna, this moment represents a dramatic expansion of perception. The human
 
 Within the narrative of the Gita, this verse opens the extraordinary vision that will soon unfold. Krishna prepares Arjuna to witness a manifestation that reveals the vast diversity and unity of existence within a single cosmic form.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

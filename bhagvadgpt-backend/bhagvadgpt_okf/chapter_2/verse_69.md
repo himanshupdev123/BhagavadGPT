@@ -26,6 +26,12 @@ tags:
 - value systems
 related:
 - chapter_4/verse_36
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/69
+chapter: 2
+verse_number: 69
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 69
@@ -50,3 +56,7 @@ Psychologically, the verse illustrates how perception is shaped by values and at
 **Modern Applications:**
 different perspectives, value systems, self awareness, inner growth, mindful living, social conditioning, clarity of priorities
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

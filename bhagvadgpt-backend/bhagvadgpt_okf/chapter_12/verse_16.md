@@ -19,6 +19,12 @@ tags:
 - reducing anxiety in action
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/16
+chapter: 12
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 16
@@ -45,3 +51,7 @@ For Arjuna, these qualities describe the transformation Krishna is encouraging. 
 **Modern Applications:**
 freedom from expectations, clarity of intention, competence and responsibility, impartial decision making, reducing anxiety in action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -15,6 +15,12 @@ tags:
 - stress immunity
 related:
 - chapter_6/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/7
+chapter: 5
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 7
@@ -36,3 +42,7 @@ Krishna reveals that entanglement is not caused by the action itself, but by the
 **Modern Applications:**
 burnout prevention, emotional intelligence, sense control, empathy, stress immunity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

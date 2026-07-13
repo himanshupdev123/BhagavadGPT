@@ -21,6 +21,12 @@ tags:
 - true minimalism
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/3
+chapter: 5
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 3
@@ -42,3 +48,7 @@ Krishna introduces the practical solution of becoming free from 'dualities'—th
 **Modern Applications:**
 emotional balance, mental fatigue, desire and aversion, true minimalism, overcoming resentment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

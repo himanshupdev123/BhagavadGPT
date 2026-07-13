@@ -24,6 +24,12 @@ related:
 - chapter_4/verse_37
 - chapter_4/verse_38
 - chapter_4/verse_41
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/35
+chapter: 4
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 35
@@ -47,3 +53,7 @@ In modern life, many conflicts arise because people strongly identify with limit
 **Modern Applications:**
 self awareness, clarity, unity, overcoming confusion, expanded perspective
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

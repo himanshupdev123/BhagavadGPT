@@ -6,6 +6,12 @@ description: Behold the Adityas, the Vasus, the Rudras, the Ashvins, and the Mar
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/6
+chapter: 11
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 6
@@ -27,3 +33,7 @@ Krishna also tells Arjuna that he will see wonders never before experienced. Thi
 
 Within the narrative of the Gita, this verse builds anticipation for the extraordinary revelation about to unfold. Arjuna is being invited to witness a vision where many layers of existence, usually perceived as separate, appear together within a single cosmic reality.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

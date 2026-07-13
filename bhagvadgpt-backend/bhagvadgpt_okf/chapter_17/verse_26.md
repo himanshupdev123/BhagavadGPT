@@ -16,6 +16,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/26
+chapter: 17
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 26
@@ -44,3 +50,7 @@ Would you like to audit a current goal of yours to see if it meets the 'Sat' cri
 **Modern Applications:**
 Radical Authenticity, Value-Creation vs. Value-Extraction, The Lindy Effect, Integrity-based Branding, Ethical Sustainability, Substance over Optics, Psychological Grounding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -6,6 +6,12 @@ description: There are many other heroes who are prepared to lay down their live
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/9
+chapter: 1
+verse_number: 9
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 9
@@ -24,3 +30,7 @@ There is a subtle but deep irony here. Duryodhana notes that these men are 'prep
 
 Just as Arjuna was paralyzed by the sight of friends and family on both sides, Duryodhana is blinded by his own ambition. However, while Arjuna’s struggle is internal and moral, Duryodhana’s focus remains entirely external—calculating numbers, weapons, and military expertise. He measures his worth and his chances of success by the sheer force of the people he controls, rather than the morality of his cause.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - the illusion of permanence
 - the rhythm of reality
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/18
+chapter: 8
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 18
@@ -38,3 +44,7 @@ Krishna explains the absolute, mechanical rhythm of the universe. When the cosmi
 **Modern Applications:**
 the rhythm of reality, letting go of the status quo, the illusion of permanence, creation and dissolution, accepting endings
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - self
 - self-blame
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/45
+chapter: 1
+verse_number: 45
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 45
@@ -41,3 +47,7 @@ Just as Arjuna begins to condemn himself for actions he has not yet taken, moder
 **Modern Applications:**
 self-blame, moral guilt, emotional reasoning, decision paralysis, distorted thinking under stress
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

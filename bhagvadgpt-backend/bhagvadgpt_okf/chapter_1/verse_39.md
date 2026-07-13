@@ -18,6 +18,12 @@ tags:
 - moral awareness
 - moral hesitation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/39
+chapter: 1
+verse_number: 39
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 39
@@ -42,3 +48,7 @@ Just as Arjuna believes that awareness of consequences should stop harmful actio
 **Modern Applications:**
 ethical responsibility, moral awareness, consequences of actions, family stability, moral hesitation, decision conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

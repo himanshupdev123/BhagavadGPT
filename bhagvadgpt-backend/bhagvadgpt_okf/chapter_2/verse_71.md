@@ -33,6 +33,12 @@ related:
 - chapter_5/verse_26
 - chapter_2/verse_70
 - chapter_6/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/71
+chapter: 2
+verse_number: 71
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 71
@@ -57,3 +63,7 @@ Psychologically, the verse highlights the difference between participation and p
 **Modern Applications:**
 ego management, letting go of attachment, desire management, inner peace, self awareness, emotional freedom, minimalism mindset
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -14,6 +14,12 @@ tags:
 - revisiting past assumptions
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/41
+chapter: 11
+verse_number: 41
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 41
@@ -40,3 +46,7 @@ Psychologically, this verse captures the moment when a person realizes that thei
 **Modern Applications:**
 revisiting past assumptions, humility after new understanding, recognizing unseen depth in others, growth through expanded awareness, reflection on past behavior
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

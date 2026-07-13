@@ -19,6 +19,12 @@ tags:
 - self-control
 - trust
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/31
+chapter: 3
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 31
@@ -40,3 +46,7 @@ In modern life, we often suffer from 'analysis paralysis' or a habitual skeptici
 **Modern Applications:**
 consistency, growth mindset, overcoming cynicism, trust, liberation, integrity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

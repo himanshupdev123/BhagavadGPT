@@ -22,6 +22,12 @@ related:
 - chapter_13/verse_8
 - chapter_9/verse_1
 - chapter_9/verse_15
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/67
+chapter: 18
+verse_number: 67
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 67
@@ -43,3 +49,7 @@ This applies to any high-level learning or mentorship today. Without 'skin in th
 **Modern Applications:**
 receptivity, mindset, intellectual humility, self-discipline, communication, mentorship, open-mindedness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

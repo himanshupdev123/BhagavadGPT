@@ -25,6 +25,12 @@ related:
 - chapter_2/verse_18
 - chapter_2/verse_31
 - chapter_5/verse_2
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/32
+chapter: 2
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 32
@@ -46,3 +52,7 @@ Psychologically, this verse teaches us the profound power of cognitive reframing
 **Modern Applications:**
 cognitive reframing, purpose, opportunity in crisis, duty, perspective shift, challenge as growth, resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

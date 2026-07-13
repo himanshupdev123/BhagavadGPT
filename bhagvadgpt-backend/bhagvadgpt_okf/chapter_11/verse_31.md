@@ -16,6 +16,12 @@ tags:
 - seeking clarity in confusion
 - surrender
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/31
+chapter: 11
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 31
@@ -42,3 +48,7 @@ Psychologically, this verse captures a crucial stage in learning and transformat
 **Modern Applications:**
 intellectual humility, seeking clarity in confusion, questioning assumptions, facing the limits of understanding, learning through surrender of ego
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

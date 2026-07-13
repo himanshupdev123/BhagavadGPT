@@ -24,6 +24,12 @@ related:
 - chapter_4/verse_28
 - chapter_4/verse_35
 - chapter_4/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/38
+chapter: 4
+verse_number: 38
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 38
@@ -47,3 +53,7 @@ Krishna’s teaching highlights that wisdom is a gradual inner discovery. Throug
 **Modern Applications:**
 self awareness, learning, personal growth, clarity, inner development
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

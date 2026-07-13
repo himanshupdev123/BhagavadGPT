@@ -21,6 +21,12 @@ tags:
 - mind control
 - moving from knowledge to lived understanding
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/54
+chapter: 11
+verse_number: 54
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 54
@@ -45,3 +51,7 @@ Psychologically, the verse highlights the power of focused attention. When the m
 **Modern Applications:**
 focused devotion, mental fragmentation versus clarity, alignment of thought and action, deep focus and purpose, moving from knowledge to lived understanding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

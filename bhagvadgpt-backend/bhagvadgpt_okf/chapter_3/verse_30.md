@@ -19,6 +19,12 @@ tags:
 related:
 - chapter_9/verse_22
 - chapter_9/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/30
+chapter: 3
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 30
@@ -40,3 +46,7 @@ By adopting the mindset suggested here, you stop viewing your work as a burden f
 **Modern Applications:**
 peak performance, burnout prevention, anxiety management, detachment, flow state, purpose-driven work
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

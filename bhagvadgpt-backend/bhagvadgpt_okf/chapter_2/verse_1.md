@@ -18,6 +18,12 @@ tags:
 related:
 - chapter_2/verse_6
 - chapter_2/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/1
+chapter: 2
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 1
@@ -44,3 +50,7 @@ This verse therefore captures the precise moment when guidance becomes necessary
 **Modern Applications:**
 emotional overwhelm, decision paralysis, grief, moral confusion, need for guidance, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

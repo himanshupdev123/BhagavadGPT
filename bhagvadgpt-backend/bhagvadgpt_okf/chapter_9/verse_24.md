@@ -20,6 +20,12 @@ tags:
 - misaligned actions
 - pride
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/24
+chapter: 9
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 24
@@ -41,3 +47,7 @@ When our underlying motive is shallow or misaligned, even the hardest work event
 **Modern Applications:**
 burnout, loss of purpose, ego gratification, misaligned actions, finding your why, mental regression
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

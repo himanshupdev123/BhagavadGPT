@@ -13,6 +13,12 @@ tags:
 - The Empty Shell of Productivity
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/28
+chapter: 17
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 28
@@ -38,3 +44,7 @@ This marks the end of the 'Three Gunas' analysis. We’ve looked at our food, ou
 **Modern Applications:**
 Cognitive Dissonance, Performative Virtue, Radical Sincerity, The Empty Shell of Productivity, Intrinsic Value, Legacy vs. Noise, Psychological Inauthenticity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 - separation
 related:
 - chapter_2/verse_1
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/8
+chapter: 2
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 8
@@ -51,3 +57,7 @@ Arjuna’s statement shows that he has reached a point of complete emotional exh
 **Modern Applications:**
 emotional exhaustion, grief, emptiness despite success, mental overwhelm, loss of motivation, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

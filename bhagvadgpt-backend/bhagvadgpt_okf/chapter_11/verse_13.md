@@ -5,6 +5,12 @@ description: At that moment Arjuna saw within the body of the Supreme Lord the e
   universe, divided in many w...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/13
+chapter: 11
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 13
@@ -26,3 +32,7 @@ For Arjuna, who earlier focused only on the battlefield and the individuals stan
 
 Within the narrative of the Gita, this verse shows the purpose of the universal form. Krishna is allowing Arjuna to witness directly that the many divisions seen in ordinary life are expressions within a single vast order that contains all beings and events.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

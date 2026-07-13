@@ -20,6 +20,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/50
+chapter: 18
+verse_number: 50
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 50
@@ -50,3 +56,7 @@ Are you ready for the 'Executive Summary' of the Absolute? Krishna is about to g
 **Modern Applications:**
 From Mastery to Being, Distilled Wisdom (Samāsena), The Source Code Realization, Transition to Transcendence, Experiential Realization, Cognitive Evolution, The Ultimate Mental Baseline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

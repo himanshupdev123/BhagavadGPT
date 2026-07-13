@@ -21,6 +21,12 @@ tags:
 - surrender
 - the lifecycle of success
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/6
+chapter: 7
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 6
@@ -42,3 +48,7 @@ Krishna completely shatters this illusion of permanence by establishing Himself 
 **Modern Applications:**
 impermanence, existential anxiety, letting go of control, fear of endings, the lifecycle of success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

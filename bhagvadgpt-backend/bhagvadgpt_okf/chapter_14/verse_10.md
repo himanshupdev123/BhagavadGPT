@@ -19,6 +19,12 @@ tags:
 - self-control
 - state management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/10
+chapter: 14
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 10
@@ -40,3 +46,7 @@ Understanding this constant fluctuation offers profound psychological relief. Mo
 **Modern Applications:**
 inconsistency, internal conflict, mood swings, self-compassion, mindfulness, state management
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

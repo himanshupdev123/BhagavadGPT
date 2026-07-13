@@ -24,6 +24,12 @@ related:
 - chapter_14/verse_19
 - chapter_15/verse_13
 - chapter_5/verse_13
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/9
+chapter: 5
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 9
@@ -45,3 +51,7 @@ Krishna provides the ultimate psychological tool for detachment: firmly holding 
 **Modern Applications:**
 over-identification, mind-body separation, the observer effect, ego detachment, letting go
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

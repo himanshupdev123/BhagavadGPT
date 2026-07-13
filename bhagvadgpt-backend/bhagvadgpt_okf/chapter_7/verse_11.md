@@ -26,6 +26,12 @@ tags:
 - toxic
 - toxic power vs divine strength
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/11
+chapter: 7
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 11
@@ -47,3 +53,7 @@ Krishna completely resolves this conflict by separating the tool from the toxici
 **Modern Applications:**
 ethical ambition, toxic power vs divine strength, alignment with purpose, biological drives, dharma in action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

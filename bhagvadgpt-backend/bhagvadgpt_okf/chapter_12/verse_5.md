@@ -14,6 +14,12 @@ tags:
 - mind control
 - psychological need for relatable forms
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/5
+chapter: 12
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 5
@@ -38,3 +44,7 @@ The verse therefore highlights a realistic insight about human learning. Underst
 **Modern Applications:**
 difficulty of abstract thinking, limits of human perception, psychological need for relatable forms, mental discipline for deep focus, challenges of purely conceptual understanding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 - rage
 - responsibility
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/34
+chapter: 11
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 34
@@ -49,3 +55,7 @@ Psychologically, the verse exposes how emotional attachments can cloud judgment 
 **Modern Applications:**
 emotional paralysis in difficult decisions, facing respected authority figures, duty versus personal attachment, overcoming hesitation, courage to act despite fear
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

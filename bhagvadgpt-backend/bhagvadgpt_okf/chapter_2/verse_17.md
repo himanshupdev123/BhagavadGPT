@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_20
 - chapter_2/verse_23
 - chapter_2/verse_18
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/17
+chapter: 2
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 17
@@ -45,3 +51,7 @@ Understanding this principle creates a profound psychological shift. If our deep
 **Modern Applications:**
 existential anxiety, fear of death, resilience, core identity, courage, consciousness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

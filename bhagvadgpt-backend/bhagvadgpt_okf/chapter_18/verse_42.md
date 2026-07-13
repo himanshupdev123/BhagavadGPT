@@ -17,6 +17,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/42
+chapter: 18
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 42
@@ -49,3 +55,7 @@ Do you find that your most fulfilling work happens when you are in 'problem-solv
 **Modern Applications:**
 Ethical Leadership, Deep Focus and Discipline, Radical Integrity, Applied Wisdom (Vijñānam), Mental Hygiene, Long-Term Visionary Thinking, The Intellectual North Star
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

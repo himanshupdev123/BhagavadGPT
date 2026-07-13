@@ -22,6 +22,12 @@ related:
 - chapter_15/verse_6
 - chapter_3/verse_22
 - chapter_5/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/17
+chapter: 3
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 17
@@ -45,3 +51,7 @@ This verse presents a radical psychological shift: finding validation entirely f
 **Modern Applications:**
 internal validation, self-worth, contentment, intrinsic motivation, deficit mindset, independence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

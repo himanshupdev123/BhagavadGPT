@@ -22,6 +22,12 @@ tags:
 - separation
 - toxic
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/24
+chapter: 18
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 24
@@ -53,3 +59,7 @@ Take a look at the project or responsibility that is currently exhausting you th
 **Modern Applications:**
 Toxic Hustle Culture, Ego-Task Fusion, The Anatomy of Burnout, Internal Resistance, Main Character Syndrome, High-Friction Execution, Outcome-Obsession
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

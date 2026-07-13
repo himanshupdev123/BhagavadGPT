@@ -21,6 +21,12 @@ related:
 - chapter_13/verse_1
 - chapter_13/verse_6
 - chapter_13/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/5
+chapter: 14
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 5
@@ -42,3 +48,7 @@ On a practical level, this explains why your mood and motivation fluctuate so wi
 **Modern Applications:**
 emotional regulation, self-awareness, psychological states, habitual patterns, mood fluctuations, mindfulness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -33,6 +33,12 @@ related:
 - chapter_2/verse_39
 - chapter_2/verse_48
 - chapter_2/verse_51
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/49
+chapter: 2
+verse_number: 49
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 49
@@ -57,3 +63,7 @@ Krishna calls such thinking narrow because it reduces action to a transaction—
 **Modern Applications:**
 intrinsic motivation, detachment from outcomes, purpose driven work, overthinking results, focus on responsibility, mental stability, freedom from external validation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - unbiased thinking
 related:
 - chapter_6/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/9
+chapter: 6
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 9
@@ -40,3 +46,7 @@ In modern life, people often categorize others quickly as allies or enemies, goo
 **Modern Applications:**
 emotional balance, fairness, unbiased thinking, emotional intelligence, social harmony
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -16,6 +16,12 @@ tags:
 - self
 - self-awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/17
+chapter: 14
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 17
@@ -37,3 +43,7 @@ Finally, the text warns that ignorance produces negligence, delusion, and foolis
 **Modern Applications:**
 clarity vs delusion, greed, cognitive distortion, escapism, self-awareness, mindset outputs
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

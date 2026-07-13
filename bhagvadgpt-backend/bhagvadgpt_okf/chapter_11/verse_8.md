@@ -14,6 +14,12 @@ tags:
 - seeing beyond appearances
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/8
+chapter: 11
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 8
@@ -38,3 +44,7 @@ Psychologically, the verse highlights a broader principle. Human understanding i
 **Modern Applications:**
 limits of perception, expanding awareness, seeing beyond appearances, deeper understanding of reality, beyond ordinary perspective
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

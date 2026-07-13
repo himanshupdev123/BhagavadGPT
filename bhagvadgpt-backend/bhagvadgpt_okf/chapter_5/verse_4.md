@@ -24,6 +24,12 @@ related:
 - chapter_15/verse_3
 - chapter_3/verse_1
 - chapter_5/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/4
+chapter: 5
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 4
@@ -45,3 +51,7 @@ Krishna classifies this binary thinking as childish. True wisdom recognizes that
 **Modern Applications:**
 theory vs practice, analysis paralysis, mindful action, integration, overthinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -6,6 +6,12 @@ description: Arjuna saw a form with many mouths and eyes, filled with many aston
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/10
+chapter: 11
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 10
@@ -27,3 +33,7 @@ For Arjuna, this vision begins to challenge the normal boundaries of human perce
 
 Within the narrative of the Gita, this verse marks the beginning of Arjuna's encounter with a reality far larger than anything he has previously imagined. The cosmic form reveals that the divine encompasses countless aspects of existence simultaneously, uniting diversity, power, and order within one boundless presence.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

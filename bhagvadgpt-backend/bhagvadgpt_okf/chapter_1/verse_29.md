@@ -16,6 +16,12 @@ tags:
 - stress response
 related:
 - chapter_1/verse_30
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/29
+chapter: 1
+verse_number: 29
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 29
@@ -40,3 +46,7 @@ Arjuna’s condition shows the beginning of a psychological breakdown. His abili
 **Modern Applications:**
 anxiety, stress response, mind-body connection, emotional overwhelm, decision stress, psychological pressure
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

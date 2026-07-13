@@ -18,6 +18,12 @@ tags:
 - self-observation
 related:
 - chapter_18/verse_61
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/9
+chapter: 14
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 9
@@ -39,3 +45,7 @@ In modern life, we bounce between these states constantly. You might feel peacef
 **Modern Applications:**
 self-observation, mood regulation, psychological conditioning, coping mechanisms, awareness, mental states
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

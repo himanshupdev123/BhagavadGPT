@@ -22,6 +22,12 @@ tags:
 - motivate
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/52
+chapter: 18
+verse_number: 52
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 52
@@ -52,3 +58,7 @@ How much of your 'leaking energy' today went into meaningless scrolling or over-
 **Modern Applications:**
 Digital & Physical Solitude, Metabolic Clarity, Energy Conservation, Triple-Layer Self-Regulation, The Background Meditation Process, Bio-hacking for Mental Sharpness, Environmental Design for Focus
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

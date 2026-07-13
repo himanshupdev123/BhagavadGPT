@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_14/verse_12
 - chapter_9/verse_12
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/7
+chapter: 14
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 7
@@ -44,3 +50,7 @@ In today's world, this translates directly to hustle culture and the resulting b
 **Modern Applications:**
 hustle culture, burnout, ambition, endless desires, restlessness, attachment to outcomes
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

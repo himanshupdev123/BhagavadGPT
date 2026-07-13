@@ -23,6 +23,12 @@ related:
 - chapter_2/verse_71
 - chapter_5/verse_26
 - chapter_6/verse_15
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/20
+chapter: 6
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 20
@@ -46,3 +52,7 @@ In modern life, constant stimulation and competition often keep the mind restles
 **Modern Applications:**
 meditation, inner peace, self awareness, mental calm, contentment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

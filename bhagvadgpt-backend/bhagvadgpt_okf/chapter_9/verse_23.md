@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_15/verse_1
 - chapter_2/verse_42
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/23
+chapter: 9
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 23
@@ -42,3 +48,7 @@ The impulse itself is completely natural—we are all desperately seeking a sens
 **Modern Applications:**
 misdirected energy, external validation, seeking fulfillment, materialism, internal alignment, idolatry of success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

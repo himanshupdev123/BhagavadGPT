@@ -27,6 +27,12 @@ related:
 - chapter_2/verse_45
 - chapter_2/verse_47
 - chapter_2/verse_49
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/48
+chapter: 2
+verse_number: 48
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 48
@@ -51,3 +57,7 @@ Krishna defines yoga as freedom from this cycle. A person who remains mentally b
 **Modern Applications:**
 emotional balance, detachment from outcomes, resilience, focus on effort, managing success and failure, mental stability, performance without anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

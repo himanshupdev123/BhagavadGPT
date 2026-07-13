@@ -22,6 +22,12 @@ tags:
 - playing to strengths
 - results don't matter
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/25
+chapter: 13
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 25
@@ -43,3 +49,7 @@ Then there are those who thrive in the realm of dynamic action. Stepping away fr
 **Modern Applications:**
 neurodiversity, Karma Yoga, analytical thinking, leadership and operations, multiple intelligences, playing to strengths, path of action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

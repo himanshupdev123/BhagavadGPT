@@ -16,6 +16,12 @@ tags:
 - mind control
 - peace
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/37
+chapter: 18
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 37
@@ -45,3 +51,7 @@ Think about a goal you’ve abandoned because the 'poison' phase (the initial st
 **Modern Applications:**
 The Friction Tax, Delayed Gratification, Biological Price of Mastery, Long-term ROI on Discipline, Internalized Joy, Cognitive Resilience, The Hard Path to Peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

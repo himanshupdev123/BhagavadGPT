@@ -22,6 +22,12 @@ related:
 - chapter_13/verse_7
 - chapter_13/verse_1
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/2
+chapter: 13
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 2
@@ -44,3 +50,7 @@ When you step back and assume the role of the 'knower,' you stop being a helples
 **Modern Applications:**
 mindfulness, cognitive defusion, observer effect, self-awareness, detachment, identity, emotional regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

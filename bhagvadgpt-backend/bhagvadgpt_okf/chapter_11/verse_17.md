@@ -5,6 +5,12 @@ description: I see You crowned, holding a mace and a discus, shining with intens
   brilliance in all directions. Y...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/17
+chapter: 11
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 17
@@ -30,3 +36,7 @@ For Arjuna, this vision becomes increasingly difficult to comprehend. Human perc
 
 Within the narrative of the Gita, this verse continues building the sense of awe and intensity surrounding the universal form. The divine reality Arjuna is witnessing contains both recognizable symbols of divine authority and an overwhelming radiance that reflects the boundless power sustaining the universe.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

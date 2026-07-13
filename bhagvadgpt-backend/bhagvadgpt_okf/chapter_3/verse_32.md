@@ -24,6 +24,12 @@ tags:
 - self-sabotage
 related:
 - chapter_7/verse_15
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/32
+chapter: 3
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 32
@@ -46,3 +52,7 @@ The verse highlights a universal principle: wisdom only transforms a person when
 **Modern Applications:**
 ego and resistance to advice, intellectual arrogance, failure to apply knowledge, closed mindset, self-sabotage, learning vs practicing wisdom, personal growth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

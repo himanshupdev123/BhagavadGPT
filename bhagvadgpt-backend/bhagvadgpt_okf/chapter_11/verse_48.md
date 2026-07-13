@@ -17,6 +17,12 @@ tags:
 - separation
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/48
+chapter: 11
+verse_number: 48
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 48
@@ -45,3 +51,7 @@ Psychologically, the verse highlights the limits of purely external methods for 
 **Modern Applications:**
 limits of external rituals, illusion of formula based success, inner readiness for insight, beyond intellectual understanding, depth beyond surface practices
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

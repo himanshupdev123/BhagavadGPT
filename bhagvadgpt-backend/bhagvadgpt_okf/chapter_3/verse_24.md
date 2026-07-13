@@ -21,6 +21,12 @@ related:
 - chapter_2/verse_31
 - chapter_2/verse_33
 - chapter_3/verse_4
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/24
+chapter: 3
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 24
@@ -42,3 +48,7 @@ Modern individuals frequently suffer from this same delusion. We often convince 
 **Modern Applications:**
 responsibility, consequences of inaction, leadership, avoidance, chaos, social order
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

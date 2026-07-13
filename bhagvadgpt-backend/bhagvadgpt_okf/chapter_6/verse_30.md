@@ -18,6 +18,12 @@ related:
 - chapter_13/verse_3
 - chapter_14/verse_4
 - chapter_6/verse_29
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/30
+chapter: 6
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 30
@@ -41,3 +47,7 @@ In modern life, many people feel isolated or disconnected because they focus pri
 **Modern Applications:**
 unity, interconnectedness, empathy, spiritual awareness, perspective
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

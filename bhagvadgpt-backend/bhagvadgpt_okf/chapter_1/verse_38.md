@@ -15,6 +15,12 @@ tags:
 - power and corruption
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/38
+chapter: 1
+verse_number: 38
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 38
@@ -39,3 +45,7 @@ Just as Arjuna observes that greed has clouded the judgment of the Kauravas, mod
 **Modern Applications:**
 greed, ethical blindness, power and corruption, betrayal of trust, moral consequences, desire clouding judgment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

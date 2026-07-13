@@ -19,6 +19,12 @@ tags:
 - transactional mindset
 related:
 - chapter_3/verse_17
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/22
+chapter: 3
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 22
@@ -40,3 +46,7 @@ Krishna shatters this transactional mindset. He introduces a paradigm of action 
 **Modern Applications:**
 intrinsic motivation, leadership, deficit mindset, abundance vs scarcity, transactional mindset, pure contribution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -14,6 +14,12 @@ tags:
 - systems thinking
 - the non-doer mindset
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/30
+chapter: 13
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 30
@@ -37,3 +43,7 @@ For someone managing complex operations or learning intricate logic like JavaScr
 **Modern Applications:**
 systems thinking, de-personalizing failure, performance anxiety, cognitive offloading, the non-doer mindset, objective troubleshooting, flow states
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -12,6 +12,12 @@ tags:
 - philosophical contemplation
 - seeking the unchanging behind change
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/3
+chapter: 12
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 3
@@ -36,3 +42,7 @@ Psychologically, the verse highlights a difference in human cognitive styles. So
 **Modern Applications:**
 abstract understanding of reality, philosophical contemplation, seeking the unchanging behind change, different cognitive approaches to truth, discipline of abstract thinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

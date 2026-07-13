@@ -22,6 +22,12 @@ related:
 - chapter_6/verse_42
 - chapter_4/verse_38
 - chapter_6/verse_45
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/43
+chapter: 6
+verse_number: 43
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 43
@@ -45,3 +51,7 @@ In modern life, people sometimes feel discouraged when progress toward personal 
 **Modern Applications:**
 personal growth, learning, long term development, self improvement, persistence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

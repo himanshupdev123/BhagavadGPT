@@ -18,6 +18,12 @@ related:
 - chapter_14/verse_24
 - chapter_2/verse_63
 - chapter_2/verse_64
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/10
+chapter: 4
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 10
@@ -39,3 +45,7 @@ Krishna offers the way out: the discipline of knowledge. Instead of merely tryin
 **Modern Applications:**
 detachment, emotional regulation, anxiety, anger management, overcoming fear
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

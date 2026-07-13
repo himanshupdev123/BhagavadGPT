@@ -21,6 +21,12 @@ related:
 - chapter_2/verse_33
 - chapter_3/verse_1
 - chapter_3/verse_25
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/15
+chapter: 4
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 15
@@ -42,3 +48,7 @@ Krishna shatters this illusion. He explains that true psychological freedom is a
 **Modern Applications:**
 escapism, duty, role models, taking action, burnout
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

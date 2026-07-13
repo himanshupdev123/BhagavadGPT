@@ -17,6 +17,12 @@ tags:
 - self
 - self improvement
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/32
+chapter: 9
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 32
@@ -41,3 +47,7 @@ Krishna removes this barrier. The decisive factor is not where a person begins b
 **Modern Applications:**
 equal opportunity for growth, breaking social barriers, beyond social status, self improvement, overcoming limiting beliefs, inner potential
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

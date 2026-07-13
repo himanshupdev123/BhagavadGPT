@@ -22,6 +22,12 @@ related:
 - chapter_2/verse_33
 - chapter_2/verse_35
 - chapter_2/verse_36
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/34
+chapter: 2
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 34
@@ -43,3 +49,7 @@ Psychologically, this verse touches upon the deep human need for purpose, integr
 **Modern Applications:**
 reputation, self-respect, shame, avoidance, integrity, fear of failure, social standing, psychological burden
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - temporary
 - the illusion of free will
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/19
+chapter: 8
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 19
@@ -38,3 +44,7 @@ Krishna reveals that on a cosmic scale, this happens to everyone who lacks self-
 **Modern Applications:**
 the illusion of free will, breaking the loop, helplessness and victimization, karmic programming, taking control of consciousness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

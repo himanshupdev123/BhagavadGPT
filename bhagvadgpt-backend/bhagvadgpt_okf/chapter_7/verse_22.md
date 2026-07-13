@@ -15,6 +15,12 @@ tags:
 - ultimate source
 - universal supply chain
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/22
+chapter: 7
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 22
@@ -36,3 +42,7 @@ Krishna exposes the absolute reality of the supply chain. You might invest massi
 **Modern Applications:**
 the illusion of independent power, systemic functioning, universal supply chain, manipulating middlemen, ultimate source
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

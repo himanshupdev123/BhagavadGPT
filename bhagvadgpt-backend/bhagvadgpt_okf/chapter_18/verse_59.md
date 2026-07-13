@@ -19,6 +19,12 @@ tags:
 - subconscious conditioning
 related:
 - chapter_18/verse_60
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/59
+chapter: 18
+verse_number: 59
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 59
@@ -40,3 +46,7 @@ Psychologically, this highlights the futility of suppression. If you try to be s
 **Modern Applications:**
 self-discovery, subconscious conditioning, authenticity, internal conflict, nature vs nurture, ego-delusion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

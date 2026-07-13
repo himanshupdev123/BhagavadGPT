@@ -13,6 +13,12 @@ tags:
 - source of knowledge
 - unity behind complex systems
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/38
+chapter: 11
+verse_number: 38
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 38
@@ -39,3 +45,7 @@ This realization reflects Arjuna’s shift from emotional shock to intellectual 
 **Modern Applications:**
 search for ultimate truth, unity behind complex systems, source of knowledge, interconnectedness of reality, philosophical inquiry into existence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

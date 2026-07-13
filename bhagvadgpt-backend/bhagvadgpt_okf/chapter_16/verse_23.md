@@ -13,6 +13,12 @@ tags:
 - The need for structure
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/23
+chapter: 16
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 23
@@ -38,3 +44,7 @@ Would you like to explore an area of your life where you've been 'winging it' ba
 **Modern Applications:**
 Instant Gratification, Decision Fatigue, The need for structure, Living by principles, Objective vs. Subjective truth, Systemic success, The 'User Manual' for life
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

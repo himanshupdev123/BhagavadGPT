@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_10/verse_23
 - chapter_10/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/21
+chapter: 10
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 21
@@ -44,3 +50,7 @@ This verse begins a series of examples that guide the mind to see unity behind d
 **Modern Applications:**
 seeing greatness in nature, recognizing excellence, finding meaning in the universe, awareness of natural forces, seeing patterns in reality, unity behind diversity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

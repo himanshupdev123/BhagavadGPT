@@ -25,6 +25,12 @@ related:
 - chapter_2/verse_65
 - chapter_15/verse_19
 - chapter_15/verse_3
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/53
+chapter: 2
+verse_number: 53
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 53
@@ -51,3 +57,7 @@ Krishna’s teaching suggests that wisdom appears when the mind becomes stable a
 **Modern Applications:**
 mental clarity, information overload, decision making, focus, overthinking, inner stability, clarity of judgment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

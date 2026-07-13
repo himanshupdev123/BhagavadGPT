@@ -18,6 +18,12 @@ tags:
 - purposeful action
 related:
 - chapter_5/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/16
+chapter: 9
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 16
@@ -39,3 +45,7 @@ By adopting the mindset presented here, we begin to see that the process, the to
 **Modern Applications:**
 integration, compartmentalization, mindfulness, flow state, interconnectedness, purposeful action, alienation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -14,6 +14,12 @@ tags:
 - seeking clarity
 related:
 - chapter_5/verse_1
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/2
+chapter: 3
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 2
@@ -35,3 +41,7 @@ Arjuna's plea to be told "that one thing" highlights a common human desire to es
 **Modern Applications:**
 decision making, cognitive dissonance, seeking clarity, critical thinking, confusion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

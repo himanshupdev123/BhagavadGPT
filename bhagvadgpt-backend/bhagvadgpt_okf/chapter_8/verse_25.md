@@ -16,6 +16,12 @@ tags:
 - the trap of temporary success
 - unfinished business
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/25
+chapter: 8
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 25
@@ -37,3 +43,7 @@ Krishna uses the metaphors of smoke, night, and the waning moon to describe a co
 **Modern Applications:**
 the path of darkness, unfinished business, the trap of temporary success, operating in the smoke, forced repetition
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

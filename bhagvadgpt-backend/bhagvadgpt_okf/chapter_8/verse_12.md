@@ -19,6 +19,12 @@ tags:
 - mind control
 - sensory deprivation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/12
+chapter: 8
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 12
@@ -40,3 +46,7 @@ Krishna demands a complete, deliberate lockdown: 'sarva-dvarani sanyamya' (closi
 **Modern Applications:**
 sensory deprivation, deep work, environmental design, focus and isolation, locking down distractions
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

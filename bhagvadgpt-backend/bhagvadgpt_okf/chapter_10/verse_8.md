@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_10/verse_3
 - chapter_10/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/8
+chapter: 10
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 8
@@ -47,3 +53,7 @@ In modern terms, people often feel scattered because they perceive life as disco
 **Modern Applications:**
 search for deeper meaning, seeing the bigger picture, purpose centered living, alignment with higher principles, clarity of worldview, integrating values and actions
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -24,6 +24,12 @@ tags:
 - pride
 - suffering
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/5
+chapter: 17
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 5
@@ -49,3 +55,7 @@ Have you ever felt pressured to 'suffer' or overwork yourself just to keep up an
 **Modern Applications:**
 Performative Suffering, Toxic Grind Culture, Overcompensation, Ego-driven Biohacking, Burnout as a Status Symbol, The Aesthetic of Effort, Unscientific Austerity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

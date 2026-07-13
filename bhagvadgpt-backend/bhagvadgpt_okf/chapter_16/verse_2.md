@@ -29,6 +29,12 @@ tags:
 - steady focus
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/2
+chapter: 16
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 2
@@ -52,3 +58,7 @@ Would you like to try a 'no-faultfinding' challenge for the next 24 hours to see
 **Modern Applications:**
 social-emotional intelligence, digital detox from outrage, nervous system regulation, compassionate leadership, self-esteem vs. ego, steady focus, non-violence in communication
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

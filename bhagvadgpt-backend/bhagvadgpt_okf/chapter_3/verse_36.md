@@ -23,6 +23,12 @@ tags:
 - self-control
 - self-sabotage
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/36
+chapter: 3
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 36
@@ -47,3 +53,7 @@ By raising this question, Arjuna represents the struggle of every person who tri
 **Modern Applications:**
 self-sabotage, loss of self-control, addiction and compulsive behavior, conflict between knowledge and action, inner psychological conflict, impulse vs reason
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

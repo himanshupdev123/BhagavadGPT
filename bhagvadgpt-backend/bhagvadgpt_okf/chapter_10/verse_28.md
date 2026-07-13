@@ -14,6 +14,12 @@ tags:
 - recognizing natural power
 - sources of nourishment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/28
+chapter: 10
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 28
@@ -38,3 +44,7 @@ For Arjuna, the message continues to expand his perception. Forces of power, nou
 **Modern Applications:**
 power and force, sources of nourishment, creative energy, life sustaining forces, recognizing natural power
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

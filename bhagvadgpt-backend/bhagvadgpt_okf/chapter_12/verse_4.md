@@ -18,6 +18,12 @@ tags:
 - sense control
 - time management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/4
+chapter: 12
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 4
@@ -42,3 +48,7 @@ For Arjuna, this teaching shows that the path of abstract realization is not mer
 **Modern Applications:**
 sense control, emotional stability, balanced thinking, concern for collective wellbeing, discipline for deeper understanding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

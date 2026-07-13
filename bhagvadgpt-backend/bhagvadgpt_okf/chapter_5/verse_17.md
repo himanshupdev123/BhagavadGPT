@@ -14,6 +14,12 @@ tags:
 - psychological alignment
 - relapse prevention
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/17
+chapter: 5
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 17
@@ -35,3 +41,7 @@ Krishna provides the exact mechanism to break this exhausting cycle. You must lo
 **Modern Applications:**
 psychological alignment, relapse prevention, habit transformation, internal fragmentation, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

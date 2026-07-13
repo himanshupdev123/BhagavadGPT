@@ -16,6 +16,12 @@ tags:
 - mind control
 - the ultimate stress test
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/30
+chapter: 7
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 30
@@ -37,3 +43,7 @@ Krishna reveals the ultimate reward of a fully integrated life. Those who have s
 **Modern Applications:**
 the ultimate stress test, holistic integration, maintaining focus under pressure, dying well, bulletproof psychology
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

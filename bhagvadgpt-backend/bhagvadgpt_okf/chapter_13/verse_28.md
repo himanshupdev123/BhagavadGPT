@@ -12,6 +12,12 @@ tags:
 - social harmony
 - true vision
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/28
+chapter: 13
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 28
@@ -33,3 +39,7 @@ Furthermore, he emphasizes seeing the 'undestroyed within the destroyed.' In our
 **Modern Applications:**
 equality, overcoming prejudice, social harmony, permanence vs. impermanence, psychological safety, non-judgmental awareness, true vision
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

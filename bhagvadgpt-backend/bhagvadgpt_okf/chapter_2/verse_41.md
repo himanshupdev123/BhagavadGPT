@@ -30,6 +30,12 @@ related:
 - chapter_15/verse_3
 - chapter_18/verse_72
 - chapter_2/verse_39
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/41
+chapter: 2
+verse_number: 41
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 41
@@ -54,3 +60,7 @@ Krishna’s teaching emphasizes the power of clarity. When a person identifies t
 **Modern Applications:**
 focus, mental clarity, decision making, overthinking, distraction, purpose, determination
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

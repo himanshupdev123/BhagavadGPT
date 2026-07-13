@@ -15,6 +15,12 @@ tags:
 - the 1% rule
 - ultimate truth
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/3
+chapter: 7
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 3
@@ -36,3 +42,7 @@ Krishna destroys the illusion that ultimate clarity is a cheap, easily accessibl
 **Modern Applications:**
 the 1% rule, drifting vs execution, rarity of excellence, superficial success, ultimate truth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

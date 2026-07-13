@@ -14,6 +14,12 @@ tags:
 - separation
 - the path of light
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/24
+chapter: 8
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 24
@@ -35,3 +41,7 @@ Krishna metaphorically describes the perfect exit: passing away in the fire, the
 **Modern Applications:**
 the path of light, exiting with clarity, illuminated awareness, conscious transitions, leaving no baggage
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

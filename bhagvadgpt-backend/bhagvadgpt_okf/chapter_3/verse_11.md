@@ -17,6 +17,12 @@ tags:
 related:
 - chapter_13/verse_14
 - chapter_3/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/11
+chapter: 3
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 11
@@ -38,3 +44,7 @@ Krishna counters this by emphasizing 'parasparam bhavayantah' (nourishing one an
 **Modern Applications:**
 reciprocity, symbiosis, extractive mindset, mutual cooperation, interconnectedness, systems thinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

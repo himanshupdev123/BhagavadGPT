@@ -24,6 +24,12 @@ related:
 - chapter_6/verse_26
 - chapter_2/verse_41
 - chapter_2/verse_58
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/67
+chapter: 2
+verse_number: 67
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 67
@@ -48,3 +54,7 @@ Psychologically, the verse highlights the importance of mental direction. Modern
 **Modern Applications:**
 distraction, attention control, impulse control, focus, mental discipline, digital distractions, mind wandering
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

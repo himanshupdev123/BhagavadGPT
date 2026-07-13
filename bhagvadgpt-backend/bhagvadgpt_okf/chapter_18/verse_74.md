@@ -6,6 +6,12 @@ description: 'Sanjaya said: I have thus heard the conversation of two great soul
 tags:
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/74
+chapter: 18
+verse_number: 74
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 74
@@ -25,3 +31,7 @@ In the narrative structure of the Mahabharata, Sanjaya represents the objective 
 
 By including Sanjaya’s personal reaction, the text validates the profound impact of the Gita on anyone who is lucky enough to hear it with an open heart. It serves to emphasize that the knowledge provided is not just theoretical but has the power to cause a profound physical and emotional shift in the witness. It marks the end of the discourse and the return to the reality of the battlefield.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -5,6 +5,12 @@ description: Dhrishtaketu, Chekitana, and the valiant King of Kashi; Purujit, Ku
   and Saibya, the best of...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/5
+chapter: 1
+verse_number: 5
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 5
@@ -23,3 +29,7 @@ From a narrative and historical standpoint, this detailed enumeration serves a c
 
 Psychologically, this moment reveals Duryodhana’s hyper-vigilance. By listing the specific kings and commanders, he is externalizing his internal calculations and anxieties, ensuring that Dronacharya recognizes the massive threat they face and does not underestimate the enemy out of lingering affection for the Pandava brothers.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

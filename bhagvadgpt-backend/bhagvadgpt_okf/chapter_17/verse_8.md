@@ -17,6 +17,12 @@ tags:
 - mind control
 - motivate
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/8
+chapter: 17
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 8
@@ -42,3 +48,7 @@ Would you like to look at your current 'staple' foods and see if they are provid
 **Modern Applications:**
 Gut-Brain Axis, Nutrient Density, Clean Eating, Cognitive Performance, Sustained Energy, Bio-Hacking, Emotional Eating Regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

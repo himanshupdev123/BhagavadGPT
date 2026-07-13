@@ -21,6 +21,12 @@ related:
 - chapter_13/verse_1
 - chapter_13/verse_6
 - chapter_14/verse_5
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/28
+chapter: 3
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 28
@@ -42,3 +48,7 @@ By adopting the perspective of an observer, you create a psychological gap betwe
 **Modern Applications:**
 emotional intelligence, detachment, self-awareness, observer effect, identity, mindfulness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

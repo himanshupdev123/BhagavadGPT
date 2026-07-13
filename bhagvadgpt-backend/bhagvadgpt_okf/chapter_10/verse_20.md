@@ -16,6 +16,12 @@ tags:
 - self
 - shared human consciousness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/20
+chapter: 10
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 20
@@ -42,3 +48,7 @@ In psychological terms, this idea encourages individuals to look beyond surface 
 **Modern Applications:**
 shared human consciousness, seeing unity in life, beyond surface identities, broader perspective on life, awareness of deeper self, interconnectedness of beings
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

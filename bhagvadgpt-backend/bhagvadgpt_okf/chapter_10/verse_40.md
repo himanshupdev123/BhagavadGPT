@@ -17,6 +17,12 @@ tags:
 - separation
 related:
 - chapter_10/verse_42
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/40
+chapter: 10
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 40
@@ -41,3 +47,7 @@ This verse therefore closes the teaching about divine manifestations by emphasiz
 **Modern Applications:**
 expanding perspective, seeing the bigger picture, recognizing patterns in reality, beyond limited perception, appreciating vastness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

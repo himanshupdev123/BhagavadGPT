@@ -15,6 +15,12 @@ tags:
 - psychological assessment
 - symptoms of growth
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/21
+chapter: 14
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 21
@@ -37,3 +43,7 @@ This verse represents the transition from simply diagnosing a psychological prob
 **Modern Applications:**
 behavioral markers, psychological assessment, mental health milestones, emotional regulation, practical application, symptoms of growth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

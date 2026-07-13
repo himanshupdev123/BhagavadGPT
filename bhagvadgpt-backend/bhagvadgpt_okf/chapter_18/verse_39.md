@@ -19,6 +19,12 @@ tags:
 - karma
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/39
+chapter: 18
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 39
@@ -48,3 +54,7 @@ Do you find yourself seeking 'happiness' lately by simply trying to turn your br
 **Modern Applications:**
 Digital Sedation, The Avoidance Loop, The Escapist Trap, Cognitive Fog, The Path of Least Resistance, Self-Delusion as Comfort, The Cost of Inaction
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

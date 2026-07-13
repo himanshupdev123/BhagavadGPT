@@ -18,6 +18,12 @@ tags:
 - surrender
 related:
 - chapter_2/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/19
+chapter: 9
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 19
@@ -39,3 +45,7 @@ By understanding that both creation and destruction, being and non-being, are es
 **Modern Applications:**
 duality, radical acceptance, emotional resilience, spectrum of human experience, resisting reality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

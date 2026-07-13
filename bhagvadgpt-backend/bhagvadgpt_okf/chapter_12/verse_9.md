@@ -16,6 +16,12 @@ tags:
 - power of consistent practice
 - training the mind
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/9
+chapter: 12
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 9
@@ -40,3 +46,7 @@ Psychologically, the verse highlights the power of habit formation. Lasting chan
 **Modern Applications:**
 power of consistent practice, habit formation, training the mind, discipline over perfection, building focus through repetition
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -5,6 +5,12 @@ description: He saw fathers-in-law and well-wishers also in both armies. Seeing 
   these relatives standing ther...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/27
+chapter: 1
+verse_number: 27
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 27
@@ -26,3 +32,7 @@ This moment intensifies Arjuna’s internal tension. As the son of Kunti, he has
 
 The verse therefore deepens the emotional context of the scene. Arjuna’s awareness of the human relationships on both sides of the battlefield begins to weaken his readiness to fight. The recognition of these bonds prepares the ground for the emotional collapse that will soon follow, leading him into the moral and psychological crisis that defines the opening chapter of the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

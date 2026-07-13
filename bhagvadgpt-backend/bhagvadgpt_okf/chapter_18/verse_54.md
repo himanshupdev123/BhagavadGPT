@@ -22,6 +22,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/54
+chapter: 18
+verse_number: 54
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 54
@@ -50,3 +56,7 @@ Can you imagine a day where you didn't 'want' anything from anyone and didn't 'r
 **Modern Applications:**
 The Permanent Present, Radical Empathy, Emotional Self-Sufficiency, The End of Needy Transactions, Post-Anxiety Living, Universal Equality, Internalized Joy (Prasannātmā)
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

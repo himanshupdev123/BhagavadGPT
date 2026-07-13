@@ -21,6 +21,12 @@ related:
 - chapter_2/verse_48
 - chapter_2/verse_57
 - chapter_6/verse_22
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/22
+chapter: 4
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 22
@@ -44,3 +50,7 @@ Krishna’s teaching suggests a different mental framework. When a person remain
 **Modern Applications:**
 contentment, emotional balance, comparison, envy, resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

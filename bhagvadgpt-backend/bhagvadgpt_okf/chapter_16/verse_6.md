@@ -14,6 +14,12 @@ tags:
 - situational awareness
 - the spectrum of human nature
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/6
+chapter: 16
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 6
@@ -39,3 +45,7 @@ Would you like me to help you identify a few 'red flag' behaviors—either in yo
 **Modern Applications:**
 personality archetypes, shadow work, red flags, behavioral operating systems, situational awareness, moral psychology, the spectrum of human nature
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

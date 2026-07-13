@@ -20,6 +20,12 @@ tags:
 - time management
 related:
 - chapter_14/verse_2
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/56
+chapter: 2
+verse_number: 56
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 56
@@ -44,3 +50,7 @@ Psychologically, this verse describes emotional maturity. A stable mind does not
 **Modern Applications:**
 emotional resilience, managing stress, detachment from pleasure, overcoming fear, anger control, emotional stability, balanced mindset
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

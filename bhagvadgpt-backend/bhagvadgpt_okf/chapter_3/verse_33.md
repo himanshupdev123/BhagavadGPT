@@ -21,6 +21,12 @@ tags:
 - suppression vs understanding
 related:
 - chapter_3/verse_35
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/33
+chapter: 3
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 33
@@ -45,3 +51,7 @@ The verse does not encourage uncontrolled behavior. Instead, it emphasizes self-
 **Modern Applications:**
 human nature, behavioral conditioning, self-awareness, personality and habits, suppression vs understanding, authentic living, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

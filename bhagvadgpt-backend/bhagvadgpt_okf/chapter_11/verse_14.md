@@ -7,6 +7,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/14
+chapter: 11
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 14
@@ -28,3 +34,7 @@ This realization naturally produces humility. When confronted with something imm
 
 Within the narrative of the Gita, this verse marks the beginning of Arjuna's direct response to the cosmic vision. His words in the following verses will express both admiration and the deep emotional impact of witnessing the universal form.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

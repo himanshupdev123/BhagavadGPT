@@ -20,6 +20,12 @@ tags:
 - self-control
 - unbreakable determination
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/28
+chapter: 7
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 28
@@ -41,3 +47,7 @@ Krishna explains that psychological liberation is not a cheap trick; it is the a
 **Modern Applications:**
 breaking the loop, action over intention, purifying habits, unbreakable determination, auditing your life
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

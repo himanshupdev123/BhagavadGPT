@@ -17,6 +17,12 @@ tags:
 - purpose
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/16
+chapter: 3
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 16
@@ -38,3 +44,7 @@ Krishna states that a purely extractive existence is 'vain' or meaningless. This
 **Modern Applications:**
 hedonism, consumerism, meaninglessness, hyper-individualism, purpose, existential void
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

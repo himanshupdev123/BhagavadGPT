@@ -18,6 +18,12 @@ tags:
 - somatic empathy
 - the ego fortress
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/18
+chapter: 16
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 18
@@ -43,3 +49,7 @@ Have you ever noticed how your perception of other people shifts when you are op
 **Modern Applications:**
 antisocial behavior, psychological projection, lack of empathy, the ego fortress, somatic empathy, dehumanization, internalized self-hatred
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

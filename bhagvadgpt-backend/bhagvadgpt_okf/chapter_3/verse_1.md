@@ -26,6 +26,12 @@ related:
 - chapter_15/verse_3
 - chapter_2/verse_33
 - chapter_2/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/1
+chapter: 3
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 1
@@ -48,3 +54,7 @@ Arjuna's question highlights a misunderstanding of what true wisdom is. He think
 **Modern Applications:**
 overthinking, analysis paralysis, procrastination, escapism, duty
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

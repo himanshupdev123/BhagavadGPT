@@ -18,6 +18,12 @@ tags:
 related:
 - chapter_18/verse_73
 - chapter_4/verse_40
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/42
+chapter: 4
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 42
@@ -41,3 +47,7 @@ Krishna’s message emphasizes that clarity must eventually lead to action. Know
 **Modern Applications:**
 overcoming doubt, decision making, clarity, taking action, mental strength
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

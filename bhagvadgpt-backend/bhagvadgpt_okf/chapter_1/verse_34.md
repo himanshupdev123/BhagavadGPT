@@ -6,6 +6,12 @@ description: Teachers, fathers, sons, and also grandfathers; maternal uncles, fa
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/34
+chapter: 1
+verse_number: 34
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 34
@@ -27,3 +33,7 @@ By listing these relationships one by one, Arjuna reveals how emotionally overwh
 
 This verse continues to build the emotional context of Arjuna’s crisis. His mind is increasingly focused on the human cost of the war rather than its political or moral justification. The recognition of these family ties strengthens his reluctance to fight and deepens the inner conflict that will soon bring him to a complete moral and emotional breakdown.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

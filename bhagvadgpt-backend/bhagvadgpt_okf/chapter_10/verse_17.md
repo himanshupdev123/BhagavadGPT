@@ -16,6 +16,12 @@ tags:
 - staying mentally anchored
 - sustained awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/17
+chapter: 10
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 17
@@ -40,3 +46,7 @@ In the structure of the chapter, this request prepares the ground for Krishna's 
 **Modern Applications:**
 maintaining focus, practical spirituality, keeping higher principles in mind, staying mentally anchored, applying philosophy in daily life, sustained awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

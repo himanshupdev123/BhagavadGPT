@@ -15,6 +15,12 @@ tags:
 - separation
 - stabilizing the mind after intense insight
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/46
+chapter: 11
+verse_number: 46
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 46
@@ -41,3 +47,7 @@ Psychologically, the verse highlights a pattern in how humans process overwhelmi
 **Modern Applications:**
 processing overwhelming experiences, need for relatable frameworks, stabilizing the mind after intense insight, balancing awe and psychological comfort, human limits in perceiving infinity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

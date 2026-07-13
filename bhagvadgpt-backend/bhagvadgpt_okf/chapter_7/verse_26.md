@@ -21,6 +21,12 @@ tags:
 - thinking too much
 - time-based anxiety
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/26
+chapter: 7
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 26
@@ -42,3 +48,7 @@ Krishna instantly nullifies this human anxiety by declaring His absolute omnisci
 **Modern Applications:**
 time-based anxiety, the illusion of control, omniscience, rumination and worry, surrendering the outcome
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

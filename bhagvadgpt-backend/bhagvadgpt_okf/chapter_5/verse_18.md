@@ -12,6 +12,12 @@ tags:
 - social hierarchies
 - status anxiety
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/18
+chapter: 5
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 18
@@ -33,3 +39,7 @@ Krishna completely shatters this superficial worldview. A truly wise person look
 **Modern Applications:**
 status anxiety, prejudice, empathy, non-judgment, social hierarchies
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

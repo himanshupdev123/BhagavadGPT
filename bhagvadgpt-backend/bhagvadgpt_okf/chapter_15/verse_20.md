@@ -22,6 +22,12 @@ tags:
 - the end of striving
 - wisdom over information
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/20
+chapter: 15
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 20
@@ -45,3 +51,7 @@ As we close this chapter, would you like to reflect on one area of your life whe
 **Modern Applications:**
 internal completion, end of chronic dissatisfaction, wisdom over information, flow state, self-actualization, purpose-driven action, the end of striving
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

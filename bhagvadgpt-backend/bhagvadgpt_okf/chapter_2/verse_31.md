@@ -25,6 +25,12 @@ related:
 - chapter_2/verse_2
 - chapter_2/verse_3
 - chapter_2/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/31
+chapter: 2
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 31
@@ -46,3 +52,7 @@ Psychologically, this is a lesson in facing our specific responsibilities withou
 **Modern Applications:**
 duty, purpose, avoidance, responsibility, svadharma, courage, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

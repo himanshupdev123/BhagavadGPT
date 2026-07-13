@@ -15,6 +15,12 @@ tags:
 - separation
 - the ultimate compound interest
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/28
+chapter: 8
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 28
@@ -36,3 +42,7 @@ Krishna delivers the ultimate reassurance and the ultimate life hack. If you sim
 **Modern Applications:**
 the ultimate compound interest, overcoming FOMO, aiming at the highest peak, byproducts of excellence, securing the hierarchy
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

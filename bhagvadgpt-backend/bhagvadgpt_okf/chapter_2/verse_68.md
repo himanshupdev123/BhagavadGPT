@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_58
 - chapter_2/verse_60
 - chapter_4/verse_39
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/68
+chapter: 2
+verse_number: 68
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 68
@@ -48,3 +54,7 @@ Psychologically, the verse emphasizes self-regulation. The ability to pause, obs
 **Modern Applications:**
 self control, impulse control, mental discipline, focus, attention regulation, emotional self regulation, clarity of judgment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

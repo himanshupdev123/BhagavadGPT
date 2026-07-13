@@ -6,6 +6,12 @@ description: The Rudras, the Adityas, the Vasus, the Sadhyas, the Vishvedevas, t
 tags:
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/22
+chapter: 11
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 22
@@ -31,3 +37,7 @@ Arjuna notes that all of them watch the universal form with amazement. This reac
 
 Within the narrative of the Gita, this verse reinforces the scale of the cosmic revelation. The universal form is not simply a vision meant for Arjuna alone. It represents a reality that encompasses every level of existence, where even the most powerful beings stand in awe before the vastness of the divine presence.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

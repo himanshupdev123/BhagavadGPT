@@ -15,6 +15,12 @@ tags:
 - temporary
 - temporary vs permanent results
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/23
+chapter: 7
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 23
@@ -36,3 +42,7 @@ Krishna plainly labels this approach as the behavior of the 'alpa-medhasam' (tho
 **Modern Applications:**
 finite vs infinite games, return on investment (ROI), short-sightedness, delayed gratification, temporary vs permanent results
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

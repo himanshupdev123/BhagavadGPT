@@ -15,6 +15,12 @@ tags:
 - self
 - self discipline
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/14
+chapter: 12
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 14
@@ -39,3 +45,7 @@ For Arjuna, this teaching contrasts with his earlier state of hesitation and emo
 **Modern Applications:**
 contentment versus endless craving, self discipline, mental determination, alignment of emotion and reason, inner stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

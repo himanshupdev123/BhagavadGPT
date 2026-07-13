@@ -17,6 +17,12 @@ tags:
 - temporary
 - the illusion of comprehension
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/24
+chapter: 7
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 24
@@ -38,3 +44,7 @@ Krishna diagnoses this as the ultimate failure of the 'abuddhayah' (the unintell
 **Modern Applications:**
 intellectual arrogance, limiting the infinite, the illusion of comprehension, conceptualizing reality, surrendering logic
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

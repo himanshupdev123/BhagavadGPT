@@ -25,6 +25,12 @@ related:
 - chapter_4/verse_41
 - chapter_6/verse_10
 - chapter_6/verse_18
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/19
+chapter: 4
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 19
@@ -48,3 +54,7 @@ In modern life, people often feel trapped between ambition and anxiety. This ver
 **Modern Applications:**
 detachment, selfless action, clarity, ego, focus
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -20,6 +20,12 @@ related:
 - chapter_2/verse_16
 - chapter_2/verse_19
 - chapter_2/verse_52
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/66
+chapter: 18
+verse_number: 66
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 66
@@ -39,3 +45,7 @@ In modern life, we carry immense psychological weight from trying to meet fragme
 **Modern Applications:**
 perfectionism, guilt, decision paralysis, inner freedom, mental clarity, anxiety, prioritization, integrity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

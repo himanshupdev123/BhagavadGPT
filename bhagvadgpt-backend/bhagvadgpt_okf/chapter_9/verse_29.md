@@ -15,6 +15,12 @@ tags:
 - spiritual awareness
 - universal equality
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/29
+chapter: 9
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 29
@@ -37,3 +43,7 @@ However, Krishna also explains a subtle psychological truth. When a person turns
 **Modern Applications:**
 universal equality, perception of fairness, alignment with higher values, bias and attachment, inner connection, spiritual awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

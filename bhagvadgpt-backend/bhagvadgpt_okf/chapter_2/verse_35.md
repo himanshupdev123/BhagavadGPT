@@ -29,6 +29,12 @@ related:
 - chapter_2/verse_18
 - chapter_2/verse_3
 - chapter_2/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/35
+chapter: 2
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 35
@@ -53,3 +59,7 @@ Krishna’s message is that avoiding one’s rightful duty can gradually erode b
 **Modern Applications:**
 duty, fear of judgment, reputation, avoiding responsibility, courage, social perception, integrity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

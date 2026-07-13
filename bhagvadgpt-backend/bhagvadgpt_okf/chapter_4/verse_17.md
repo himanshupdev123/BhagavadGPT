@@ -20,6 +20,12 @@ tags:
 - self-control
 - toxic habits
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/17
+chapter: 4
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 17
@@ -41,3 +47,7 @@ To navigate life effectively, you must develop sharp psychological discernment. 
 **Modern Applications:**
 discernment, decision making, self-awareness, toxic habits, procrastination
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

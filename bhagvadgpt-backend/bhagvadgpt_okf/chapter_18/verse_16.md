@@ -21,6 +21,12 @@ tags:
 - self
 - toxic
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/16
+chapter: 18
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 16
@@ -50,3 +56,7 @@ Are you currently carrying 100% of the blame and pressure for a project or situa
 **Modern Applications:**
 Main Character Syndrome, Egocentric Bias, The 'Self-Made' Myth, Toxic Arrogance, Systems Intelligence, Ego-Unburdening, Psychological Weight Distribution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

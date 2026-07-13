@@ -16,6 +16,12 @@ tags:
 - mind control
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/17
+chapter: 16
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 17
@@ -41,3 +47,7 @@ Would you like to explore an area of your life where you might be focusing more 
 **Modern Applications:**
 Success Theater, Dunning-Kruger Effect, Authenticity Gap, Feedback Resistance, Optics over Substance, Performative Excellence, Cognitive Closure
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

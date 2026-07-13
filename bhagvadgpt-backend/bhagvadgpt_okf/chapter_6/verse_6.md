@@ -23,6 +23,12 @@ related:
 - chapter_2/verse_66
 - chapter_4/verse_26
 - chapter_6/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/6
+chapter: 6
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 6
@@ -46,3 +52,7 @@ In modern life, people often experience stress, distraction, and emotional turbu
 **Modern Applications:**
 mind control, self discipline, focus, emotional stability, mental strength
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

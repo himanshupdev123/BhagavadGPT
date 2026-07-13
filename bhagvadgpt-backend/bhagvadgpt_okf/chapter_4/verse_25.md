@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_6/verse_3
 - chapter_6/verse_46
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/25
+chapter: 4
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 25
@@ -43,3 +49,7 @@ In modern life, people often compare different approaches to growth—whether th
 **Modern Applications:**
 spiritual practice, self development, different paths, inner growth, discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

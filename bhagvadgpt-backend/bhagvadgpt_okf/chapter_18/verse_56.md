@@ -17,6 +17,12 @@ tags:
 related:
 - chapter_2/verse_24
 - chapter_6/verse_22
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/56
+chapter: 18
+verse_number: 56
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 56
@@ -38,3 +44,7 @@ Psychologically, this creates a 'safety net.' If your sense of worth is based on
 **Modern Applications:**
 psychological safety, resilience, purpose-driven work, stress management, inner stability, servant leadership
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

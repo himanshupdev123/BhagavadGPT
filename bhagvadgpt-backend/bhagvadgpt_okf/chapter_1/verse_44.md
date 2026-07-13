@@ -9,6 +9,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/44
+chapter: 1
+verse_number: 44
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 44
@@ -32,3 +38,7 @@ Arjuna now believes that the war will cause a chain reaction: the death of famil
 
 At this stage, Arjuna is convinced that refusing to fight is the morally safer path, even though his reasoning is still influenced heavily by fear, attachment, and emotional distress.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

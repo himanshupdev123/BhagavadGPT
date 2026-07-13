@@ -13,6 +13,12 @@ tags:
 - unity in diversity
 related:
 - chapter_13/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/31
+chapter: 13
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 31
@@ -34,3 +40,7 @@ In modern psychology, this is the hallmark of 'Systems Thinking.' When you stop 
 **Modern Applications:**
 systems thinking, first principles, unity in diversity, cognitive integration, holistic perspective, empathy, mental simplification
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

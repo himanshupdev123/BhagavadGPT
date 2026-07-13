@@ -7,6 +7,12 @@ tags:
 - detachment
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/7
+chapter: 4
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 7
@@ -25,3 +31,7 @@ Just as Arjuna felt paralyzed by his attachments and duties, watching the moral 
 
 On a deeply psychological level, this principle mirrors the human mind. When an individual is entirely overwhelmed by internal adharma—such as toxic habits, severe anxiety, and a complete loss of purpose—the psyche eventually hits rock bottom. It is often in this exact moment of complete breakdown that a sudden, profound shift in consciousness or a renewed sense of clarity emerges to save the individual from total self-destruction. Because this verse primarily establishes the theological promise of divine intervention, it serves to assure the listener that fundamental order will always ultimately conquer chaos.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

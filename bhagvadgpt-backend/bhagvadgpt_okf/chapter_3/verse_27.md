@@ -21,6 +21,12 @@ related:
 - chapter_4/verse_10
 - chapter_4/verse_19
 - chapter_4/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/27
+chapter: 3
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 27
@@ -42,3 +48,7 @@ By understanding this principle, we can develop a more healthy psychological dis
 **Modern Applications:**
 ego, stress management, control issues, anxiety, self-observation, detachment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

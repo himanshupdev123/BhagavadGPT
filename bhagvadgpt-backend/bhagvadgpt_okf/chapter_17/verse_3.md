@@ -17,6 +17,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/3
+chapter: 17
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 3
@@ -42,3 +48,7 @@ If you were to look at your bank statement or your screen time from the last wee
 **Modern Applications:**
 Identity Theory, Core Convictions, The Self-Fulfilling Prophecy, Psychological Feedback Loops, Internal Narratives, Mindset and Personality, Authentic Alignment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

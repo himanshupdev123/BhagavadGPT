@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_10/verse_3
 - chapter_10/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/7
+chapter: 10
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 7
@@ -44,3 +50,7 @@ For Arjuna, learning about the divine presence within the world will strengthen 
 **Modern Applications:**
 mental stability, overcoming doubt, seeing the bigger picture, purpose driven thinking, inner conviction, clarity of worldview
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

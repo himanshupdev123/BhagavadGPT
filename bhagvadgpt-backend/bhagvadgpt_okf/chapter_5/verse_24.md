@@ -16,6 +16,12 @@ tags:
 related:
 - chapter_15/verse_6
 - chapter_3/verse_17
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/24
+chapter: 5
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 24
@@ -37,3 +43,7 @@ Krishna introduces the ultimate defense: becoming entirely internally driven. A 
 **Modern Applications:**
 psychological self-sufficiency, internal validation, emotional independence, intrinsic motivation, self-reliance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

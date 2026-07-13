@@ -21,6 +21,12 @@ tags:
 - validation withdrawal
 related:
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/5
+chapter: 15
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 5
@@ -46,3 +52,7 @@ Would you like me to help you audit your daily routine to identify one specific 
 **Modern Applications:**
 false prestige, ego detachment, imposter syndrome, emotional seesaw, validation withdrawal, authentic self, inner stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

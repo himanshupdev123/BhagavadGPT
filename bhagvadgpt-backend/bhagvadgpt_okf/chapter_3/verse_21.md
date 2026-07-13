@@ -19,6 +19,12 @@ related:
 - chapter_3/verse_20
 - chapter_3/verse_23
 - chapter_3/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/21
+chapter: 3
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 21
@@ -40,3 +46,7 @@ Conversely, when you handle your responsibilities with integrity and resilience,
 **Modern Applications:**
 leadership, social proof, influence, role models, accountability, setting an example
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

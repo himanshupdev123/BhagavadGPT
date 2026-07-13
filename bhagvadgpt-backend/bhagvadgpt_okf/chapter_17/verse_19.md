@@ -21,6 +21,12 @@ tags:
 - self
 - toxic
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/19
+chapter: 17
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 19
@@ -48,3 +54,7 @@ Have you ever caught yourself working toward a goal out of pure 'spite' or ignor
 **Modern Applications:**
 Toxic Rigidity, Masochistic Discipline, Spite-Driven Productivity, Maladaptive Grit, Self-Harm as 'Hustle', Dark Triad Motivation, Pathological Persistence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

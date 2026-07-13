@@ -18,6 +18,12 @@ tags:
 - nervous
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/12
+chapter: 18
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 12
@@ -48,3 +54,7 @@ Think about a major event or project you finished recently. Are you still carryi
 **Modern Applications:**
 The Karmic Hangover, Clean Slate Protocol, Outcome Matrix (Good/Bad/Mixed), Psychological Baggage, Imposter Syndrome vs. Arrogance, Overthinking and Cognitive Dissonance, Emotional Resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

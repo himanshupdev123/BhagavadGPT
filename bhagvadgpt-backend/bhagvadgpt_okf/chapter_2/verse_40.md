@@ -26,6 +26,12 @@ related:
 - chapter_2/verse_3
 - chapter_2/verse_37
 - chapter_6/verse_40
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/40
+chapter: 2
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 40
@@ -50,3 +56,7 @@ The verse also highlights an important psychological truth. When people begin ac
 **Modern Applications:**
 fear of failure, small progress, consistency, overcoming fear, taking the first step, duty, personal growth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

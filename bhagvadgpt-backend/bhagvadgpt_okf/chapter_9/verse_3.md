@@ -19,6 +19,12 @@ tags:
 - self-doubt
 - trust the process
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/3
+chapter: 9
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 3
@@ -40,3 +46,7 @@ True progress requires commitment even when positive results are not immediately
 **Modern Applications:**
 trust the process, conviction, self-doubt, repeating mistakes, commitment, resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

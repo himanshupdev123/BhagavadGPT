@@ -20,6 +20,12 @@ tags:
 - singular focus
 - transcendence
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/26
+chapter: 14
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 26
@@ -41,3 +47,7 @@ In modern terms, when your life is driven by a profound sense of service rather 
 **Modern Applications:**
 higher purpose, singular focus, devotion, service, overcoming moods, transcendence, ego dissolution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

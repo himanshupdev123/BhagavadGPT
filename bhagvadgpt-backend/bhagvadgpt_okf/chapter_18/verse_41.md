@@ -15,6 +15,12 @@ tags:
 - love for work
 - passion
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/41
+chapter: 18
+verse_number: 41
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 41
@@ -45,3 +51,7 @@ Think about your current role. Does it feel like a natural extension of your per
 **Modern Applications:**
 Psychographic Profiling, Talent-Job Fit, Cognitive Alignment, The 4 Professional Archetypes, Natural Vocation (Svabhāva), Vocation-Nature Mismatch, Meritocracy of the Spirit
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

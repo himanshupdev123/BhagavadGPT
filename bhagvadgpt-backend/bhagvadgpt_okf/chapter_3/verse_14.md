@@ -15,6 +15,12 @@ related:
 - chapter_13/verse_14
 - chapter_3/verse_11
 - chapter_4/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/14
+chapter: 3
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 14
@@ -36,3 +42,7 @@ Psychologically, this verse forces a shift from a self-centered existence to a s
 **Modern Applications:**
 interconnectedness, systems thinking, cause and effect, universal responsibility, ecological awareness, purpose
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

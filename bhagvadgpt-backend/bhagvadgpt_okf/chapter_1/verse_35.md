@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_1/verse_32
 - chapter_1/verse_28
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/35
+chapter: 1
+verse_number: 35
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 35
@@ -45,3 +51,7 @@ Arjuna’s words show the peak of his emotional resistance. He believes that avo
 **Modern Applications:**
 moral conflict, compassion vs duty, values vs power, ethical decision making, attachment, emotional reasoning
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

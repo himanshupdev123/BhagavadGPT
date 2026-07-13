@@ -23,6 +23,12 @@ tags:
 - surrender
 related:
 - chapter_2/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/22
+chapter: 14
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 22
@@ -45,3 +51,7 @@ The profound psychological shift described here is the practice of advanced mind
 **Modern Applications:**
 radical acceptance, advanced mindfulness, emotional non-reactivity, meta-suffering, observing the mind, letting go of control, self-compassion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

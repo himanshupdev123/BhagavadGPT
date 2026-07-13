@@ -16,6 +16,12 @@ tags:
 related:
 - chapter_14/verse_8
 - chapter_3/verse_1
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/13
+chapter: 14
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 13
@@ -37,3 +43,7 @@ When tamas dominates, the mind convinces you that doing nothing is the safest op
 **Modern Applications:**
 brain fog, apathy, depression, doom-scrolling, escapism, inertia, procrastination
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

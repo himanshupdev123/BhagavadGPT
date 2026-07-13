@@ -19,6 +19,12 @@ tags:
 related:
 - chapter_18/verse_68
 - chapter_18/verse_69
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/78
+chapter: 18
+verse_number: 78
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 78
@@ -40,3 +46,7 @@ Psychologically, this verse highlights the importance of 'integrated leadership.
 **Modern Applications:**
 synergy, leadership, strategy, execution, alignment, purpose, success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

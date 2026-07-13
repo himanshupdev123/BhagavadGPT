@@ -20,6 +20,12 @@ tags:
 - purpose driven thinking
 - refining judgment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/10
+chapter: 10
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 10
@@ -44,3 +50,7 @@ In modern life many people search for clarity while constantly shifting their fo
 **Modern Applications:**
 developing wisdom, clarity in decision making, consistent focus, refining judgment, mental discipline, purpose driven thinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 - surrender
 related:
 - chapter_2/verse_27
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/26
+chapter: 2
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 26
@@ -44,3 +50,7 @@ Psychologically, this teaching introduces the concept of radical acceptance. Whe
 **Modern Applications:**
 radical acceptance, grief, pragmatism, inevitability of change, letting go, focus on duty
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -22,6 +22,12 @@ tags:
 - toxic
 - toxic manifestation culture
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/13
+chapter: 16
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 13
@@ -47,3 +53,7 @@ Would you like to identify a specific area where you’re currently stuck in 'ca
 **Modern Applications:**
 Main Character Syndrome, the illusion of control, accumulation anxiety, hyper-individualism, the 'more' trap, God complex, toxic manifestation culture
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ related:
 - chapter_3/verse_2
 - chapter_3/verse_8
 - chapter_4/verse_15
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/1
+chapter: 5
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 1
@@ -39,3 +45,7 @@ Arjuna demands a clear, unambiguous answer because a confused mind cannot execut
 **Modern Applications:**
 decision paralysis, burnout, cognitive dissonance, escapism, seeking clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

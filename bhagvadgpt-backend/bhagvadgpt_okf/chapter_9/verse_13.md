@@ -21,6 +21,12 @@ tags:
 - values-based living
 related:
 - chapter_18/verse_65
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/13
+chapter: 9
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 13
@@ -42,3 +48,7 @@ By recognizing a higher, inexhaustible source of meaning, we stop chasing tempor
 **Modern Applications:**
 higher purpose, focused attention, values-based living, mental stability, overcoming distraction, flow state
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -20,6 +20,12 @@ tags:
 related:
 - chapter_4/verse_25
 - chapter_6/verse_3
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/46
+chapter: 6
+verse_number: 46
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 46
@@ -43,3 +49,7 @@ In modern life, people often pursue growth in isolated ways—focusing only on p
 **Modern Applications:**
 balanced growth, self development, discipline, integrated learning, personal mastery
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

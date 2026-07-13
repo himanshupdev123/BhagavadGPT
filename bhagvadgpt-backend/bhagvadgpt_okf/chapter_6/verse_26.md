@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_58
 - chapter_2/verse_68
 - chapter_4/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/26
+chapter: 6
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 26
@@ -47,3 +53,7 @@ In modern life, constant notifications, information overload, and multitasking m
 **Modern Applications:**
 focus, attention control, mind training, overcoming distraction, mental discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

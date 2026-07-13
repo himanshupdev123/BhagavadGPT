@@ -16,6 +16,12 @@ related:
 - chapter_13/verse_8
 - chapter_18/verse_64
 - chapter_18/verse_67
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/26
+chapter: 13
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 26
@@ -37,3 +43,7 @@ Psychologically, this verse emphasizes the power of social learning and mentorsh
 **Modern Applications:**
 mentorship, social learning, intellectual humility, receptive listening, standing on the shoulders of giants, information filtering, guidance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

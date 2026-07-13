@@ -16,6 +16,12 @@ tags:
 related:
 - chapter_5/verse_9
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/4
+chapter: 7
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 4
@@ -37,3 +43,7 @@ Krishna provides the ultimate framework for psychological detachment. He categor
 **Modern Applications:**
 ego detachment, the subtle body, over-identification, psychological software, the observer effect
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

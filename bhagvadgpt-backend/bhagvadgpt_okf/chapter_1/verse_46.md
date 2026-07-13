@@ -8,6 +8,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/46
+chapter: 1
+verse_number: 46
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 46
@@ -29,3 +35,7 @@ This moment represents the lowest point of Arjuna’s mental stability. His mind
 
 This verse closes Arjuna’s argument against fighting. His reasoning has moved from compassion to fear of sin, to concern for social collapse, and finally to complete surrender. This breakdown creates the moment where guidance becomes necessary, opening the way for Krishna’s teachings to begin in the next chapter.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

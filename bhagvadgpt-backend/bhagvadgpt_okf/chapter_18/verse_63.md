@@ -14,6 +14,12 @@ tags:
 - personal agency
 related:
 - chapter_18/verse_73
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/63
+chapter: 18
+verse_number: 63
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 63
@@ -35,3 +41,7 @@ By saying 'do as you wish,' he empowers Arjuna to move from a state of blind obe
 **Modern Applications:**
 free will, autonomy, critical thinking, accountability, empowerment, decision-making, personal agency
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

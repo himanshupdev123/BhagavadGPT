@@ -6,6 +6,12 @@ description: That tumultuous sound, echoing through the sky and the earth, shatt
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/19
+chapter: 1
+verse_number: 19
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 19
@@ -24,3 +30,7 @@ From a narrative standpoint, this moment marks a shift in the power dynamic. Alt
 
 In this context, the verse illustrates how fear functions. Even before a physical blow is struck, the psychological state of an individual can be compromised by the presence of a superior resolve. The Kauravas, driven by greed and ego, lacked the inner steadying force that comes from acting in alignment with what is right. Consequently, the mere sound of their opponents' readiness was enough to cause them intense mental distress.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

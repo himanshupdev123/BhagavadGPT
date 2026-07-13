@@ -10,6 +10,12 @@ tags:
 - respect for guidance
 - seeking deeper understanding
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/4
+chapter: 11
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 4
@@ -34,3 +40,7 @@ Within the narrative of the Gita, this verse prepares the moment when Krishna wi
 **Modern Applications:**
 intellectual humility, recognizing limits of perception, seeking deeper understanding, openness to higher knowledge, respect for guidance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

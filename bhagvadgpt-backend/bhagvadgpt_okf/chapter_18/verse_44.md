@@ -15,6 +15,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/44
+chapter: 18
+verse_number: 44
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 44
@@ -50,3 +56,7 @@ Which part of the 'Economic Metabolism' do you currently feel most aligned with?
 **Modern Applications:**
 Economic Metabolism, Operational Excellence, Resource Management, The Service Economy, Sustainable Entrepreneurship, Foundational Infrastructure, Interdependent Ecosystems
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

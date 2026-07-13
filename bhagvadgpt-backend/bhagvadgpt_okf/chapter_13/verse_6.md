@@ -22,6 +22,12 @@ related:
 - chapter_13/verse_21
 - chapter_13/verse_27
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/6
+chapter: 13
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 6
@@ -43,3 +49,7 @@ In modern psychology, this is similar to systems thinking applied to the self. W
 **Modern Applications:**
 systems thinking, cognitive defusion, deconstruction, psychological distance, identity, self-awareness, emotional regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

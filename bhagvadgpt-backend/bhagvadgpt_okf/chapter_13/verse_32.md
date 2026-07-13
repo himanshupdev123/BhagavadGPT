@@ -17,6 +17,12 @@ tags:
 - the mirror metaphor
 related:
 - chapter_18/verse_62
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/32
+chapter: 13
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 32
@@ -40,3 +46,7 @@ By identifying with this 'untouchable observer,' you develop a psychological fir
 **Modern Applications:**
 psychological immunity, burnout prevention, emotional detachment, the mirror metaphor, resilience, self-preservation, professional neutrality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

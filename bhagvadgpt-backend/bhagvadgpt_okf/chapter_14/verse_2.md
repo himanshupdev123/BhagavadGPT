@@ -20,6 +20,12 @@ related:
 - chapter_2/verse_56
 - chapter_2/verse_65
 - chapter_2/verse_66
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/2
+chapter: 14
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 2
@@ -41,3 +47,7 @@ By taking refuge in a higher, unchanging awareness, you develop an internal stab
 **Modern Applications:**
 emotional stability, resilience, coping with change, equanimity, overcoming fear, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

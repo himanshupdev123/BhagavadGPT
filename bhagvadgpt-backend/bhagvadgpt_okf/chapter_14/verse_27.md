@@ -15,6 +15,12 @@ tags:
 - separation
 - unconditional happiness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/27
+chapter: 14
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 27
@@ -34,3 +40,7 @@ The text establishes the Supreme Consciousness as the absolute, indestructible f
 **Modern Applications:**
 existential stability, psychological anchor, unconditional happiness, eternal identity, finding purpose, invincibility
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

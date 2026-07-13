@@ -19,6 +19,12 @@ tags:
 related:
 - chapter_2/verse_52
 - chapter_2/verse_53
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/19
+chapter: 15
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 19
@@ -42,3 +48,7 @@ Would you like me to help you identify one area of your life where 'doubt' is cu
 **Modern Applications:**
 total integration, eliminating doubt, wholeheartedness, information overload, unifying purpose, cognitive focus, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

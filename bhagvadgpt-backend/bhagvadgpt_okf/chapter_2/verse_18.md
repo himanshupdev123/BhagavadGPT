@@ -29,6 +29,12 @@ related:
 - chapter_2/verse_2
 - chapter_2/verse_20
 - chapter_2/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/18
+chapter: 2
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 18
@@ -50,3 +56,7 @@ The direct command therefore, fight (tasmad yudhyasva) is not just a call to phy
 **Modern Applications:**
 fear of loss, courage, taking action, duty, mortality, resilience, overcoming paralysis
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

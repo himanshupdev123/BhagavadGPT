@@ -16,6 +16,12 @@ tags:
 - karma
 - motivate
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/3
+chapter: 18
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 3
@@ -43,3 +49,7 @@ Are you currently letting the inherent 'flaws' or friction of your workplace, in
 **Modern Applications:**
 The Anti-Work Movement, Perfectionist's Paralysis, Cynical Withdrawal, Black-and-White Thinking, Purpose-Driven Action, Nihilism vs. Contribution, Pragmatic Engagement
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

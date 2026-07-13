@@ -21,6 +21,12 @@ related:
 - chapter_18/verse_55
 - chapter_3/verse_1
 - chapter_3/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/18
+chapter: 4
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 18
@@ -42,3 +48,7 @@ Conversely, "inaction in action" describes the ultimate state of psychological f
 **Modern Applications:**
 overthinking, flow state, procrastination, burnout, emotional intelligence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

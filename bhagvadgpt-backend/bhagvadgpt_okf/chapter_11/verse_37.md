@@ -12,6 +12,12 @@ tags:
 - reframing understanding after revelation
 - search for fundamental truth
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/37
+chapter: 11
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 37
@@ -38,3 +44,7 @@ Psychologically, this moment reflects Arjuna’s shift from confusion to recogni
 **Modern Applications:**
 recognizing ultimate foundations of reality, humility before vast systems, limits of human perception, reframing understanding after revelation, search for fundamental truth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

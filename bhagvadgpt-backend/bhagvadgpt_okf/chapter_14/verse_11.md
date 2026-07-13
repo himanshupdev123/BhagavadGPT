@@ -17,6 +17,12 @@ related:
 - chapter_14/verse_19
 - chapter_14/verse_5
 - chapter_2/verse_14
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/11
+chapter: 14
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 11
@@ -38,3 +44,7 @@ However, when goodness is dominant, a profound cognitive shift occurs. Your sens
 **Modern Applications:**
 mental clarity, cognitive awareness, sensory perception, mindfulness, emotional regulation, overcoming brain fog
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

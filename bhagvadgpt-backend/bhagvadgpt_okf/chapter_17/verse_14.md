@@ -17,6 +17,12 @@ tags:
 - mind control
 - passion
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/14
+chapter: 17
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 14
@@ -47,3 +53,7 @@ Which of these five pillars—Respect, Cleanliness, Simplicity, Energy Control, 
 **Modern Applications:**
 Physical Integrity, Digital Minimalism, Somatic Health, Energetic Boundaries, Authentic Living, Environmental Hygiene, Self-Compassion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

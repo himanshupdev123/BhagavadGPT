@@ -16,6 +16,12 @@ tags:
 - separation
 related:
 - chapter_18/verse_67
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/15
+chapter: 9
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 15
@@ -37,3 +43,7 @@ By acknowledging that truth can be approached through oneness, diversity, or uni
 **Modern Applications:**
 cognitive flexibility, open-mindedness, intellectual humility, overcoming dogmatism, perspective shifting, black-and-white thinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

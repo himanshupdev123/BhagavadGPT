@@ -17,6 +17,12 @@ tags:
 - separation
 - transformation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/29
+chapter: 2
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 29
@@ -40,3 +46,7 @@ Psychologically, this verse acts as a mirror. It forces us to ask whether our pu
 **Modern Applications:**
 intellectualization, application of wisdom, mindfulness trap, internalization, existential awareness, transformation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

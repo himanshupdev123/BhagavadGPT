@@ -5,6 +5,12 @@ description: 'The Blessed Lord said: O best of the Kurus, I will now describe to
   My divine manifestations. How...'
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/19
+chapter: 10
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 19
@@ -28,3 +34,7 @@ For Arjuna, this explanation prepares the ground for a new way of seeing the wor
 
 Within the narrative of the Gita, this verse marks the beginning of Krishna's detailed description of these manifestations, which will continue through the following verses of the chapter.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

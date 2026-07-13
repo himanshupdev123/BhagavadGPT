@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_18/verse_6
 - chapter_18/verse_1
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/9
+chapter: 18
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 9
@@ -51,3 +57,7 @@ Think about your most important responsibility today. What would it look like to
 **Modern Applications:**
 High-Performance Detachment, Intrinsic Motivation, Ego Decoupling, Outcome Independence, Sustainable Productivity, Cognitive Bandwidth Optimization, Bulletproof Self-Worth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

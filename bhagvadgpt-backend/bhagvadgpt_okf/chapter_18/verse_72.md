@@ -19,6 +19,12 @@ related:
 - chapter_2/verse_41
 - chapter_2/verse_53
 - chapter_6/verse_12
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/72
+chapter: 18
+verse_number: 72
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 72
@@ -40,3 +46,7 @@ Krishna is demonstrating that the true metric of learning is not the amount of i
 **Modern Applications:**
 focus, active listening, mental clarity, feedback loops, presence, overcoming confusion, attention span
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

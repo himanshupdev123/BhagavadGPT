@@ -20,6 +20,12 @@ tags:
 - self
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/25
+chapter: 18
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 25
@@ -53,3 +59,7 @@ Think about a recent moment where you felt the intense urge to 'flip the board'â
 **Modern Applications:**
 Blind Reactivity, Self-Sabotage, Executive Dysfunction, Collateral Damage, Delusional Overpromising, The Anatomy of a Blow-Up, Consequence Auditing
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -15,6 +15,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/24
+chapter: 17
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 24
@@ -40,3 +46,7 @@ Would you like to try a 'Micro-Priming' ritual? For the next task you start toda
 **Modern Applications:**
 Psychological Priming, Mindful Initiation, Intentionality, System Initializers, Frequency Alignment, Ethical Frameworking, Cognitive Reset
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

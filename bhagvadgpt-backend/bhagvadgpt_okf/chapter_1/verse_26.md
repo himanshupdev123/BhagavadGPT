@@ -6,6 +6,12 @@ description: There Arjuna saw standing fathers, grandfathers, teachers, maternal
 tags:
 - detachment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/26
+chapter: 1
+verse_number: 26
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 26
@@ -27,3 +33,7 @@ The verse highlights the painful reality of civil war. The Kurukshetra battle wa
 
 This recognition triggers the internal conflict that soon overwhelms him. The duties of a warrior demand that he fight, but his personal attachments pull him in the opposite direction. The simple act of seeing his relatives and teachers standing across from him becomes the catalyst for the psychological crisis that leads to the philosophical dialogue of the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

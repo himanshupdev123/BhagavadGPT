@@ -21,6 +21,12 @@ related:
 - chapter_6/verse_15
 - chapter_6/verse_20
 - chapter_6/verse_28
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/21
+chapter: 6
+verse_number: 21
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 21
@@ -44,3 +50,7 @@ In modern life, people often chase happiness through temporary pleasures such as
 **Modern Applications:**
 inner happiness, meditation, self awareness, emotional stability, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -29,6 +29,12 @@ related:
 - chapter_2/verse_39
 - chapter_2/verse_45
 - chapter_2/verse_49
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/51
+chapter: 2
+verse_number: 51
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 51
@@ -53,3 +59,7 @@ Psychologically, this teaching points toward a state of inner freedom. When acti
 **Modern Applications:**
 detachment from outcomes, freedom from anxiety, letting go of expectations, emotional resilience, focus on responsibility, mental freedom, breaking the success failure cycle
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

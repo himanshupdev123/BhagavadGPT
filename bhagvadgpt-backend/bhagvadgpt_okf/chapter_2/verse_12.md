@@ -27,6 +27,12 @@ related:
 - chapter_15/verse_16
 - chapter_2/verse_18
 - chapter_2/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/12
+chapter: 2
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 12
@@ -49,3 +55,7 @@ Psychologically, understanding this principle shifts our perspective entirely. I
 **Modern Applications:**
 fear of loss, existential dread, identity crisis, courage, impermanence, anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

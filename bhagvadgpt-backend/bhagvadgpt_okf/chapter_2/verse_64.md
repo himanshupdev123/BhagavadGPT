@@ -27,6 +27,12 @@ related:
 - chapter_14/verse_11
 - chapter_14/verse_19
 - chapter_14/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/64
+chapter: 2
+verse_number: 64
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 64
@@ -51,3 +57,7 @@ Psychologically, the verse emphasizes emotional regulation. A calm mind emerges 
 **Modern Applications:**
 emotional regulation, detachment, self discipline, mental balance, impulse control, inner calm, mindfulness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

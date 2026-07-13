@@ -20,6 +20,12 @@ tags:
 - self correction
 - self-control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/30
+chapter: 9
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 30
@@ -44,3 +50,7 @@ When someone sincerely commits to improving their character and aligning their a
 **Modern Applications:**
 personal transformation, breaking bad habits, not defined by your past, redemption, self correction, commitment to change
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

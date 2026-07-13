@@ -13,6 +13,12 @@ tags:
 - the observer effect
 - the three gunas
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/12
+chapter: 7
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 12
@@ -34,3 +40,7 @@ Krishna provides the ultimate blueprint for psychological freedom. He explains t
 **Modern Applications:**
 the three gunas, mood fluctuations, the observer effect, biological determinism, psychological independence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

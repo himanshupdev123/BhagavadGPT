@@ -29,6 +29,12 @@ tags:
 - separation
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/33
+chapter: 18
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 33
@@ -60,3 +66,7 @@ Think about a habit you’re trying to build. Are you trying to 'force' it with 
 **Modern Applications:**
 High-Resolution Willpower, Executive Control, Nervous System Regulation, Deep Focus, Nervous System Regulation (Prāṇa), Sustainable Grit, The 3-Pillar Self-Regulation Model
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

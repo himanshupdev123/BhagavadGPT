@@ -16,6 +16,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/48
+chapter: 18
+verse_number: 48
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 48
@@ -44,3 +50,7 @@ Think about your current 'Svadharma.' What is the 'smoke' that makes you want to
 **Modern Applications:**
 The Myth of Frictionless Work, Expectation Management, Inherent Systemic Flaws, Accepting the 'Overhead', The Fire and Smoke Metaphor, Persistence through Imperfection, The Reality of Entropy
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

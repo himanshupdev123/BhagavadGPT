@@ -18,6 +18,12 @@ tags:
 - same mistakes
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/30
+chapter: 11
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 30
@@ -44,3 +50,7 @@ Psychologically, this moment forces Arjuna to confront the limits of human contr
 **Modern Applications:**
 overwhelming scale of reality, limits of human control, cycles of creation and destruction, accepting harsh truths, confronting existential fear
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

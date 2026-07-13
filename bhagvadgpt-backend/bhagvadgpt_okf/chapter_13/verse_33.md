@@ -16,6 +16,12 @@ tags:
 - self
 - the container metaphor
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/33
+chapter: 13
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 33
@@ -39,3 +45,7 @@ This perspective is transformative for mental health. It allows you to move from
 **Modern Applications:**
 meta-cognitive awareness, psychological space, non-reactivity, cognitive defusion, purity of consciousness, resilience, the container metaphor
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

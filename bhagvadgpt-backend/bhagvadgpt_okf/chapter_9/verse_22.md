@@ -25,6 +25,12 @@ tags:
 related:
 - chapter_3/verse_30
 - chapter_5/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/22
+chapter: 9
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 22
@@ -46,3 +52,7 @@ The psychological antidote offered here is singular, unwavering focus. When we s
 **Modern Applications:**
 chronic insecurity, fear of loss, unwavering focus, flow state, anxiety management, alignment, letting go of control
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

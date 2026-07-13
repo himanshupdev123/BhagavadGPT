@@ -16,6 +16,12 @@ tags:
 - separation
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/3
+chapter: 11
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 3
@@ -40,3 +46,7 @@ Within the narrative of the Gita, this verse sets the stage for one of the most 
 **Modern Applications:**
 seeking direct understanding, moving from theory to experience, intellectual curiosity, deepening conviction, desire for deeper truth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

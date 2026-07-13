@@ -13,6 +13,12 @@ tags:
 - the burden of prestige
 - the cost of grudges
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/3
+chapter: 16
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 3
@@ -36,3 +42,7 @@ How much of your current daily stress is linked to 'prestige'—maintaining an i
 **Modern Applications:**
 grit and fortitude, the burden of prestige, emotional detoxification, authentic power, the cost of grudges, integrity, resilient leadership
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

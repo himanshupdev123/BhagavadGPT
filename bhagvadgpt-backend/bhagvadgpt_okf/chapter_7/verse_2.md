@@ -16,6 +16,12 @@ tags:
 - theory vs. execution
 - thinking too much
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/2
+chapter: 7
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 2
@@ -37,3 +43,7 @@ Krishna completely shatters this cycle of endless consumption. He offers the ult
 **Modern Applications:**
 information overload, theory vs. execution, first principles thinking, analysis paralysis, experiential wisdom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

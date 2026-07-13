@@ -24,6 +24,12 @@ related:
 - chapter_6/verse_13
 - chapter_2/verse_38
 - chapter_2/verse_48
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/19
+chapter: 6
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 19
@@ -47,3 +53,7 @@ In modern life, constant stimulation from technology, social pressure, and infor
 **Modern Applications:**
 focus, meditation, mental stability, attention control, emotional balance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

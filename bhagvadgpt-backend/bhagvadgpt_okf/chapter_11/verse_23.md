@@ -6,6 +6,12 @@ description: O mighty-armed one, seeing Your vast form with many mouths and eyes
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/23
+chapter: 11
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 23
@@ -31,3 +37,7 @@ Arjuna observes that not only he but all the worlds appear shaken by this sight.
 
 Within the narrative of the Gita, this verse deepens the emotional impact of the cosmic vision. Arjuna begins to confront the terrifying magnitude of the universal form, realizing that the divine encompasses both creation and destruction within a single boundless reality.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

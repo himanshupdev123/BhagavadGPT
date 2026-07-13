@@ -22,6 +22,12 @@ tags:
 related:
 - chapter_4/verse_13
 - chapter_18/verse_59
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/60
+chapter: 18
+verse_number: 60
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 60
@@ -43,3 +49,7 @@ Krishna’s message is that ignoring your true nature is futile. When you fight 
 **Modern Applications:**
 nature vs nurture, self-awareness, career alignment, psychological programming, authenticity, intrinsic drives, personality traits
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

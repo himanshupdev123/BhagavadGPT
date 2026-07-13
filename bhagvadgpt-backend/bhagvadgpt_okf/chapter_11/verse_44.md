@@ -16,6 +16,12 @@ tags:
 - repairing after mistakes
 - seeking forgiveness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/44
+chapter: 11
+verse_number: 44
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 44
@@ -42,3 +48,7 @@ The verse highlights an important human insight. People often think respect and 
 **Modern Applications:**
 humility in relationships, seeking forgiveness, balancing respect and closeness, repairing after mistakes, emotional maturity in leadership
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

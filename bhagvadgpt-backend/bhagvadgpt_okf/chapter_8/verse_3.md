@@ -12,6 +12,12 @@ tags:
 - the avatar vs the player
 - the indestructible core
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/3
+chapter: 8
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 3
@@ -34,3 +40,7 @@ Krishna violently severs this false identification. 'Brahman' is the indestructi
 **Modern Applications:**
 identity enmeshment, the indestructible core, detaching from outcomes, cause and effect, the avatar vs the player
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

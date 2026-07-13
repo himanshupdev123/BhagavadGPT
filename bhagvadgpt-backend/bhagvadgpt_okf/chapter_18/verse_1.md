@@ -18,6 +18,12 @@ tags:
 - surrender to failure
 related:
 - chapter_18/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/1
+chapter: 18
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 1
@@ -48,3 +54,7 @@ Think about the biggest stressor in your life right now. Are you currently wishi
 **Modern Applications:**
 Escapism vs. Engagement, Quiet Quitting, High-Performance Detachment, Avoidance Coping, The Great Resignation, Burnout Recovery, Outcome Independence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

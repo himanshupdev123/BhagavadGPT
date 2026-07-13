@@ -20,6 +20,12 @@ tags:
 - toxic
 - toxic positivity
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/15
+chapter: 8
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 15
@@ -41,3 +47,7 @@ Krishna clinically diagnoses the material world as 'duhkhalayam' (a place of mis
 **Modern Applications:**
 toxic positivity, radical acceptance, the baseline of reality, escaping the matrix, managing expectations
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

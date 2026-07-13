@@ -27,6 +27,12 @@ related:
 - chapter_2/verse_67
 - chapter_2/verse_68
 - chapter_4/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/58
+chapter: 2
+verse_number: 58
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 58
@@ -53,3 +59,7 @@ Psychologically, this teaching highlights the importance of self-regulation. A p
 **Modern Applications:**
 self control, managing impulses, attention control, discipline, avoiding distractions, emotional regulation, focus
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

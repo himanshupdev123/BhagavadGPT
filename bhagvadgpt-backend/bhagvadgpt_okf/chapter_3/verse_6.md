@@ -18,6 +18,12 @@ tags:
 - self-deception
 - suppression vs transformation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/6
+chapter: 3
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 6
@@ -39,3 +45,7 @@ When the mind continues to dwell on what was forcibly given up, internal frictio
 **Modern Applications:**
 suppression vs transformation, self-deception, hypocrisy, cognitive dissonance, habit loops, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

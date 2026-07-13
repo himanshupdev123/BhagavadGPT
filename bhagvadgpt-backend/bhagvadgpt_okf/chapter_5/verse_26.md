@@ -25,6 +25,12 @@ related:
 - chapter_2/verse_63
 - chapter_2/verse_70
 - chapter_6/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/26
+chapter: 5
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 26
@@ -48,3 +54,7 @@ In modern life, stress, competition, and constant stimulation often amplify desi
 **Modern Applications:**
 emotional control, anger management, desire management, self awareness, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

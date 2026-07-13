@@ -7,6 +7,12 @@ tags:
 - fear
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/35
+chapter: 11
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 35
@@ -32,3 +38,7 @@ The reaction shows the emotional weight of what Arjuna has just witnessed. The u
 
 Narratively, this verse marks a pause between Krishna’s powerful revelation and Arjuna’s next response. It captures the human reaction to encountering something vastly greater than oneself. Arjuna’s trembling and bowed posture reflect both fear and deep reverence. The moment highlights the psychological shock of confronting a truth that completely transforms one’s perception of reality.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

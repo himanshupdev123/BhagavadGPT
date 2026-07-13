@@ -26,6 +26,12 @@ tags:
 - temporary
 - the illusion of peace
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/6
+chapter: 5
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 6
@@ -47,3 +53,7 @@ To achieve true peace, you must first do the hard work of karma yoga—engaging 
 **Modern Applications:**
 premature quitting, escapism, mental discipline, action over avoidance, the illusion of peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

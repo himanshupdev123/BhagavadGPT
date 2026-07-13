@@ -19,6 +19,12 @@ related:
 - chapter_18/verse_68
 - chapter_18/verse_69
 - chapter_3/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/29
+chapter: 3
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 29
@@ -40,3 +46,7 @@ If you tell someone who finds meaning only in their career that 'work is an illu
 **Modern Applications:**
 leadership, empathy, psychological safety, personal growth, mentorship, emotional maturity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

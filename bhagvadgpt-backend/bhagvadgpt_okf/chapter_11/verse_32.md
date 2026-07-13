@@ -17,6 +17,12 @@ tags:
 - temporary
 - time as an unstoppable force
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/32
+chapter: 11
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 32
@@ -43,3 +49,7 @@ Psychologically, this verse challenges the human tendency to overestimate person
 **Modern Applications:**
 time as an unstoppable force, illusion of personal control, release from excessive guilt, acting within larger systems, accepting the flow of time
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

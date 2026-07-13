@@ -16,6 +16,12 @@ tags:
 - self-awareness
 - unlearning
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/16
+chapter: 5
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 16
@@ -37,3 +43,7 @@ Krishna shifts the paradigm entirely. You do not need to construct a new, artifi
 **Modern Applications:**
 limiting beliefs, self-awareness, clarity, unlearning, mental illumination
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

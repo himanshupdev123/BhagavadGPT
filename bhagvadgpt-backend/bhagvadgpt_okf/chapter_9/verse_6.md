@@ -14,6 +14,12 @@ tags:
 - spacious awareness
 related:
 - chapter_14/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/6
+chapter: 9
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 6
@@ -35,3 +41,7 @@ When we experience anxiety, anger, or fear, we tend to identify with those feeli
 **Modern Applications:**
 spacious awareness, emotional resilience, mindfulness, managing anxiety, detachment from thoughts, grounding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -28,6 +28,12 @@ related:
 - chapter_2/verse_64
 - chapter_2/verse_68
 - chapter_4/verse_39
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/60
+chapter: 2
+verse_number: 60
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 60
@@ -52,3 +58,7 @@ The verse points to an important insight about human behavior. Awareness of what
 **Modern Applications:**
 self control, impulse control, managing distractions, emotional regulation, discipline, temptation, focus under pressure
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

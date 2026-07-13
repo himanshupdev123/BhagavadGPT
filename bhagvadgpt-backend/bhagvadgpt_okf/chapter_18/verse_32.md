@@ -16,6 +16,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/32
+chapter: 18
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 32
@@ -46,3 +52,7 @@ Have you ever caught yourself rationalizing a clearly bad habit as 'self-care' o
 **Modern Applications:**
 Inverted Reality, Self-Gaslighting, Ideological Possession, Cognitive Distortion, Confirmation Bias, Addiction Rationalization, The Arrogance of Ignorance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

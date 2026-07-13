@@ -7,6 +7,12 @@ tags:
 - desire
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/38
+chapter: 6
+verse_number: 38
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 38
@@ -27,3 +33,7 @@ Arjuna’s doubt mirrors a common psychological struggle. Many people hesitate t
 
 By asking this question openly, Arjuna highlights an important concern for anyone attempting self-development. His question sets the stage for Krishna’s reassurance that sincere effort toward growth and understanding is never truly lost. Even incomplete progress has value and contributes to future development.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

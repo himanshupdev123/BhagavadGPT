@@ -17,6 +17,12 @@ tags:
 - repeating patterns
 - same mistakes
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/4
+chapter: 15
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 4
@@ -40,3 +46,7 @@ In modern psychological terms, this is the shift from moving away from pain to m
 **Modern Applications:**
 life transitions, finding purpose, filling the void, breaking cycles, moving forward, psychological baseline, higher purpose
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

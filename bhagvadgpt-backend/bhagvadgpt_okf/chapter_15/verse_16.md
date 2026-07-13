@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_13/verse_23
 - chapter_2/verse_12
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/16
+chapter: 15
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 16
@@ -46,3 +52,7 @@ Would you like me to help you map out which of your current stressors are tightl
 **Modern Applications:**
 identity crisis, the observing self, impermanence, psychological resilience, core self vs. external roles, emotional whiplash, attachment to outcomes
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

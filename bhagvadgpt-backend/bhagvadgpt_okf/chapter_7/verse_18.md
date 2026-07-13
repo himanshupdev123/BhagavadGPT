@@ -16,6 +16,12 @@ tags:
 - transcending transactionalism
 - ultimate integration
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/18
+chapter: 7
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 18
@@ -37,3 +43,7 @@ Krishna delivers a radically empowering truth. While He acknowledges that anyone
 **Modern Applications:**
 spiritual empowerment, transcending transactionalism, divine union, inherent worth, ultimate integration
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

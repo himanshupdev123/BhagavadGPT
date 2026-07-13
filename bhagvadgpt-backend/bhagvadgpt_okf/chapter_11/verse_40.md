@@ -14,6 +14,12 @@ tags:
 - recognizing pervasive influence
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/40
+chapter: 11
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 40
@@ -40,3 +46,7 @@ Psychologically, the verse represents the breakdown of narrow perception. Humans
 **Modern Applications:**
 interconnectedness of reality, expanding perception, humility before vast systems, breaking narrow perspectives, recognizing pervasive influence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

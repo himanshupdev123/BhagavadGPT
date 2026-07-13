@@ -5,6 +5,12 @@ description: If thousands of suns were to rise in the sky at once, their radianc
   might resemble the splendor of ...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/12
+chapter: 11
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 12
@@ -26,3 +32,7 @@ For Arjuna, this brilliance represents more than physical brightness. It symboli
 
 Within the narrative of the Gita, this verse emphasizes the magnitude of the vision. The universal form is not merely a larger version of an ordinary figure. It is a manifestation of limitless energy and grandeur, far exceeding the scale of anything normally perceived in the physical world.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

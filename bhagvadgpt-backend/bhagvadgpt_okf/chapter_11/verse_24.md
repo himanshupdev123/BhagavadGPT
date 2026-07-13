@@ -8,6 +8,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/24
+chapter: 11
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 24
@@ -33,3 +39,7 @@ This reaction highlights an important aspect of the universal form. The divine r
 
 Within the narrative of the Gita, this verse shows that Arjuna's experience is becoming increasingly intense. What began as wonder is now mixed with anxiety as he struggles to process the full scale of the cosmic presence before him.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

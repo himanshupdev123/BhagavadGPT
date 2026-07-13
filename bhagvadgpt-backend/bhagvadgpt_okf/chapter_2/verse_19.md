@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_2/verse_21
 - chapter_18/verse_66
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/19
+chapter: 2
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 19
@@ -44,3 +50,7 @@ Psychologically, this teaching provides massive relief from the paralyzing weigh
 **Modern Applications:**
 guilt, illusion of control, victimhood, existential fear, identity, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

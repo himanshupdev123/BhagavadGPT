@@ -23,6 +23,12 @@ tags:
 - transactional behavior
 - worshipping lesser goals
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/20
+chapter: 7
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 20
@@ -44,3 +50,7 @@ Krishna diagnoses this as surrendering to 'anya-devatah' (other, lesser gods). I
 **Modern Applications:**
 short-term thinking, transactional behavior, fragmented focus, material obsessions, worshipping lesser goals
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -19,6 +19,12 @@ related:
 - chapter_6/verse_11
 - chapter_6/verse_26
 - chapter_6/verse_3
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/25
+chapter: 6
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 25
@@ -42,3 +48,7 @@ In modern life, constant stimulation from technology and rapid information flow 
 **Modern Applications:**
 patience, focus, mind training, discipline, mental calm
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

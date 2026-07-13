@@ -15,6 +15,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/43
+chapter: 18
+verse_number: 43
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 43
@@ -47,3 +53,7 @@ Do you feel most 'alive' when you are solving high-pressure problems, leading a 
 **Modern Applications:**
 High-Stakes Leadership, Extreme Accountability, Strategic Resourcefulness, Crisis Management, Philanthropic Power, Protective Instinct, Accountability Culture
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

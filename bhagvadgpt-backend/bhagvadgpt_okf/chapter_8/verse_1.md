@@ -13,6 +13,12 @@ tags:
 - overcoming overwhelm
 - systems thinking
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/1
+chapter: 8
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 1
@@ -35,3 +41,7 @@ Arjuna models the perfect student's mindset. He realizes that the profound conce
 **Modern Applications:**
 definitional clarity, systems thinking, asking the right questions, overcoming overwhelm, deconstructing reality
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

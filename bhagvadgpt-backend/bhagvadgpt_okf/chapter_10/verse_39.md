@@ -14,6 +14,12 @@ tags:
 - understanding underlying principles
 - unity of existence
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/39
+chapter: 10
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 39
@@ -38,3 +44,7 @@ Psychologically, this idea challenges the human tendency to see life as fragment
 **Modern Applications:**
 unity of existence, interconnectedness of life, seeing the bigger picture, shared origin of all beings, holistic thinking, understanding underlying principles
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

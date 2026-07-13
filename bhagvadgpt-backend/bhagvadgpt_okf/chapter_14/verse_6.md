@@ -18,6 +18,12 @@ tags:
 - pride
 - the trap of goodness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/6
+chapter: 14
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 6
@@ -39,3 +45,7 @@ Modern individuals often strive for a perfectly balanced, intellectual, and peac
 **Modern Applications:**
 intellectual pride, attachment to comfort, the trap of goodness, ego of knowledge, moral superiority, detachment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

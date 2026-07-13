@@ -16,6 +16,12 @@ tags:
 - respect replacing casual arrogance
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/42
+chapter: 11
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 42
@@ -44,3 +50,7 @@ The verse highlights an important shift in Arjuna’s inner state. The arrogance
 **Modern Applications:**
 humility after deeper understanding, reassessing past behavior, recognizing hidden depth, respect replacing casual arrogance, growth through expanded awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

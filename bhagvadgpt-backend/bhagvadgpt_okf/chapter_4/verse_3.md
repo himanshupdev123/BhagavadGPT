@@ -7,6 +7,12 @@ tags:
 - detachment
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/3
+chapter: 4
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 3
@@ -25,3 +31,7 @@ In the context of the narrative, this highlights a deep psychological truth abou
 
 Because this verse focuses on the narrative context of the dialogue and the nature of the relationship between Krishna and Arjuna, it serves to establish the emotional and psychological prerequisites for the teachings that follow. It emphasizes that this wisdom is a sacred mystery, accessible not to the arrogant, but to those who approach it with a sincere, trusting, and grounded disposition.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -19,6 +19,12 @@ related:
 - chapter_2/verse_41
 - chapter_2/verse_53
 - chapter_2/verse_65
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/40
+chapter: 4
+verse_number: 40
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 40
@@ -42,3 +48,7 @@ Krishna’s teaching suggests that clarity requires both inquiry and trust. Know
 **Modern Applications:**
 overthinking, doubt, decision making, clarity, mental stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -21,6 +21,12 @@ related:
 - chapter_2/verse_18
 - chapter_2/verse_31
 - chapter_2/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/2
+chapter: 5
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 2
@@ -43,3 +49,7 @@ Krishna points out the massive flaw in this psychological defense mechanism. Phy
 **Modern Applications:**
 escapism, avoidance, mindset shift, resilience, duty
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

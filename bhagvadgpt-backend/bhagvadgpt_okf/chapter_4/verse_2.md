@@ -5,6 +5,12 @@ description: This supreme science was thus received through the chain of discipl
   succession, and the saintly ki...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/2
+chapter: 4
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 2
@@ -23,3 +29,7 @@ However, Krishna highlights a fundamental truth about human institutions: over v
 
 Because this verse is primarily narrative and historical, it serves to explain why Krishna is reviving this ancient knowledge specifically for Arjuna. Just as Arjuna stood confused on the battlefield needing clear direction, Krishna demonstrates that humanity periodically needs a reset. When the original, pure message of duty and mental discipline becomes distorted by time, it must be restated to guide those facing complex worldly struggles.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

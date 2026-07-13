@@ -23,6 +23,12 @@ tags:
 related:
 - chapter_2/verse_11
 - chapter_2/verse_25
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/28
+chapter: 2
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 28
@@ -44,3 +50,7 @@ Psychologically, this teaching addresses our extreme attachment to the "middle p
 **Modern Applications:**
 attachment, grief, illusion of permanence, big picture perspective, temporary nature of reality, acceptance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

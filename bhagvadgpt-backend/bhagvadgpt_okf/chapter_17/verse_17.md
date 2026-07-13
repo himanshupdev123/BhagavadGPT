@@ -14,6 +14,12 @@ tags:
 - desire
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/17
+chapter: 17
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 17
@@ -42,3 +48,7 @@ Would you like to identify one area of your life where 'Outcome Anxiety' is maki
 **Modern Applications:**
 Process-Over-Outcome Mastery, Deep Practice, Psychological Buy-in, Intrinsic Motivation, Outcome Anxiety reduction, Total Alignment, Sustainable Discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

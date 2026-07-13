@@ -21,6 +21,12 @@ related:
 - chapter_14/verse_2
 - chapter_5/verse_29
 - chapter_9/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/62
+chapter: 18
+verse_number: 62
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 62
@@ -40,3 +46,7 @@ This is not a call to be passive or lazy; it is a psychological 'letting go' of 
 **Modern Applications:**
 mental health, letting go, trust, burnout prevention, inner peace, resilience, surrender
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

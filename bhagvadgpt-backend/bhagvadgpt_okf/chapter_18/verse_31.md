@@ -18,6 +18,12 @@ tags:
 - morality
 - what is right
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/31
+chapter: 18
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 31
@@ -48,3 +54,7 @@ Are you currently in a situation where the 'right' move feels blurry because of 
 **Modern Applications:**
 Cognitive Bias, Situational Morality, Convenience Ethics, Priority Distortion, The Hustler’s Delusion, Smeared-Lens Perception, Blurred Professional Boundaries
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

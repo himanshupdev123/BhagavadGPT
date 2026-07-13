@@ -20,6 +20,12 @@ related:
 - chapter_2/verse_14
 - chapter_2/verse_16
 - chapter_2/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/24
+chapter: 2
+verse_number: 24
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 24
@@ -41,3 +47,7 @@ Psychologically, this repetition is necessary to break through the deeply ingrai
 **Modern Applications:**
 instability, anxiety, inner stability, groundedness, resilience, impermanence, ego defense
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

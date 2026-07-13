@@ -15,6 +15,12 @@ tags:
 - target acquisition
 - the attributes of absolute stability
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/9
+chapter: 8
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 9
@@ -36,3 +42,7 @@ Krishna commands a radical shift in target acquisition. You must force your mind
 **Modern Applications:**
 cognitive anchoring, doom-scrolling vs divine focus, target acquisition, reframing anxiety, the attributes of absolute stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

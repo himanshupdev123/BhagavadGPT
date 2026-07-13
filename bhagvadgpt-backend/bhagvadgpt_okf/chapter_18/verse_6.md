@@ -26,6 +26,12 @@ tags:
 - separation
 related:
 - chapter_18/verse_9
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/6
+chapter: 18
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 6
@@ -55,3 +61,7 @@ Think about the task you are dreading the most this week. Is the dread coming fr
 **Modern Applications:**
 Scoreboard Detachment, High-Performance Detachment, Ego Decoupling, Duty-Driven Action, The Frictionless Mind, Cognitive Bandwidth Optimization, Intrinsic vs. Extrinsic Motivation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

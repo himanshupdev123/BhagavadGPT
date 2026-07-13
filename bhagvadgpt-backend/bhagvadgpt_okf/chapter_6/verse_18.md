@@ -21,6 +21,12 @@ related:
 - chapter_4/verse_20
 - chapter_4/verse_27
 - chapter_6/verse_10
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/18
+chapter: 6
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 18
@@ -44,3 +50,7 @@ In modern life, many individuals constantly chase new experiences, achievements,
 **Modern Applications:**
 mind control, detachment, inner stability, focus, freedom from desires
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -24,6 +24,12 @@ tags:
 related:
 - chapter_6/verse_4
 - chapter_6/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/4
+chapter: 10
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 4
@@ -48,3 +54,7 @@ In modern life, people frequently struggle with emotional fluctuations and self 
 **Modern Applications:**
 emotional awareness, managing emotions, mental clarity, self control, emotional balance, not identifying with temporary emotions
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

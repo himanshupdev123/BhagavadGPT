@@ -6,6 +6,12 @@ description: O Arjuna, behold within My body the entire universe, with all that 
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/7
+chapter: 11
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 7
@@ -27,3 +33,7 @@ For Arjuna, this revelation represents the ultimate expansion of perspective. Ea
 
 Within the narrative of the Gita, this verse signals that Arjuna is about to see the unity behind the diversity of existence. The cosmic vision will reveal that all beings, events, and forces exist within a vast interconnected whole.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

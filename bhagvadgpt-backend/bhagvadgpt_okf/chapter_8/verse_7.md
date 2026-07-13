@@ -15,6 +15,12 @@ tags:
 - separation
 - spiritual execution
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/7
+chapter: 8
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 7
@@ -36,3 +42,7 @@ Krishna issues the ultimate operational command: 'Anusmara yudhya cha' (Remember
 **Modern Applications:**
 active meditation, dual-processing, spiritual execution, destroying the false dichotomy, peak performance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

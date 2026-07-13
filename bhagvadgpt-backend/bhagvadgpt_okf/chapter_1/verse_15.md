@@ -5,6 +5,12 @@ description: Lord Krishna blew His conch shell, called Panchajanya; Arjuna blew 
   the Devadatta; and Bhima, th...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/15
+chapter: 1
+verse_number: 15
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 15
@@ -24,3 +30,7 @@ Krishna, addressed here as Hrishikesha (the master of the senses), sounds the Pa
 
 This specific detailing serves a dual narrative purpose. First, it counters the chaotic, anonymous roar of the Kaurava forces described in earlier verses with the distinct, individualized, and legendary sounds of the Pandava leaders. Second, it establishes the formidable strength and divine support of the Pandava camp, heightening the dramatic tension just before the epic battle and the profound psychological dialogue of the Gita commences. The verse serves strictly to set the historical and narrative scene.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

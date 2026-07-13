@@ -17,6 +17,12 @@ tags:
 - separation
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/53
+chapter: 11
+verse_number: 53
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 53
@@ -41,3 +47,7 @@ Psychologically, the verse highlights the limits of mechanical approaches to wis
 **Modern Applications:**
 limits of ritualistic thinking, beyond intellectual knowledge, illusion of guaranteed methods, direct experience of truth, humility in the search for wisdom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

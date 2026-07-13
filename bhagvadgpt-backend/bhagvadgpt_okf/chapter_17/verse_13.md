@@ -20,6 +20,12 @@ tags:
 - separation
 - surrender to failure
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/13
+chapter: 17
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 13
@@ -49,3 +55,7 @@ Have you ever felt stuck in a 'Zombie Project' or a role that felt fundamentally
 **Modern Applications:**
 Zombie Projects, Institutional Decay, Cynical Bureaucracy, Quiet Quitting, Exploitative Systems, Moral Injury, Psychological Entropy, Vaporware Culture
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

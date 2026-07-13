@@ -33,6 +33,12 @@ related:
 - chapter_2/verse_45
 - chapter_2/verse_47
 - chapter_2/verse_48
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/50
+chapter: 2
+verse_number: 50
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 50
@@ -57,3 +63,7 @@ The phrase “yoga is skill in action” highlights a powerful insight. True eff
 **Modern Applications:**
 skillful action, detachment from outcomes, emotional balance, overthinking, performance mindset, clarity under pressure, focus on process
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

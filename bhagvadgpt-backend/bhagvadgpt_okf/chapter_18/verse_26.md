@@ -23,6 +23,12 @@ tags:
 - separation
 - surrender to failure
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/26
+chapter: 18
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 26
@@ -54,3 +60,7 @@ Think about your current professional or personal 'avatar.' Which of these five 
 **Modern Applications:**
 Level 5 Leadership, Intrinsic Motivation, Emotional Equanimity, Grit and Fortitude (Dhṛti), The Anti-Quiet Quitter, Ego-Decoupled Performance, Sustainable Excellence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

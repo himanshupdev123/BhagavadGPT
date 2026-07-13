@@ -20,6 +20,12 @@ related:
 - chapter_13/verse_7
 - chapter_14/verse_11
 - chapter_14/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/29
+chapter: 4
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 29
@@ -43,3 +49,7 @@ In modern life, constant stress and mental overload often lead to shallow breath
 **Modern Applications:**
 breath control, stress management, mindfulness, focus, emotional regulation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

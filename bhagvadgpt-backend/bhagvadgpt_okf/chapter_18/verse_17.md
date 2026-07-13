@@ -24,6 +24,12 @@ tags:
 - pride
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/17
+chapter: 18
+verse_number: 17
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 17
@@ -55,3 +61,7 @@ Are you currently avoiding a 'ruthless' but necessary decision because you are a
 **Modern Applications:**
 The Surgeon's Mindset, State-Dependent Action, Zero Emotional Volatility, Ego-Death in Execution, Objective Decision Making, Detached Agency, Handling 'Hard Calls'
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

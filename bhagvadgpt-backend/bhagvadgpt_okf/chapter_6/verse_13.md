@@ -19,6 +19,12 @@ related:
 - chapter_6/verse_12
 - chapter_6/verse_15
 - chapter_6/verse_19
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/13
+chapter: 6
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 13
@@ -42,3 +48,7 @@ In modern life, people often struggle with attention because they are surrounded
 **Modern Applications:**
 focus, meditation, posture, attention control, mental discipline
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

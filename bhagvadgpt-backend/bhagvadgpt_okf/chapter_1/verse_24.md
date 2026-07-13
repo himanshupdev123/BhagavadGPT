@@ -6,6 +6,12 @@ description: 'Sanjaya said: O descendant of Bharata, having been addressed in th
 tags:
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/24
+chapter: 1
+verse_number: 24
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 24
@@ -29,3 +35,7 @@ By placing the chariot in the middle of the battlefield, Krishna fulfills Arjuna
 
 This placement of the chariot becomes the turning point where external war begins to trigger internal conflict. The verse therefore functions as a narrative bridge, moving the story from preparation for battle toward the emotional and philosophical crisis that will lead to the teachings of the Bhagavad Gita.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

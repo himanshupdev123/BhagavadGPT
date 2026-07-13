@@ -22,6 +22,12 @@ tags:
 - self
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/14
+chapter: 16
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 14
@@ -47,3 +53,7 @@ Have you ever caught yourself feeling a 'rush' from someone else's failure, or f
 **Modern Applications:**
 The God Complex, Zero-Sum mindset, Narcissistic grandiosity, Toxic competitiveness, Fragile high self-esteem, Adversarial thinking, The Dark Triad
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_4/verse_37
 - chapter_2/verse_69
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/36
+chapter: 4
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 36
@@ -44,3 +50,7 @@ The verse highlights that wisdom has the power to transform one's relationship w
 **Modern Applications:**
 overcoming guilt, personal transformation, learning from mistakes, self awareness, inner growth
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

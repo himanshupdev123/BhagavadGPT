@@ -14,6 +14,12 @@ tags:
 - toxic
 - toxic environments
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/10
+chapter: 5
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 10
@@ -35,3 +41,7 @@ Krishna provides the exact technique for emotional waterproofing. The lotus flow
 **Modern Applications:**
 emotional resilience, toxic environments, detachment, higher purpose, stress immunity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

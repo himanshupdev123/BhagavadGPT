@@ -20,6 +20,12 @@ tags:
 - surrender
 related:
 - chapter_17/verse_25
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/49
+chapter: 18
+verse_number: 49
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 49
@@ -51,3 +57,7 @@ Are you currently 'sticky' with your work—carrying the stress of your morning 
 **Modern Applications:**
 Non-Reactive Performance, Psychological Residue Management, The Stoic Operator, Outcome Independence, Ego-Decoupling, Internal Sovereignty, The Art of Letting Go
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

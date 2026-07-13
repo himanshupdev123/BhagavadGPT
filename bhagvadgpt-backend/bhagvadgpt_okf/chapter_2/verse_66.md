@@ -33,6 +33,12 @@ related:
 - chapter_18/verse_57
 - chapter_2/verse_64
 - chapter_2/verse_70
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/66
+chapter: 2
+verse_number: 66
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 66
@@ -57,3 +63,7 @@ Psychologically, the verse explains why happiness cannot be achieved through unc
 **Modern Applications:**
 self discipline, mental focus, inner peace, emotional stability, overthinking, mindfulness, happiness and well being
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

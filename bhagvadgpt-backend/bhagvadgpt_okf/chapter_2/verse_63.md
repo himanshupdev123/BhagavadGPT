@@ -25,6 +25,12 @@ related:
 - chapter_4/verse_10
 - chapter_5/verse_23
 - chapter_5/verse_26
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/63
+chapter: 2
+verse_number: 63
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 63
@@ -49,3 +55,7 @@ Psychologically, the verse maps the breakdown of rational thinking under emotion
 **Modern Applications:**
 anger management, emotional escalation, loss of rational thinking, impulsive decisions, emotional regulation, cognitive breakdown under stress, self awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

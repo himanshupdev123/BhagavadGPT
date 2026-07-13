@@ -14,6 +14,12 @@ tags:
 - standing firm in difficult environments
 - strength and leadership
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/30
+chapter: 10
+verse_number: 30
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 30
@@ -38,3 +44,7 @@ Through these examples Krishna continues training Arjuna's perception. Devotion 
 **Modern Applications:**
 integrity in adversity, power of time, strength and leadership, resilience, recognizing excellence, standing firm in difficult environments
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

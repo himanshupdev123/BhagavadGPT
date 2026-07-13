@@ -141,7 +141,7 @@ class BhagvadOKFGraph:
                         # Create verse reference (e.g., "chapter_2/verse_47")
                         verse_ref = f"{file_path.parent.name}/{file_path.stem}"
                         
-                        # Store node with metadata
+                        # Store node with metadata (including OKF v0.1 fields)
                         node_data = {
                             "id": file_path.stem,  # e.g., "verse_47"
                             "chapter": file_path.parent.name,  # e.g., "chapter_2"
@@ -149,7 +149,16 @@ class BhagvadOKFGraph:
                             "title": frontmatter.get("title", ""),
                             "tags": frontmatter.get("tags", []),
                             "related": frontmatter.get("related", []),
-                            "content": body
+                            "content": body,
+                            # OKF v0.1 enhanced fields
+                            "type": frontmatter.get("type", ""),
+                            "description": frontmatter.get("description", ""),
+                            "created": frontmatter.get("created", ""),
+                            "updated": frontmatter.get("updated", ""),
+                            "resource": frontmatter.get("resource", ""),
+                            "chapter_num": frontmatter.get("chapter", None),
+                            "verse_number": frontmatter.get("verse_number", None),
+                            "speaker": frontmatter.get("speaker", "")
                         }
                         
                         self.nodes.append(node_data)

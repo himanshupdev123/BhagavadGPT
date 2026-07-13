@@ -6,6 +6,12 @@ description: Such social disorder leads the destroyers of the family and the fam
 tags:
 - fear
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/42
+chapter: 1
+verse_number: 42
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 42
@@ -27,3 +33,7 @@ Arjuna therefore sees the destruction of family structures as a deep rupture in 
 
 This reasoning shows how far Arjuna’s thinking has expanded. His concern is no longer only about immediate suffering but about the long-term collapse of traditions that preserve identity, memory, and responsibility across generations.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

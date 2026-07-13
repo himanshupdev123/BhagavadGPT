@@ -5,6 +5,12 @@ description: 'Arjuna said: O Lord, I see within Your body all the gods and the v
   kinds of living beings. I s...'
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/15
+chapter: 11
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 15
@@ -32,3 +38,7 @@ For Arjuna, this vision radically changes his understanding of existence. The ba
 
 Within the narrative of the Gita, this verse represents Arjuna's attempt to describe the overwhelming diversity he sees in the cosmic vision. The universal form reveals that the entire hierarchy of existence, from divine beings to living creatures, exists together within one vast and interconnected reality.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

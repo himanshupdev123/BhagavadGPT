@@ -26,6 +26,12 @@ tags:
 related:
 - chapter_14/verse_12
 - chapter_14/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/12
+chapter: 9
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 12
@@ -47,3 +53,7 @@ When our core operating system is built on delusion and ego—referred to here a
 **Modern Applications:**
 hustle culture, superficial living, empty ambition, delusion, toxic habits, burnout, meaningless action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

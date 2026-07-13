@@ -7,6 +7,12 @@ tags:
 - detachment
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/8
+chapter: 4
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 8
@@ -25,3 +31,7 @@ Just as Arjuna felt paralyzed by his attachments and duties, terrified of the im
 
 On a deep psychological level, this macroscopic law mirrors the internal human landscape. When our minds become overrun by psychological miscreants—destructive habits, overwhelming ego, and toxic thoughts—our internal clarity and peace are heavily suppressed. To restore mental equilibrium, a decisive, sometimes painful internal intervention is required. We must actively destroy our own bad patterns to protect our core sanity and reestablish our internal dharma. However, because this verse is primarily a theological declaration of Krishna's cosmic role rather than direct behavioral instruction for the individual, it serves mainly to reassure the listener that supreme order fundamentally governs the universe.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -5,6 +5,12 @@ description: Arjuna saw the divine form adorned with celestial garlands and garm
   anointed with divine fragra...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/11
+chapter: 11
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 11
@@ -26,3 +32,7 @@ For Arjuna, this vision dramatically expands the boundaries of perception. Human
 
 Within the narrative of the Gita, this verse continues building the overwhelming nature of the cosmic vision. It portrays a divine reality that is limitless, all encompassing, and filled with extraordinary beauty and power.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -12,6 +12,12 @@ tags:
 - respect for higher principles
 - responses to truth
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/36
+chapter: 11
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 36
@@ -40,3 +46,7 @@ In the context of Arjuna’s journey, this verse shows a shift in his perception
 **Modern Applications:**
 responses to truth, integrity versus corruption, fear of accountability, respect for higher principles, recognizing true authority
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

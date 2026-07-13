@@ -13,6 +13,12 @@ tags:
 - sensory diet
 - subjective reality
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/9
+chapter: 15
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 9
@@ -36,3 +42,7 @@ Would you like me to help you audit your daily 'sensory diet' to see if there is
 **Modern Applications:**
 sensory diet, media consumption, doom-scrolling, subjective reality, gatekeeping inputs, cognitive filters, mind-body connection
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

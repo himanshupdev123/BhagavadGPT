@@ -14,6 +14,12 @@ tags:
 - detachment
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/22
+chapter: 18
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 22
@@ -46,3 +52,7 @@ Take a brutally honest look at your current mental real estate. Is there one spe
 **Modern Applications:**
 Algorithmic Echo Chambers, The Tunnel Vision Trap, Fanaticism and Cult Psychology, Cognitive Rigidity (Ahaitukam), Vanity Metric Obsession, Intellectual Laziness, Nuance Collapse
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -7,6 +7,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/43
+chapter: 1
+verse_number: 43
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 43
@@ -28,3 +34,7 @@ Arjuna fears that when families are destroyed, the people responsible for preser
 
 This verse shows that Arjuna’s thinking has moved far beyond personal grief. He now views the war as a threat to the entire structure of social order. In his mind, the destruction of families would not only cause immediate suffering but would also erase the traditions that guide responsible behavior across generations.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

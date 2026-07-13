@@ -16,6 +16,12 @@ tags:
 - repeating patterns
 - same mistakes
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/9
+chapter: 17
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 9
@@ -41,3 +47,7 @@ Do you find yourself reaching for 'high-intensity' foods (extra spicy, extra sal
 **Modern Applications:**
 The Inflammation Cycle, Stimulant Dependency, High-Stress Eating, Adrenal Fatigue, Hyper-Palatable Foods, Emotional Volatility, The 'Kick' Culture
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

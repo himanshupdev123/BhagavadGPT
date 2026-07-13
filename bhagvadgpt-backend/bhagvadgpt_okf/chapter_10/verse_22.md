@@ -18,6 +18,12 @@ tags:
 - separation
 - understanding human awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/22
+chapter: 10
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 22
@@ -42,3 +48,7 @@ Psychologically, this highlights the central role of the mind and consciousness 
 **Modern Applications:**
 power of the mind, role of consciousness, awareness and perception, mental discipline, understanding human awareness, mind as central to experience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

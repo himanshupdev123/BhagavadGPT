@@ -23,6 +23,12 @@ tags:
 - shallow success
 related:
 - chapter_9/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/42
+chapter: 2
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 42
@@ -49,3 +55,7 @@ Krishna’s point is that wisdom requires looking beyond attractive promises. Re
 **Modern Applications:**
 reward seeking mindset, materialism, shallow success, distraction from purpose, focus vs temptation, external validation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

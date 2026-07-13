@@ -21,6 +21,12 @@ tags:
 - time management
 related:
 - chapter_4/verse_11
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/25
+chapter: 9
+verse_number: 25
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 25
@@ -40,3 +46,7 @@ Krishna is explaining the fundamental law of cause and effect in human conscious
 **Modern Applications:**
 focus, intention, goal-setting, priorities, cause and effect
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

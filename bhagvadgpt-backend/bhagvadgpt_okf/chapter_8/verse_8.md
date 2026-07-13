@@ -17,6 +17,12 @@ tags:
 - psychological weightlifting
 - relentless practice (abhyasa)
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/8
+chapter: 8
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 8
@@ -38,3 +44,7 @@ Krishna provides the only solution: 'abhyasa-yoga-yuktena' (engagement in the yo
 **Modern Applications:**
 attention span, neuroplasticity and training, psychological weightlifting, relentless practice (abhyasa), focus as a weapon
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

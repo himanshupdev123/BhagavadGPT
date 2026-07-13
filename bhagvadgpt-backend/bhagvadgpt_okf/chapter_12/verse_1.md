@@ -13,6 +13,12 @@ tags:
 - relationship based meaning
 - search for the most effective path
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/1
+chapter: 12
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 1
@@ -39,3 +45,7 @@ The question sets the stage for the teachings of the next chapter, where Krishna
 **Modern Applications:**
 personal versus abstract spirituality, different paths to understanding truth, relationship based meaning, philosophical inquiry into reality, search for the most effective path
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

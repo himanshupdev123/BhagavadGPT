@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_13/verse_26
 - chapter_18/verse_67
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/8
+chapter: 13
+verse_number: 8
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 8
@@ -42,3 +48,7 @@ Furthermore, qualities like tolerance (ksanti), simplicity (arjavam), and self-c
 **Modern Applications:**
 intellectual humility, emotional intelligence (EQ), character development, authenticity, self-regulation, mentorship, psychological stability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

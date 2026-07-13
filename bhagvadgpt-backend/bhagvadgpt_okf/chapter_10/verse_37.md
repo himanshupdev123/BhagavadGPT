@@ -17,6 +17,12 @@ tags:
 - self
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/37
+chapter: 10
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 37
@@ -41,3 +47,7 @@ Through these examples Krishna reinforces the central theme of the chapter. Extr
 **Modern Applications:**
 recognizing personal potential, overcoming self doubt, excellence in leadership, intellectual brilliance, creative intelligence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

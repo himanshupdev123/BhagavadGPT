@@ -20,6 +20,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/15
+chapter: 18
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 15
@@ -54,3 +60,7 @@ Think about a recent action you took that you consider 'viparītam' (a mistake o
 **Modern Applications:**
 The Three Vectors of Action, Shame-Neutralizing Framework, Systems Thinking for Mistakes, Cognitive Diagnostics, Objective Self-Correction, Digital Communication (Vāk), Deconstructing Guilt
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

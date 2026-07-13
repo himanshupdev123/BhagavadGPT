@@ -5,6 +5,12 @@ description: I see the sons of Dhritarashtra, along with all the kings, and also
   Drona, and Karna, as we...
 tags: []
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/26
+chapter: 11
+verse_number: 26
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 26
@@ -30,3 +36,7 @@ For Arjuna, this insight changes the meaning of the conflict he is facing. The b
 
 Within the narrative of the Gita, this verse marks the point where the universal vision begins to reveal the destiny of the warriors involved in the war, linking the cosmic perspective directly to the events of the battlefield.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

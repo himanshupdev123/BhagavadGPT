@@ -14,6 +14,12 @@ tags:
 - fear
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/15
+chapter: 17
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 15
@@ -43,3 +49,7 @@ Think about the last 'difficult' conversation you had or the last comment you po
 **Modern Applications:**
 High-Fidelity Communication, Non-Violent Communication (NVC), Digital Etiquette, Radical Candor, Information Hygiene, Emotional Intelligence (EQ), Signal vs. Noise
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

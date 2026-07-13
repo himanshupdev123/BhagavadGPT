@@ -22,6 +22,12 @@ tags:
 - values vs achievement
 related:
 - chapter_1/verse_35
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/32
+chapter: 1
+verse_number: 32
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 32
@@ -46,3 +52,7 @@ Arjuna’s statement shows the depth of his inner conflict. His attachment to lo
 **Modern Applications:**
 meaning of success, values vs achievement, moral conflict, purpose of life, attachment, ethical decision making
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -27,6 +27,12 @@ tags:
 - perseverance
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/34
+chapter: 18
+verse_number: 34
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 34
@@ -57,3 +63,7 @@ Are you currently working hard on a project because you love the process, or are
 **Modern Applications:**
 Transactional Grit, Outcome-Dependent Willpower, Incentive-Driven Performance, The 'What’s In It For Me?' Mindset, Performance-Based Self-Worth, Fragile Persistence, Grind Culture Anatomy
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

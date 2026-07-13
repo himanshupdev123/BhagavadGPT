@@ -19,6 +19,12 @@ tags:
 - rumination
 - thinking too much
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/10
+chapter: 18
+verse_number: 10
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 10
@@ -47,3 +53,7 @@ Think about your current to-do list. Is there an 'akuśalam' (mundane/boring) ta
 **Modern Applications:**
 Task Neutrality, Radical Equanimity, Ego-Task Fusion, Zero Resistance, Analysis Paralysis, Decision Fatigue Resolution, The Intelligent Operator
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

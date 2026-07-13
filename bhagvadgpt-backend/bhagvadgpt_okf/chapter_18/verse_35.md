@@ -17,6 +17,12 @@ tags:
 - mind control
 - motivate
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/35
+chapter: 18
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 35
@@ -48,3 +54,7 @@ Think about the one negative habit or 'sad story' about yourself that you’ve b
 **Modern Applications:**
 The Willpower to Stay Stuck, Digital Escapism, Victim Identity, Trauma-Clinging, The Comfort Zone Trap, Chronic Stagnation, Risk-Aversion as a Lifestyle
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

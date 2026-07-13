@@ -19,6 +19,12 @@ related:
 - chapter_13/verse_15
 - chapter_13/verse_18
 - chapter_14/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/16
+chapter: 13
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 16
@@ -40,3 +46,7 @@ The paradox of the Truth being 'far away, yet near' perfectly describes the mode
 **Modern Applications:**
 paradox, destination addiction, limits of perception, subtle vs. gross reality, mindfulness, internal validation, the observing self
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

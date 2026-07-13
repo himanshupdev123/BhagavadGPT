@@ -22,6 +22,12 @@ tags:
 - the illusion of control
 - willpower failure
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/14
+chapter: 7
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 14
@@ -43,3 +49,7 @@ Krishna reveals the only viable exit strategy. You cannot outsmart or out-muscle
 **Modern Applications:**
 willpower failure, addiction and relapse, the illusion of control, strategic surrender, escaping the matrix
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

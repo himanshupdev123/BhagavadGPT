@@ -6,6 +6,12 @@ description: By the mercy of Vyasa, I have heard these most confidential talks d
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/75
+chapter: 18
+verse_number: 75
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 75
@@ -22,3 +28,7 @@ In this verse, Sanjaya acknowledges the source of his profound insight and the d
 
 Historically, this verse establishes the authority and authenticity of the Bhagavad Gita within the Mahabharata epic. Sanjaya emphasizes the word 'sakshat,' meaning 'directly' or 'in person.' He is highlighting that he did not receive this information through hearsay or second-hand accounts; he heard the supreme secret (guhyam aham param) as it was being spoken. This reinforces the idea of a 'parampara' or a lineage of knowledge where the truth is passed down from a realized source. For the narrative context, it serves to heighten the gravity of what has just been revealed. By naming Krishna as the master of all mysticism, Sanjaya frames the entire discourse not just as a tactical briefing for a warrior, but as the ultimate revelation of the laws governing existence, delivered by the source of those laws.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

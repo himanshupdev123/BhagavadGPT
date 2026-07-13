@@ -19,6 +19,12 @@ tags:
 - self
 - self-awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/3
+chapter: 3
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 3
@@ -41,3 +47,7 @@ The path of knowledge requires deep introspection and mental withdrawal, while t
 **Modern Applications:**
 self-awareness, action vs contemplation, personality types, finding purpose, mindful action
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

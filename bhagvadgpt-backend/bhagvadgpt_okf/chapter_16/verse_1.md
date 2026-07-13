@@ -19,6 +19,12 @@ related:
 - chapter_2/verse_60
 - chapter_2/verse_64
 - chapter_5/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/1
+chapter: 16
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 1
@@ -43,3 +49,7 @@ Would you like to pick one of these traits—perhaps 'fearlessness' or 'simplici
 **Modern Applications:**
 mental hygiene, resilience, emotional regulation, authenticity, impulse control, fear management, character building
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

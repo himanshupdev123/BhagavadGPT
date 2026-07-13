@@ -24,6 +24,12 @@ tags:
 - self-awareness
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/38
+chapter: 3
+verse_number: 38
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 38
@@ -48,3 +54,7 @@ The verse shows that the real task is not to create knowledge but to remove what
 **Modern Applications:**
 desire clouding judgment, loss of clarity, emotional bias in decision making, self-awareness, removing mental distractions, psychology of temptation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

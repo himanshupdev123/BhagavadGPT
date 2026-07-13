@@ -21,6 +21,12 @@ related:
 - chapter_10/verse_7
 - chapter_10/verse_8
 - chapter_18/verse_72
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/3
+chapter: 10
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 3
@@ -45,3 +51,7 @@ Freedom from "sin" in this verse refers to freedom from the destructive patterns
 **Modern Applications:**
 overcoming confusion, clarity of worldview, freedom from destructive habits, seeing the bigger picture, philosophical understanding of life, mental clarity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

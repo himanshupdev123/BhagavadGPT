@@ -14,6 +14,12 @@ tags:
 - psychological sanctuary
 related:
 - chapter_14/verse_23
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/20
+chapter: 13
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 20
@@ -35,3 +41,7 @@ Understanding this creates an indestructible psychological sanctuary. You realiz
 **Modern Applications:**
 cognitive defusion, observer vs. observed, impermanence, psychological sanctuary, Samkhya philosophy, dis-identification, emotional resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

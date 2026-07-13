@@ -25,6 +25,12 @@ related:
 - chapter_13/verse_1
 - chapter_13/verse_6
 - chapter_13/verse_7
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/42
+chapter: 3
+verse_number: 42
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 42
@@ -51,3 +57,7 @@ The verse presents a psychological strategy: by strengthening awareness and reas
 **Modern Applications:**
 hierarchy of mind and behavior, self-awareness, emotional regulation, impulse vs reason, mindfulness, self-mastery, conscious decision making
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -17,6 +17,12 @@ tags:
 - self-actualization
 - transcending dualities
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/18
+chapter: 15
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 18
@@ -40,3 +46,7 @@ Would you like me to help you identify one area of your life where you feel stuc
 **Modern Applications:**
 self-actualization, dynamic stillness, integration of self, transcending dualities, leadership of the self, beyond mindfulness, holistic success
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

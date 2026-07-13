@@ -17,6 +17,12 @@ tags:
 - karma
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/19
+chapter: 18
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 19
@@ -48,3 +54,7 @@ Which of these three pillars feels like the biggest bottleneck in your life righ
 **Modern Applications:**
 Performance Auditing, The Guna Framework, Personality Diagnostics, Operating System Debugging, Perspective, Action, and Identity, Sankhya Systems Analysis, Bottleneck Identification
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

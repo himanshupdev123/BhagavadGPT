@@ -28,6 +28,12 @@ tags:
 - surrender
 - time management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/13
+chapter: 12
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 13
@@ -54,3 +60,7 @@ The verse concludes with emotional balance and forgiveness. A mature mind learns
 **Modern Applications:**
 emotional balance, letting go of ego, compassion for others, freedom from resentment, psychological maturity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

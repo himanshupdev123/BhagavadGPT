@@ -16,6 +16,12 @@ tags:
 - workplace stress
 related:
 - chapter_15/verse_3
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/14
+chapter: 4
+verse_number: 14
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 14
@@ -37,3 +43,7 @@ Krishna offers a radical shift in perspective. To deeply understand his nature i
 **Modern Applications:**
 detachment, intrinsic motivation, workplace stress, emotional freedom, letting go
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

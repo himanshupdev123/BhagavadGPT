@@ -22,6 +22,12 @@ tags:
 - motivate
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/12
+chapter: 17
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 12
@@ -49,3 +55,7 @@ Would you like to identify a specific goal you’re currently pursuing to see if
 **Modern Applications:**
 Extrinsic Motivation, The Hedonic Treadmill, Success Theater, Transactional Relationships, Clout Chasing, Dopamine-Driven Ambition, Outcome Dependency
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

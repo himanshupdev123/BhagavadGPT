@@ -23,6 +23,12 @@ related:
 - chapter_4/verse_26
 - chapter_6/verse_14
 - chapter_6/verse_18
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/36
+chapter: 6
+verse_number: 36
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 36
@@ -46,3 +52,7 @@ In modern life, people often struggle with distractions, stress, and constant st
 **Modern Applications:**
 self discipline, mind control, focus, persistence, mental training
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

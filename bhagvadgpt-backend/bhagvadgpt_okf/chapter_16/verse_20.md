@@ -23,6 +23,12 @@ tags:
 - mind control
 - self
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/20
+chapter: 16
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 20
@@ -48,3 +54,7 @@ Are there any 'small' negative habits you've noticed lately that feel like they 
 **Modern Applications:**
 Cognitive Tunneling, Downward Spirals, Loss of Neuroplasticity, Mental Rigidity, Self-reinforcing loops, Psychological isolation, Compounding choices
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

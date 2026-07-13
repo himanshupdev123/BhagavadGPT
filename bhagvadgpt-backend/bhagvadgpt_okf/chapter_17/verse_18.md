@@ -18,6 +18,12 @@ tags:
 - self
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/18
+chapter: 17
+verse_number: 18
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 18
@@ -43,3 +49,7 @@ Have you ever felt your motivation 'evaporate' the moment nobody was watching? W
 **Modern Applications:**
 External Validation, Status Signaling, Performative Productivity, Clout Culture, Fragile Self-Worth, The Spotlight Effect, Motivational Instability
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

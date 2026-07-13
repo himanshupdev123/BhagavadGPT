@@ -21,6 +21,12 @@ tags:
 - status seeking
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/43
+chapter: 2
+verse_number: 43
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 43
@@ -47,3 +53,7 @@ Krishna’s teaching suggests that wisdom requires moving beyond desire-centered
 **Modern Applications:**
 desire driven life, material success obsession, pleasure seeking, status seeking, reward based motivation, restlessness, consumer mindset
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

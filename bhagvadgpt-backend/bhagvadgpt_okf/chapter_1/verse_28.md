@@ -26,6 +26,12 @@ related:
 - chapter_1/verse_30
 - chapter_1/verse_33
 - chapter_1/verse_35
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/28
+chapter: 1
+verse_number: 28
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 28
@@ -52,3 +58,7 @@ Just as Arjuna becomes paralyzed by the clash between responsibility and persona
 **Modern Applications:**
 emotional conflict, compassion vs duty, moral dilemma, inner crisis, attachment, decision paralysis
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

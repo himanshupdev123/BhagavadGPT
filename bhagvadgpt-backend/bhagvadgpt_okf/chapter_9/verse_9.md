@@ -14,6 +14,12 @@ tags:
 - role-playing
 related:
 - chapter_3/verse_30
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/9
+chapter: 9
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 9
@@ -35,3 +41,7 @@ The psychological shift required here is to perform our duties with intense focu
 **Modern Applications:**
 burnout prevention, high performance, detachment, neutral observer, emotional boundaries, role-playing
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

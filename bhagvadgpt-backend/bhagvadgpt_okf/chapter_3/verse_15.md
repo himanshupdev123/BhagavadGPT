@@ -19,6 +19,12 @@ tags:
 - sacredness of work
 - spiritual vs material
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/15
+chapter: 3
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 15
@@ -40,3 +46,7 @@ Krishna dismantles this separation. He establishes that duty itself, when perfor
 **Modern Applications:**
 sacredness of work, divine duty, spiritual vs material, purpose, meaning in everyday life
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

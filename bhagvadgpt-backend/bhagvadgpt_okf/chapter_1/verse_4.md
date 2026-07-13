@@ -6,6 +6,12 @@ description: 'Here in this army are heroic bowmen, equal in battle to Bhima and 
 tags:
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/4
+chapter: 1
+verse_number: 4
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 4
@@ -22,3 +28,7 @@ Continuing his assessment of the opposing army, Duryodhana lists the formidable 
 
 Narratively, this verse serves to build the tension of the impending war. It highlights the massive scale of the conflict and the caliber of the individuals involved. Duryodhana's enumeration of the enemy's key generals reveals his strategic mindset, but it also betrays a deep-seated anxiety. He is acutely aware that the Pandava army is not merely large, but populated by seasoned, elite veterans who have personal grievances against the Kauravas. King Virata had hosted the Pandavas during their exile, and King Drupada was their father-in-law, making their allegiance deeply personal and fiercely loyal. This exposition anchors the historical context and sets the stage for the catastrophic battle that is about to unfold.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

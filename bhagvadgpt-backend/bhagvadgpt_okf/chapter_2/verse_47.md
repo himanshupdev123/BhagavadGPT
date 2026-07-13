@@ -29,6 +29,12 @@ related:
 - chapter_2/verse_39
 - chapter_2/verse_48
 - chapter_2/verse_50
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/47
+chapter: 2
+verse_number: 47
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 47
@@ -53,3 +59,7 @@ This insight addresses a common modern struggle. People often experience stress 
 **Modern Applications:**
 focus on effort, detachment from outcomes, overthinking, fear of failure, responsibility, anxiety about results, avoiding procrastination
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -15,6 +15,12 @@ tags:
 - separation
 - value of transformative experiences
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/52
+chapter: 11
+verse_number: 52
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 52
@@ -41,3 +47,7 @@ Psychologically, the verse highlights a recurring truth about human perception. 
 **Modern Applications:**
 rare moments of deep insight, limits of ordinary perception, expanded awareness of reality, value of transformative experiences, perspective beyond immediate concerns
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

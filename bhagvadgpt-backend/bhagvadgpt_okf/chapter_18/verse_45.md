@@ -20,6 +20,12 @@ tags:
 - passion
 - rivalry
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/45
+chapter: 18
+verse_number: 45
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 45
@@ -49,3 +55,7 @@ Are you currently chasing someone else's definition of 'Perfection,' or are you 
 **Modern Applications:**
 Radical Authenticity, Vocational Satisfaction, The End of Status Anxiety, Cognitive Congruence, Mastery vs. Comparison, The 'Grass is Greener' Cure, Flow State Alignment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

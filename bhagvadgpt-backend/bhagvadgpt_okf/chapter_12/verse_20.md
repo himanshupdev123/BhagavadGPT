@@ -13,6 +13,12 @@ tags:
 - mind control
 - sustaining discipline over time
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/12/verse/20
+chapter: 12
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 12, Verse 20
@@ -37,3 +43,7 @@ Psychologically, the verse highlights that lasting inner stability emerges when 
 **Modern Applications:**
 living by guiding principles, developing psychological stability, sustaining discipline over time, faith as inner orientation, integrating values into daily life
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

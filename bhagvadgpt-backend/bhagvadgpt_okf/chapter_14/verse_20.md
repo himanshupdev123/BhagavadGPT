@@ -20,6 +20,12 @@ related:
 - chapter_2/verse_13
 - chapter_2/verse_20
 - chapter_2/verse_22
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/20
+chapter: 14
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 20
@@ -41,3 +47,7 @@ However, when you transcend these three modes, a profound psychological shift oc
 **Modern Applications:**
 existential dread, fear of aging, mortality, emotional liberation, disidentification, fear of death, inner freedom
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -26,6 +26,12 @@ tags:
 - responsibility
 related:
 - chapter_1/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/37
+chapter: 1
+verse_number: 37
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 37
@@ -50,3 +56,7 @@ Arjuna’s condition shows how compassion and attachment can blur the line betwe
 **Modern Applications:**
 family loyalty, moral dilemma, emotional bias, duty vs attachment, conflict avoidance, ethical decision making
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

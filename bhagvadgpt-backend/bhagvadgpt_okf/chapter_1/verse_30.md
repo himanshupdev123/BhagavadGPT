@@ -19,6 +19,12 @@ related:
 - chapter_1/verse_28
 - chapter_1/verse_29
 - chapter_18/verse_66
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/1/verse/30
+chapter: 1
+verse_number: 30
+speaker: Arjuna
 ---
 
 # Chapter 1, Verse 30
@@ -43,3 +49,7 @@ Just as Arjuna loses stability when facing a painful decision, modern individual
 **Modern Applications:**
 mental overwhelm, anxiety, decision paralysis, loss of focus, stress response, emotional conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

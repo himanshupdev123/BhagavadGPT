@@ -13,6 +13,12 @@ tags:
 - The psychology of obsession
 - mind control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/4
+chapter: 17
+verse_number: 4
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 4
@@ -41,3 +47,7 @@ Would you like to take a quick 'Idol Audit' of the top three people or accounts 
 **Modern Applications:**
 Hero worship, Influence and Mentorship, Information consumption, Status symbols, The psychology of obsession, Ideological alignment, Digital 'spirits' (trolls and doom-scrolling)
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

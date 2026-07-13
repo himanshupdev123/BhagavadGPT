@@ -26,6 +26,12 @@ tags:
 - pride
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/53
+chapter: 18
+verse_number: 53
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 53
@@ -59,3 +65,7 @@ Which of these six 'weights' feels the heaviest for you today? Is it the need fo
 **Modern Applications:**
 Identity De-cluttering, Post-Ego Performance, The Hoarding Mindset, Psychological Weight Loss, Radical Peace (Śāntaḥ), Non-Possessive Stewardship, The End of Identity Exhaustion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

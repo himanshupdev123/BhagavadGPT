@@ -18,6 +18,12 @@ related:
 - chapter_13/verse_26
 - chapter_18/verse_68
 - chapter_5/verse_29
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/18/verse/64
+chapter: 18
+verse_number: 64
+speaker: Krishna
 ---
 
 # Chapter 18, Verse 64
@@ -39,3 +45,7 @@ For the modern individual, this reflects the psychology of 'belonging.' When you
 **Modern Applications:**
 trust, mentorship, belonging, emotional safety, conviction, purpose, guidance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

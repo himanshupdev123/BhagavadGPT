@@ -17,6 +17,12 @@ tags:
 - self
 - self awareness
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/11
+chapter: 10
+verse_number: 11
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 11
@@ -41,3 +47,7 @@ In modern psychological terms, ignorance often appears as distorted thinking, mi
 **Modern Applications:**
 overcoming ignorance, clarity of understanding, self awareness, removing mental confusion, insight and awakening, illumination through knowledge
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

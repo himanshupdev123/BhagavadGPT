@@ -15,6 +15,12 @@ tags:
 - the mechanics of departure
 - worried
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/23
+chapter: 8
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 23
@@ -36,3 +42,7 @@ Krishna transforms death from a random tragedy into an ordered, predictable syst
 **Modern Applications:**
 the mechanics of departure, overcoming the fear of the unknown, systemic transition, preparedness vs panic, the final protocol
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

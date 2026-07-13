@@ -28,6 +28,12 @@ related:
 - chapter_12/verse_11
 - chapter_12/verse_6
 - chapter_2/verse_49
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/27
+chapter: 9
+verse_number: 27
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 27
@@ -50,3 +56,7 @@ In modern life, people often carry heavy mental pressure because they feel perso
 **Modern Applications:**
 detachment from outcomes, purpose driven work, reducing performance anxiety, ego and ownership, discipline in daily actions, meaningful productivity
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

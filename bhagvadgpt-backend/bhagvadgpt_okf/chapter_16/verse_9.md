@@ -17,6 +17,12 @@ tags:
 - short-termism
 - systemic collapse
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/16/verse/9
+chapter: 16
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 16, Verse 9
@@ -42,3 +48,7 @@ Would you like to analyze a specific trend in your industry or community to see 
 **Modern Applications:**
 short-termism, extractive mindsets, existential vandalism, environmental apathy, alienation, systemic collapse, lack of foresight
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

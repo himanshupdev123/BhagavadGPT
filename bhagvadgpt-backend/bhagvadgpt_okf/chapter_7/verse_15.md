@@ -18,6 +18,12 @@ tags:
 - the ego trap
 related:
 - chapter_3/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/15
+chapter: 7
+verse_number: 15
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 15
@@ -39,3 +45,7 @@ Krishna breaks down this destructive resistance into four types: the 'mudhas' (t
 **Modern Applications:**
 psychological resistance, intellectual arrogance, self-sabotage, the ego trap, refusal to change
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

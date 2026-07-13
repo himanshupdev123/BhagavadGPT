@@ -24,6 +24,12 @@ tags:
 - want
 related:
 - chapter_3/verse_39
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/37
+chapter: 3
+verse_number: 37
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 37
@@ -50,3 +56,7 @@ This insight reveals a key psychological truth: the real enemy of clarity is not
 **Modern Applications:**
 uncontrolled desire, anger from frustration, impulse control, addiction to success or pleasure, emotional reactivity, inner psychological enemies, self-mastery
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

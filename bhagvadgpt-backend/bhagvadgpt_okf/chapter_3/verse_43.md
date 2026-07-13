@@ -25,6 +25,12 @@ tags:
 - self-mastery
 - want
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/43
+chapter: 3
+verse_number: 43
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 43
@@ -49,3 +55,7 @@ This verse presents a final psychological principle: lasting self-control comes 
 **Modern Applications:**
 self-mastery, inner discipline, overcoming impulses, purpose-driven decision making, mindfulness and awareness, emotional self-control, mastering desires
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -25,6 +25,12 @@ related:
 - chapter_2/verse_72
 - chapter_6/verse_12
 - chapter_6/verse_15
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/28
+chapter: 6
+verse_number: 28
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 28
@@ -48,3 +54,7 @@ In modern life, people often attempt to achieve peace through temporary escapes 
 **Modern Applications:**
 inner peace, meditation, self purification, mental clarity, lasting happiness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

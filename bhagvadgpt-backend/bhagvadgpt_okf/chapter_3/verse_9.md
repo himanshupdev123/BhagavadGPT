@@ -20,6 +20,12 @@ related:
 - chapter_18/verse_55
 - chapter_4/verse_18
 - chapter_4/verse_31
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/9
+chapter: 3
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 9
@@ -41,3 +47,7 @@ Krishna offers a radical paradigm shift: perform your duties as a sacrifice. In 
 **Modern Applications:**
 purpose, contribution, burnout, flow state, selfishness vs service, work anxiety
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

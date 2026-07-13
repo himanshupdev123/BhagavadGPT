@@ -15,6 +15,12 @@ tags:
 - self-control
 - spiritual commitment
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/6/verse/47
+chapter: 6
+verse_number: 47
+speaker: Krishna
 ---
 
 # Chapter 6, Verse 47
@@ -38,3 +44,7 @@ In modern life, people often seek success through effort alone, focusing on prod
 **Modern Applications:**
 devotion, purpose, faith, inner connection, spiritual commitment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

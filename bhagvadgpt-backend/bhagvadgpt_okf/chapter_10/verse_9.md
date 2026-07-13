@@ -21,6 +21,12 @@ tags:
 - purpose driven thinking
 - shared learning
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/9
+chapter: 10
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 9
@@ -45,3 +51,7 @@ The result is a form of satisfaction and joy that does not depend on external ac
 **Modern Applications:**
 meaningful conversations, intellectual community, shared learning, purpose driven thinking, deep fulfillment, focus on meaningful ideas
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

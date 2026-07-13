@@ -15,6 +15,12 @@ tags:
 - lost love
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/17/verse/20
+chapter: 17
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 17, Verse 20
@@ -43,3 +49,7 @@ Have you ever felt 'guilt-tripped' into giving, or have you ever given something
 **Modern Applications:**
 Effective Altruism, High-Impact Philanthropy, Strategic Empathy, Social Stewardship, The Hero Complex, Contextual Intelligence, Unconditional Contribution
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

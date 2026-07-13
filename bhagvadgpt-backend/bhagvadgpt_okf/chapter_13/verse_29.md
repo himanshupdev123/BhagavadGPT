@@ -16,6 +16,12 @@ tags:
 - the inner critic
 - universal empathy
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/29
+chapter: 13
+verse_number: 29
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 29
@@ -39,3 +45,7 @@ By practicing this 'universal vision,' you stop the internal war. You no longer 
 **Modern Applications:**
 self-sabotage, the inner critic, projection, universal empathy, psychological integration, mental health maintenance, cognitive reframing
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

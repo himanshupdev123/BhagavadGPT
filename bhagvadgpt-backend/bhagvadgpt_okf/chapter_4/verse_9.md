@@ -9,6 +9,12 @@ tags:
 - fear
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/9
+chapter: 4
+verse_number: 9
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 9
@@ -27,3 +33,7 @@ Just as Arjuna felt paralyzed by his attachments and duties, terrified of the un
 
 However, Krishna’s actions are fundamentally different. They are divine because they are entirely free from selfish desire and karmic consequence. He acts purely to maintain cosmic order, not to gain anything personal. To truly understand this principle is to understand the ultimate secret of existence. When a person aligns their own consciousness with this divine standard, recognizing that true freedom lies in existing without ego-driven attachment, they stop generating the mental and spiritual baggage that forces them back into the cycle of suffering. Because this verse is primarily a theological promise of ultimate liberation, it serves to elevate the listener's perspective beyond temporary material struggles toward eternal freedom.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

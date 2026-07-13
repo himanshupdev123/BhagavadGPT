@@ -21,6 +21,12 @@ related:
 - chapter_18/verse_62
 - chapter_2/verse_14
 - chapter_2/verse_24
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/7
+chapter: 9
+verse_number: 7
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 7
@@ -42,3 +48,7 @@ By understanding this universal rhythm, we can learn to embrace transitions rath
 **Modern Applications:**
 impermanence, fear of change, life cycles, letting go, resilience, embracing endings, transitions
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

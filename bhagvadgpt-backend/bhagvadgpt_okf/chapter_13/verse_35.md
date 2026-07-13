@@ -17,6 +17,12 @@ tags:
 - systemic vision
 - ultimate realization
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/35
+chapter: 13
+verse_number: 35
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 35
@@ -38,3 +44,7 @@ Attaining the 'supreme goal' means reaching a state of high-level functioning wh
 **Modern Applications:**
 mental models, professional discernment, systemic vision, detachment-in-action, leadership clarity, cognitive sovereignty, ultimate realization
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

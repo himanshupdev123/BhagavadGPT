@@ -16,6 +16,12 @@ tags:
 - stabilizing after intense realization
 - time management
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/49
+chapter: 11
+verse_number: 49
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 49
@@ -44,3 +50,7 @@ The verse reflects a broader human experience. When individuals confront powerfu
 **Modern Applications:**
 recovering from psychological overwhelm, stabilizing after intense realization, moving beyond fear, integrating difficult truths, restoring emotional balance
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

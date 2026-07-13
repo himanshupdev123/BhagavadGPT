@@ -18,6 +18,12 @@ tags:
 related:
 - chapter_3/verse_21
 - chapter_3/verse_20
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/23
+chapter: 3
+verse_number: 23
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 23
@@ -39,3 +45,7 @@ Modern individuals often underestimate how closely they are observed. Whether yo
 **Modern Applications:**
 leadership, social influence, systemic mimicry, accountability, setting an example, ripple effect
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

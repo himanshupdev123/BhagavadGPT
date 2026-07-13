@@ -15,6 +15,12 @@ tags:
 related:
 - chapter_18/verse_58
 - chapter_18/verse_67
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/1
+chapter: 9
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 1
@@ -37,3 +43,7 @@ By choosing to let go of envy and the constant need to criticize, we create ment
 **Modern Applications:**
 cynicism, ego, receptivity, learning mindset, humility, open-mindedness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

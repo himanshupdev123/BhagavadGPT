@@ -26,6 +26,12 @@ tags:
 - surrender
 - temporary
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/33
+chapter: 11
+verse_number: 33
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 33
@@ -52,3 +58,7 @@ Psychologically, the verse confronts the ego’s tendency to exaggerate its own 
 **Modern Applications:**
 duty over hesitation, letting go of ego, illusion of total control, acting without attachment to outcomes, being an instrument of a larger purpose
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

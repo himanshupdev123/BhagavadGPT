@@ -18,6 +18,12 @@ tags:
 - overcoming burnout
 - pride
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/12
+chapter: 15
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 12
@@ -41,3 +47,7 @@ Would you like me to help you identify which 'energy'—the driving force of the
 **Modern Applications:**
 ego detachment, interconnectedness, overcoming burnout, gratitude, cosmic perspective, energy management, humility
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

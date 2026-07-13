@@ -12,6 +12,12 @@ tags:
 - the compound interest of thought
 - the mathematics of karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/6
+chapter: 8
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 6
@@ -33,3 +39,7 @@ Krishna completely shatters this delusion. 'Sada tad-bhava-bhavitah' means 'alwa
 **Modern Applications:**
 the compound interest of thought, neuroplasticity, auditing your attention, default conditioning, the mathematics of karma
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

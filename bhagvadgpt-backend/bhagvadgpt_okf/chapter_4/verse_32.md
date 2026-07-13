@@ -29,6 +29,12 @@ related:
 - chapter_4/verse_33
 - chapter_4/verse_35
 - chapter_4/verse_37
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/32
+chapter: 4
+verse_number: 32
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 32
@@ -52,3 +58,7 @@ By understanding the role of disciplined action, individuals begin to see their 
 **Modern Applications:**
 self awareness, responsible action, clarity, personal growth, freedom from attachment
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

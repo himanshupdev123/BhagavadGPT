@@ -19,6 +19,12 @@ tags:
 related:
 - chapter_14/verse_7
 - chapter_9/verse_12
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/14/verse/12
+chapter: 14
+verse_number: 12
+speaker: Krishna
 ---
 
 # Chapter 14, Verse 12
@@ -40,3 +46,7 @@ This psychological state creates a treadmill of endless effort without any real 
 **Modern Applications:**
 toxic productivity, hustle culture, burnout, restlessness, greed, endless craving, FOMO
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

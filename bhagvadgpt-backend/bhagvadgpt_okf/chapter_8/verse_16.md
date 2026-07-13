@@ -14,6 +14,12 @@ tags:
 - the illusion of the upgrade
 - ultimate liberation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/8/verse/16
+chapter: 8
+verse_number: 16
+speaker: Krishna
 ---
 
 # Chapter 8, Verse 16
@@ -35,3 +41,7 @@ Krishna shatters this illusion: even if you reach 'Brahma-loka'—the absolute h
 **Modern Applications:**
 the hedonic treadmill, the illusion of the upgrade, material hierarchy, the golden cage, ultimate liberation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

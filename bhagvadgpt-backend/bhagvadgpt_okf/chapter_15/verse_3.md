@@ -28,6 +28,12 @@ related:
 - chapter_2/verse_52
 - chapter_2/verse_53
 - chapter_2/verse_65
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/15/verse/3
+chapter: 15
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 15, Verse 3
@@ -51,3 +57,7 @@ So, what is the solution? The text offers a radical approach: stop trying to unt
 **Modern Applications:**
 analysis paralysis, detachment, overthinking, cognitive defusion, letting go, mental clarity, breaking habits
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

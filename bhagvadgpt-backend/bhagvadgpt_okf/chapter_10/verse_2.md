@@ -12,6 +12,12 @@ tags:
 - recognizing limits of human understanding
 - separation
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/10/verse/2
+chapter: 10
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 10, Verse 2
@@ -36,3 +42,7 @@ For Arjuna, this statement builds humility and trust. If the ultimate source of 
 **Modern Applications:**
 limits of knowledge, intellectual humility, origin of existence, recognizing limits of human understanding
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

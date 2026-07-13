@@ -17,6 +17,12 @@ tags:
 - separation
 - the long game
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/7/verse/19
+chapter: 7
+verse_number: 19
+speaker: Krishna
 ---
 
 # Chapter 7, Verse 19
@@ -38,3 +44,7 @@ Krishna radically expands the timeline. He reveals that ultimate realization—t
 **Modern Applications:**
 the long game, instant gratification, patience in growth, cosmic perspective, rarity of excellence
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

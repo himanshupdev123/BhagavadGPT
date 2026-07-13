@@ -17,6 +17,12 @@ tags:
 - unconscious impulses
 related:
 - chapter_14/verse_8
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/5
+chapter: 3
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 5
@@ -38,3 +44,7 @@ Since we are forced to act by our very nature, the goal of psychological maturit
 **Modern Applications:**
 inevitability of action, avoidance, procrastination, human nature, unconscious impulses
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

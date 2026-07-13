@@ -17,6 +17,12 @@ tags:
 - self understanding
 - shifting perspective
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/1
+chapter: 11
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 1
@@ -43,3 +49,7 @@ This moment shows the psychological impact of clear understanding. When a person
 **Modern Applications:**
 overcoming confusion, clarity through knowledge, self understanding, shifting perspective, mental transformation
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

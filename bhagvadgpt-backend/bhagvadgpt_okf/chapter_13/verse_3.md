@@ -22,6 +22,12 @@ related:
 - chapter_6/verse_29
 - chapter_6/verse_30
 - chapter_6/verse_32
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/13/verse/3
+chapter: 13
+verse_number: 3
+speaker: Krishna
 ---
 
 # Chapter 13, Verse 3
@@ -43,3 +49,7 @@ Krishna’s revelation offers a profound psychological remedy: radical interconn
 **Modern Applications:**
 interconnectedness, empathy, overcoming isolation, universal consciousness, hyper-individualism, compassion
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

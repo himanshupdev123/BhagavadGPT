@@ -24,6 +24,12 @@ related:
 - chapter_13/verse_13
 - chapter_14/verse_20
 - chapter_2/verse_13
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/20
+chapter: 2
+verse_number: 20
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 20
@@ -47,3 +53,7 @@ Psychologically, this completely shifts the paradigm of human existence. When we
 **Modern Applications:**
 fear of death, existential dread, identity, anxiety, courage, resilience
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

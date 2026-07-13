@@ -8,6 +8,12 @@ tags:
 - detachment
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/6
+chapter: 4
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 6
@@ -26,3 +32,7 @@ Just as Arjuna felt paralyzed by his attachments and duties, ordinary humans are
 
 Krishna, however, presents the ultimate contrast. Even when he steps into the chaos of the physical world, he remains completely free, unborn, and untouched by decay. He does not lose his identity or become tangled in the illusion of material life. Because this verse is primarily theological, focused on explaining the divine nature of his appearance, it serves to establish his absolute authority. It proves to Arjuna that his guide is not another confused mortal struggling with fate, but the master of reality itself who has stepped into the battlefield with perfect clarity.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

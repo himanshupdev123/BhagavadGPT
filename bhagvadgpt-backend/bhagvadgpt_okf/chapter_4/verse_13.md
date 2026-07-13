@@ -18,6 +18,12 @@ tags:
 - self-awareness
 related:
 - chapter_18/verse_60
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/13
+chapter: 4
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 13
@@ -39,3 +45,7 @@ This verse emphasizes that true fulfillment requires intense self-awareness. You
 **Modern Applications:**
 aptitude, authenticity, career alignment, self-awareness, burnout
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

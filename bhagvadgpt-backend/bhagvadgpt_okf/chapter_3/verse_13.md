@@ -20,6 +20,12 @@ tags:
 - spiritual ecology
 related:
 - chapter_3/verse_12
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/3/verse/13
+chapter: 3
+verse_number: 13
+speaker: Krishna
 ---
 
 # Chapter 3, Verse 13
@@ -41,3 +47,7 @@ Conversely, eating the "remnants of sacrifice" means partaking in the world's re
 **Modern Applications:**
 mindful consumption, selfishness vs selflessness, gratitude, ego, entitlement, spiritual ecology
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

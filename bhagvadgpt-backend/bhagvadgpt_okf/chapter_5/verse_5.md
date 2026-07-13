@@ -21,6 +21,12 @@ tags:
 related:
 - chapter_5/verse_4
 - chapter_9/verse_16
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/5
+chapter: 5
+verse_number: 5
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 5
@@ -42,3 +48,7 @@ Krishna shatters this division. He explains that a person with genuine clarity s
 **Modern Applications:**
 integration, mindfulness in action, compartmentalization, theory vs practice, self-awareness
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -14,6 +14,12 @@ tags:
 related:
 - chapter_4/verse_12
 - chapter_5/verse_21
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/5/verse/22
+chapter: 5
+verse_number: 22
+speaker: Krishna
 ---
 
 # Chapter 5, Verse 22
@@ -35,3 +41,7 @@ Krishna identifies this vicious cycle as the literal 'womb of misery' (duhkha-yo
 **Modern Applications:**
 instant gratification, dopamine addiction, impulse control, the hedonic treadmill, short-term vs long-term thinking
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

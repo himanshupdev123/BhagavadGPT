@@ -22,6 +22,12 @@ tags:
 - routine
 - self-control
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/9/verse/31
+chapter: 9
+verse_number: 31
+speaker: Krishna
 ---
 
 # Chapter 9, Verse 31
@@ -44,3 +50,7 @@ In modern life, people often believe that one major mistake can permanently dest
 **Modern Applications:**
 hope after failure, long term personal growth, moral recovery, inner peace, commitment to higher values, resilience after mistakes
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -6,6 +6,12 @@ description: 'The Supreme Lord said: I taught this eternal science of yoga to th
 tags:
 - karma
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/1
+chapter: 4
+verse_number: 1
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 1
@@ -27,3 +33,7 @@ The method of passing down knowledge described here is known as parampara, the c
 
 Because the verse is strictly focused on establishing the historical transmission and narrative context of the teaching, it serves to ground the dialogue in antiquity and tradition. It sets the stage for the philosophical concepts to come, ensuring the listener understands the weight and time-tested nature of the wisdom, rather than providing direct behavioral or psychological instruction.
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_1
 - chapter_2/verse_52
 - chapter_4/verse_16
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/2/verse/6
+chapter: 2
+verse_number: 6
+speaker: Krishna
 ---
 
 # Chapter 2, Verse 6
@@ -52,3 +58,7 @@ Arjuna’s words show that he has reached a point where his reasoning alone cann
 **Modern Applications:**
 decision paralysis, overthinking, moral confusion, fear of consequences, uncertainty, inner conflict
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

@@ -23,6 +23,12 @@ tags:
 - separation
 - understanding life cycles
 related: []
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/11/verse/2
+chapter: 11
+verse_number: 2
+speaker: Krishna
 ---
 
 # Chapter 11, Verse 2
@@ -47,3 +53,7 @@ This realization prepares Arjuna for the next stage of the dialogue. Having inte
 **Modern Applications:**
 understanding life cycles, broader perspective on existence, moving beyond emotional reactions, expanding worldview, learning through reflection
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations

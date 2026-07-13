@@ -24,6 +24,12 @@ related:
 - chapter_2/verse_68
 - chapter_4/verse_28
 - chapter_6/verse_11
+created: '2026-07-12'
+updated: '2026-07-13'
+resource: bhagavad-gita://chapter/4/verse/39
+chapter: 4
+verse_number: 39
+speaker: Krishna
 ---
 
 # Chapter 4, Verse 39
@@ -47,3 +53,7 @@ Krishna’s teaching suggests that knowledge is not merely given—it is cultiva
 **Modern Applications:**
 discipline, focus, learning, self control, inner peace
 
+## Citations
+
+1. Translation and commentary based on traditional Sanskrit sources
+2. Modern applications derived from contemporary spiritual interpretations
