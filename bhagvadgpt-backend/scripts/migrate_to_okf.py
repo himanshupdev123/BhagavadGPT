@@ -1,4 +1,9 @@
- [
+import os
+import yaml
+from pathlib import Path
+
+# Simulate your existing Gita database (You would normally load this from your Postgres or JSON file)
+gita_database =  [
 {
 "chapter": 1,
 "verse": 1,
@@ -10490,3 +10495,71 @@
 ]
 }
 ]
+
+def create_okf_bundle(base_dir="bhagvadgpt_okf"):
+    """Generates the Open Knowledge Format directory structure for the Gita."""
+    
+    print(f"🕉️ Starting OKF Migration in directory: {base_dir}/")
+    
+    # Create the root bundle directory
+    root_path = Path(base_dir)
+    root_path.mkdir(exist_ok=True)
+    
+    # Create the Master Index (Required by OKF convention)
+    with open(root_path / "index.md", "w", encoding="utf-8") as f:
+        f.write("---\ntype: bundle_index\ntitle: BhagvadGPT Knowledge Graph\ndescription: The complete Bhagavad Gita structured in OKF.\n---\n")
+        f.write("# BhagvadGPT Core Knowledge\n\nWelcome to the OKF graph of the Bhagavad Gita.\n\n## Chapters\n")
+        # We will dynamically add links to this index as we build
+    
+    # Process every verse in our database
+    for shloka in gita_database:
+        chap_num = shloka['chapter']
+        verse_num = shloka['verse']
+        
+        # Create chapter directory (e.g., bhagvadgpt_okf/chapter_2/)
+        chap_dir = root_path / f"chapter_{chap_num}"
+        chap_dir.mkdir(exist_ok=True)
+        
+        # Define the Markdown file for this specific verse
+        verse_file = chap_dir / f"verse_{verse_num}.md"
+        
+        # 1. Build the YAML Frontmatter (The Machine-Readable part)
+        frontmatter = {
+            "type": "shloka", # 'type' is the only strictly required OKF field!
+            "title": f"Chapter {chap_num}, Verse {verse_num}",
+            "description": shloka['translation'][:100] + "...",
+            "tags": shloka.get('modern_themes', []),  # Use modern_themes as tags!
+            "related": []  # Empty array for manually tagging related shlokas
+        }
+        
+        # 2. Build the Markdown Body (The Human/Agent-Readable part)
+        content = f"---\n{yaml.dump(frontmatter, sort_keys=False, allow_unicode=True)}---\n\n"
+        content += f"# Chapter {chap_num}, Verse {verse_num}\n\n"
+        content += f"**Sanskrit (Devanagari):**\n{shloka.get('shloka', 'N/A')}\n\n"
+        content += f"**English Translation:**\n{shloka['translation']}\n\n"
+        
+        # Add purport if it exists
+        if 'purport' in shloka and shloka['purport']:
+            content += f"**Meaning & Purport:**\n{shloka['purport']}\n\n"
+        
+        # Add modern themes if they exist
+        if 'modern_themes' in shloka and shloka['modern_themes']:
+            content += f"**Modern Applications:**\n{', '.join(shloka['modern_themes'])}\n\n"
+        
+        # 3. Build the Graph Edges (Markdown Links)
+        if 'related_verses' in shloka and shloka['related_verses']:
+            content += "## Philosophical Connections\n"
+            for related in shloka['related_verses']:
+                # Relative linking turns these files into a traversable graph
+                content += f"- [Related Verse](../{related})\n"
+            
+        # Write the file to disk
+        with open(verse_file, "w", encoding="utf-8") as f:
+            f.write(content)
+            
+        print(f"✅ Generated OKF Node: chapter_{chap_num}/verse_{verse_num}.md")
+
+    print("\n🎉 Migration Complete! Your knowledge is now a graph.")
+
+if __name__ == "__main__":
+    create_okf_bundle()

@@ -1,0 +1,50 @@
+---
+type: shloka
+title: Chapter 4, Verse 19
+description: One whose all undertakings are free from desire and selfish intention,
+  and whose actions are burned ...
+tags:
+- action
+- clarity
+- clear thinking
+- concentration
+- desire
+- detachment
+- dharma
+- duty
+- ego
+- fear
+- focus
+- karma
+- mind control
+- pride
+- selfless action
+related:
+- chapter_3/verse_27
+- chapter_4/verse_20
+- chapter_4/verse_41
+- chapter_6/verse_10
+- chapter_6/verse_18
+---
+
+# Chapter 4, Verse 19
+
+**Sanskrit (Devanagari):**
+यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः।
+ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः।।4.19।।
+
+**English Translation:**
+One whose all undertakings are free from desire and selfish intention, and whose actions are burned by the fire of knowledge, is regarded as a wise person by the learned.
+
+**Meaning & Purport:**
+This verse describes the inner condition of a truly wise person. Krishna explains that wisdom is not defined by external appearance or intellectual ability, but by the motivation behind one's actions. A person whose actions are free from selfish desire is considered truly knowledgeable. The phrase "knowledge burns actions" means that true understanding removes the ego-driven motives that usually guide human behavior.
+
+Most people act with a constant expectation of reward. Whether it is success, recognition, wealth, or approval, these desires create attachment to outcomes. When expectations are not fulfilled, frustration and anxiety arise. Even when success is achieved, it often increases attachment and fear of losing what has been gained. This cycle keeps the mind restless and dependent on external validation.
+
+Arjuna was experiencing this same psychological struggle on the battlefield. His hesitation was not simply about morality but also about the emotional consequences of the war. Krishna teaches that when a person acts with clarity and understanding of duty, without selfish desire, the action itself becomes purified. Knowledge removes the inner craving that normally drives action.
+
+In modern life, people often feel trapped between ambition and anxiety. This verse suggests that wisdom lies in acting with responsibility and clarity while freeing the mind from the constant pressure of personal gain.
+
+**Modern Applications:**
+detachment, selfless action, clarity, ego, focus
+

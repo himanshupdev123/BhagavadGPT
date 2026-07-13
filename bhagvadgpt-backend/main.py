@@ -1,7 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-import chromadb
 import os
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
@@ -12,6 +11,10 @@ from fastapi.responses import StreamingResponse
 from groq import RateLimitError, InternalServerError
 import random
 import time
+import re
+import yaml
+from pathlib import Path
+
 
 load_dotenv() # This loads the hidden key from the .env file safely
 
@@ -80,24 +83,216 @@ def mark_key_failed(api_key):
 def create_llm_with_key(api_key):
     """Create a new LLM instance with the specified API key"""
     return ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="meta-llama/llama-4-scout-17b-16e-instruct",
         temperature=0.6,
         groq_api_key=api_key
     )
 
+def strip_think_tags(content: str) -> str:
+    """Remove <think>...</think> tags from reasoning model output"""
+    if not content:
+        return content
+    
+    original_length = len(content)
+    
+    # Remove <think>...</think> blocks (including multiline, case-insensitive)
+    # Use non-greedy match to get pairs of tags
+    cleaned = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL | re.IGNORECASE)
+    
+    # Clean up extra whitespace
+    cleaned = re.sub(r'\n\s*\n\s*\n+', '\n\n', cleaned)
+    cleaned = cleaned.strip()
+    
+    chars_removed = original_length - len(cleaned)
+    if chars_removed > 10:  # Only log if significant content was removed
+        print(f"🧹 Stripped <think> tags from response ({chars_removed} chars removed)")
+    
+    return cleaned
+
 print(f"✅ Loaded {len(GROQ_API_KEYS)} Groq API keys for rotation")
 
-# 1. Connect to our pure ChromaDB
-try:
-    client = chromadb.PersistentClient(path="./gita_knowledge_base")
-    collection = client.get_collection(name="bhagavad_gita")
-    print("✅ Connected to local Chroma vector database.")
-except Exception as e:
-    print(f"❌ Database Error: Ensure you ran build_db.py first! Error: {e}")
+# ✅ OKF KNOWLEDGE GRAPH ENGINE
+class BhagvadOKFGraph:
+    """In-memory OKF knowledge graph for tag-based verse retrieval"""
+    
+    def __init__(self, okf_dir="bhagvadgpt_okf"):
+        self.okf_dir = Path(okf_dir)
+        self.nodes = []
+        self.verse_index = {}  # Index for quick lookup by reference
+        self._load_graph()
+    
+    def _load_graph(self):
+        """Loads all OKF Markdown nodes into memory at server startup"""
+        print("📚 Loading OKF Knowledge Graph into memory...")
+        
+        # Recursively find all markdown files in chapter folders
+        for file_path in sorted(self.okf_dir.glob("chapter_*/*.md")):
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                
+                # Parse the YAML frontmatter
+                if content.startswith("---"):
+                    parts = content.split("---", 2)
+                    if len(parts) >= 3:
+                        frontmatter = yaml.safe_load(parts[1])
+                        body = parts[2].strip()
+                        
+                        # Create verse reference (e.g., "chapter_2/verse_47")
+                        verse_ref = f"{file_path.parent.name}/{file_path.stem}"
+                        
+                        # Store node with metadata
+                        node_data = {
+                            "id": file_path.stem,  # e.g., "verse_47"
+                            "chapter": file_path.parent.name,  # e.g., "chapter_2"
+                            "reference": verse_ref,  # e.g., "chapter_2/verse_47"
+                            "title": frontmatter.get("title", ""),
+                            "tags": frontmatter.get("tags", []),
+                            "related": frontmatter.get("related", []),
+                            "content": body
+                        }
+                        
+                        self.nodes.append(node_data)
+                        self.verse_index[verse_ref] = node_data
+                        
+            except Exception as e:
+                print(f"⚠️ Error loading {file_path}: {e}")
+        
+        print(f"✅ Loaded {len(self.nodes)} OKF verses into memory")
+    
+    def get_verse_by_reference(self, reference):
+        """Get a specific verse by its reference (e.g., 'chapter_2/verse_47')"""
+        return self.verse_index.get(reference)
+    
+    def search(self, query_text: str, top_k: int = 3, include_related: bool = True):
+        """
+        Search for verses matching extracted keywords/themes.
+        Optionally includes related verses via knowledge graph traversal.
+        Returns formatted context string with top matching verses.
+        """
+        # Extract keywords from query (simple approach - split and lowercase)
+        query_terms = set(query_text.lower().split())
+        scored_nodes = []
+        
+        for node in self.nodes:
+            score = 0
+            
+            # Score based on tag matches
+            for tag in node["tags"]:
+                tag_words = set(tag.lower().split())
+                # Check for word overlap between query and tags
+                overlap = query_terms.intersection(tag_words)
+                score += len(overlap) * 2  # Weight tag matches higher
+                
+                # Also check if any query term is substring of tag
+                for term in query_terms:
+                    if len(term) > 3 and term in tag.lower():
+                        score += 1
+            
+            # Also search in title for direct references (e.g., "Chapter 2")
+            if any(term in node["title"].lower() for term in query_terms):
+                score += 1
+            
+            if score > 0:
+                scored_nodes.append((score, node))
+        
+        # Sort by score (highest first)
+        scored_nodes.sort(key=lambda x: x[0], reverse=True)
+        
+        # If no matches, return empty (will trigger LLM to ask clarifying question)
+        if not scored_nodes:
+            return ""
+        
+        # Collect primary verses and their related verses
+        all_verses_to_include = []
+        seen_references = set()
+        
+        # Step 1: Add primary top matches
+        primary_matches = scored_nodes[:top_k]
+        for score, node in primary_matches:
+            if node["reference"] not in seen_references:
+                all_verses_to_include.append(("primary", node))
+                seen_references.add(node["reference"])
+        
+        # Step 2: If include_related is enabled, traverse the knowledge graph
+        if include_related:
+            for score, node in primary_matches:
+                related_refs = node.get("related", [])
+                
+                # Add up to 1 related verse per primary match (to stay under token limit)
+                for ref in related_refs[:1]:  # Only take first related verse
+                    if ref not in seen_references:
+                        related_node = self.get_verse_by_reference(ref)
+                        if related_node:
+                            all_verses_to_include.append(("related", related_node))
+                            seen_references.add(ref)
+                            break  # Only add 1 related verse per primary match
+        
+        # Format all verses into context string (CONDENSED for token limits)
+        context_parts = []
+        for verse_type, node in all_verses_to_include:
+            # Extract only key sections to stay under token limit
+            content = node["content"]
+            lines = content.split('\n')
+            
+            # Extract Sanskrit, Translation, and first part of Meaning
+            sanskrit = ""
+            translation = ""
+            meaning = ""
+            
+            current_section = None
+            meaning_lines = []
+            
+            for line in lines:
+                if "**Sanskrit" in line or "Sanskrit (" in line:
+                    current_section = "sanskrit"
+                elif "**English Translation" in line or "**Translation" in line:
+                    current_section = "translation"
+                elif "**Meaning & Purport" in line or "**Meaning:" in line:
+                    current_section = "meaning"
+                elif current_section == "sanskrit" and line.strip():
+                    sanskrit += line + "\n"
+                elif current_section == "translation" and line.strip():
+                    translation += line + "\n"
+                elif current_section == "meaning" and line.strip():
+                    meaning_lines.append(line)
+                    # Limit meaning - less for related verses to save tokens
+                    max_lines = 2 if verse_type == "related" else 3
+                    if len(meaning_lines) >= max_lines:
+                        break
+            
+            # Build condensed context
+            # Mark related verses differently
+            if verse_type == "related":
+                condensed = f"**{node['title']} (Related Context)**\n\n"
+            else:
+                condensed = f"**{node['title']}**\n\n"
+                
+            if sanskrit:
+                condensed += f"Sanskrit: {sanskrit.strip()}\n\n"
+            if translation:
+                condensed += f"Translation: {translation.strip()}\n\n"
+            if meaning_lines:
+                condensed += f"Meaning: {' '.join(meaning_lines)}\n"
+            
+            context_parts.append(condensed)
+        
+        # Log how many verses were included
+        primary_count = sum(1 for vt, _ in all_verses_to_include if vt == "primary")
+        related_count = sum(1 for vt, _ in all_verses_to_include if vt == "related")
+        print(f"📖 Including {primary_count} primary + {related_count} related verses")
+        
+        return "\n\n---\n\n".join(context_parts)
 
-# 2. The Ultimate BhagvadGPT Production Prompt
+# Initialize OKF Graph at startup
+okf_graph = BhagvadOKFGraph()
+
+# 2. Enhanced BhagavadGPT Prompt with 6-Layer Architecture + Gemini Security Fixes
 prompt_template = PromptTemplate.from_template("""
-You are the core retrieval engine of BhagvadGPT. 
+You are the core retrieval engine of BhagvadGPT.
+
+CRITICAL: Do NOT output any <think> tags or reasoning process. Output ONLY the final response for the user.
+
 **How this connects to your situation:**
 [Write a warm, empathetic, and profound explanation speaking DIRECTLY to {username}. Do not use robotic phrases like "This verse highlights" or "In your situation, this means." Speak to them as a wise, comforting spiritual friend. Validate their specific emotional pain or dilemma first, then weave the timeless wisdom of the shloka into gentle, actionable advice for their modern life.]
 STEP 1: IDENTIFY IF THIS IS A VALID QUESTION
@@ -181,14 +376,16 @@ async def openai_adapter(request: Request):
         # Extract username if provided (LibreChat sends this in the 'user' field)
         username = data.get("user", "") if data.get("user") else "Friend"
 
-        # 1. Search DB & Format Prompt
-        results = collection.query(query_texts=[user_message], n_results=5)
-        context_str = ""
-        if results['documents'] and results['documents'][0]:
-            for i in range(len(results['documents'][0])):
-                doc = results['documents'][0][i]
-                meta = results['metadatas'][0][i]
-                context_str += f"\n[{meta['reference']}]\n{meta['shloka']}\nMeaning & Purport: {doc}\n"
+        # 1. OKF Knowledge Graph Retrieval (tag-based search with related verses)
+        print(f"🔍 Searching OKF graph for: {user_message[:100]}...")
+        context_str = okf_graph.search(user_message, top_k=3, include_related=True)
+        
+        if not context_str:
+            # No matching verses found - provide a gentle response
+            context_str = "No specific verses found. Provide general spiritual guidance."
+            print("⚠️ No OKF verses matched the query")
+        else:
+            print(f"✅ Found {len(context_str.split('---'))} relevant verses")
         
         # 2. Get Answer from Groq with Rate Limit Protection and Key Rotation
         formatted_prompt = prompt_template.format(context=context_str, question=user_message, username=username)
@@ -206,7 +403,7 @@ async def openai_adapter(request: Request):
                 
                 # Try to get response
                 response = llm.invoke(formatted_prompt)
-                final_content = response.content
+                final_content = strip_think_tags(response.content)  # Strip reasoning tokens
                 print(f"✅ Successfully got response using key #{current_key_index + 1}")
                 break  # Success! Exit retry loop
                 
@@ -261,6 +458,14 @@ async def openai_adapter(request: Request):
                     "choices": [{"index": 0, "delta": {"content": final_content}, "finish_reason": None}]
                 }
                 yield f"data: {json.dumps(chunk2)}\n\n"
+                
+                # Chunk 3: Finish chunk with stop reason
+                chunk3 = {
+                    "id": "chatcmpl-bhagvadgpt", "object": "chat.completion.chunk",
+                    "model": data.get("model", "bhagvadgpt"),
+                    "choices": [{"index": 0, "delta": {}, "finish_reason": "stop"}]
+                }
+                yield f"data: {json.dumps(chunk3)}\n\n"
                 
                 yield "data: [DONE]\n\n"
                 

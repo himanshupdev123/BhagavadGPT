@@ -1,4 +1,6 @@
-# 🕉️ BhagvadGPT - Spiritual AI Companion
+#  BhagvadGPT 
+<img width="1280" height="456" alt="WhatsApp Image 2026-06-14 at 1 54 39 PM" src="https://github.com/user-attachments/assets/1c77ee30-44bc-44e7-946a-0f7ca57f6919" />
+
 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/himanshupdev123/BhagavadGPT)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
@@ -11,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#-features)
 - [Architecture](#-architecture)
