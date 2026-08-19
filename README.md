@@ -1,779 +1,825 @@
-#  BhagvadGPT 
-<img width="1280" height="456" alt="WhatsApp Image 2026-06-14 at 1 54 39 PM" src="https://github.com/user-attachments/assets/1c77ee30-44bc-44e7-946a-0f7ca57f6919" />
+<img width="1280" height="456" alt="BhagvadGPT Banner" src="https://github.com/user-attachments/assets/1c77ee30-44bc-44e7-946a-0f7ca57f6919" />
 
+# BhagvadGPT
 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/himanshupdev123/BhagavadGPT)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![Node](https://img.shields.io/badge/Node-20+-green)](https://nodejs.org)
+[![Docker](https://img.shields.io/badge/Docker-Required-blue)](https://docker.com)
 
-**BhagvadGPT** is an AI-powered spiritual companion that provides wisdom and guidance based on the teachings of the Bhagavad Gita. Built with modern RAG (Retrieval-Augmented Generation) technology, it retrieves relevant verses from the sacred text and provides personalized spiritual guidance.
+**BhagvadGPT** is an AI-powered spiritual companion that retrieves relevant verses from the Bhagavad Gita and provides personalized, contextual guidance — in English, Hindi, and 10+ other Indian languages.
 
-> **"You have the right to work, but never to the fruit of work."** - Bhagavad Gita 2.47
-
----
-
-##  Table of Contents
-
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Prerequisites](#-prerequisites)
-- [Complete Setup Guide](#-complete-setup-guide)
-  - [Step 1: Clone the Repository](#step-1-clone-the-repository)
-  - [Step 2: Get API Keys](#step-2-get-api-keys-required)
-  - [Step 3: Backend Setup](#step-3-backend-setup)
-  - [Step 4: Frontend Setup](#step-4-frontend-setup)
-  - [Step 5: Start the Application](#step-5-start-the-application)
-- [Troubleshooting](#-troubleshooting)
-- [Project Structure](#-project-structure)
-- [Development](#-development)
-- [Contributing](#-contributing)
-- [License](#-license)
+> *"You have the right to work, but never to the fruit of work."* — Bhagavad Gita 2.47
 
 ---
 
-## ✨ Features
+## Table of Contents
 
-- 🎯 **RAG-Powered Responses**: Retrieves relevant verses from the Bhagavad Gita using ChromaDB vector database
-- 🤖 **AI-Driven Guidance**: Uses Groq's Llama 3.3 70B model for intelligent, contextual responses
-- 🎨 **Custom UI**: Beautiful saffron-themed interface with Om symbol logo
-- 🔐 **Google OAuth**: Secure authentication with Google Sign-In
-- 💬 **Modern Chat Interface**: Built on LibreChat framework
-- 🐳 **Docker Support**: Easy deployment with Docker Compose
-- 📚 **Complete Gita Database**: All 700+ verses with Sanskrit, translations, and meanings
-- 🔄 **API Key Rotation**: Automatic rotation of 5 Groq API keys for higher rate limits
-- 🌐 **Multi-language Support**: Hindi, Hinglish, and English responses
+- [How It Works](#how-it-works)
+- [Architecture](#architecture)
+- [Prerequisites](#prerequisites)
+- [Step 1 — Clone the Repository](#step-1--clone-the-repository)
+- [Step 2 — Get API Keys](#step-2--get-api-keys)
+- [Step 3 — Backend Setup](#step-3--backend-setup)
+- [Step 4 — Frontend Setup](#step-4--frontend-setup)
+- [Step 5 — Google Sheets Sync (Optional)](#step-5--google-sheets-sync-optional)
+- [Step 6 — Start Everything](#step-6--start-everything)
+- [API Reference](#api-reference)
+- [Project Structure](#project-structure)
+- [Configuration Reference](#configuration-reference)
+- [Knowledge Base Management](#knowledge-base-management)
+- [Capacity & Scaling](#capacity--scaling)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
 
 ---
 
-## 🏗️ Architecture
+## How It Works
+
+When a user sends a message:
+
+1. **Language detection** — if not English, the query is translated for search
+2. **Fast tag match** — query words are matched directly against a priority index (zero latency)
+3. **LLM tag extraction** — if fast match fails, an LLM picks the most relevant tags from 143 curated options
+4. **Priority index lookup** — your hand-curated list determines which shlokas appear first
+5. **Verse retrieval** — relevant shlokas are pulled from the in-memory OKF knowledge graph
+6. **Response generation** — a Groq LLM generates a personalized response with the verse, Sanskrit, translation, and guidance
+7. **Streaming** — the response streams token-by-token to the user
+
+---
+
+## Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    BhagvadGPT Frontend                      │
-│              (LibreChat - React + TypeScript)               │
-│                                                             │
-│  • Custom Branding (Saffron Theme)                         │
-│  • Google OAuth Integration                                │
-│  • Chat Interface with History                             │
-└──────────────────────┬──────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                  BhagvadGPT Frontend                         │
+│           (LibreChat — React + TypeScript)                   │
+│                                                              │
+│   Custom branding · Google OAuth · Streaming chat UI         │
+└──────────────────────┬───────────────────────────────────────┘
+                       │ OpenAI-compatible API  (Port 3080 → 8000)
                        │
-                       │ HTTP/REST API (Port 8000)
+┌──────────────────────▼───────────────────────────────────────┐
+│                  BhagvadGPT Backend (FastAPI)                │
+│                                                              │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │               Request Pipeline                       │   │
+│  │                                                      │   │
+│  │  Query → Translate → Fast Tag Match                 │   │
+│  │                           ↓ (miss)                  │   │
+│  │                      LLM Tag Extract                │   │
+│  │                           ↓                         │   │
+│  │             Priority Index Lookup (Google Sheets)   │   │
+│  │                           ↓ (miss)                  │   │
+│  │              Semantic Tag Search (OKF Graph)        │   │
+│  │                           ↓                         │   │
+│  │                    Format Context                   │   │
+│  │                           ↓                         │   │
+│  │              Groq LLM → Stream Response             │   │
+│  └──────────────────────────────────────────────────────┘   │
+│                                                              │
+│  In-memory OKF Graph: 700 verses · 143 tags · priority index │
+│  50 Groq API keys rotating · 750 messages/minute capacity    │
+└──────────────────────────────────────────────────────────────┘
                        │
-┌──────────────────────▼──────────────────────────────────────┐
-│                 BhagvadGPT Backend                          │
-│                  (FastAPI + Python)                         │
-│                                                             │
-│  ┌─────────────┐    ┌──────────────┐    ┌──────────────┐  │
-│  │  ChromaDB   │───▶│  RAG Engine  │───▶│  Groq LLM    │  │
-│  │  (Vectors)  │    │  (Semantic   │    │  (Llama 3.3  │  │
-│  │             │    │   Search)    │    │   70B)       │  │
-│  └─────────────┘    └──────────────┘    └──────────────┘  │
-└─────────────────────────────────────────────────────────────┘
+        ┌──────────────┴──────────────┐
+        │                             │
+┌───────▼────────┐          ┌─────────▼───────┐
+│   MongoDB      │          │  Google Sheets  │
+│  (chat history)│          │  (tag & shloka  │
+│                │          │   curation)     │
+└────────────────┘          └─────────────────┘
 ```
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
-Before you begin, make sure you have the following installed on your computer:
+| Software | Version | Download | Purpose |
+|----------|---------|----------|---------|
+| Python | 3.10+ | [python.org](https://www.python.org/downloads/) | Backend |
+| Node.js | 20+ | [nodejs.org](https://nodejs.org/) | Frontend build |
+| Docker Desktop | Latest | [docker.com](https://www.docker.com/get-docker/) | Frontend services |
+| Git | Latest | [git-scm.com](https://git-scm.com/downloads) | Clone repo |
 
-### Required Software:
-
-| Software | Version | Download Link | Purpose |
-|----------|---------|---------------|---------|
-| **Python** | 3.10 or higher | [python.org/downloads](https://www.python.org/downloads/) | Backend server |
-| **Node.js** | 20 or higher | [nodejs.org](https://nodejs.org/) | Frontend build |
-| **MongoDB** | 6.0 or higher | [mongodb.com/try/download/community](https://www.mongodb.com/try/download/community) | Database for chat history |
-| **Git** | Latest | [git-scm.com/downloads](https://git-scm.com/downloads) | Clone repository |
-| **Docker** (Optional) | Latest | [docker.com/get-docker](https://www.docker.com/get-docker/) | Containerized deployment |
-
-### How to Check if Already Installed:
+Check what you have:
 
 ```bash
-# Check Python version
-python --version
-# or
-python3 --version
-
-# Check Node.js version
-node --version
-
-# Check MongoDB version
-mongod --version
-
-# Check Git version
+python --version    # need 3.10+
+node --version      # need 20+
+docker --version    # need 20+
 git --version
-
-# Check Docker version (if using Docker)
-docker --version
 ```
-
-If any command returns "command not found", you need to install that software.
 
 ---
 
-## 🚀 Complete Setup Guide
-
-Follow these steps **exactly** in order. Do not skip any step.
-
-### Step 1: Clone the Repository
-
-Open your terminal (Command Prompt on Windows, Terminal on Mac/Linux) and run:
+## Step 1 — Clone the Repository
 
 ```bash
-# Navigate to where you want to install BhagvadGPT
-cd Desktop  # or any folder you prefer
-
-# Clone the repository
 git clone https://github.com/himanshupdev123/BhagavadGPT.git
-
-# Enter the project folder
 cd BhagavadGPT
 ```
 
-**Verify**: You should see folders like `bhagvadgpt-backend` and `BhagvadGPT-frontend` when you run `ls` (Mac/Linux) or `dir` (Windows).
-
 ---
 
-### Step 2: Get API Keys (Required)
+## Step 2 — Get API Keys
 
-You need **TWO** types of API keys before proceeding:
+You need two things: Groq API keys for the AI, and Google OAuth for login.
 
-#### A. Groq API Keys (for AI responses)
+### Groq API Keys
 
 1. Go to [console.groq.com](https://console.groq.com/)
-2. Click **"Sign Up"** or **"Log In"**
-3. After login, click **"API Keys"** in the left sidebar
-4. Click **"Create API Key"**
-5. Copy the key (starts with `gsk_...`)
-6. **IMPORTANT**: Create **5 API keys** (you can use 5 different email accounts or create multiple keys from one account)
+2. Sign up or log in
+3. Click **API Keys** → **Create API Key**
+4. Copy the key (starts with `gsk_...`)
+5. Repeat to create as many keys as you want — more keys = more capacity
 
-**Why 5 keys?** BhagvadGPT uses API key rotation to handle more users simultaneously.
+Each free Groq key gives you 30 requests/minute and 14,400/day. With 50 keys you can handle 750 messages/minute.
 
-#### B. Google OAuth Credentials (for user login)
+### Google OAuth Credentials
 
 1. Go to [console.cloud.google.com](https://console.cloud.google.com/)
-2. Click **"Create Project"** (top bar)
-3. Name it "BhagvadGPT" and click **"Create"**
-4. In the sidebar, go to **"APIs & Services" → "Credentials"**
-5. Click **"Configure Consent Screen"**
-   - Select **"External"**
-   - Fill in:
-     - App name: `BhagvadGPT`
-     - User support email: Your email
-     - Developer contact: Your email
-   - Click **"Save and Continue"** → **"Save and Continue"** (skip scopes)
-   - Add test users (your email)
-   - Click **"Save and Continue"**
-6. Go back to **"Credentials"** tab
-7. Click **"Create Credentials" → "OAuth 2.0 Client IDs"**
-8. Application type: **"Web application"**
-9. Name: `BhagvadGPT OAuth`
-10. Under **"Authorized redirect URIs"**, click **"Add URI"** and enter:
-    ```
-    http://localhost:3080/oauth/google/callback
-    ```
-11. Click **"Create"**
-12. Copy your **Client ID** and **Client Secret** (you'll need these soon)
-
-**Save these keys somewhere safe!**
+2. Create a new project named `BhagvadGPT`
+3. Go to **APIs & Services → Credentials**
+4. Click **Configure Consent Screen** → External → fill in app name and your email → Save
+5. Go back to **Credentials → Create Credentials → OAuth 2.0 Client IDs**
+6. Application type: **Web application**
+7. Add Authorized Redirect URI:
+   ```
+   https://yourdomain.com/oauth/google/callback
+   ```
+   For local dev:
+   ```
+   http://localhost:3080/oauth/google/callback
+   ```
+8. Copy your **Client ID** and **Client Secret**
 
 ---
 
-### Step 3: Backend Setup
-
-Now we'll set up the Python backend that handles AI responses.
-
-#### 3.1 Navigate to Backend Folder
+## Step 3 — Backend Setup
 
 ```bash
-# From the BhagavadGPT root folder
 cd bhagvadgpt-backend
 ```
 
-#### 3.2 Create Virtual Environment
+### Create virtual environment
 
-**On Windows:**
 ```bash
+# Windows
 python -m venv venv
 venv\Scripts\activate
-```
 
-**On Mac/Linux:**
-```bash
+# Mac / Linux
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-**You should see `(venv)` appear before your command prompt.**
+You should see `(venv)` in your prompt.
 
-#### 3.3 Install Python Dependencies
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-This will install FastAPI, ChromaDB, LangChain, and other required packages. **Wait for it to complete** (may take 2-3 minutes).
-
-#### 3.4 Create Environment File
+### Create your .env file
 
 ```bash
-# Copy the example file
+# Windows
+copy .env.example .env
+
+# Mac / Linux
 cp .env.example .env
 ```
 
-**On Windows, if `cp` doesn't work:**
-```bash
-copy .env.example .env
+Now open `.env` and fill in your values:
+
+```env
+# ── Groq API Keys ──────────────────────────────────────────
+# Add as many as you have. Keys are rotated automatically.
+GROQ_API_KEY1=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GROQ_API_KEY2=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GROQ_API_KEY3=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# ... add more with GROQ_API_KEY4, GROQ_API_KEY5, etc.
+# You can also use named keys:
+# Contributor_Name=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# ── Google Sheets Sync (optional — see Step 5) ─────────────
+GOOGLE_SHEET_ID=your_google_sheet_id_here
+GOOGLE_SHEETS_SYNC_INTERVAL=1800
 ```
 
-#### 3.5 Edit .env File
-
-Open `.env` file in any text editor (Notepad, VSCode, etc.) and add your 5 Groq API keys:
-
-```bash
-GROQ_API_KEY1=gsk_your_first_key_here
-GROQ_API_KEY2=gsk_your_second_key_here
-GROQ_API_KEY3=gsk_your_third_key_here
-GROQ_API_KEY4=gsk_your_fourth_key_here
-GROQ_API_KEY5=gsk_your_fifth_key_here
-```
-
-**Replace** `gsk_your_first_key_here` with your actual Groq API keys from Step 2.
-
-**Save the file.**
-
-#### 3.6 Build the Vector Database
-
-This step creates a searchable database of all Bhagavad Gita verses:
+### Start the backend
 
 ```bash
-python build_db.py
+# Windows (recommended — handles encoding)
+start_backend.bat
+
+# Or directly:
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-**Expected output:**
+Verify it's running:
+
 ```
-Hare Krishna! Initializing the BhagvadGPT Database Builder...
-Successfully loaded 700 verses from all_verses.json.
-Processing verses and generating vector embeddings...
-✅ Divine wisdom successfully embedded! The 'gita_knowledge_base' is ready.
+http://localhost:8000/docs
 ```
 
-This creates a `gita_knowledge_base` folder with the ChromaDB database.
+You should see the FastAPI docs page with all available endpoints.
 
-#### 3.7 Test the Backend
-
-```bash
-python -m uvicorn main:app --host 0.0.0.0 --port 8000
-```
-
-**Expected output:**
-```
-INFO:     Started server process
-INFO:     Waiting for application startup.
-Initializing BhagvadGPT Backend...
-✅ Loaded 5 Groq API keys for rotation
-✅ Connected to local Chroma vector database.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:8000
-```
-
-**Test**: Open your browser and go to `http://localhost:8000/docs`. You should see the API documentation.
-
-**Keep this terminal window open** (backend needs to keep running). Open a **new terminal** for the next steps.
+**Keep this terminal open.** The backend must stay running.
 
 ---
 
-### Step 4: Frontend Setup
+## Step 4 — Frontend Setup
 
-Open a **NEW terminal window/tab** and navigate to the frontend folder.
-
-#### 4.1 Navigate to Frontend Folder
+Open a **new terminal**.
 
 ```bash
-# From the BhagavadGPT root folder
 cd BhagavadGPT-frontend
 ```
 
-#### 4.2 Install Node Dependencies
+### Create your .env file
 
 ```bash
-npm install
-```
+# Windows
+copy .env.example .env
 
-This will take **5-10 minutes** as it installs hundreds of packages. **Be patient!**
-
-#### 4.3 Create Environment File
-
-```bash
-# Copy the example file
+# Mac / Linux
 cp .env.example .env
 ```
 
-**On Windows, if `cp` doesn't work:**
-```bash
-copy .env.example .env
-```
+Open `BhagavadGPT-frontend/.env` and configure:
 
-#### 4.4 Edit Frontend .env File
-
-Open `BhagavadGPT-frontend/.env` in a text editor and configure:
-
-```bash
-#==================================================#
-#               Server Configuration               #
-#==================================================#
-
-HOST=localhost
+```env
+#──────────────────────────────────────────────────────────────
+# Server
+#──────────────────────────────────────────────────────────────
+HOST=0.0.0.0
 PORT=3080
 
-# MongoDB (required for LibreChat)
-MONGO_URI=mongodb://127.0.0.1:27017/LibreChat
+# MongoDB — used for storing chat history
+MONGO_URI=mongodb://mongodb:27017/LibreChat
 
-# Your domain
+# Your domain (use localhost for local dev)
 DOMAIN_CLIENT=http://localhost:3080
 DOMAIN_SERVER=http://localhost:3080
 
-#===================================================#
-#                     Endpoints                     #
-#===================================================#
-
-# Point to your local BhagvadGPT backend
+#──────────────────────────────────────────────────────────────
+# Backend connection
+#──────────────────────────────────────────────────────────────
 ENDPOINTS=bhagvadgpt
-
-# BhagvadGPT endpoint configuration
 BHAGVADGPT_API_KEY=dummy_key
-BHAGVADGPT_BASE_URL=http://localhost:8000
+BHAGVADGPT_BASE_URL=http://host.docker.internal:8000
 
-#===================================================#
-#                  Authentication                   #
-#===================================================#
-
-# Session secrets - GENERATE YOUR OWN!
-# Visit: https://www.librechat.ai/toolkit/creds_generator
-# Copy the generated values below:
-
-JWT_SECRET=your_generated_jwt_secret_here
-JWT_REFRESH_SECRET=your_generated_jwt_refresh_secret_here
-CREDS_KEY=your_generated_creds_key_here
-CREDS_IV=your_generated_creds_iv_here
-
+#──────────────────────────────────────────────────────────────
+# Auth secrets
+# Generate all 4 values at: https://www.librechat.ai/toolkit/creds_generator
+#──────────────────────────────────────────────────────────────
 SESSION_EXPIRY=900000
 REFRESH_TOKEN_EXPIRY=604800000
+JWT_SECRET=REPLACE_WITH_GENERATED_VALUE
+JWT_REFRESH_SECRET=REPLACE_WITH_GENERATED_VALUE
+CREDS_KEY=REPLACE_WITH_GENERATED_VALUE
+CREDS_IV=REPLACE_WITH_GENERATED_VALUE
 
-#========================#
-# Registration and Login #
-#========================#
-
-ALLOW_EMAIL_LOGIN=true
-ALLOW_REGISTRATION=true
+#──────────────────────────────────────────────────────────────
+# Registration
+#──────────────────────────────────────────────────────────────
+ALLOW_EMAIL_LOGIN=false
+ALLOW_REGISTRATION=false
 ALLOW_SOCIAL_LOGIN=true
 ALLOW_SOCIAL_REGISTRATION=true
+ALLOW_UNVERIFIED_EMAIL_LOGIN=false
 
-#============#
-# Google OAuth - ADD YOUR CREDENTIALS HERE
-#============#
-
-GOOGLE_CLIENT_ID=your_google_client_id_from_step_2
-GOOGLE_CLIENT_SECRET=your_google_client_secret_from_step_2
+#──────────────────────────────────────────────────────────────
+# Google OAuth
+#──────────────────────────────────────────────────────────────
+GOOGLE_CLIENT_ID=your_google_client_id_here
+GOOGLE_CLIENT_SECRET=your_google_client_secret_here
 GOOGLE_CALLBACK_URL=/oauth/google/callback
 
-#==================================================#
-#                      Search                      #
-#==================================================#
-
+#──────────────────────────────────────────────────────────────
+# Search (MeiliSearch)
+#──────────────────────────────────────────────────────────────
 SEARCH=true
 MEILI_NO_ANALYTICS=true
-MEILI_HOST=http://0.0.0.0:7700
-MEILI_MASTER_KEY=your_meili_master_key_generate_random_string
+MEILI_HOST=http://meilisearch:7700
+MEILI_MASTER_KEY=generate_a_random_32_char_string_here
 
-#===================================================#
-#                        UI                         #
-#===================================================#
-
+#──────────────────────────────────────────────────────────────
+# UI
+#──────────────────────────────────────────────────────────────
 APP_TITLE=BhagvadGPT
 HELP_AND_FAQ_URL=https://github.com/himanshupdev123/BhagavadGPT
+
+#──────────────────────────────────────────────────────────────
+# Debug
+#──────────────────────────────────────────────────────────────
+DEBUG_LOGGING=false
+DEBUG_CONSOLE=false
 ```
 
-**IMPORTANT STEPS:**
+**Important notes:**
+- Generate the 4 auth secrets at [librechat.ai/toolkit/creds_generator](https://www.librechat.ai/toolkit/creds_generator)
+- `BHAGVADGPT_BASE_URL` uses `host.docker.internal` so the Docker container can reach your backend running on your machine
+- For production, replace all `localhost` references with your actual domain
 
-1. **Generate Secrets**: Go to [librechat.ai/toolkit/creds_generator](https://www.librechat.ai/toolkit/creds_generator)
-   - Copy `JWT_SECRET`, `JWT_REFRESH_SECRET`, `CREDS_KEY`, and `CREDS_IV`
-   - Paste them into your `.env` file
+### Build the Docker image
 
-2. **Add Google OAuth**: Replace `your_google_client_id_from_step_2` and `your_google_client_secret_from_step_2` with your actual Google OAuth credentials from Step 2.
+The first time only, build the custom frontend image:
 
-3. **Generate Meili Key**: Replace `your_meili_master_key_generate_random_string` with any random 32-character string (e.g., use [passwordsgenerator.net](https://passwordsgenerator.net/))
-
-**Save the file.**
-
-#### 4.5 Start MongoDB
-
-**On Windows:**
 ```bash
-# Open a new terminal as Administrator
-net start MongoDB
+docker compose build --no-cache api
 ```
 
-**On Mac:**
+This takes 5-15 minutes as it compiles the React frontend.
+
+### Start all services
+
 ```bash
-brew services start mongodb-community
+docker compose up -d
 ```
 
-**On Linux:**
+This starts:
+- `api` — the LibreChat frontend (port 3080)
+- `mongodb` — chat history database (port 27017)
+- `meilisearch` — search index (port 7700)
+- `vectordb` — pgvector for RAG (port 5432)
+- `rag_api` — RAG service (port 8000 internal)
+
+Check they're all running:
+
 ```bash
-sudo systemctl start mongod
+docker compose ps
 ```
 
-**Verify MongoDB is running:**
-```bash
-mongosh --eval "db.version()"
-```
-
-You should see the MongoDB version number.
+All services should show as `running`.
 
 ---
 
-### Step 5: Start the Application
+## Step 5 — Google Sheets Sync (Optional)
 
-Now we'll start everything using Docker Compose.
+This lets you curate tags and priority shlokas from a Google Sheet, which then sync into the backend automatically.
 
-#### 5.1 Make Sure Backend is Still Running
+### What the sheet controls
 
-Check the terminal where you started the backend (Step 3.7). It should still be running. If not, restart it:
+The Google Sheet has 3 tabs:
 
-```bash
-cd bhagvadgpt-backend
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-python -m uvicorn main:app --host 0.0.0.0 --port 8000
-```
+| Tab | Purpose |
+|-----|---------|
+| `Tags` | Maps each verse (e.g. `2.47`) to a list of tags |
+| `Related` | Maps each verse to related verses |
+| `PriorityIndex` | Maps each tag to an ordered list of shlokas to serve |
 
-#### 5.2 Start Frontend Services with Docker
+The `PriorityIndex` tab is the most powerful — it lets you hand-curate which shloka appears first for any topic.
 
-In the frontend terminal:
+### Setup
 
-```bash
-# Make sure you're in BhagvadGPT-frontend folder
-cd BhagavadGPT-frontend
+1. Create a Google Sheet with 3 tabs: `Tags`, `Related`, `PriorityIndex`
 
-# Start all frontend services
-docker-compose up -d
-```
-
-**This will:**
-- Start MongoDB container
-- Start Meilisearch (for chat history search)
-- Start LibreChat frontend
-- Start the API server
-
-**Expected output:**
-```
-Creating network "bhagvadgpt-frontend_default" ...
-Creating bhagvadgpt-mongodb   ... done
-Creating bhagvadgpt-meilisearch ... done
-Creating bhagvadgpt-api       ... done
-Creating bhagvadgpt-client    ... done
-```
-
-**Wait 30-60 seconds** for all services to fully start.
-
-#### 5.3 Verify Everything is Running
-
-```bash
-docker-compose ps
-```
-
-You should see all services as "Up" (running).
-
----
-
-### 🎉 Access BhagvadGPT
-
-Open your browser and go to:
-
-```
-http://localhost:3080
-```
-
-**You should see:**
-- BhagvadGPT login page
-- "Welcome to BhagvadGPT" header
-- Google Sign-In button
-
-**Click "Sign in with Google"** and start your spiritual journey!
-
----
-
-## ❓ Troubleshooting
-
-### Problem: Backend says "Can't connect to Groq API"
-
-**Solution:**
-1. Check your `.env` file in `bhagvadgpt-backend` folder
-2. Make sure API keys are valid (test at [console.groq.com](https://console.groq.com/))
-3. Restart backend: `Ctrl+C` then run `python -m uvicorn main:app --host 0.0.0.0 --port 8000`
-
-### Problem: Frontend shows "Cannot connect to backend"
-
-**Solution:**
-1. Make sure backend is running (check Step 3.7)
-2. Verify `BHAGVADGPT_BASE_URL=http://localhost:8000` in frontend `.env`
-3. Test backend by visiting `http://localhost:8000/docs` in browser
-
-### Problem: Google login doesn't work
-
-**Solution:**
-1. Check Google OAuth credentials in frontend `.env` file
-2. Make sure redirect URI in Google Console matches: `http://localhost:3080/oauth/google/callback`
-3. Add yourself as a test user in Google Console
-
-### Problem: "Database connection error"
-
-**Solution:**
-1. Make sure MongoDB is running: `mongosh --eval "db.version()"`
-2. Check `MONGO_URI` in frontend `.env` file
-3. Restart MongoDB (see Step 4.5)
-
-### Problem: Docker containers won't start
-
-**Solution:**
-1. Make sure Docker is running
-2. Stop all containers: `docker-compose down`
-3. Remove old containers: `docker-compose rm -f`
-4. Rebuild: `docker-compose up -d --build`
-
-### Problem: Port already in use
-
-**Solution:**
-1. Check if something is using port 3080 or 8000:
-   ```bash
-   # Windows
-   netstat -ano | findstr :3080
-   netstat -ano | findstr :8000
-   
-   # Mac/Linux
-   lsof -i :3080
-   lsof -i :8000
+2. **Tags tab format:**
    ```
-2. Kill the process or change ports in `.env` files
+   Column A: verse ref (e.g. 2.47)
+   Column B onwards: tag1, tag2, tag3, ...
+   ```
 
-### Still Having Issues?
+3. **Related tab format:**
+   ```
+   Column A: verse ref (e.g. 2.47)
+   Column B onwards: related verse refs (e.g. 2.38, 3.19)
+   ```
 
-1. Check the [docs folder](./docs) for detailed documentation
-2. Open an issue on [GitHub](https://github.com/himanshupdev123/BhagavadGPT/issues)
-3. Include:
-   - Error message
-   - Operating system
-   - Steps you followed
-   - Screenshot if possible
+4. **PriorityIndex tab format:**
+   ```
+   Column A: tag name (e.g. anger)    ← Row 1 is header
+   Column B: Priority 1 shloka (e.g. 2.63)
+   Column C: Priority 2 shloka (e.g. 3.37)
+   Column D: Priority 3 shloka ...
+   ```
+
+5. Create a Google Cloud service account:
+   - Go to [console.cloud.google.com](https://console.cloud.google.com/)
+   - Enable the **Google Sheets API**
+   - Create a service account under **IAM & Admin → Service Accounts**
+   - Download the JSON key file
+   - Save it as `bhagvadgpt-backend/bhagvadgpt_okf/service-account.json`
+
+6. Share your Google Sheet with the service account email (Viewer access)
+
+7. Add to `bhagvadgpt-backend/.env`:
+   ```env
+   GOOGLE_SHEET_ID=your_sheet_id_from_the_url
+   ```
+
+8. Manual sync whenever you update the sheet:
+   ```bash
+   cd bhagvadgpt-backend
+   python sync_and_write_files_v2.py
+   ```
+   Or hit the API endpoint:
+   ```
+   GET http://localhost:8000/api/sync-sheets
+   ```
+
+The backend also syncs once automatically on startup.
 
 ---
 
-## 📁 Project Structure
+## Step 6 — Start Everything
+
+### Checklist before starting
+
+- [ ] Backend `.env` has at least one valid `GROQ_API_KEY1`
+- [ ] Frontend `.env` has `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`
+- [ ] Frontend `.env` has all 4 auth secrets generated
+- [ ] Docker Desktop is running
+
+### Start order
+
+1. Start the backend first:
+   ```bash
+   cd bhagvadgpt-backend
+   venv\Scripts\activate     # Windows
+   .\start_backend.bat
+   ```
+
+2. Start the frontend:
+   ```bash
+   cd BhagavadGPT-frontend
+   docker compose up -d
+   ```
+
+3. Open the app:
+   ```
+   http://localhost:3080
+   ```
+
+### Convenience scripts (root folder)
+
+```bash
+start_bhagvadgpt.bat    # starts both backend and frontend
+stop_bhagvadgpt.bat     # stops everything
+```
+
+---
+
+## API Reference
+
+The backend exposes an OpenAI-compatible API plus BhagvadGPT-specific management endpoints.
+
+### Chat
+
+```http
+POST /v1/chat/completions
+Content-Type: application/json
+
+{
+  "messages": [{"role": "user", "content": "I feel very anxious about exams"}],
+  "stream": true,
+  "model": "bhagvadgpt"
+}
+```
+
+Supports both `stream: true` (token-by-token) and `stream: false` (full response).
+
+### Management Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/sync-sheets` | Manually trigger sync from Google Sheets |
+| GET | `/api/sync-status` | Check last sync time and status |
+| GET | `/api/key-stats` | API key rotation statistics |
+| GET | `/api/question-stats` | Total questions answered |
+| GET | `/api/question-count` | Simple count for the login page counter |
+
+### Example: Check system status
+
+```bash
+curl http://localhost:8000/api/sync-status
+```
+
+```json
+{
+  "available": true,
+  "sheet_id": "...",
+  "last_sync_time": "2026-08-19 10:30:00",
+  "verses_loaded": 700
+}
+```
+
+---
+
+## Project Structure
 
 ```
 BhagavadGPT/
 │
-├── bhagvadgpt-backend/              # Python FastAPI backend
-│   ├── main.py                      # API endpoints & logic
-│   ├── build_db.py                  # Vector database builder
-│   ├── all_verses.json              # 700+ Gita verses with translations
-│   ├── requirements.txt             # Python dependencies
-│   ├── .env                         # Backend configuration (API keys)
-│   └── gita_knowledge_base/         # ChromaDB vector storage (auto-generated)
+├── bhagvadgpt-backend/                  ← Python FastAPI backend
+│   ├── main.py                          ← Core server: all API endpoints + search logic
+│   ├── google_sheets_sync.py            ← Fetches tags, related, priority index from Sheets
+│   ├── requirements.txt                 ← Python dependencies
+│   ├── start_backend.bat                ← Windows start script
+│   ├── .env                             ← API keys and config (never commit this)
+│   ├── .env.example                     ← Template for .env
+│   │
+│   ├── bhagvadgpt_okf/                  ← 700 verse markdown files
+│   │   ├── chapter_1/
+│   │   │   ├── verse_1.md               ← Each file = one shloka with frontmatter
+│   │   │   └── verse_2.md
+│   │   ├── chapter_2/
+│   │   └── ... (18 chapters)
+│   │
+│   ├── 100_MASTER_TAGS.txt              ← Old master tag list (514 tags)
+│   ├── PRIORITY_TAGS_FOR_EXCEL.txt      ← 143 curated tags for PriorityIndex
+│   ├── question_tag_dataset.csv         ← Training data: questions → tags
+│   ├── tag_shloka_dataset.csv           ← Training data: tags → shlokas
+│   ├── questions_list.txt               ← All real user questions logged
+│   │
+│   ├── sync_and_write_files_v2.py       ← Sync Google Sheets → markdown files
+│   ├── generate_training_dataset.py     ← Generate question→tag training CSV
+│   ├── generate_tag_shloka_dataset.py   ← Generate tag→shloka training CSV
+│   ├── generate_priority_tags.py        ← Analyze questions to suggest new tags
+│   ├── enrich_tags.py                   ← LLM-enriches tags on existing verses
+│   │
+│   ├── question_counter.json            ← Persisted counter of answered questions
+│   └── venv/                            ← Python virtual environment
 │
-├── BhagvadGPT-frontend/             # LibreChat-based frontend
-│   ├── client/                      # React frontend application
-│   │   ├── src/                     # Source code
-│   │   └── public/                  # Static assets (logo, images)
-│   ├── api/                         # Backend API for frontend
-│   ├── packages/                    # Shared packages
-│   ├── librechat.yaml               # BhagvadGPT model configuration
-│   ├── docker-compose.yml           # Docker services setup
-│   ├── package.json                 # Node dependencies
-│   └── .env                         # Frontend configuration (OAuth, secrets)
+├── BhagavadGPT-frontend/                ← LibreChat-based frontend
+│   ├── client/
+│   │   └── src/
+│   │       └── components/
+│   │           └── Auth/
+│   │               └── Login.tsx        ← Custom login page (Google only + counter)
+│   ├── librechat.yaml                   ← BhagvadGPT model + UI configuration
+│   ├── docker-compose.yml               ← Service definitions
+│   ├── docker-compose.override.yml      ← Builds from local Dockerfile
+│   ├── Dockerfile                       ← Frontend container build
+│   ├── .env                             ← Frontend config (OAuth, secrets, URLs)
+│   └── .env.example                     ← Template for .env
 │
-├── docs/                            # Documentation folder
-│   ├── SETUP.md                     # Detailed setup guide
-│   ├── API_KEY_ROTATION.md          # API key management
-│   ├── DEPLOY_HUGGINGFACE.md        # Deployment guides
-│   └── ... (other documentation)
-│
-├── .gitignore                       # Git ignore rules
-├── LICENSE                          # MIT License
-└── README.md                        # This file
+├── gita_knowledge_base/                 ← ChromaDB vector store (legacy)
+├── start_bhagvadgpt.bat                 ← Start everything (Windows)
+├── stop_bhagvadgpt.bat                  ← Stop everything (Windows)
+├── LICENSE
+└── README.md
+```
+
+### Verse file format
+
+Each shloka is a markdown file with YAML frontmatter:
+
+```markdown
+---
+type: shloka
+title: Chapter 2, Verse 47
+tags:
+  - duty
+  - detachment from results
+  - karma
+related:
+  - chapter_3/verse_19
+  - chapter_18/verse_66
+chapter: 2
+verse_number: 47
+speaker: Krishna
+---
+
+# Chapter 2, Verse 47
+
+**Sanskrit (Devanagari):**
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+
+**English Translation:**
+You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.
+
+**Meaning & Purport:**
+...
 ```
 
 ---
 
-## 🛠️ Development
+## Configuration Reference
 
-### Run Backend in Development Mode
+### Backend `.env` keys
+
+| Key | Required | Description |
+|-----|----------|-------------|
+| `GROQ_API_KEY1` ... `GROQ_API_KEYn` | Yes | Groq API keys. Name any number sequentially. |
+| `GOOGLE_SHEET_ID` | Optional | Google Sheets ID for tag/priority sync |
+| `GOOGLE_SHEETS_SYNC_INTERVAL` | Optional | Seconds between auto-syncs (default: 1800) |
+
+### Frontend `.env` keys
+
+| Key | Required | Description |
+|-----|----------|-------------|
+| `MONGO_URI` | Yes | MongoDB connection string |
+| `DOMAIN_CLIENT` | Yes | Your frontend URL |
+| `DOMAIN_SERVER` | Yes | Your backend URL |
+| `BHAGVADGPT_BASE_URL` | Yes | URL to the Python backend |
+| `JWT_SECRET` | Yes | Random secret for JWT tokens |
+| `JWT_REFRESH_SECRET` | Yes | Random secret for refresh tokens |
+| `CREDS_KEY` | Yes | 32-byte encryption key |
+| `CREDS_IV` | Yes | 16-byte encryption IV |
+| `GOOGLE_CLIENT_ID` | Yes | Google OAuth client ID |
+| `GOOGLE_CLIENT_SECRET` | Yes | Google OAuth client secret |
+| `MEILI_MASTER_KEY` | Yes | MeiliSearch master key (any random string) |
+| `APP_TITLE` | Optional | Browser tab title (default: BhagvadGPT) |
+
+### librechat.yaml
+
+Located at `BhagavadGPT-frontend/librechat.yaml`. Controls:
+- Which endpoints are available (locked to `bhagvadgpt`)
+- UI elements shown/hidden (model selector, sidebar, etc.)
+- Social login providers (`google` only)
+- Model display settings and token limits
+
+---
+
+## Knowledge Base Management
+
+### Sync from Google Sheets
+
+After updating your Google Sheet:
 
 ```bash
 cd bhagvadgpt-backend
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Auto-reload on code changes
-uvicorn main:app --reload --host 0.0.0.0 --port 8000
+python sync_and_write_files_v2.py
 ```
 
-### Run Frontend in Development Mode
+Or via API (syncs the live backend without restart):
 
-```bash
-cd BhagvadGPT-frontend
-
-# Start frontend dev server (without Docker)
-npm run frontend:dev
+```
+GET http://localhost:8000/api/sync-sheets
 ```
 
-Frontend will be at `http://localhost:3090` in dev mode.
+### Enrich tags with LLM
 
-### View API Documentation
-
-While backend is running, visit:
-- **Swagger UI**: `http://localhost:8000/docs`
-- **ReDoc**: `http://localhost:8000/redoc`
-
-### Check API Key Usage
+For chapters 1-6 verses that already have some tags, let the LLM suggest additional ones:
 
 ```bash
-curl http://localhost:8000/api/key-stats
+python enrich_tags.py
 ```
 
-Shows how many times each API key has been used.
+### Generate training datasets
 
----
-
-## 🐳 Docker Commands
-
-### Start services
 ```bash
-docker-compose up -d
+# Map real user questions to tags
+python generate_training_dataset.py
+# Output: question_tag_dataset.csv
+
+# Map tags to shlokas
+python generate_tag_shloka_dataset.py
+# Output: tag_shloka_dataset.csv
 ```
 
-### Stop services
+### Suggest new tags from user questions
+
 ```bash
-docker-compose down
+python generate_priority_tags.py
+# Output: PRIORITY_TAGS_FOR_EXCEL.txt
 ```
 
-### View logs
-```bash
-docker-compose logs -f
-```
+### Rebuild the frontend after code changes
 
-### Rebuild containers
 ```bash
-docker-compose up -d --build
-```
-
-### Remove all containers and volumes
-```bash
-docker-compose down -v
+cd BhagavadGPT-frontend
+docker compose build --no-cache api
+docker compose up -d
 ```
 
 ---
 
-## 🌐 Deployment
+## Capacity & Scaling
 
-See [docs/DEPLOY_HUGGINGFACE.md](./docs/DEPLOY_HUGGINGFACE.md) for deployment guides to:
-- Railway.app
-- Render.com
-- Heroku
-- AWS/GCP/Azure
-- Hugging Face Spaces
+With 50 Groq free-tier API keys:
+
+| Metric | Value |
+|--------|-------|
+| API keys | 50 |
+| Requests per minute (total) | 1,500 |
+| Messages per minute (2 calls/msg) | 750 |
+| Messages per day | 360,000 |
+| Latency per response | 7-15 seconds |
+| Concurrent chatting users (no wait) | ~375 |
+
+Each API key gives 30 RPM and 14,400 requests/day on Groq free tier. Keys rotate automatically — if one hits rate limit, the next is used instantly.
+
+**To add more keys:** Add `GROQ_API_KEY6=gsk_...`, `GROQ_API_KEY7=gsk_...`, etc. to `.env`. The backend picks them all up on startup.
+
+**To scale the server:** Run uvicorn with multiple workers:
+
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000 --workers 4
+```
 
 ---
 
-## 🤝 Contributing
+## Troubleshooting
 
-We welcome contributions! Here's how:
+### Backend won't start — encoding error on Windows
+
+```bash
+# Run with UTF-8 mode
+set PYTHONUTF8=1 && uvicorn main:app --host 0.0.0.0 --port 8000
+# Or just use the bat file:
+.\start_backend.bat
+```
+
+### Frontend can't reach backend
+
+Check `BHAGVADGPT_BASE_URL` in `BhagavadGPT-frontend/.env`. Inside Docker it should be:
+```
+BHAGVADGPT_BASE_URL=http://host.docker.internal:8000
+```
+Not `localhost` — Docker containers can't reach `localhost` on your machine.
+
+### Google login doesn't work
+
+1. Verify `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` in frontend `.env`
+2. In Google Cloud Console, check the redirect URI matches exactly:
+   ```
+   https://yourdomain.com/oauth/google/callback
+   ```
+3. Make sure the app is not in "Testing" mode with restricted users
+
+### Docker build fails with memory error
+
+```bash
+# Increase Node memory limit
+docker compose build --build-arg NODE_MAX_OLD_SPACE_SIZE=4096 api
+```
+
+### Response takes 15+ seconds
+
+This is expected with reasoning models on the free Groq tier. The pipeline:
+- Fast tag match: ~0ms
+- LLM tag extraction (fallback): ~3-5s
+- Main LLM response: ~7-12s
+
+To reduce latency, ensure your question contains recognizable tag keywords (e.g. "angry", "sad", "anxious") so the fast path is used.
+
+### Google Sheets sync fails
+
+1. Confirm `GOOGLE_SHEET_ID` is correct (from the sheet URL: `.../d/SHEET_ID/edit`)
+2. Check the service account JSON is at `bhagvadgpt_okf/service-account.json`
+3. Confirm the service account email has Viewer access to the sheet
+
+### Port already in use
+
+```bash
+# Windows — find what's using port 8000
+netstat -ano | findstr :8000
+# Kill it by PID
+taskkill /F /PID <PID>
+```
+
+### View Docker logs
+
+```bash
+cd BhagavadGPT-frontend
+docker compose logs -f api        # frontend logs
+docker compose logs -f mongodb    # database logs
+```
+
+---
+
+## Contributing
 
 1. Fork the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes
-4. Test locally
-5. Commit with clear message:
-   ```bash
-   git commit -m "Add: Brief description of your changes"
-   ```
-6. Push to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-7. Open a Pull Request on GitHub
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Make changes and test locally
+4. Commit: `git commit -m "Add: description"`
+5. Push: `git push origin feature/your-feature`
+6. Open a Pull Request
 
-### Areas We Need Help:
-- 🌍 Translations (Hindi, Sanskrit, other Indian languages)
-- 🎨 UI/UX improvements
-- 📚 More Gita commentaries (Prabhupada, Vivekananda, etc.)
-- 🧪 Testing and bug reports
-- 📖 Documentation improvements
+### Ways to contribute
+
+- Add Groq API keys to increase capacity
+- Tag more verses in the Google Sheet (chapters 7-18 need work)
+- Fill in the PriorityIndex for more tags
+- Add test questions to `questions_list.txt`
+- Report bugs or UX issues
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### What this means:
-✅ Free to use for personal or commercial projects  
-✅ Modify and distribute  
-✅ Include in proprietary software  
-❗ Must include original license and copyright notice
+MIT License — see [LICENSE](LICENSE). Free to use, modify, and distribute.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-This project is built on the shoulders of giants:
-
-- **Bhagavad Gita** - The eternal source of wisdom (5000+ years old)
-- **LibreChat** - Amazing open-source chat UI framework
-- **Groq** - Lightning-fast LLM inference
-- **ChromaDB** - Efficient vector database for semantic search
-- **LangChain** - RAG implementation tools
-- **FastAPI** - Modern Python web framework
-- **React** - Frontend library
-- **MongoDB** - Database for chat history
-
-### Special Thanks:
-- A.C. Bhaktivedanta Swami Prabhupada - For his translations and purports
-- All contributors who helped make this project possible
-- The open-source community
+- The Bhagavad Gita — the eternal source of this wisdom
+- [LibreChat](https://github.com/danny-avila/LibreChat) — open-source chat UI
+- [Groq](https://groq.com/) — fast LLM inference
+- [FastAPI](https://fastapi.tiangolo.com/) — Python API framework
+- All contributors who shared their Groq API keys
 
 ---
 
-## 📧 Contact & Support
+**Radhe Radhe 🙏**
 
-- **Developer**: Himanshu P Dev
-- **GitHub**: [@himanshupdev123](https://github.com/himanshupdev123)
-- **Project**: [github.com/himanshupdev123/BhagavadGPT](https://github.com/himanshupdev123/BhagavadGPT)
-- **Issues**: [Report bugs or request features](https://github.com/himanshupdev123/BhagavadGPT/issues)
-
----
-
-## ⭐ Star This Project
-
-If BhagvadGPT helped you find peace or wisdom, please:
-1. **Star this repository** on GitHub ⭐
-2. **Share with friends** who might benefit 🙏
-3. **Contribute** to make it better for everyone 🤝
-
----
-
-**Radhe Radhe! 🙏**
-
-*"The soul is neither born, and nor does it die." - Bhagavad Gita 2.20*
-
-*May this tool help you find peace and wisdom in the teachings of the Bhagavad Gita.*
-
----
-
-**Last Updated**: June 2026  
-**Version**: 1.0.0  
-**Status**: Active Development
+*"The soul is neither born, nor does it ever die."* — Bhagavad Gita 2.20

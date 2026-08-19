@@ -4,28 +4,11 @@ title: Chapter 4, Verse 39
 description: A person with faith, dedication, and control over the senses gains knowledge.
   Having attained that k...
 tags:
-- atma
-- calm
-- clear thinking
-- concentration
-- consciousness
-- discipline
-- focus
-- inner peace
-- karma
-- learning
-- mind control
-- peace
-- self
-- self control
-related:
-- chapter_2/verse_58
-- chapter_2/verse_60
-- chapter_2/verse_68
-- chapter_4/verse_28
-- chapter_6/verse_11
+- confusion
+- divine
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/39
 chapter: 4
 verse_number: 39

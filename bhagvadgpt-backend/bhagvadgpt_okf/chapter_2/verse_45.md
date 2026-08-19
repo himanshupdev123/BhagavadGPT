@@ -3,39 +3,10 @@ type: shloka
 title: Chapter 2, Verse 45
 description: The Vedas mainly deal with the three qualities of nature. Rise above
   these three qualities, O Arjuna...
-tags:
-- atma
-- balance
-- consciousness
-- desire
-- detachment
-- detachment from outcomes
-- emotional balance
-- fear
-- freedom from anxiety
-- heartbreak
-- inner stability
-- karma
-- letting go
-- letting go of control
-- lost love
-- managing expectations
-- mind control
-- non-attachment
-- priorities
-- self
-- self awareness
-- separation
-- surrender
-- time management
-related:
-- chapter_2/verse_38
-- chapter_2/verse_48
-- chapter_2/verse_50
-- chapter_2/verse_51
-- chapter_6/verse_22
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/45
 chapter: 2
 verse_number: 45

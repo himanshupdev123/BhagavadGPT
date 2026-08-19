@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 3, Verse 39
 description: O son of Kunti, knowledge is covered by this constant enemy of the wise,
   in the form of desire, whic...
-tags:
-- action
-- atma
-- consciousness
-- craving and dissatisfaction
-- desire
-- dharma
-- duty
-- emotional impulses
-- impulse control
-- insatiable desire
-- karma
-- knowledge vs behavior gap
-- mind control
-- psychology of addiction
-- self
-- self-mastery
-- want
-related:
-- chapter_3/verse_37
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/39
 chapter: 3
 verse_number: 39

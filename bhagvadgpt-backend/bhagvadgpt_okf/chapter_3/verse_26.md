@@ -4,23 +4,14 @@ title: Chapter 3, Verse 26
 description: The wise should not create conflict in the minds of the ignorant who
   are attached to the results of ...
 tags:
+- attachment
 - detachment
-- emotional intelligence
-- influence
-- karma
-- leadership
-- meeting people where they are
-- mentorship
-- mind control
-- work ethic
-related:
-- chapter_18/verse_68
-- chapter_18/verse_69
-- chapter_3/verse_20
-- chapter_3/verse_21
-- chapter_3/verse_29
+- detachment from results
+- duty
+- devotion
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/26
 chapter: 3
 verse_number: 26

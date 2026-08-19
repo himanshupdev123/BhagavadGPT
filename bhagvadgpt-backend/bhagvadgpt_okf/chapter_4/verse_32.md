@@ -3,34 +3,10 @@ type: shloka
 title: Chapter 4, Verse 32
 description: Thus many different forms of sacrifice are described in the teachings
   of the Vedas. Know that all of...
-tags:
-- action
-- atma
-- attachment
-- better person
-- clarity
-- clinging
-- consciousness
-- detachment
-- development
-- dharma
-- duty
-- freedom from attachment
-- growth
-- karma
-- mind control
-- personal growth
-- responsible action
-- self
-- self awareness
-related:
-- chapter_4/verse_38
-- chapter_4/verse_41
-- chapter_4/verse_33
-- chapter_4/verse_35
-- chapter_4/verse_37
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/32
 chapter: 4
 verse_number: 32

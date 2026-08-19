@@ -4,24 +4,12 @@ title: Chapter 3, Verse 13
 description: The spiritually minded, who eat food that is first offered in sacrifice,
   are released from all kinds...
 tags:
-- atma
-- consciousness
+- enjoy
 - desire
-- ego
-- entitlement
-- fear
-- gratitude
-- karma
-- mind control
-- mindful consumption
-- pride
-- self
-- selfishness vs selflessness
-- spiritual ecology
-related:
-- chapter_3/verse_12
+- surrender
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/13
 chapter: 3
 verse_number: 13

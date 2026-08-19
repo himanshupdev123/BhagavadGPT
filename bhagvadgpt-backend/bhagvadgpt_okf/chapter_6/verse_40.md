@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 6, Verse 40
 description: 'The Blessed Lord said: O son of Pritha, there is no destruction for
   such a person, neither in this w...'
-tags:
-- better person
-- development
-- fear
-- fear of failure
-- growth
-- hope
-- karma
-- mind control
-- personal growth
-- progress over perfection
-- resilience
-related:
-- chapter_2/verse_40
-- chapter_6/verse_41
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/40
 chapter: 6
 verse_number: 40

@@ -4,25 +4,15 @@ title: Chapter 2, Verse 30
 description: O descendant of Bharata, the soul that dwells within the body of all
   beings is eternally indestructi...
 tags:
-- core identity
-- defeat
-- depressed
-- detachment
-- emotional resilience
-- existential grief
-- failed
-- fear
-- fear of loss
-- grief
-- letting go
-- loss
-- non-attachment
-- processing sorrow
-- sad
-- surrender
+- birth
+- death
+- duty
+- soul
+- who am i
+- body
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/30
 chapter: 2
 verse_number: 30

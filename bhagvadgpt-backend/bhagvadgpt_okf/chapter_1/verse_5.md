@@ -6,7 +6,7 @@ description: Dhrishtaketu, Chekitana, and the valiant King of Kashi; Purujit, Ku
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/5
 chapter: 1
 verse_number: 5

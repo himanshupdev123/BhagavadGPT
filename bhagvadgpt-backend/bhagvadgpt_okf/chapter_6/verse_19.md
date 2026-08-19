@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 6, Verse 19
 description: Just as a lamp placed in a windless place does not flicker, this is the
   comparison used for a yogi w...
-tags:
-- attention control
-- balance
-- clear thinking
-- concentration
-- desire
-- emotional balance
-- fear
-- focus
-- karma
-- meditation
-- mental stability
-- mind control
-- priorities
-- time management
-related:
-- chapter_5/verse_27
-- chapter_6/verse_12
-- chapter_6/verse_13
-- chapter_2/verse_38
-- chapter_2/verse_48
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/19
 chapter: 6
 verse_number: 19

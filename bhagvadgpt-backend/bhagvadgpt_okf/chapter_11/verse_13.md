@@ -6,7 +6,7 @@ description: At that moment Arjuna saw within the body of the Supreme Lord the e
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/11/verse/13
 chapter: 11
 verse_number: 13

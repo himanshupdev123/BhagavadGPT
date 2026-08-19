@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 3, Verse 24
 description: If I should cease to perform My duties, all these worlds would fall into
   ruin. I would be the cause ...
-tags:
-- action
-- avoidance
-- chaos
-- consequences of inaction
-- desire
-- detachment
-- dharma
-- duty
-- fear
-- karma
-- leadership
-- responsibility
-- social order
-related:
-- chapter_2/verse_31
-- chapter_2/verse_33
-- chapter_3/verse_4
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/24
 chapter: 3
 verse_number: 24

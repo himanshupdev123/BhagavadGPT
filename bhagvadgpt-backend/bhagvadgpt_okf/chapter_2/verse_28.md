@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 2, Verse 28
 description: All created beings are unmanifest in their beginning, manifest in their
   interim state, and unmanifes...
-tags:
-- acceptance
-- attachment
-- big picture perspective
-- clinging
-- depressed
-- detachment
-- grief
-- illusion
-- illusion of permanence
-- letting go
-- material world
-- non-attachment
-- sad
-- surrender
-- temporary
-- temporary nature of reality
-related:
-- chapter_2/verse_11
-- chapter_2/verse_25
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/28
 chapter: 2
 verse_number: 28

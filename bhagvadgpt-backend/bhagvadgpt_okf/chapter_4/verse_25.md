@@ -3,25 +3,10 @@ type: shloka
 title: Chapter 4, Verse 25
 description: Some yogis perform sacrifice by worshiping the celestial powers, while
   others offer the sacrifice it...
-tags:
-- atma
-- better person
-- consciousness
-- development
-- different paths
-- discipline
-- growth
-- inner growth
-- karma
-- mind control
-- self
-- self development
-- spiritual practice
-related:
-- chapter_6/verse_3
-- chapter_6/verse_46
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/25
 chapter: 4
 verse_number: 25

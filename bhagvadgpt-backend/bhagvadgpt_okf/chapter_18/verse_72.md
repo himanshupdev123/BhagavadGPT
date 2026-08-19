@@ -14,13 +14,9 @@ tags:
 - mind control
 - overcoming confusion
 - presence
-related:
-- chapter_10/verse_3
-- chapter_2/verse_41
-- chapter_2/verse_53
-- chapter_6/verse_12
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/72
 chapter: 18
 verse_number: 72

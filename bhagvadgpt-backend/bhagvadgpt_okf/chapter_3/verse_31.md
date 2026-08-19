@@ -4,23 +4,12 @@ title: Chapter 3, Verse 31
 description: Those who constantly practice My teachings with full faith and without
   envy are freed from the bonda...
 tags:
-- better person
-- consistency
-- detachment
-- development
-- growth
-- growth mindset
-- integrity
-- karma
-- liberation
-- mind control
-- overcoming cynicism
-- routine
-- self-control
-- trust
+- duty
+- attachment
+- detachment from results
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/31
 chapter: 3
 verse_number: 31

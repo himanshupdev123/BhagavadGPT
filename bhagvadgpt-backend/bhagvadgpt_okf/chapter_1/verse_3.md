@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 3
 description: O teacher, behold this great army of the sons of Pandu, expertly arranged
   by your intelligent discip...
-tags:
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/3
 chapter: 1
 verse_number: 3

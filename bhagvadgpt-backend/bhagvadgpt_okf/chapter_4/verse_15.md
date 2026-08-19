@@ -4,25 +4,11 @@ title: Chapter 4, Verse 15
 description: Knowing this truth, even the ancient seekers of liberation performed
   their prescribed duties. Theref...
 tags:
-- action
-- burnout
-- detachment
-- dharma
 - duty
-- escapism
-- karma
-- mind control
-- responsibility
-- role models
-- taking action
-related:
-- chapter_3/verse_8
-- chapter_2/verse_18
-- chapter_2/verse_33
-- chapter_3/verse_1
-- chapter_3/verse_25
+- divine
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/15
 chapter: 4
 verse_number: 15

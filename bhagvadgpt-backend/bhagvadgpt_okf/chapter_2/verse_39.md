@@ -3,35 +3,10 @@ type: shloka
 title: Chapter 2, Verse 39
 description: Thus far I have explained this wisdom from the perspective of analytical
   understanding. Now listen t...
-tags:
-- action
-- anxious
-- clear thinking
-- concentration
-- decision making
-- detachment
-- detachment from outcomes
-- dharma
-- discipline
-- duty
-- fear
-- focus
-- focus on responsibility
-- karma
-- knowledge vs action
-- mind control
-- nervous
-- overthinking
-- responsibility
-- worried
-related:
-- chapter_2/verse_37
-- chapter_2/verse_38
-- chapter_2/verse_41
-- chapter_2/verse_47
-- chapter_2/verse_49
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/39
 chapter: 2
 verse_number: 39

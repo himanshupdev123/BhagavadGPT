@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 3, Verse 32
 description: But those who, out of envy or disregard, do not follow these teachings
   of Mine and do not practice t...
-tags:
-- atma
-- better person
-- closed mindset
-- consciousness
-- detachment
-- development
-- ego
-- ego and resistance to advice
-- failure to apply knowledge
-- growth
-- intellectual arrogance
-- karma
-- learning vs practicing wisdom
-- mind control
-- personal growth
-- pride
-- self
-- self-sabotage
-related:
-- chapter_7/verse_15
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/32
 chapter: 3
 verse_number: 32

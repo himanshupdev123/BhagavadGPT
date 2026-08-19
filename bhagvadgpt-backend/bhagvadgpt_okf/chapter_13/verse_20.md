@@ -12,10 +12,9 @@ tags:
 - mind control
 - observer vs. observed
 - psychological sanctuary
-related:
-- chapter_14/verse_23
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/20
 chapter: 13
 verse_number: 20

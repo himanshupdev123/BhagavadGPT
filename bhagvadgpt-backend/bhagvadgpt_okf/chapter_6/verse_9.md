@@ -4,21 +4,12 @@ title: Chapter 6, Verse 9
 description: A person who has equal understanding toward a well-wisher, friend, enemy,
   neutral person, mediator, ...
 tags:
-- balance
-- detachment
-- emotional balance
-- emotional intelligence
-- fairness
-- karma
-- mind control
-- priorities
-- social harmony
-- time management
-- unbiased thinking
-related:
-- chapter_6/verse_32
+- friend
+- enemy
+- treating equally
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/9
 chapter: 6
 verse_number: 9

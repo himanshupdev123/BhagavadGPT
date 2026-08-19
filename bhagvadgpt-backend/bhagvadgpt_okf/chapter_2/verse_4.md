@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 2, Verse 4
 description: 'Arjuna said: O Madhusudana, how can I fight with arrows in battle against
   Bhishma and Drona, who are...'
-tags:
-- action
-- attachment
-- clinging
-- detachment
-- dharma
-- difficulty confronting mentors
-- duty
-- emotional attachment
-- fear
-- loyalty vs duty
-- mind control
-- moral conflict
-- respect for authority
-- responsibility
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/4
 chapter: 2
 verse_number: 4

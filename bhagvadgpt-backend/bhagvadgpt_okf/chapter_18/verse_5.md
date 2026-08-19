@@ -23,7 +23,7 @@ tags:
 - self-control
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/5
 chapter: 18
 verse_number: 5

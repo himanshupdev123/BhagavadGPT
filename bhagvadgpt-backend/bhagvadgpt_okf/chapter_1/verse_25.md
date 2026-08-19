@@ -6,7 +6,7 @@ description: 'In the presence of Bhishma, Drona, and all the other kings, Krishn
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/25
 chapter: 1
 verse_number: 25

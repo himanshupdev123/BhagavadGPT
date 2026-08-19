@@ -3,34 +3,10 @@ type: shloka
 title: Chapter 2, Verse 35
 description: The great warriors who once held you in high esteem will think that you
   withdrew from the battle out...
-tags:
-- action
-- angry
-- avoiding responsibility
-- courage
-- delaying
-- detachment
-- dharma
-- duty
-- fear
-- fear of judgment
-- fury
-- integrity
-- mind control
-- postponing
-- procrastinating
-- rage
-- reputation
-- responsibility
-- social perception
-related:
-- chapter_2/verse_36
-- chapter_2/verse_2
-- chapter_2/verse_18
-- chapter_2/verse_3
-- chapter_2/verse_31
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/35
 chapter: 2
 verse_number: 35

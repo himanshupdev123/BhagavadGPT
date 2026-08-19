@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 2, Verse 21
 description: O Partha, how can a person who knows that the soul is indestructible,
   eternal, unborn, and immutable...
-tags:
-- accountability
-- action
-- detachment
-- dharma
-- duty
-- existential fear
-- fear
-- fearless action
-- guilt
-- heartbreak
-- illusion
-- illusion of control
-- karma
-- lost love
-- material world
-- mind control
-- separation
-- temporary
-related:
-- chapter_2/verse_19
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/21
 chapter: 2
 verse_number: 21

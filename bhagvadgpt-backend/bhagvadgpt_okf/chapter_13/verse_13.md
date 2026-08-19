@@ -23,12 +23,9 @@ tags:
 - self
 - self-actualization
 - separation
-related:
-- chapter_13/verse_18
-- chapter_14/verse_20
-- chapter_2/verse_20
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/13
 chapter: 13
 verse_number: 13

@@ -14,7 +14,7 @@ tags:
 - the matrix of the gunas
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/7/verse/13
 chapter: 7
 verse_number: 13

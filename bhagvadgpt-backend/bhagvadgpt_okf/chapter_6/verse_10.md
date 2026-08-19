@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 6, Verse 10
 description: A yogi should constantly practice meditation, remaining in a quiet place,
   alone, with mind and self ...
-tags:
-- clear thinking
-- concentration
-- detachment
-- focus
-- karma
-- meditation
-- mind control
-- mindfulness
-- solitude
-related:
-- chapter_5/verse_27
-- chapter_6/verse_12
-- chapter_13/verse_11
-- chapter_13/verse_2
-- chapter_13/verse_7
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/10
 chapter: 6
 verse_number: 10

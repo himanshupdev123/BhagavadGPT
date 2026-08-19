@@ -19,10 +19,9 @@ tags:
 - mind control
 - overcoming distraction
 - values-based living
-related:
-- chapter_18/verse_65
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/9/verse/13
 chapter: 9
 verse_number: 13

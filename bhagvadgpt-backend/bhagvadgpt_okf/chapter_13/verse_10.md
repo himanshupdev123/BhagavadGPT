@@ -17,11 +17,9 @@ tags:
 - mind control
 - non-attachment
 - surrender
-related:
-- chapter_14/verse_24
-- chapter_5/verse_19
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/10
 chapter: 13
 verse_number: 10

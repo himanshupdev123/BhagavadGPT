@@ -4,24 +4,13 @@ title: Chapter 3, Verse 40
 description: The senses, the mind, and the intellect are said to be the places where
   this desire resides. Through...
 tags:
-- atma
-- consciousness
-- defeat
-- desire
-- failed
-- impulse formation
-- karma
-- loss
-- loss of rational judgment
-- mind control
-- psychology of temptation
-- self
-- self-awareness of mental processes
-- sensory influence on behavior
-- thought patterns and craving
+- lust
+- knowledge
+- confusion
+- irritation
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/40
 chapter: 3
 verse_number: 40

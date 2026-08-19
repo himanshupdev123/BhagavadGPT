@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 3, Verse 1
 description: 'Arjuna said: O Janardana, O Keshava, if You consider intelligence and
   knowledge superior to action, ...'
-tags:
-- action
-- analysis paralysis
-- anxious
-- detachment
-- dharma
-- duty
-- escapism
-- karma
-- mind control
-- nervous
-- overthinking
-- procrastination
-- responsibility
-- rumination
-- thinking too much
-- worried
-related:
-- chapter_14/verse_13
-- chapter_14/verse_8
-- chapter_15/verse_3
-- chapter_2/verse_33
-- chapter_2/verse_37
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/1
 chapter: 3
 verse_number: 1

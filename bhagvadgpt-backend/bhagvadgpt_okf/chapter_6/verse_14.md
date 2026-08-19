@@ -4,28 +4,11 @@ title: Chapter 6, Verse 14
 description: With a peaceful mind, free from fear, firmly established in disciplined
   living, controlling the mind...
 tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- desire
-- detachment
-- fear
-- fear management
-- focus
-- inner calm
-- meditation
 - mind control
-- self
-- self discipline
-related:
-- chapter_2/verse_64
-- chapter_4/verse_26
-- chapter_4/verse_27
-- chapter_5/verse_27
-- chapter_6/verse_10
+- self control
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/14
 chapter: 6
 verse_number: 14

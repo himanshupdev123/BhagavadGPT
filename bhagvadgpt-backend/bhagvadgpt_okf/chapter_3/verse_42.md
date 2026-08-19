@@ -4,29 +4,10 @@ title: Chapter 3, Verse 42
 description: The senses are said to be powerful, but the mind is higher than the senses.
   Higher than the mind is ...
 tags:
-- atma
-- conscious decision making
-- consciousness
-- desire
-- detachment
-- emotional regulation
-- fear
-- hierarchy of mind and behavior
-- impulse vs reason
-- karma
-- mind control
-- mindfulness
-- self
-- self-awareness
-- self-mastery
-related:
-- chapter_13/verse_2
-- chapter_14/verse_5
-- chapter_13/verse_1
-- chapter_13/verse_6
-- chapter_13/verse_7
+- soul
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/42
 chapter: 3
 verse_number: 42

@@ -6,7 +6,7 @@ description: The mighty Yudhamanyu, the very powerful Uttamaujas, the son of Sub
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/6
 chapter: 1
 verse_number: 6

@@ -13,13 +13,9 @@ tags:
 - mind control
 - purpose
 - trust
-related:
-- chapter_18/verse_69
-- chapter_13/verse_26
-- chapter_18/verse_68
-- chapter_5/verse_29
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/64
 chapter: 18
 verse_number: 64

@@ -3,19 +3,10 @@ type: shloka
 title: Chapter 3, Verse 2
 description: Your mixed and ambiguous words seem to confuse my intelligence. Therefore,
   please tell me decisively...
-tags:
-- cognitive dissonance
-- confusion
-- critical thinking
-- decision making
-- desire
-- detachment
-- mind control
-- seeking clarity
-related:
-- chapter_5/verse_1
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/2
 chapter: 3
 verse_number: 2

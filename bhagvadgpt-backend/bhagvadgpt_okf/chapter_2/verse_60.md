@@ -3,33 +3,10 @@ type: shloka
 title: Chapter 2, Verse 60
 description: O son of Kunti, even for a wise person who strives for self-control,
   the turbulent senses can forcib...
-tags:
-- action
-- atma
-- clear thinking
-- concentration
-- consciousness
-- dharma
-- discipline
-- duty
-- emotional regulation
-- focus
-- focus under pressure
-- impulse control
-- karma
-- managing distractions
-- mind control
-- self
-- self control
-- temptation
-related:
-- chapter_2/verse_58
-- chapter_16/verse_1
-- chapter_2/verse_64
-- chapter_2/verse_68
-- chapter_4/verse_39
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/60
 chapter: 2
 verse_number: 60

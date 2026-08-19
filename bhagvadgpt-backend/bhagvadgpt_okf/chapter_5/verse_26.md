@@ -4,29 +4,10 @@ title: Chapter 5, Verse 26
 description: For those who are free from desire and anger, who have disciplined minds
   and who understand the self...
 tags:
-- anger management
-- atma
-- calm
-- consciousness
-- desire
-- desire management
-- detachment
-- emotional control
-- fear
-- inner peace
-- karma
-- mind control
-- peace
-- self
-- self awareness
-- want
-related:
-- chapter_2/verse_71
-- chapter_2/verse_63
-- chapter_2/verse_70
-- chapter_6/verse_20
+- liberation
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/26
 chapter: 5
 verse_number: 26

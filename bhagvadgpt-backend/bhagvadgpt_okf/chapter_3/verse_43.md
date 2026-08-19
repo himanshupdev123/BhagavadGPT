@@ -4,29 +4,11 @@ title: Chapter 3, Verse 43
 description: Thus knowing the Self to be superior to the intellect, steady the mind
   by the Self, O mighty-armed A...
 tags:
-- atma
-- consciousness
-- consistency
-- desire
-- detachment
-- drive
-- emotional self-control
-- inner discipline
-- inspire
-- mastering desires
-- mind control
-- mindfulness and awareness
-- motivate
-- overcoming impulses
-- purpose-driven decision making
-- routine
-- self
-- self-control
-- self-mastery
-- want
+- lust
+- overcome
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/43
 chapter: 3
 verse_number: 43

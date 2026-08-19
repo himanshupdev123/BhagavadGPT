@@ -18,11 +18,9 @@ tags:
 - psychological stability
 - self
 - self-regulation
-related:
-- chapter_13/verse_26
-- chapter_18/verse_67
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/8
 chapter: 13
 verse_number: 8

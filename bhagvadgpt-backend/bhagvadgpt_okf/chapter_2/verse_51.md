@@ -4,33 +4,15 @@ title: Chapter 2, Verse 51
 description: The wise, equipped with understanding, abandon attachment to the results
   of their actions. By doing ...
 tags:
-- breaking the success failure cycle
-- clear thinking
-- concentration
-- cycle
-- desire
-- detachment
-- detachment from outcomes
-- emotional resilience
-- fear
-- focus
-- focus on responsibility
-- freedom from anxiety
-- karma
-- letting go
-- letting go of expectations
-- mental freedom
-- mind control
-- non-attachment
-- repeating patterns
-- same mistakes
-- surrender
-related:
-- chapter_2/verse_39
-- chapter_2/verse_45
-- chapter_2/verse_49
+- devotion
+- renounce
+- restlessness
+- sadness
+- emotional pain
+- bhakti
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/51
 chapter: 2
 verse_number: 51

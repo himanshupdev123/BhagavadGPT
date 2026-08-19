@@ -3,40 +3,10 @@ type: shloka
 title: Chapter 2, Verse 37
 description: If you are killed in battle, you will attain heaven; if you win, you
   will enjoy the kingdom on earth...
-tags:
-- action
-- angry
-- anxious
-- clear thinking
-- commitment
-- concentration
-- consistency
-- courage
-- decisiveness
-- dharma
-- duty
-- fear
-- fear of failure
-- focus
-- focus on action
-- fury
-- karma
-- mind control
-- nervous
-- overthinking
-- rage
-- responsibility
-- routine
-- self-control
-- worried
-related:
-- chapter_2/verse_18
-- chapter_2/verse_2
-- chapter_2/verse_3
-- chapter_2/verse_31
-- chapter_2/verse_35
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/37
 chapter: 2
 verse_number: 37

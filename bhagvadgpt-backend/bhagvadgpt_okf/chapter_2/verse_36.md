@@ -3,33 +3,10 @@ type: shloka
 title: Chapter 2, Verse 36
 description: Your enemies will speak many harsh and unworthy words, mocking your strength
   and ability. What could...
-tags:
-- angry
-- atma
-- avoiding responsibility
-- consciousness
-- courage
-- delaying
-- detachment
-- fear
-- fear of criticism
-- fury
-- integrity
-- karma
-- mind control
-- postponing
-- procrastinating
-- rage
-- reputation
-- self
-- self respect
-- social judgment
-related:
-- chapter_2/verse_35
-- chapter_2/verse_2
-- chapter_2/verse_34
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/36
 chapter: 2
 verse_number: 36

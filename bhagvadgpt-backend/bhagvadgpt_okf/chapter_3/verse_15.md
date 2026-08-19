@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 3, Verse 15
 description: Know that prescribed action originates from the Vedas, and the Vedas
   originate from the Imperishable...
-tags:
-- action
-- calling
-- dharma
-- divine duty
-- duty
-- karma
-- life purpose
-- meaning
-- meaning in everyday life
-- mind control
-- purpose
-- responsibility
-- sacredness of work
-- spiritual vs material
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/15
 chapter: 3
 verse_number: 15

@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 6, Verse 38
 description: O mighty-armed Krishna, does such a person not perish like a fragmented
   cloud, lost from both paths,...
-tags:
-- desire
-- fear
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/38
 chapter: 6
 verse_number: 38

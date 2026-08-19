@@ -3,34 +3,10 @@ type: shloka
 title: Chapter 2, Verse 18
 description: These physical bodies of the eternal, indestructible, and immeasurable
   embodied soul are sure to com...
-tags:
-- action
-- angry
-- courage
-- defeat
-- detachment
-- dharma
-- duty
-- failed
-- fear
-- fear of loss
-- fury
-- karma
-- loss
-- mortality
-- overcoming paralysis
-- rage
-- resilience
-- responsibility
-- taking action
-related:
-- chapter_2/verse_12
-- chapter_2/verse_17
-- chapter_2/verse_2
-- chapter_2/verse_20
-- chapter_2/verse_23
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/18
 chapter: 2
 verse_number: 18

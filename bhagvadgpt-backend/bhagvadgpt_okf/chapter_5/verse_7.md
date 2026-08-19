@@ -4,19 +4,12 @@ title: Chapter 5, Verse 7
 description: One who is engaged in the yoga of detached action, whose mind is purified,
   who has controlled the mi...
 tags:
-- burnout prevention
-- detachment
-- emotional intelligence
-- empathy
-- fear
-- karma
-- mind control
-- sense control
-- stress immunity
-related:
-- chapter_6/verse_32
+- devotion
+- dear
+- entangled
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/7
 chapter: 5
 verse_number: 7

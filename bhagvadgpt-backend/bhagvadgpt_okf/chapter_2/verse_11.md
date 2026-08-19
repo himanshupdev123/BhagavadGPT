@@ -4,27 +4,10 @@ title: Chapter 2, Verse 11
 description: 'The Supreme Lord said: While speaking learned words, you are mourning
   for what is not worthy of grie...'
 tags:
-- acceptance
-- attachment
-- clinging
-- depressed
-- detachment
-- emotional intelligence
-- fear
-- grief
-- karma
-- letting go
-- mind control
-- non-attachment
-- overcoming fear
-- rationalization
-- sad
-- surrender
-related:
-- chapter_2/verse_28
-- chapter_2/verse_25
+- low self-worth
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/11
 chapter: 2
 verse_number: 11

@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 2, Verse 29
 description: Some look upon the soul as amazing, some describe it as amazing, and
   some hear of it as amazing, whi...
-tags:
-- application of wisdom
-- detachment
-- existential awareness
-- fear
-- heartbreak
-- intellectualization
-- internalization
-- lost love
-- mind control
-- mindfulness trap
-- separation
-- transformation
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/29
 chapter: 2
 verse_number: 29

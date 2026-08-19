@@ -3,14 +3,10 @@ type: shloka
 title: Chapter 4, Verse 9
 description: One who truly understands the divine nature of My birth and activities
   does not take rebirth in this...
-tags:
-- desire
-- detachment
-- fear
-- karma
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/9
 chapter: 4
 verse_number: 9

@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 1, Verse 36
 description: O Janardana, what happiness could we gain by killing the sons of Dhritarashtra?
   Even though they are...
-tags:
-- avoidance of conflict
-- choice
-- crossroads
-- desire
-- detachment
-- dilemma
-- emotional bias
-- ethical dilemma
-- family loyalty vs justice
-- karma
-- mind control
-- moral confusion
-- moral responsibility
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/36
 chapter: 1
 verse_number: 36

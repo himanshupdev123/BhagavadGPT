@@ -18,7 +18,7 @@ tags:
 - the illusion of comprehension
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/7/verse/24
 chapter: 7
 verse_number: 24

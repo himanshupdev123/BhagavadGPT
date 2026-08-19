@@ -16,10 +16,9 @@ tags:
 - mental refinement
 - mind control
 - wisdom
-related:
-- chapter_13/verse_5
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/70
 chapter: 18
 verse_number: 70

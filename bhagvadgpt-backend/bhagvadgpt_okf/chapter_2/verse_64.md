@@ -3,32 +3,10 @@ type: shloka
 title: Chapter 2, Verse 64
 description: But a person who moves among sense objects with the senses under control,
   free from attachment and a...
-tags:
-- atma
-- balance
-- consciousness
-- desire
-- detachment
-- emotional regulation
-- fear
-- impulse control
-- inner calm
-- karma
-- mental balance
-- mind control
-- mindfulness
-- priorities
-- self
-- self discipline
-- time management
-related:
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_14/verse_11
-- chapter_14/verse_19
-- chapter_14/verse_24
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/64
 chapter: 2
 verse_number: 64

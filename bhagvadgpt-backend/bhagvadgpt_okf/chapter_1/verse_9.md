@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 9
 description: There are many other heroes who are prepared to lay down their lives
   for my sake. They are all equip...
-tags:
-- fear
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/9
 chapter: 1
 verse_number: 9

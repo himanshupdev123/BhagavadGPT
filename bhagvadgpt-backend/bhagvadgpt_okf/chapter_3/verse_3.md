@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 3, Verse 3
 description: 'The Supreme Lord said: O sinless one, I have previously explained that
   there are two paths in this w...'
-tags:
-- action
-- action vs contemplation
-- atma
-- consciousness
-- detachment
-- dharma
-- duty
-- finding purpose
-- karma
-- mind control
-- mindful action
-- personality types
-- self
-- self-awareness
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/3
 chapter: 3
 verse_number: 3

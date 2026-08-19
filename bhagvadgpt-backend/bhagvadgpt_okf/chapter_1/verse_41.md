@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 1, Verse 41
 description: O Krishna, when irreligion becomes dominant, the women of the family
   become corrupted; and when the ...
-tags:
-- fear
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/41
 chapter: 1
 verse_number: 41

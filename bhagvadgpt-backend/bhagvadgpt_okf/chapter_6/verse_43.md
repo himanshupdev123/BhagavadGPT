@@ -3,27 +3,10 @@ type: shloka
 title: Chapter 6, Verse 43
 description: In such a birth, one regains the understanding developed in the previous
   life and naturally strives ...
-tags:
-- atma
-- better person
-- consciousness
-- development
-- growth
-- karma
-- learning
-- long term development
-- mind control
-- persistence
-- personal growth
-- self
-- self improvement
-related:
-- chapter_4/verse_28
-- chapter_6/verse_42
-- chapter_4/verse_38
-- chapter_6/verse_45
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/43
 chapter: 6
 verse_number: 43

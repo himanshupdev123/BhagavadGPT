@@ -4,24 +4,13 @@ title: Chapter 2, Verse 56
 description: One whose mind is not disturbed in sorrow, who does not crave pleasure,
   and who is free from attachm...
 tags:
-- anger control
-- balance
-- balanced mindset
-- detachment
-- detachment from pleasure
-- emotional resilience
-- emotional stability
-- fear
-- karma
-- managing stress
-- mind control
-- overcoming fear
-- priorities
-- time management
-related:
-- chapter_14/verse_2
+- maya
+- clarity
+- happiness
+- peace of mind
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/56
 chapter: 2
 verse_number: 56

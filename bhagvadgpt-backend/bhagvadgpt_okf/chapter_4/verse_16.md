@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 4, Verse 16
 description: Even the intelligent are bewildered in determining what is action and
   what is inaction. Now I shall ...
-tags:
-- action
-- anxious
-- avoidance
-- decision paralysis
-- desire
-- detachment
-- dharma
-- duty
-- fear
-- intention
-- karma
-- mind control
-- nervous
-- overthinking
-- the illusion of inaction
-- worried
-related:
-- chapter_2/verse_52
-- chapter_2/verse_6
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/16
 chapter: 4
 verse_number: 16

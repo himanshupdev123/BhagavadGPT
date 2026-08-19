@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 1, Verse 33
 description: Those for whose sake we desire a kingdom, enjoyment, and happiness are
   now standing here in this bat...
-tags:
-- accomplish
-- achieve
-- attachment
-- calling
-- choice
-- clinging
-- crossroads
-- desire
-- detachment
-- dilemma
-- ethical conflict
-- goal
-- karma
-- life purpose
-- meaning
-- meaning of achievement
-- moral dilemma
-- purpose of success
-- relationships vs ambition
-related:
-- chapter_1/verse_28
-- chapter_1/verse_31
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/33
 chapter: 1
 verse_number: 33

@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 4, Verse 3
 description: That very same ancient science of yoga is today revealed by Me to you
   because you are My devotee as ...
-tags:
-- detachment
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/3
 chapter: 4
 verse_number: 3

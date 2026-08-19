@@ -4,22 +4,11 @@ title: Chapter 3, Verse 12
 description: The celestial controllers (Devas), pleased by your sacrifices, will grant
   you your desired necessiti...
 tags:
-- consumerism
-- contribution vs extraction
+- enjoy
 - desire
-- entitlement
-- gratitude
-- heartbreak
-- karma
-- lost love
-- separation
-- social responsibility
-- universal debt
-related:
-- chapter_3/verse_10
-- chapter_3/verse_13
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/12
 chapter: 3
 verse_number: 12

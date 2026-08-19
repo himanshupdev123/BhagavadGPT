@@ -3,20 +3,10 @@ type: shloka
 title: Chapter 5, Verse 14
 description: The Supreme Lord does not create the sense of doership or the actions
   of people, nor does He create ...
-tags:
-- detachment
-- extreme ownership
-- heartbreak
-- karma
-- locus of control
-- lost love
-- personal responsibility
-- separation
-- subconscious programming
-- victim mentality
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/14
 chapter: 5
 verse_number: 14

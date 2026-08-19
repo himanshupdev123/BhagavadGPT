@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 14
 description: Then, seated in a magnificent chariot drawn by white horses, Lord Krishna
   (Madhava) and Arjuna (Pand...
-tags:
-- fear
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/14
 chapter: 1
 verse_number: 14

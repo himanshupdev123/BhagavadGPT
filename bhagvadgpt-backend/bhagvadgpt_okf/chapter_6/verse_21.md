@@ -4,25 +4,10 @@ title: Chapter 6, Verse 21
 description: In that state one experiences supreme happiness, which is grasped by
   the intellect and is beyond the...
 tags:
-- atma
-- consciousness
-- desire
-- emotional stability
-- inner happiness
-- karma
-- meditation
-- mental clarity
-- mind control
-- self
-- self awareness
-related:
-- chapter_2/verse_65
-- chapter_6/verse_12
-- chapter_6/verse_15
-- chapter_6/verse_20
-- chapter_6/verse_28
+- samadhi
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/21
 chapter: 6
 verse_number: 21

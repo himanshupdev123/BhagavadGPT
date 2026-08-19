@@ -4,26 +4,10 @@ title: Chapter 3, Verse 17
 description: But for the person who rejoices only in the Self, who is satisfied with
   the Self, and who is fully c...
 tags:
-- atma
-- consciousness
-- contentment
-- deficit mindset
-- desire
-- detachment
-- fear
-- independence
-- internal validation
-- intrinsic motivation
-- karma
-- mind control
-- self
-- self-worth
-related:
-- chapter_15/verse_6
-- chapter_3/verse_22
-- chapter_5/verse_24
+- self-knowledge
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/17
 chapter: 3
 verse_number: 17

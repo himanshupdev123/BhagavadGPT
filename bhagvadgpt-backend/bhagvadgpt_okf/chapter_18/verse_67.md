@@ -16,14 +16,9 @@ tags:
 - receptivity
 - self
 - self-discipline
-related:
-- chapter_13/verse_19
-- chapter_13/verse_26
-- chapter_13/verse_8
-- chapter_9/verse_1
-- chapter_9/verse_15
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/67
 chapter: 18
 verse_number: 67

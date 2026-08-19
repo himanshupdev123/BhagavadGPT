@@ -4,28 +4,13 @@ title: Chapter 5, Verse 11
 description: The yogis, abandoning attachment, perform actions with the body, mind,
   intellect, and even with the ...
 tags:
-- action
-- atma
-- better person
-- consciousness
-- detachment
-- development
-- dharma
-- duty
-- ego
-- ego detachment
-- growth
-- internal growth
-- intrinsic motivation
-- karma
-- mind control
-- mindful action
-- pride
-- self
-- self-improvement
+- mind
+- body
+- intelligence
+- purification
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/11
 chapter: 5
 verse_number: 11

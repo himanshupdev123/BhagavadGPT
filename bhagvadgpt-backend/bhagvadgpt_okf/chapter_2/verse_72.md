@@ -3,32 +3,10 @@ type: shloka
 title: Chapter 2, Verse 72
 description: This is the state of spiritual steadiness, O Arjuna. Having attained
   it, a person is no longer confu...
-tags:
-- atma
-- calm
-- consciousness
-- desire
-- detachment
-- emotional mastery
-- fear
-- freedom from confusion
-- inner peace
-- inner stability
-- karma
-- mental clarity
-- mind control
-- peace
-- psychological resilience
-- self
-- self realization
-related:
-- chapter_13/verse_23
-- chapter_2/verse_52
-- chapter_2/verse_53
-- chapter_2/verse_65
-- chapter_6/verse_28
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/72
 chapter: 2
 verse_number: 72

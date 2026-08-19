@@ -4,24 +4,13 @@ title: Chapter 3, Verse 9
 description: Work must be performed as a sacrifice (Yajna), otherwise all actions
   cause bondage in this world. Th...
 tags:
-- atma
-- burnout
-- consciousness
-- contribution
-- desire
-- detachment
-- flow state
+- devotion
 - karma
-- purpose
-- self
-- selfishness vs service
-- work anxiety
-related:
-- chapter_18/verse_55
-- chapter_4/verse_18
-- chapter_4/verse_31
+- duty
+- detachment from results
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/9
 chapter: 3
 verse_number: 9

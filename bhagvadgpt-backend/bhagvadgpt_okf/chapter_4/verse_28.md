@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 4, Verse 28
 description: Some perform sacrifice through material offerings, others through austerity,
   some through the practi...
-tags:
-- atma
-- better person
-- commitment
-- consciousness
-- consistency
-- development
-- discipline
-- growth
-- karma
-- learning
-- mind control
-- personal growth
-- routine
-- self
-- self improvement
-- self-control
-related:
-- chapter_6/verse_43
-- chapter_4/verse_38
-- chapter_4/verse_39
-- chapter_6/verse_3
-- chapter_6/verse_42
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/28
 chapter: 4
 verse_number: 28

@@ -18,11 +18,9 @@ tags:
 - simplifying complexity
 - systems thinking
 - unity in diversity
-related:
-- chapter_13/verse_31
-- chapter_13/verse_6
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/27
 chapter: 13
 verse_number: 27

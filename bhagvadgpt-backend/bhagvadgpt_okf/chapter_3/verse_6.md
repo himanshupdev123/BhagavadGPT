@@ -4,22 +4,11 @@ title: Chapter 3, Verse 6
 description: One who restrains the physical organs of action but continues to dwell
   upon the objects of the sense...
 tags:
-- atma
-- cognitive dissonance
-- consciousness
-- desire
-- detachment
-- habit loops
-- hypocrisy
-- inner conflict
-- karma
-- mind control
-- self
-- self-deception
-- suppression vs transformation
+- drama
+- faking
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/6
 chapter: 3
 verse_number: 6

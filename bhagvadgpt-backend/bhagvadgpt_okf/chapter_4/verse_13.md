@@ -4,22 +4,12 @@ title: Chapter 4, Verse 13
 description: According to the three modes of material nature and the work associated
   with them, the four division...
 tags:
-- aptitude
-- atma
-- authenticity
-- burnout
-- career alignment
-- consciousness
-- desire
-- detachment
-- karma
-- mind control
-- self
-- self-awareness
-related:
-- chapter_18/verse_60
+- work
+- category
+- system
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/13
 chapter: 4
 verse_number: 13

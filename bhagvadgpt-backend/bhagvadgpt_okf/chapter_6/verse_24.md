@@ -4,27 +4,10 @@ title: Chapter 6, Verse 24
 description: One should completely abandon all desires that arise from personal imagination
   and expectation, and ...
 tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- desire
-- desire management
-- focus
-- karma
 - mind control
-- mind discipline
-- minimalism
-- self
-- self control
-- want
-related:
-- chapter_2/verse_58
-- chapter_2/verse_68
-- chapter_4/verse_21
-- chapter_4/verse_39
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/24
 chapter: 6
 verse_number: 24

@@ -4,18 +4,13 @@ title: Chapter 5, Verse 22
 description: The pleasures that arise from contact between the senses and their objects
   are indeed the sources of...
 tags:
-- detachment
-- dopamine addiction
-- impulse control
-- instant gratification
-- karma
-- short-term vs long-term thinking
-- the hedonic treadmill
-related:
-- chapter_4/verse_12
-- chapter_5/verse_21
+- source of misery
+- sadness
+- pleasure
+- senses
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/22
 chapter: 5
 verse_number: 22

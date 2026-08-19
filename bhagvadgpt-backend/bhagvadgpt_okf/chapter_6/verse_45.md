@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 6, Verse 45
 description: But the yogi who strives with sincere effort, purified from faults, gradually
   perfects themselves th...
-tags:
-- atma
-- better person
-- consciousness
-- development
-- discipline
-- growth
-- karma
-- long term growth
-- mind control
-- persistence
-- personal development
-- self
-- self improvement
-related:
-- chapter_4/verse_28
-- chapter_6/verse_41
-- chapter_6/verse_43
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/45
 chapter: 6
 verse_number: 45

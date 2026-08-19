@@ -3,36 +3,10 @@ type: shloka
 title: Chapter 2, Verse 2
 description: 'The Supreme Lord said: O Arjuna, how has this weakness come upon you
   at such a critical moment? It i...'
-tags:
-- action
-- angry
-- atma
-- avoiding responsibility
-- consciousness
-- courage
-- delaying
-- detachment
-- dharma
-- duty
-- emotional weakness
-- fear
-- fury
-- mind control
-- moral confusion
-- postponing
-- procrastinating
-- rage
-- responsibility
-- self
-- self-discipline
-related:
-- chapter_2/verse_3
-- chapter_2/verse_35
-- chapter_2/verse_18
-- chapter_2/verse_31
-- chapter_2/verse_36
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/2
 chapter: 2
 verse_number: 2

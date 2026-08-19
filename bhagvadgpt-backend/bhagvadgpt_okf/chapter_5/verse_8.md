@@ -4,23 +4,12 @@ title: Chapter 5, Verse 8
 description: A person in divine consciousness, the knower of truth, thinks, 'I do
   nothing at all,' even while see...
 tags:
-- detachment
-- ego
-- ego detachment
-- flow state
-- karma
-- letting go
-- letting go of control
-- mental fatigue
-- mind control
-- non-attachment
-- observer mindset
-- pride
-- surrender
-related:
-- chapter_9/verse_22
+- worldy
+- renunciation
+- senses
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/8
 chapter: 5
 verse_number: 8

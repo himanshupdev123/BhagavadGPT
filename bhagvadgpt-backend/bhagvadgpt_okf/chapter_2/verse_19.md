@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 2, Verse 19
 description: He who thinks that the soul is the killer, and he who thinks that it
   is killed, both are ignorant. T...
-tags:
-- detachment
-- existential fear
-- fear
-- guilt
-- heartbreak
-- identity
-- illusion
-- illusion of control
-- karma
-- lost love
-- material world
-- mental clarity
-- mind control
-- separation
-- temporary
-- victimhood
-related:
-- chapter_2/verse_21
-- chapter_18/verse_66
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/19
 chapter: 2
 verse_number: 19

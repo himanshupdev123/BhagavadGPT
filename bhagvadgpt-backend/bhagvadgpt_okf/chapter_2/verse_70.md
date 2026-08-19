@@ -4,30 +4,12 @@ title: Chapter 2, Verse 70
 description: Just as rivers enter the ever-full and steady ocean without disturbing
   it, in the same way all desir...
 tags:
-- atma
-- calm
-- consciousness
-- contentment
+- self-control
 - desire
-- desire management
-- detachment
-- emotional stability
-- inner peace
-- karma
-- mind control
 - peace
-- psychology of desire
-- self
-- self mastery
-- want
-related:
-- chapter_6/verse_8
-- chapter_14/verse_2
-- chapter_2/verse_65
-- chapter_2/verse_66
-- chapter_2/verse_71
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/70
 chapter: 2
 verse_number: 70

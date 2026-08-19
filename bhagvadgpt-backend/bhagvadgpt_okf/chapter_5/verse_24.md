@@ -4,20 +4,11 @@ title: Chapter 5, Verse 24
 description: One whose happiness is within, who rejoices within, and who is illuminated
   by the inner light—that y...
 tags:
-- atma
-- consciousness
-- detachment
-- emotional independence
-- internal validation
-- intrinsic motivation
-- psychological self-sufficiency
-- self
-- self-reliance
-related:
-- chapter_15/verse_6
-- chapter_3/verse_17
+- happiness
+- within
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/24
 chapter: 5
 verse_number: 24

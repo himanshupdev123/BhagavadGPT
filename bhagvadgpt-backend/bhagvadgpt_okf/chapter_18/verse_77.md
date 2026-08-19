@@ -18,10 +18,9 @@ tags:
 - pride
 - reflection
 - separation
-related:
-- chapter_18/verse_76
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/77
 chapter: 18
 verse_number: 77

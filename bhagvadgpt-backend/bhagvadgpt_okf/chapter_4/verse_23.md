@@ -3,20 +3,10 @@ type: shloka
 title: Chapter 4, Verse 23
 description: For one who is free from attachment, liberated, and whose mind is established
   in knowledge, actions ...
-tags:
-- calling
-- detachment
-- inner freedom
-- karma
-- life purpose
-- meaning
-- meaningful work
-- mind control
-- purpose
-- service
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/23
 chapter: 4
 verse_number: 23

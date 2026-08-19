@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 1, Verse 1
 description: 'Dhritarashtra said: O Sanjaya, after my sons and the sons of Pandu assembled
   in the place of pilgrim...'
-tags:
-- detachment
-- fear
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/1
 chapter: 1
 verse_number: 1

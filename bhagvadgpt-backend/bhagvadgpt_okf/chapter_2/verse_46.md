@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 2, Verse 46
 description: To one who has access to a large reservoir of water, the small use of
   a well becomes insignificant. ...
-tags:
-- accomplish
-- achieve
-- better person
-- beyond material goals
-- clarity of purpose
-- desire
-- development
-- fear
-- goal
-- growth
-- inner understanding
-- karma
-- maturity of perspective
-- mind control
-- personal growth
-- shifting from rewards to purpose
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/46
 chapter: 2
 verse_number: 46

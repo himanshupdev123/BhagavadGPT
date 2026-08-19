@@ -4,27 +4,13 @@ title: Chapter 2, Verse 42
 description: O Partha, those who lack true understanding speak attractive, flowery
   words. They are devoted to the...
 tags:
-- action
-- clear thinking
-- concentration
-- dharma
-- distraction from purpose
-- duty
-- external validation
-- focus
-- focus vs temptation
-- heartbreak
-- karma
-- lost love
-- materialism
-- mind control
-- reward seeking mindset
-- separation
-- shallow success
-related:
-- chapter_9/verse_23
+- enjoyment
+- distraction
+- pleasure
+- heaven
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/42
 chapter: 2
 verse_number: 42

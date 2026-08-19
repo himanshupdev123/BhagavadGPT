@@ -4,11 +4,12 @@ title: Chapter 4, Verse 5
 description: 'The Supreme Lord said: Many, many births both you and I have passed.
   I can remember all of them, but...'
 tags:
-- detachment
-- fear
+- death
+- soul
+- birth
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/5
 chapter: 4
 verse_number: 5

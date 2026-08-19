@@ -4,23 +4,11 @@ title: Chapter 2, Verse 13
 description: Just as the embodied soul continuously passes, in this body, from boyhood
   to youth to old age, the s...
 tags:
-- acceptance of change
-- anxiety
-- detachment
-- emotional resilience
-- fear
-- fear of aging
-- identity
-- letting go
-- mortality
-- non-attachment
-- surrender
-related:
-- chapter_2/verse_22
-- chapter_14/verse_20
-- chapter_2/verse_20
+- death
+- soul
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/13
 chapter: 2
 verse_number: 13

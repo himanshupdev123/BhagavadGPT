@@ -4,27 +4,10 @@ title: Chapter 6, Verse 20
 description: When the mind becomes quiet and restrained through the practice of yoga,
   and one sees the self throu...
 tags:
-- atma
-- calm
-- consciousness
-- contentment
-- desire
-- inner peace
-- karma
-- meditation
-- mental calm
-- mind control
-- peace
-- self
-- self awareness
-related:
-- chapter_6/verse_27
-- chapter_2/verse_70
-- chapter_2/verse_71
-- chapter_5/verse_26
-- chapter_6/verse_15
+- samadhi
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/20
 chapter: 6
 verse_number: 20

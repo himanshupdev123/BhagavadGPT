@@ -4,23 +4,10 @@ title: Chapter 3, Verse 21
 description: Whatever actions a great person performs, common people follow. Whatever
   standards they set, the who...
 tags:
-- accountability
-- detachment
-- heartbreak
-- influence
-- karma
-- leadership
-- lost love
-- role models
-- separation
-- setting an example
-- social proof
-related:
-- chapter_3/verse_20
-- chapter_3/verse_23
-- chapter_3/verse_26
+- leader
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/21
 chapter: 3
 verse_number: 21

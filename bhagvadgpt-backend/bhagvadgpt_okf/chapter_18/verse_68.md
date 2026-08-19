@@ -12,14 +12,9 @@ tags:
 - purpose
 - sharing knowledge
 - social contribution
-related:
-- chapter_18/verse_69
-- chapter_18/verse_64
-- chapter_18/verse_78
-- chapter_3/verse_26
-- chapter_3/verse_29
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/68
 chapter: 18
 verse_number: 68

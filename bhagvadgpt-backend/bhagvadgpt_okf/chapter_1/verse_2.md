@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 1, Verse 2
 description: 'Sanjaya said: On observing the Pandava army arranged in military formation,
   King Duryodhana approach...'
-tags:
-- fear
-- karma
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/2
 chapter: 1
 verse_number: 2

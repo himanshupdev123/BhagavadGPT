@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 1, Verse 31
 description: O Keshava, I see only unfavorable signs. I do not see any good in killing
   my own relatives in this b...
-tags:
-- anxious
-- attachment
-- catastrophic thinking
-- choice
-- clinging
-- crossroads
-- decision paralysis
-- detachment
-- dilemma
-- emotional bias
-- fear
-- karma
-- mind control
-- moral dilemma
-- nervous
-- overthinking consequences
-- worried
-related:
-- chapter_1/verse_28
-- chapter_1/verse_33
-- chapter_1/verse_37
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/31
 chapter: 1
 verse_number: 31

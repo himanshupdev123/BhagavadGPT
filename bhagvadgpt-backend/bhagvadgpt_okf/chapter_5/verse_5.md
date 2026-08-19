@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 5, Verse 5
 description: The supreme state that is attained by those on the path of analytical
   knowledge is also attained by ...
-tags:
-- action
-- atma
-- compartmentalization
-- consciousness
-- detachment
-- dharma
-- duty
-- integration
-- karma
-- mind control
-- mindfulness in action
-- self
-- self-awareness
-- theory vs practice
-related:
-- chapter_5/verse_4
-- chapter_9/verse_16
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/5
 chapter: 5
 verse_number: 5

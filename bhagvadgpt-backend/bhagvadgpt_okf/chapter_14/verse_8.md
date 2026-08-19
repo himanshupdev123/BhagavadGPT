@@ -12,14 +12,9 @@ tags:
 - mental paralysis
 - mind control
 - procrastination
-related:
-- chapter_14/verse_13
-- chapter_2/verse_33
-- chapter_3/verse_1
-- chapter_3/verse_4
-- chapter_3/verse_5
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/8
 chapter: 14
 verse_number: 8

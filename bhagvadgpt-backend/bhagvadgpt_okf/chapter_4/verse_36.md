@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 4, Verse 36
 description: Even if you are considered the most sinful among all sinners, you will
   cross over all wrongdoing thr...
-tags:
-- atma
-- better person
-- consciousness
-- development
-- fear
-- growth
-- inner growth
-- karma
-- learning from mistakes
-- mind control
-- overcoming guilt
-- personal transformation
-- self
-- self awareness
-related:
-- chapter_4/verse_37
-- chapter_2/verse_69
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/36
 chapter: 4
 verse_number: 36

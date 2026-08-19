@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 3, Verse 28
 description: One who knows the truth about the divisions of nature and action, O mighty-armed
   one, understands th...
-tags:
-- atma
-- consciousness
-- detachment
-- emotional intelligence
-- identity
-- karma
-- mind control
-- mindfulness
-- observer effect
-- self
-- self-awareness
-related:
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_13/verse_1
-- chapter_13/verse_6
-- chapter_14/verse_5
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/28
 chapter: 3
 verse_number: 28

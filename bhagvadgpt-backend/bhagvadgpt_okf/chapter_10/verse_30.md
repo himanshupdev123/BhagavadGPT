@@ -15,7 +15,7 @@ tags:
 - strength and leadership
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/30
 chapter: 10
 verse_number: 30

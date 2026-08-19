@@ -16,10 +16,9 @@ tags:
 - separation
 - spectrum of human experience
 - surrender
-related:
-- chapter_2/verse_27
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/9/verse/19
 chapter: 9
 verse_number: 19

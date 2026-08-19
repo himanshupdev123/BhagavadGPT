@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 1, Verse 35
 description: O Madhusudana, I do not wish to kill them even if they kill me, even
   for the sake of ruling the thre...
-tags:
-- attachment
-- clinging
-- compassion vs duty
-- detachment
-- dream
-- duty
-- emotional reasoning
-- ethical decision making
-- love for work
-- mind control
-- moral conflict
-- passion
-- responsibility
-- values vs power
-related:
-- chapter_1/verse_32
-- chapter_1/verse_28
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/35
 chapter: 1
 verse_number: 35

@@ -18,14 +18,9 @@ tags:
 - self-worth
 - separation
 - stoicism
-related:
-- chapter_13/verse_10
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_14/verse_25
-- chapter_2/verse_14
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/24
 chapter: 14
 verse_number: 24

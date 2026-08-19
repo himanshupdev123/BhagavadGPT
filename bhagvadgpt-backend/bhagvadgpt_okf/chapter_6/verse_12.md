@@ -3,25 +3,10 @@ type: shloka
 title: Chapter 6, Verse 12
 description: Sitting there on the seat, making the mind one-pointed, and controlling
   the activities of the mind a...
-tags:
-- attention control
-- clear thinking
-- concentration
-- fear
-- focus
-- karma
-- meditation
-- mental clarity
-- mind control
-- mindfulness
-related:
-- chapter_5/verse_27
-- chapter_4/verse_26
-- chapter_6/verse_10
-- chapter_6/verse_13
-- chapter_6/verse_19
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/12
 chapter: 6
 verse_number: 12

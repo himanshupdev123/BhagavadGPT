@@ -4,21 +4,10 @@ title: Chapter 4, Verse 11
 description: As people approach Me, so I receive them. All paths, O son of Pritha,
   lead to Me in all respects....
 tags:
-- accomplish
-- achieve
-- cause and effect
-- detachment
-- goal
-- goal alignment
-- intention
-- karma
-- mind control
-- mindset
-- personal responsibility
-related:
-- chapter_9/verse_25
+- surrender
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/11
 chapter: 4
 verse_number: 11

@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 4, Verse 4
 description: 'Arjuna said: The sun-god Vivasvan is senior by birth to You. Therefore,
   how am I to understand that ...'
-tags:
-- detachment
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/4
 chapter: 4
 verse_number: 4

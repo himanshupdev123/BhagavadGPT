@@ -6,7 +6,7 @@ description: All the great sages declare this about You, as do the divine sage N
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/13
 chapter: 10
 verse_number: 13

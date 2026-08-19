@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 2, Verse 59
 description: Sense objects may be withdrawn from a person who abstains from them,
   but the taste for them remains....
-tags:
-- atma
-- breaking addictive patterns
-- consciousness
-- desire
-- detachment
-- fear
-- finding higher purpose
-- habit change
-- internal motivation
-- karma
-- mind control
-- overcoming temptation
-- psychology of desire
-- self
-- self control
-- want
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/59
 chapter: 2
 verse_number: 59

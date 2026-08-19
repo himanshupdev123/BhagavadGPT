@@ -16,13 +16,9 @@ tags:
 - resilience
 - surrender
 - trust
-related:
-- chapter_13/verse_32
-- chapter_14/verse_2
-- chapter_5/verse_29
-- chapter_9/verse_7
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/62
 chapter: 18
 verse_number: 62

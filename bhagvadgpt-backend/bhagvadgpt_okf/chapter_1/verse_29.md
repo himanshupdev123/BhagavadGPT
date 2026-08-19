@@ -3,21 +3,10 @@ type: shloka
 title: Chapter 1, Verse 29
 description: My limbs are trembling, my mouth is drying up, my body is shaking, and
   my hair is standing on end....
-tags:
-- anxiety
-- decision stress
-- detachment
-- emotional overwhelm
-- fear
-- karma
-- mind control
-- mind-body connection
-- psychological pressure
-- stress response
-related:
-- chapter_1/verse_30
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/29
 chapter: 1
 verse_number: 29

@@ -4,20 +4,14 @@ title: Chapter 6, Verse 5
 description: One should uplift oneself through one's own mind and not degrade oneself.
   The mind alone is the frie...
 tags:
-- atma
-- consciousness
-- fear
-- karma
-- mental strength
-- mind control
-- mind management
-- overcoming self doubt
-- self
-- self control
-- self improvement
+- uplift
+- degrade
+- mind
+- friend
+- enemy
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/5
 chapter: 6
 verse_number: 5

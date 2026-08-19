@@ -4,23 +4,12 @@ title: Chapter 3, Verse 7
 description: But one who controls the senses by the mind, O Arjuna, and engages the
   organs of action in Karma-yog...
 tags:
-- action
-- desire
-- detached engagement
-- detachment
-- dharma
-- duty
-- emotional regulation
-- flow state
-- karma
-- mind control
-- mindful action
-- performance anxiety
-- process vs outcome
-related:
-- chapter_3/verse_19
+- self-control
+- detachment from results
+- devotion
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/7
 chapter: 3
 verse_number: 7

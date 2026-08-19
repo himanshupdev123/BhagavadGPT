@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 1, Verse 39
 description: O Janardana, why should we not understand the sin in destroying a family
   and therefore refrain from ...
-tags:
-- action
-- consequences of actions
-- decision conflict
-- detachment
-- dharma
-- duty
-- ethical responsibility
-- family stability
-- fear
-- karma
-- mind control
-- moral awareness
-- moral hesitation
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/39
 chapter: 1
 verse_number: 39

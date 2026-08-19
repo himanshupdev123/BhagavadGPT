@@ -4,23 +4,10 @@ title: Chapter 6, Verse 23
 description: Know that state to be called yoga which separates a person from the union
   with suffering. This yoga ...
 tags:
-- balance
-- desire
-- determination
-- emotional balance
-- fear
-- karma
-- mental resilience
-- mind control
-- mind training
-- pain
-- priorities
-- suffering
-- time management
-related:
-- chapter_6/verse_7
+- samadhi
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/23
 chapter: 6
 verse_number: 23

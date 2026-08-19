@@ -4,28 +4,14 @@ title: Chapter 2, Verse 17
 description: Know that which pervades the entire body to be indestructible. No one
   is able to destroy that imperi...
 tags:
-- angry
-- atma
-- consciousness
-- core identity
-- courage
-- detachment
-- existential anxiety
-- fear
-- fear of death
-- fury
-- heartbreak
-- lost love
-- rage
-- resilience
-- self
-- separation
-related:
-- chapter_2/verse_20
-- chapter_2/verse_23
-- chapter_2/verse_18
+- soul
+- who am i
+- body
+- duty
+- death
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/17
 chapter: 2
 verse_number: 17

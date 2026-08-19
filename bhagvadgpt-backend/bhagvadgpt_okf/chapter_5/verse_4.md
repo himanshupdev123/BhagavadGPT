@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 5, Verse 4
 description: Only the ignorant speak of the yoga of knowledge (Sankhya) and the yoga
   of action (Karma) as differe...
-tags:
-- action
-- analysis paralysis
-- anxious
-- detachment
-- dharma
-- duty
-- integration
-- karma
-- mind control
-- mindful action
-- nervous
-- overthinking
-- rumination
-- theory vs practice
-- thinking too much
-- worried
-related:
-- chapter_15/verse_3
-- chapter_3/verse_1
-- chapter_5/verse_5
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/4
 chapter: 5
 verse_number: 4

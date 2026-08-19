@@ -4,31 +4,20 @@ title: Chapter 2, Verse 3
 description: O Partha, do not give in to this weakness. It does not suit you. Give
   up this petty faint-heartednes...
 tags:
-- action
-- angry
-- atma
-- consciousness
-- courage
-- dharma
-- duty
-- emotional weakness
-- fear
-- fury
-- mental resilience
-- mind control
-- overcoming fear
-- rage
-- responsibility
-- self
 - self-doubt
-related:
-- chapter_2/verse_2
-- chapter_2/verse_18
-- chapter_2/verse_31
-- chapter_2/verse_35
-- chapter_2/verse_37
+- worry
+- anxiety
+- helplessness
+- laziness
+- distraction
+- heartbreak
+- hopelessness
+- restlessness
+- sadness
+- stress
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/3
 chapter: 2
 verse_number: 3

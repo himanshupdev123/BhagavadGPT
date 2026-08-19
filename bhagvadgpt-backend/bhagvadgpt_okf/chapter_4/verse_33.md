@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 4, Verse 33
 description: O conqueror of enemies, the sacrifice performed through knowledge is
   superior to material sacrifice....
-tags:
-- atma
-- clarity
-- consciousness
-- karma
-- learning
-- purpose
-- self
-- self awareness
-- wisdom
-related:
-- chapter_4/verse_38
-- chapter_4/verse_32
-- chapter_4/verse_35
-- chapter_4/verse_37
-- chapter_4/verse_41
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/33
 chapter: 4
 verse_number: 33

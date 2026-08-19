@@ -4,22 +4,13 @@ title: Chapter 5, Verse 20
 description: One who neither rejoices upon receiving something pleasant nor grieves
   upon receiving something unpl...
 tags:
-- detachment
-- emotional regulation
-- handling success and failure
-- karma
-- mind control
-- resilience
-- stoicism
-- the dopamine rollercoaster
-related:
-- chapter_2/verse_14
-- chapter_14/verse_24
-- chapter_16/verse_1
-- chapter_2/verse_15
-- chapter_2/verse_57
+- rejoices
+- laments
+- pleasant
+- clarity
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/20
 chapter: 5
 verse_number: 20

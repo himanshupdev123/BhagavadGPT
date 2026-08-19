@@ -4,21 +4,10 @@ title: Chapter 3, Verse 5
 description: No one can remain without engaging in action even for a moment. Indeed,
   all beings are helplessly fo...
 tags:
-- action
-- avoidance
-- detachment
-- dharma
-- duty
-- human nature
-- inevitability of action
-- karma
-- mind control
-- procrastination
-- unconscious impulses
-related:
-- chapter_14/verse_8
+- mood swings
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/5
 chapter: 3
 verse_number: 5

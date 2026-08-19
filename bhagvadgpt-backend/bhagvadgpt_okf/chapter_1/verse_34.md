@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 34
 description: Teachers, fathers, sons, and also grandfathers; maternal uncles, fathers-in-law,
   grandsons, brothers...
-tags:
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/34
 chapter: 1
 verse_number: 34

@@ -12,12 +12,9 @@ tags:
 - pride
 - unity
 - universal empathy
-related:
-- chapter_4/verse_24
-- chapter_6/verse_30
-- chapter_6/verse_31
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/4
 chapter: 14
 verse_number: 4

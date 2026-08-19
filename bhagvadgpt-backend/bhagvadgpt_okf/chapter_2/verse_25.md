@@ -4,27 +4,15 @@ title: Chapter 2, Verse 25
 description: It is said that the soul is invisible, inconceivable, and immutable.
   Knowing this, you should not gr...
 tags:
-- acceptance
-- anxious
-- cognitive shift
-- core identity
-- depressed
-- detachment
-- grief
-- impermanence
-- letting go
-- mind control
-- nervous
-- non-attachment
-- overthinking
-- sad
-- surrender
-- worried
-related:
-- chapter_2/verse_11
-- chapter_2/verse_28
+- soul
+- who am i
+- sadness
+- body
+- emotional pain
+- death
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/25
 chapter: 2
 verse_number: 25

@@ -17,10 +17,9 @@ tags:
 - self
 - self-discovery
 - subconscious conditioning
-related:
-- chapter_18/verse_60
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/59
 chapter: 18
 verse_number: 59

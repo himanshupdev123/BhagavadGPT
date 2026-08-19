@@ -4,21 +4,12 @@ title: Chapter 5, Verse 25
 description: Those holy persons whose impurities have been destroyed, whose doubts
   have been dispelled by self-di...
 tags:
-- analysis paralysis
-- atma
-- consciousness
-- detachment
-- hyper-individualism
-- mind control
-- purpose beyond self
-- rumination
-- self
-- servant leadership
-- social impact
-- thinking too much
+- workimg
+- welfare
+- mind
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/25
 chapter: 5
 verse_number: 25

@@ -6,7 +6,7 @@ description: Let me see those who stand here eager to fight, and with whom I mus
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/22
 chapter: 1
 verse_number: 22

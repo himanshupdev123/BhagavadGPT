@@ -3,14 +3,10 @@ type: shloka
 title: Chapter 1, Verse 44
 description: O Janardana, we have heard that those whose family traditions are destroyed
   must dwell in suffering ...
-tags:
-- detachment
-- fear
-- karma
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/44
 chapter: 1
 verse_number: 44

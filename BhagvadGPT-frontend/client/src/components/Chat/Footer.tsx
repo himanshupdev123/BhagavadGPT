@@ -1,4 +1,4 @@
-import React, { useEffect, memo } from 'react';
+import React, { useEffect, memo, useState } from 'react';
 import TagManager from 'react-gtm-module';
 import ReactMarkdown from 'react-markdown';
 import { Constants } from 'librechat-data-provider';
@@ -8,6 +8,30 @@ import { useLocalize } from '~/hooks';
 function Footer({ className }: { className?: string }) {
   const { data: config } = useGetStartupConfig();
   const localize = useLocalize();
+  const [questionCount, setQuestionCount] = useState<number | null>(null);
+
+  // Fetch question count from backend
+  useEffect(() => {
+    const fetchQuestionCount = async () => {
+      try {
+        const response = await fetch('http://localhost:8000/api/question-stats');
+        const data = await response.json();
+        if (data.success) {
+          setQuestionCount(data.total_questions);
+        }
+      } catch (error) {
+        console.error('Failed to fetch question count:', error);
+      }
+    };
+
+    // Initial fetch
+    fetchQuestionCount();
+
+    // Refresh every 30 seconds
+    const interval = setInterval(fetchQuestionCount, 30000);
+
+    return () => clearInterval(interval);
+  }, []);
 
   const privacyPolicy = config?.interface?.privacyPolicy;
   const termsOfService = config?.interface?.termsOfService;
@@ -27,9 +51,7 @@ function Footer({ className }: { className?: string }) {
   const mainContentParts = (
     typeof config?.customFooter === 'string'
       ? config.customFooter
-      : '[BhagvadGPT ' +
-      Constants.VERSION +
-      '](https://github.com/himanshupdev123/BhagavadGPT) - Spiritual AI Companion'
+      : 'BhagvadGPT can make mistakes. Please read the  Bhagavad Gita'
   ).split('|');
 
   useEffect(() => {
@@ -71,14 +93,22 @@ function Footer({ className }: { className?: string }) {
   );
 
   return (
-    <div className="relative w-full">
-      <div
-        className={
-          className ??
-          'absolute bottom-0 left-0 right-0 hidden items-center justify-center gap-2 px-2 py-2 text-center text-xs text-text-primary sm:flex md:px-[60px]'
-        }
-        role="contentinfo"
-      >
+    <div
+      className={
+        className ??
+        'absolute bottom-0 left-0 right-0 flex flex-col items-center justify-center gap-2 px-2 py-2 text-center text-xs text-text-primary md:px-[60px]'
+      }
+      role="contentinfo"
+    >
+      {/* Question counter - displayed above existing footer */}
+      {questionCount !== null && (
+        <div className="text-black text-xs mb-1">
+          BhagvadGPT has Gitafied {questionCount.toLocaleString()} Questions to date.
+        </div>
+      )}
+
+      {/* Existing footer content - responsive layout */}
+      <div className="flex flex-col sm:flex-row items-center justify-center gap-2 flex-wrap">
         {footerElements.map((contentRender, index) => {
           const isLastElement = index === footerElements.length - 1;
           return (
@@ -87,7 +117,7 @@ function Footer({ className }: { className?: string }) {
               {!isLastElement && (
                 <div
                   key={`separator-${index}`}
-                  className="h-2 border-r-[1px] border-border-medium"
+                  className="hidden sm:block h-2 border-r-[1px] border-border-medium"
                 />
               )}
             </React.Fragment>

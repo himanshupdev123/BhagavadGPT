@@ -6,7 +6,7 @@ description: This is my doubt, O Krishna. Please completely remove it, for no on
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/39
 chapter: 6
 verse_number: 39

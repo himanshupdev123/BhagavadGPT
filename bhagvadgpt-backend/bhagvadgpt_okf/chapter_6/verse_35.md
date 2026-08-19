@@ -4,27 +4,13 @@ title: Chapter 6, Verse 35
 description: 'The Blessed Lord said: O mighty-armed Arjuna, the mind is indeed restless
   and difficult to control, ...'
 tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- desire
-- detachment
-- focus
-- karma
 - mind control
-- mind training
-- practice
-- self
-- self discipline
-related:
-- chapter_2/verse_64
-- chapter_4/verse_19
-- chapter_4/verse_20
-- chapter_4/verse_26
-- chapter_4/verse_27
+- restlessness
+- practise
+- detachment
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/35
 chapter: 6
 verse_number: 35

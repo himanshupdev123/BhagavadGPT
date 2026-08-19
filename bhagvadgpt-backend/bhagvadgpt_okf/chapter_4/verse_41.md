@@ -4,28 +4,11 @@ title: Chapter 4, Verse 41
 description: O Dhananjaya, actions do not bind the one who has renounced actions through
   yoga, whose doubts have ...
 tags:
-- action
-- atma
-- clarity
-- consciousness
-- detachment
-- dharma
-- duty
-- fear
 - karma
-- mental freedom
-- mind control
-- responsible action
-- self
-- self awareness
-related:
-- chapter_4/verse_32
-- chapter_4/verse_19
-- chapter_4/verse_33
-- chapter_4/verse_35
-- chapter_4/verse_37
+- detachment
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/41
 chapter: 4
 verse_number: 41

@@ -17,11 +17,9 @@ tags:
 - seeing patterns in reality
 - separation
 - unity behind diversity
-related:
-- chapter_10/verse_23
-- chapter_10/verse_26
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/21
 chapter: 10
 verse_number: 21

@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 2, Verse 44
 description: For those who are deeply attached to pleasure and material power, and
   whose minds are distracted by ...
-tags:
-- action
-- attachment
-- attachment to pleasure
-- clarity of mind
-- clinging
-- defeat
-- desire
-- detachment
-- dharma
-- distraction
-- duty
-- failed
-- karma
-- loss
-- loss of focus
-- materialism
-- mental restlessness
-- mind control
-- status obsession
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/44
 chapter: 2
 verse_number: 44

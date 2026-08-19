@@ -4,24 +4,11 @@ title: Chapter 4, Verse 20
 description: Having abandoned attachment to the results of actions, remaining always
   satisfied and independent, a...
 tags:
-- anxiety
-- clear thinking
-- concentration
-- detachment
-- emotional independence
-- fear
-- focus
-- karma
-- mind control
-- work ethic
-related:
-- chapter_3/verse_27
-- chapter_4/verse_10
-- chapter_4/verse_19
-- chapter_6/verse_1
-- chapter_6/verse_10
+- duty
+- detachment from results
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/20
 chapter: 4
 verse_number: 20

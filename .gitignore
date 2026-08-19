@@ -51,3 +51,16 @@ Thumbs.db
 BhagvadGPT-frontend/.env
 BhagvadGPT-frontend/api/.env
 BhagvadGPT-frontend/client/.env
+
+# Google service account credentials (sensitive - never commit)
+service-account.json
+**/service-account.json
+
+# Docker data volumes
+BhagvadGPT-frontend/data-node/
+BhagvadGPT-frontend/pgdata*/
+
+# Generated/temp files
+bhagvadgpt-backend/backups/
+bhagvadgpt-backend/test_update_one.py
+bhagvadgpt-backend/update_sync_to_write_files.py

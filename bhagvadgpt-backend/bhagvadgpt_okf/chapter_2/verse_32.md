@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 2, Verse 32
 description: O Partha, happy are the warriors to whom such a battle comes of its own
   accord, opening the doors to...
-tags:
-- action
-- better person
-- challenge as growth
-- cognitive reframing
-- desire
-- detachment
-- development
-- dharma
-- duty
-- growth
-- karma
-- mind control
-- opportunity in crisis
-- perspective shift
-- purpose
-- resilience
-- responsibility
-related:
-- chapter_2/verse_18
-- chapter_2/verse_31
-- chapter_5/verse_2
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/32
 chapter: 2
 verse_number: 32

@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 3, Verse 10
 description: In the beginning of creation, the Creator brought forth mankind along
   with the spirit of sacrifice (...
-tags:
-- better person
-- contribution vs extraction
-- desire
-- development
-- entitlement
-- growth
-- heartbreak
-- interdependence
-- karma
-- lost love
-- mind control
-- mutual growth
-- separation
-- service
-- systems thinking
-related:
-- chapter_3/verse_12
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/10
 chapter: 3
 verse_number: 10

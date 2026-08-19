@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 2, Verse 54
 description: 'Arjuna said: O Keshava, what are the characteristics of a person whose
   wisdom is steady and who is e...'
-tags:
-- karma
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/54
 chapter: 2
 verse_number: 54

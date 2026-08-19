@@ -16,10 +16,9 @@ tags:
 - psychological conditioning
 - self
 - self-observation
-related:
-- chapter_18/verse_61
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/9
 chapter: 14
 verse_number: 9

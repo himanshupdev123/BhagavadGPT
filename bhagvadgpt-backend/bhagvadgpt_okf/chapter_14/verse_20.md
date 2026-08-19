@@ -15,13 +15,9 @@ tags:
 - inner freedom
 - mortality
 - scared
-related:
-- chapter_13/verse_13
-- chapter_2/verse_13
-- chapter_2/verse_20
-- chapter_2/verse_22
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/20
 chapter: 14
 verse_number: 20

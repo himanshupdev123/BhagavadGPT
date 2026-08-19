@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 6, Verse 11
 description: In a clean place, one should establish a steady seat for oneself, neither
   too high nor too low, cove...
-tags:
-- clear thinking
-- concentration
-- discipline
-- environment design
-- focus
-- karma
-- meditation setup
-- mind control
-- mindfulness
-related:
-- chapter_2/verse_58
-- chapter_4/verse_26
-- chapter_4/verse_29
-- chapter_4/verse_39
-- chapter_5/verse_27
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/11
 chapter: 6
 verse_number: 11

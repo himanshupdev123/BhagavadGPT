@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 2, Verse 26
 description: If, however, you think that the soul is perpetually born and always dies,
   even then, O mighty-armed ...
-tags:
-- clear thinking
-- concentration
-- depressed
-- detachment
-- duty
-- focus
-- focus on duty
-- grief
-- inevitability of change
-- letting go
-- mind control
-- non-attachment
-- pragmatism
-- radical acceptance
-- responsibility
-- sad
-- surrender
-related:
-- chapter_2/verse_27
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/26
 chapter: 2
 verse_number: 26

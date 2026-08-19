@@ -3,27 +3,10 @@ type: shloka
 title: Chapter 1, Verse 32
 description: O Krishna, I do not desire victory, nor a kingdom, nor the pleasures
   that come with it. What use is ...
-tags:
-- accomplish
-- achieve
-- attachment
-- calling
-- clinging
-- desire
-- detachment
-- ethical decision making
-- goal
-- life purpose
-- meaning
-- meaning of success
-- mind control
-- moral conflict
-- purpose of life
-- values vs achievement
-related:
-- chapter_1/verse_35
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/32
 chapter: 1
 verse_number: 32

@@ -4,25 +4,12 @@ title: Chapter 5, Verse 2
 description: 'The Supreme Lord said: Both the renunciation of action and the yoga
   of action lead to ultimate liber...'
 tags:
-- action
-- avoidance
-- detachment
-- dharma
-- duty
-- escapism
-- karma
-- mind control
-- mindset shift
-- resilience
-- responsibility
-related:
-- chapter_2/verse_33
-- chapter_14/verse_8
-- chapter_2/verse_18
-- chapter_2/verse_31
-- chapter_2/verse_32
+- renunciation
+- devotion
+- work
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/2
 chapter: 5
 verse_number: 2

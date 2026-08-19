@@ -4,29 +4,13 @@ title: Chapter 2, Verse 53
 description: When your intellect, no longer confused by the many interpretations of
   teachings, becomes steady and...
 tags:
-- anxious
-- clarity of judgment
-- clear thinking
-- concentration
-- decision making
-- detachment
-- focus
-- information overload
-- inner stability
-- karma
-- mental clarity
-- mind control
-- nervous
-- overthinking
-- worried
-related:
-- chapter_2/verse_41
-- chapter_2/verse_52
-- chapter_2/verse_65
-- chapter_15/verse_19
-- chapter_15/verse_3
+- divine
+- consciousness
+- purpose of life
+- maya
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/53
 chapter: 2
 verse_number: 53

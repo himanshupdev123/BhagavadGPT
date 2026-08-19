@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 1, Verse 30
 description: My bow Gandiva is slipping from my hand, my skin is burning, I am unable
   to stand steady, and my min...
-tags:
-- anxiety
-- decision paralysis
-- defeat
-- detachment
-- emotional conflict
-- failed
-- loss
-- loss of focus
-- mental overwhelm
-- mind control
-- stress response
-related:
-- chapter_1/verse_28
-- chapter_1/verse_29
-- chapter_18/verse_66
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/30
 chapter: 1
 verse_number: 30

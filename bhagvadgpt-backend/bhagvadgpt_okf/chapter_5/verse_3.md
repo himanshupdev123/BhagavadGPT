@@ -4,25 +4,12 @@ title: Chapter 5, Verse 3
 description: One who neither hates nor desires should be known as always renounced.
   Free from all dualities, O mi...
 tags:
-- angry
-- balance
+- hate
 - desire
-- desire and aversion
-- detachment
-- emotional balance
-- fear
-- fury
-- karma
-- mental fatigue
-- overcoming resentment
-- priorities
-- rage
-- time management
-- true minimalism
-- want
+- results
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/3
 chapter: 5
 verse_number: 3

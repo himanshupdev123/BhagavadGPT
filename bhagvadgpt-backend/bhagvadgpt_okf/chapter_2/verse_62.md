@@ -4,23 +4,14 @@ title: Chapter 2, Verse 62
 description: When a person constantly thinks about sense objects, attachment to them
   develops. From attachment ar...
 tags:
-- anger psychology
+- anger
 - attachment
-- attachment and desire
-- clinging
-- cognitive awareness
-- desire
-- detachment
-- emotional triggers
-- karma
-- managing impulses
-- mind control
-- power of attention
-- thought patterns
-- want
+- lust
+- confusion
+- lack of focus
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/62
 chapter: 2
 verse_number: 62

@@ -3,38 +3,10 @@ type: shloka
 title: Chapter 2, Verse 66
 description: For one who lacks self-discipline, there is no steady intellect. For
   one without a steady intellect,...
-tags:
-- anxious
-- atma
-- calm
-- clear thinking
-- concentration
-- consciousness
-- desire
-- detachment
-- emotional stability
-- fear
-- focus
-- happiness and well being
-- inner peace
-- karma
-- mental focus
-- mind control
-- mindfulness
-- nervous
-- overthinking
-- peace
-- self
-- self discipline
-- worried
-related:
-- chapter_2/verse_65
-- chapter_14/verse_2
-- chapter_18/verse_57
-- chapter_2/verse_64
-- chapter_2/verse_70
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/66
 chapter: 2
 verse_number: 66

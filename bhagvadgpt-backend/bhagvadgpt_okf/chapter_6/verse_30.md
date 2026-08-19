@@ -4,22 +4,11 @@ title: Chapter 6, Verse 30
 description: One who sees Me everywhere and sees everything in Me is never separated
   from Me, and I am never sepa...
 tags:
-- detachment
-- empathy
-- interconnectedness
-- karma
-- mind control
-- perspective
-- spiritual awareness
-- unity
-related:
-- chapter_4/verse_24
-- chapter_6/verse_31
-- chapter_13/verse_3
-- chapter_14/verse_4
-- chapter_6/verse_29
+- god in everyone
+- god everywhere
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/30
 chapter: 6
 verse_number: 30

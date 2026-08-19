@@ -3,17 +3,10 @@ type: shloka
 title: Chapter 2, Verse 5
 description: It would be better to live in this world by begging than to kill these
   great teachers. If we were to...
-tags:
-- desire
-- detachment
-- ethical conflict
-- guilt
-- loyalty vs responsibility
-- moral hesitation
-- respect for mentors
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/5
 chapter: 2
 verse_number: 5

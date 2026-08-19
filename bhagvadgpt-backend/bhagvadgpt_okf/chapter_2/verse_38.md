@@ -4,40 +4,28 @@ title: Chapter 2, Verse 38
 description: Treat pleasure and pain, gain and loss, victory and defeat alike. Then
   engage in battle. By doing so...
 tags:
-- anxious
-- balance
-- clear thinking
-- concentration
-- desire
-- detachment
-- detachment from outcomes
-- duty
-- emotional balance
-- fear
+- sadness
+- frustration
+- emotional pain
+- worry
+- disappointment
+- mood swings
+- failure
+- rejection
+- consistency
+- self-control
 - fear of failure
-- focus
-- focus on duty
+- tolerance
+- suffering
+- self-control
 - heartbreak
-- karma
-- lost love
-- managing expectations
-- mental stability
-- mind control
-- nervous
-- overthinking
-- priorities
-- responsibility
-- separation
-- time management
-- worried
-related:
-- chapter_2/verse_45
-- chapter_2/verse_47
-- chapter_2/verse_48
-- chapter_2/verse_50
-- chapter_2/verse_37
+- distraction
+- victory
+- defeat
+- balance
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/38
 chapter: 2
 verse_number: 38

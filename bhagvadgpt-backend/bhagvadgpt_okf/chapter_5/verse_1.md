@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 5, Verse 1
 description: 'Arjuna said: O Krishna, You first praise the renunciation of actions,
   and then You again praise the ...'
-tags:
-- burnout
-- cognitive dissonance
-- decision paralysis
-- desire
-- detachment
-- escapism
-- karma
-- mind control
-- seeking clarity
-related:
-- chapter_3/verse_2
-- chapter_3/verse_8
-- chapter_4/verse_15
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/1
 chapter: 5
 verse_number: 1

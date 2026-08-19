@@ -4,30 +4,12 @@ title: Chapter 6, Verse 2
 description: What is called renunciation is also known as yoga, O son of Pandu. One
   cannot become a yogi without ...
 tags:
-- action
-- atma
-- consciousness
-- desire
-- detachment
-- dharma
-- duty
-- fear
-- inner discipline
-- karma
-- letting go
-- letting go of desires
-- mind control
-- non-attachment
-- purposeful action
-- self
-- self awareness
-- surrender
-- want
-related:
-- chapter_4/verse_41
-- chapter_6/verse_1
+- renounce
+- yogi
+- sense control
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/2
 chapter: 6
 verse_number: 2

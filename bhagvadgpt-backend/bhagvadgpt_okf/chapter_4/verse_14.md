@@ -3,21 +3,10 @@ type: shloka
 title: Chapter 4, Verse 14
 description: Actions do not taint Me, nor do I have any desire for the fruits of action.
   One who truly understand...
-tags:
-- desire
-- detachment
-- emotional freedom
-- fear
-- intrinsic motivation
-- karma
-- letting go
-- non-attachment
-- surrender
-- workplace stress
-related:
-- chapter_15/verse_3
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/14
 chapter: 4
 verse_number: 14

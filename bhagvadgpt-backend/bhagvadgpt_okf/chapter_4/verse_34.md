@@ -4,19 +4,11 @@ title: Chapter 4, Verse 34
 description: Learn that knowledge by approaching a wise teacher with humility, sincere
   questions, and service. Th...
 tags:
-- atma
-- consciousness
-- curiosity
-- humility
-- learning
-- mentorship
-- self
-- self development
-related:
-- chapter_6/verse_44
-- chapter_2/verse_7
+- surrender
+- guru
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/34
 chapter: 4
 verse_number: 34

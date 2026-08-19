@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 13
 description: Then conches, kettledrums, bugles, trumpets, and horns were suddenly
   sounded all together, and the c...
-tags:
-- detachment
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/13
 chapter: 1
 verse_number: 13

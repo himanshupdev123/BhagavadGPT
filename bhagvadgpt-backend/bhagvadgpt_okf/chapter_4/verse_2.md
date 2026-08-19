@@ -6,7 +6,7 @@ description: This supreme science was thus received through the chain of discipl
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/2
 chapter: 4
 verse_number: 2

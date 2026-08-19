@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 3, Verse 33
 description: Even a person of knowledge acts according to their own nature. All beings
   follow their natural tende...
-tags:
-- atma
-- authentic living
-- behavioral conditioning
-- consciousness
-- consistency
-- desire
-- human nature
-- inner conflict
-- karma
-- personality and habits
-- routine
-- self
-- self-awareness
-- self-control
-- suppression vs understanding
-related:
-- chapter_3/verse_35
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/33
 chapter: 3
 verse_number: 33

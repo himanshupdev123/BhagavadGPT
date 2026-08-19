@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 4, Verse 19
 description: One whose all undertakings are free from desire and selfish intention,
   and whose actions are burned ...
-tags:
-- action
-- clarity
-- clear thinking
-- concentration
-- desire
-- detachment
-- dharma
-- duty
-- ego
-- fear
-- focus
-- karma
-- mind control
-- pride
-- selfless action
-related:
-- chapter_3/verse_27
-- chapter_4/verse_20
-- chapter_4/verse_41
-- chapter_6/verse_10
-- chapter_6/verse_18
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/19
 chapter: 4
 verse_number: 19

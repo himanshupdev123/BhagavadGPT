@@ -3,25 +3,10 @@ type: shloka
 title: Chapter 2, Verse 24
 description: This soul is unbreakable, incombustible, insoluble, and cannot be dried.
   It is eternal, all-pervadin...
-tags:
-- anxiety
-- detachment
-- ego
-- ego defense
-- groundedness
-- impermanence
-- inner stability
-- instability
-- pride
-- resilience
-related:
-- chapter_18/verse_56
-- chapter_2/verse_12
-- chapter_2/verse_14
-- chapter_2/verse_16
-- chapter_2/verse_20
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/24
 chapter: 2
 verse_number: 24

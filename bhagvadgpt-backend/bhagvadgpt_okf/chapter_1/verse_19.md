@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 19
 description: That tumultuous sound, echoing through the sky and the earth, shattered
   the hearts of the sons of Dh...
-tags:
-- fear
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/19
 chapter: 1
 verse_number: 19

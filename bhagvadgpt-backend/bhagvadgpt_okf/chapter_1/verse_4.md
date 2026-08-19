@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 4
 description: 'Here in this army are heroic bowmen, equal in battle to Bhima and Arjuna:
   Yuyudhana (Satyaki), Virat...'
-tags:
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/4
 chapter: 1
 verse_number: 4

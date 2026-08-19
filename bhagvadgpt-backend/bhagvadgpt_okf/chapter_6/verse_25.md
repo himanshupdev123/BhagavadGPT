@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 6, Verse 25
 description: Gradually, step by step, one should bring the mind to stillness using
   steady intelligence and determ...
-tags:
-- clear thinking
-- concentration
-- desire
-- discipline
-- focus
-- mental calm
-- mind control
-- mind training
-- patience
-related:
-- chapter_2/verse_58
-- chapter_4/verse_39
-- chapter_6/verse_11
-- chapter_6/verse_26
-- chapter_6/verse_3
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/25
 chapter: 6
 verse_number: 25

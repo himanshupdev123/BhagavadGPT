@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 2, Verse 16
 description: Of the transient (the unreal) there is no endurance, and of the eternal
   (the real) there is no cessa...
-tags:
-- afraid
-- anxiety
-- attachment
-- clinging
-- detachment
-- existential dread
-- fear
-- fearful
-- illusion
-- impermanence
-- material world
-- mental clarity
-- reality vs illusion
-- scared
-- temporary
-related:
-- chapter_2/verse_12
-- chapter_18/verse_66
-- chapter_2/verse_20
-- chapter_2/verse_24
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/16
 chapter: 2
 verse_number: 16

@@ -17,12 +17,9 @@ tags:
 - routine
 - seeing the bigger picture
 - self-control
-related:
-- chapter_10/verse_7
-- chapter_10/verse_8
-- chapter_18/verse_72
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/3
 chapter: 10
 verse_number: 3

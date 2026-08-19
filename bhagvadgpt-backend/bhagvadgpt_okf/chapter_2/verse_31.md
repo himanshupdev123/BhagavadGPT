@@ -4,29 +4,15 @@ title: Chapter 2, Verse 31
 description: Furthermore, considering your own specific duty as a warrior, you should
   not waver. For a warrior, t...
 tags:
-- action
-- angry
-- avoidance
-- courage
-- desire
-- detachment
-- dharma
 - duty
-- fury
-- inner conflict
-- mind control
-- purpose
-- rage
-- responsibility
-- svadharma
-related:
-- chapter_2/verse_33
-- chapter_2/verse_18
-- chapter_2/verse_2
-- chapter_2/verse_3
-- chapter_2/verse_32
+- work-life balance
+- student life
+- discipline
+- karma
+- courage
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/31
 chapter: 2
 verse_number: 31

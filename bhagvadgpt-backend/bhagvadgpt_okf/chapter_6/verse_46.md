@@ -3,25 +3,10 @@ type: shloka
 title: Chapter 6, Verse 46
 description: A yogi is considered greater than those who practice austerities, greater
   than those who pursue know...
-tags:
-- atma
-- balance
-- balanced growth
-- consciousness
-- discipline
-- integrated learning
-- karma
-- mind control
-- personal mastery
-- priorities
-- self
-- self development
-- time management
-related:
-- chapter_4/verse_25
-- chapter_6/verse_3
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/46
 chapter: 6
 verse_number: 46

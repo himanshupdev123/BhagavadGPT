@@ -4,25 +4,13 @@ title: Chapter 5, Verse 28
 description: A sage who has controlled the senses, mind, and intellect, who is dedicated
   to liberation, and who i...
 tags:
-- anger control
-- atma
-- consciousness
-- desire
-- detachment
-- emotional regulation
-- fear
-- fear management
-- inner freedom
-- karma
 - mind control
-- self
 - self control
-related:
-- chapter_16/verse_1
-- chapter_2/verse_58
-- chapter_2/verse_60
+- sense control
+- breath
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/28
 chapter: 5
 verse_number: 28

@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 1, Verse 21
 description: 'Arjuna said: O King, at that moment Arjuna spoke these words to Hrishikesha
   (Krishna): O Achyuta, pl...'
-tags:
-- detachment
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/21
 chapter: 1
 verse_number: 21

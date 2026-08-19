@@ -3,11 +3,10 @@ type: shloka
 title: Chapter 4, Verse 1
 description: 'The Supreme Lord said: I taught this eternal science of yoga to the
   sun-god, Vivasvan. Vivasvan taug...'
-tags:
-- karma
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/1
 chapter: 4
 verse_number: 1

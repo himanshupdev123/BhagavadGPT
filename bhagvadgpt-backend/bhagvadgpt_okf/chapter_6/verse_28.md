@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 6, Verse 28
 description: Practicing in this way constantly, the yogi becomes free from impurities
   and easily experiences deep...
-tags:
-- atma
-- calm
-- consciousness
-- desire
-- detachment
-- fear
-- inner peace
-- karma
-- lasting happiness
-- meditation
-- mental clarity
-- mind control
-- peace
-- self
-- self purification
-related:
-- chapter_6/verse_27
-- chapter_2/verse_65
-- chapter_2/verse_72
-- chapter_6/verse_12
-- chapter_6/verse_15
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/28
 chapter: 6
 verse_number: 28

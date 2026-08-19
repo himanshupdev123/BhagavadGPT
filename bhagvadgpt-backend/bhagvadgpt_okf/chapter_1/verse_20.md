@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 1, Verse 20
 description: Then, seeing the sons of Dhritarashtra standing in battle formation and
   the weapons about to be disc...
-tags:
-- detachment
-- karma
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/20
 chapter: 1
 verse_number: 20

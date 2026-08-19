@@ -4,26 +4,13 @@ title: Chapter 3, Verse 25
 description: As the ignorant perform their duties with attachment to results, O descendant
   of Bharata, the wise s...
 tags:
-- action
 - attachment
-- attachment vs detachment
-- burnout
-- clinging
-- desire
 - detachment
-- dharma
+- detachment from results
 - duty
-- high performance
-- intrinsic motivation
-- karma
-- mind control
-- purposeful action
-- role models
-related:
-- chapter_3/verse_8
-- chapter_4/verse_15
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/25
 chapter: 3
 verse_number: 25

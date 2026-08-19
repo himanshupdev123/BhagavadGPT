@@ -17,10 +17,9 @@ tags:
 - self
 - self-awareness
 - subconscious programming
-related:
-- chapter_15/verse_10
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/9/verse/8
 chapter: 9
 verse_number: 8

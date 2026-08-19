@@ -4,24 +4,12 @@ title: Chapter 6, Verse 8
 description: A yogi who is satisfied with knowledge and realization, who is steady
   and has conquered the senses, ...
 tags:
-- atma
-- balance
-- consciousness
-- contentment
-- detachment
-- karma
-- material independence
-- mental balance
-- mind control
-- priorities
-- self
-- self mastery
-- time management
-related:
-- chapter_2/verse_70
-- chapter_2/verse_64
+- yogi
+- self-realised
+- sameness
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/8
 chapter: 6
 verse_number: 8

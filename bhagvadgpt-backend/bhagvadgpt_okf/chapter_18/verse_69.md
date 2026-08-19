@@ -14,14 +14,9 @@ tags:
 - self
 - self-worth
 - social contribution
-related:
-- chapter_18/verse_68
-- chapter_18/verse_64
-- chapter_18/verse_78
-- chapter_3/verse_26
-- chapter_3/verse_29
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/69
 chapter: 18
 verse_number: 69

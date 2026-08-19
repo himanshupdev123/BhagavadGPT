@@ -6,7 +6,7 @@ description: The King of Kashi, the supreme archer; the great warrior Shikhandi;
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/17
 chapter: 1
 verse_number: 17

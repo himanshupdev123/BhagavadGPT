@@ -3,25 +3,10 @@ type: shloka
 title: Chapter 4, Verse 17
 description: The intricacies of action are very hard to understand. Therefore, one
   should properly know what righ...
-tags:
-- atma
-- consciousness
-- consistency
-- decision making
-- desire
-- detachment
-- discernment
-- karma
-- mind control
-- procrastination
-- routine
-- self
-- self-awareness
-- self-control
-- toxic habits
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/17
 chapter: 4
 verse_number: 17

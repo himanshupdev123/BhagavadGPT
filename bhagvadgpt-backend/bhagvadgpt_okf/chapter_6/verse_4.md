@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 6, Verse 4
 description: When a person is no longer attached to sense objects or to actions themselves,
   and has renounced all...
-tags:
-- atma
-- balance
-- consciousness
-- detachment
-- emotional balance
-- inner stability
-- karma
-- letting go
-- letting go of expectations
-- mind control
-- non-attachment
-- priorities
-- self
-- self control
-- surrender
-- time management
-related:
-- chapter_6/verse_7
-- chapter_10/verse_4
-- chapter_2/verse_45
-- chapter_4/verse_21
-- chapter_6/verse_18
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/4
 chapter: 6
 verse_number: 4

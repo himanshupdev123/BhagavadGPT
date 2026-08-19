@@ -3,20 +3,10 @@ type: shloka
 title: Chapter 1, Verse 40
 description: When a family is destroyed, its long-established traditions and moral
   duties perish. When these duti...
-tags:
-- cultural continuity
-- defeat
-- erosion of values
-- failed
-- family breakdown
-- fear
-- generational responsibility
-- loss
-- loss of traditions
-- social instability
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/40
 chapter: 1
 verse_number: 40

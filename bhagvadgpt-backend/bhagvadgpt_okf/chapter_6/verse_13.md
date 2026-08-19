@@ -4,23 +4,11 @@ title: Chapter 6, Verse 13
 description: Holding the body, head, and neck straight and steady, remaining still,
   and focusing the gaze toward ...
 tags:
-- attention control
-- clear thinking
-- concentration
-- focus
-- karma
-- meditation
-- mental discipline
 - mind control
-- posture
-related:
-- chapter_2/verse_67
-- chapter_5/verse_27
-- chapter_6/verse_12
-- chapter_6/verse_15
-- chapter_6/verse_19
+- self control
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/13
 chapter: 6
 verse_number: 13

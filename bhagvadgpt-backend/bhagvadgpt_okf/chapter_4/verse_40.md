@@ -4,23 +4,11 @@ title: Chapter 4, Verse 40
 description: But a person who is ignorant, who lacks faith, and who is filled with
   doubt is ruined. For the one w...
 tags:
-- anxious
-- clarity
-- decision making
-- doubt
-- mental stability
-- mind control
-- nervous
-- overthinking
-- worried
-related:
-- chapter_2/verse_38
-- chapter_2/verse_39
-- chapter_2/verse_41
-- chapter_2/verse_53
-- chapter_2/verse_65
+- faithless
+- divine
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/40
 chapter: 4
 verse_number: 40

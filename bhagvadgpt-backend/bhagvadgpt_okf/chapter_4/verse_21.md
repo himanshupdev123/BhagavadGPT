@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 4, Verse 21
 description: Free from expectations, with mind and self controlled, having abandoned
   all sense of possessiveness,...
-tags:
-- atma
-- consciousness
-- detachment
-- fear
-- freedom from expectations
-- heartbreak
-- karma
-- lost love
-- mind control
-- minimalism
-- self
-- self control
-- separation
-- simplicity
-related:
-- chapter_6/verse_24
-- chapter_6/verse_4
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/21
 chapter: 4
 verse_number: 21

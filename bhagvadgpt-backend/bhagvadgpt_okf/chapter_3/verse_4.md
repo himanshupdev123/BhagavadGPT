@@ -4,28 +4,12 @@ title: Chapter 3, Verse 4
 description: Not by merely abstaining from work does a person achieve freedom from
   action, nor by mere renunciati...
 tags:
-- action
-- avoidance
-- calm
-- desire
-- detachment
-- dharma
-- duty
-- escapism
-- inaction
-- inner peace
-- karma
-- mind control
-- peace
-- responsibility
-related:
-- chapter_2/verse_33
-- chapter_14/verse_8
-- chapter_2/verse_31
-- chapter_3/verse_24
-- chapter_3/verse_8
+- work-life balance
+- detachment from results
+- work
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/4
 chapter: 3
 verse_number: 4

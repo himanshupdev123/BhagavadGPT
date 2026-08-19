@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 4, Verse 30
 description: Others regulate their diet and offer the life energies into the life
   energies. All these practitione...
-tags:
-- atma
-- balance
-- consciousness
-- consistency
-- desire
-- healthy habits
-- lifestyle control
-- mental balance
-- mind control
-- moderation
-- priorities
-- routine
-- self
-- self discipline
-- self-control
-- time management
-related:
-- chapter_2/verse_64
-- chapter_6/verse_16
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/30
 chapter: 4
 verse_number: 30

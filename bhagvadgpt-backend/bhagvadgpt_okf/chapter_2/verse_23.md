@@ -4,23 +4,13 @@ title: Chapter 2, Verse 23
 description: Weapons cannot cut this soul, nor can fire burn it. Water cannot wet
   it, nor can the wind dry it....
 tags:
-- angry
-- core identity
-- courage
-- detachment
-- fear
-- fear of trauma
-- fury
-- inner strength
-- rage
-- resilience
-- vulnerability
-related:
-- chapter_2/verse_17
-- chapter_2/verse_18
-- chapter_2/verse_20
+- soul
+- who am i
+- body
+- death
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/23
 chapter: 2
 verse_number: 23

@@ -4,12 +4,13 @@ title: Chapter 6, Verse 37
 description: 'Arjuna said: What happens to a person who has faith but whose mind is
   not steady, and who fails to a...'
 tags:
-- fear
-- karma
-- mind control
+- fail
+- destiny
+- honest attempt
+- bhakti
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/37
 chapter: 6
 verse_number: 37

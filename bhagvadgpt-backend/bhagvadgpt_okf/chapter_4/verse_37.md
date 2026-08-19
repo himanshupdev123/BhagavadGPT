@@ -3,27 +3,10 @@ type: shloka
 title: Chapter 4, Verse 37
 description: Just as a blazing fire reduces firewood to ashes, O Arjuna, the fire
   of knowledge burns all actions ...
-tags:
-- atma
-- clarity
-- consciousness
-- detachment
-- fear
-- karma
-- learning from mistakes
-- mind control
-- overcoming guilt
-- personal transformation
-- self
-- self awareness
-related:
-- chapter_4/verse_36
-- chapter_4/verse_32
-- chapter_4/verse_33
-- chapter_4/verse_35
-- chapter_4/verse_38
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/37
 chapter: 4
 verse_number: 37

@@ -4,18 +4,11 @@ title: Chapter 5, Verse 21
 description: One whose mind is unattached to external sense pleasures finds happiness
   within the self. Such a per...
 tags:
-- consumerism
-- detachment
-- dopamine addiction
-- internal validation
-- karma
-- mind control
-- sustainable happiness
-- the hedonic treadmill
-related:
-- chapter_5/verse_22
+- pleasure
+- sense
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/21
 chapter: 5
 verse_number: 21

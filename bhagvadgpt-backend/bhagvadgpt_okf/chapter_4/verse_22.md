@@ -4,25 +4,12 @@ title: Chapter 4, Verse 22
 description: One who is satisfied with whatever comes by chance, who has gone beyond
   the dualities of life, who i...
 tags:
-- balance
-- comparison
-- competitive
-- contentment
-- emotional balance
 - envy
-- fear
-- karma
-- mind control
-- priorities
-- resilience
-- rivalry
-- time management
-related:
-- chapter_2/verse_48
-- chapter_2/verse_57
-- chapter_6/verse_22
+- success
+- failure
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/22
 chapter: 4
 verse_number: 22

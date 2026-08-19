@@ -4,23 +4,13 @@ title: Chapter 5, Verse 27
 description: Keeping external sensory objects outside, fixing the gaze between the
   eyebrows, and balancing the in...
 tags:
-- attention control
-- breath control
-- clear thinking
-- concentration
-- focus
-- karma
-- meditation
 - mind control
-- mindfulness
-related:
-- chapter_6/verse_12
-- chapter_4/verse_26
-- chapter_4/verse_29
-- chapter_6/verse_10
-- chapter_6/verse_13
+- self control
+- sense control
+- breath
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/27
 chapter: 5
 verse_number: 27

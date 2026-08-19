@@ -23,11 +23,9 @@ tags:
 - purpose driven work
 - single minded focus
 - transforming motivation
-related:
-- chapter_2/verse_49
-- chapter_9/verse_27
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/12/verse/6
 chapter: 12
 verse_number: 6

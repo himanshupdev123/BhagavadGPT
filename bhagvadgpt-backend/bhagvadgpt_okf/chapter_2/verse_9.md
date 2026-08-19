@@ -3,13 +3,10 @@ type: shloka
 title: Chapter 2, Verse 9
 description: 'Sanjaya said: Having spoken these words to Hrishikesha, Arjuna, the
   conqueror of enemies, declared t...'
-tags:
-- fear
-- karma
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/9
 chapter: 2
 verse_number: 9

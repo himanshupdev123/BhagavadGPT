@@ -15,13 +15,9 @@ tags:
 - mind control
 - perfectionism
 - prioritization
-related:
-- chapter_1/verse_30
-- chapter_2/verse_16
-- chapter_2/verse_19
-- chapter_2/verse_52
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/66
 chapter: 18
 verse_number: 66

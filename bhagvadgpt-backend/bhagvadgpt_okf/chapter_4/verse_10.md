@@ -4,22 +4,13 @@ title: Chapter 4, Verse 10
 description: Freed from attachment, fear, and anger, fully absorbed in Me and taking
   refuge in Me, purified by th...
 tags:
-- anger management
-- anxiety
-- detachment
-- emotional regulation
-- fear
-- karma
-- mind control
-- overcoming fear
-related:
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_14/verse_24
-- chapter_2/verse_63
-- chapter_2/verse_64
+- attachment
+- fear of failure
+- anger
+- surrender
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/10
 chapter: 4
 verse_number: 10

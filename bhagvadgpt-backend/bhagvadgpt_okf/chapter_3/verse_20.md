@@ -4,22 +4,10 @@ title: Chapter 3, Verse 20
 description: Kings like Janaka and others attained perfection solely by the performance
   of their prescribed dutie...
 tags:
-- detachment
-- heartbreak
-- influence
-- karma
-- leadership
-- lost love
-- role models
-- separation
-- setting an example
-- social responsibility
-related:
-- chapter_3/verse_21
-- chapter_3/verse_23
-- chapter_3/verse_26
+- duty
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/20
 chapter: 3
 verse_number: 20

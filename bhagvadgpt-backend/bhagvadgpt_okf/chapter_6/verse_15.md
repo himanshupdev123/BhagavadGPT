@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 6, Verse 15
 description: Practicing in this way with a disciplined mind, the yogi attains peace
   and reaches the highest state...
-tags:
-- calm
-- clear thinking
-- concentration
-- emotional stability
-- focus
-- inner peace
-- karma
-- meditation
-- mental discipline
-- mind control
-- peace
-related:
-- chapter_6/verse_13
-- chapter_14/verse_2
-- chapter_2/verse_65
-- chapter_2/verse_66
-- chapter_2/verse_67
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/15
 chapter: 6
 verse_number: 15

@@ -4,27 +4,15 @@ title: Chapter 2, Verse 33
 description: If, however, you refuse to fight this righteous war, abandoning your
   own duty and reputation, you wi...
 tags:
-- action
-- atma
-- avoidance
-- consciousness
-- detachment
-- dharma
 - duty
-- escapism
-- facing challenges
-- guilt
-- responsibility
-- self
-- self-respect
-related:
-- chapter_2/verse_31
-- chapter_3/verse_4
-- chapter_3/verse_8
-- chapter_5/verse_2
-- chapter_14/verse_8
+- work-life balance
+- student life
+- discipline
+- karma
+- courage
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/33
 chapter: 2
 verse_number: 33

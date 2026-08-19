@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 2, Verse 52
 description: When your intellect crosses beyond the dense forest of confusion, you
   will become indifferent to wha...
-tags:
-- anxious
-- clarity of judgment
-- decision paralysis
-- detachment
-- fear
-- freedom from confusion
-- information overload
-- inner guidance
-- mental clarity
-- mind control
-- nervous
-- overthinking
-- worried
-related:
-- chapter_2/verse_53
-- chapter_15/verse_19
-- chapter_15/verse_3
-- chapter_18/verse_66
-- chapter_2/verse_41
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/52
 chapter: 2
 verse_number: 52

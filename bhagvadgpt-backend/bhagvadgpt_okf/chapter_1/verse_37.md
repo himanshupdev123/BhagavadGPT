@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 1, Verse 37
 description: Therefore, we should not kill the sons of Dhritarashtra, who are our
   own relatives. O Madhava, how c...
-tags:
-- action
-- attachment
-- choice
-- clinging
-- conflict avoidance
-- crossroads
-- desire
-- detachment
-- dharma
-- dilemma
-- duty
-- duty vs attachment
-- emotional bias
-- ethical decision making
-- family loyalty
-- fear
-- karma
-- mind control
-- moral dilemma
-- responsibility
-related:
-- chapter_1/verse_31
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/37
 chapter: 1
 verse_number: 37

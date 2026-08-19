@@ -3,21 +3,10 @@ type: shloka
 title: Chapter 2, Verse 10
 description: O descendant of Bharata, smiling in the midst of both armies, Krishna
   spoke the following words to t...
-tags:
-- anxiety
-- calmness under pressure
-- depressed
-- detachment
-- emotional crisis
-- fear
-- grief
-- mind control
-- overwhelm
-- perspective
-- sad
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/10
 chapter: 2
 verse_number: 10

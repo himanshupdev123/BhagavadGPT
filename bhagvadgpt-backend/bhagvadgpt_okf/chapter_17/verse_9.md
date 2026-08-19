@@ -17,7 +17,7 @@ tags:
 - same mistakes
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/17/verse/9
 chapter: 17
 verse_number: 9

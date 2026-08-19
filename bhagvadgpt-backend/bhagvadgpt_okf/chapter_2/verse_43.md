@@ -4,25 +4,13 @@ title: Chapter 2, Verse 43
 description: Their minds are filled with desires and they seek heavenly pleasures.
   They promote elaborate rituals...
 tags:
-- consumer mindset
-- desire
-- desire driven life
-- detachment
-- drive
-- fear
-- inspire
-- karma
-- material success obsession
-- mind control
-- motivate
-- pleasure seeking
-- restlessness
-- reward based motivation
-- status seeking
-- want
+- enjoyment
+- distraction
+- pleasure
+- heaven
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/43
 chapter: 2
 verse_number: 43

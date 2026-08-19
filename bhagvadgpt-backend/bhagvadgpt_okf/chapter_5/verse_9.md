@@ -4,28 +4,12 @@ title: Chapter 5, Verse 9
 description: '...while speaking, letting go, grasping, as well as opening and closing
   the eyes—firmly convinced th...'
 tags:
-- detachment
-- ego
-- ego detachment
-- heartbreak
-- karma
-- letting go
-- lost love
-- mind control
-- mind-body separation
-- non-attachment
-- over-identification
-- pride
-- separation
-- surrender
-- the observer effect
-related:
-- chapter_7/verse_4
-- chapter_14/verse_19
-- chapter_15/verse_13
-- chapter_5/verse_13
+- worldy
+- renunciation
+- senses
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/9
 chapter: 5
 verse_number: 9

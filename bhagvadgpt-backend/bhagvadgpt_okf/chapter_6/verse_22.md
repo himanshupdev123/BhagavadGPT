@@ -4,24 +4,10 @@ title: Chapter 6, Verse 22
 description: Having attained this state, one does not consider any other gain to be
   greater. Established in this ...
 tags:
-- balance
-- emotional balance
-- fear
-- inner stability
-- mental strength
-- mind control
-- priorities
-- resilience
-- time management
-- true fulfillment
-related:
-- chapter_18/verse_56
-- chapter_2/verse_24
-- chapter_2/verse_45
-- chapter_2/verse_48
-- chapter_2/verse_57
+- samadhi
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/22
 chapter: 6
 verse_number: 22

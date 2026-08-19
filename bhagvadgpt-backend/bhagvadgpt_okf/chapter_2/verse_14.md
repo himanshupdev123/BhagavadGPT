@@ -4,23 +4,20 @@ title: Chapter 2, Verse 14
 description: O son of Kunti, the contact between the senses and their objects gives
   rise to fleeting perceptions ...
 tags:
-- detachment
-- emotional regulation
-- impermanence
-- mental stability
-- mind control
-- mindfulness
-- resilience
-- stoicism
-- tolerance
-related:
-- chapter_5/verse_20
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_14/verse_11
-- chapter_14/verse_19
+- sadness
+- frustration
+- emotional pain
+- worry
+- disappointment
+- mood swings
+- failure
+- rejection
+- consistency
+- self-control
+- fear of failure
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/14
 chapter: 2
 verse_number: 14

@@ -20,7 +20,6 @@ import {
   useFocusChatEffect,
 } from '~/hooks';
 import { mainTextareaId, BadgeItem } from '~/common';
-import AttachFileChat from './Files/AttachFileChat';
 import FileFormChat from './Files/FileFormChat';
 import { cn, removeFocusRings } from '~/utils';
 import TextareaHeader from './TextareaHeader';
@@ -31,7 +30,6 @@ import StreamAudio from './StreamAudio';
 import StopButton from './StopButton';
 import SendButton from './SendButton';
 import EditBadges from './EditBadges';
-import BadgeRow from './BadgeRow';
 import Mention from './Mention';
 import store from '~/store';
 
@@ -261,9 +259,9 @@ const ChatForm = memo(({ index = 0 }: { index?: number }) => {
                   style={
                     isCollapsed
                       ? {
-                          WebkitMaskImage: 'linear-gradient(to bottom, black 60%, transparent 90%)',
-                          maskImage: 'linear-gradient(to bottom, black 60%, transparent 90%)',
-                        }
+                        WebkitMaskImage: 'linear-gradient(to bottom, black 60%, transparent 90%)',
+                        maskImage: 'linear-gradient(to bottom, black 60%, transparent 90%)',
+                      }
                       : undefined
                   }
                 >
@@ -314,21 +312,7 @@ const ChatForm = memo(({ index = 0 }: { index?: number }) => {
                 isRTL ? 'flex-row-reverse' : 'flex-row',
               )}
             >
-              <div className={`${isRTL ? 'mr-2' : 'ml-2'}`}>
-                <AttachFileChat conversation={conversation} disableInputs={disableInputs} />
-              </div>
-              <BadgeRow
-                showEphemeralBadges={
-                  !!endpoint && !isAgentsEndpoint(endpoint) && !isAssistantsEndpoint(endpoint)
-                }
-                isSubmitting={isSubmitting}
-                conversationId={conversationId}
-                specName={conversation?.spec}
-                onChange={setBadges}
-                isInChat={
-                  Array.isArray(conversation?.messages) && conversation.messages.length >= 1
-                }
-              />
+              {/* BadgeRow removed - tools not needed for BhagvadGPT */}
               <div className="mx-auto flex" />
               {SpeechToText && (
                 <AudioRecorder

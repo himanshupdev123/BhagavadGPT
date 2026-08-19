@@ -3,21 +3,10 @@ type: shloka
 title: Chapter 5, Verse 16
 description: But for those whose ignorance is destroyed by knowledge of the Self,
   their knowledge illuminates the...
-tags:
-- atma
-- clarity
-- consciousness
-- detachment
-- karma
-- limiting beliefs
-- mental illumination
-- mind control
-- self
-- self-awareness
-- unlearning
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/16
 chapter: 5
 verse_number: 16

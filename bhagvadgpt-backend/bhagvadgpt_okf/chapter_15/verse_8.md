@@ -14,11 +14,9 @@ tags:
 - separation
 - subconscious momentum
 - the "wherever you go, there you are" phenomenon
-related:
-- chapter_14/verse_14
-- chapter_14/verse_15
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/15/verse/8
 chapter: 15
 verse_number: 8

@@ -15,14 +15,9 @@ tags:
 - psychological states
 - self
 - self-awareness
-related:
-- chapter_13/verse_2
-- chapter_3/verse_42
-- chapter_13/verse_1
-- chapter_13/verse_6
-- chapter_13/verse_7
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/14/verse/5
 chapter: 14
 verse_number: 5

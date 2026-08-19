@@ -4,28 +4,13 @@ title: Chapter 4, Verse 35
 description: Having gained this knowledge, O son of Pandu, you will never again fall
   into such confusion. By this...
 tags:
-- atma
-- clarity
-- consciousness
-- detachment
-- expanded perspective
-- fear
-- heartbreak
-- lost love
-- mind control
-- overcoming confusion
-- self
-- self awareness
-- separation
-- unity
-related:
-- chapter_4/verse_32
-- chapter_4/verse_33
-- chapter_4/verse_37
-- chapter_4/verse_38
-- chapter_4/verse_41
+- who am I
+- self-doubt
+- friendship
+- low self-worth
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/35
 chapter: 4
 verse_number: 35

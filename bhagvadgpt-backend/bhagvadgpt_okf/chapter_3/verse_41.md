@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 3, Verse 41
 description: Therefore, O best of the Bharatas, first control the senses and destroy
   this sinful force of desire,...
-tags:
-- atma
-- attention management
-- consciousness
-- desire
-- detachment
-- habit control
-- karma
-- managing temptations
-- mind control
-- preventing impulsive behavior
-- protecting mental clarity
-- self
-- self-discipline
-- self-regulation
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/41
 chapter: 3
 verse_number: 41

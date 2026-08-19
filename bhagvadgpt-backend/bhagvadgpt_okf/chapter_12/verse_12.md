@@ -19,7 +19,7 @@ tags:
 - surrender
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/12/verse/12
 chapter: 12
 verse_number: 12

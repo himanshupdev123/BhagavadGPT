@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 2, Verse 69
 description: What is night for all beings is the time of wakefulness for the disciplined
   person. And what is the ...
-tags:
-- atma
-- balance
-- better person
-- clarity of priorities
-- consciousness
-- detachment
-- development
-- different perspectives
-- fear
-- growth
-- inner growth
-- karma
-- mind control
-- mindful living
-- priorities
-- self
-- self awareness
-- social conditioning
-- time management
-- value systems
-related:
-- chapter_4/verse_36
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/69
 chapter: 2
 verse_number: 69

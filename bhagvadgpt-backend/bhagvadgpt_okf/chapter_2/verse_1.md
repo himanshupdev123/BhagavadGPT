@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 2, Verse 1
 description: 'Sanjaya said: Seeing Arjuna overwhelmed with compassion, his eyes filled
   with tears and his mind dee...'
-tags:
-- decision paralysis
-- depressed
-- detachment
-- emotional overwhelm
-- fear
-- grief
-- inner conflict
-- mind control
-- moral confusion
-- need for guidance
-- sad
-related:
-- chapter_2/verse_6
-- chapter_2/verse_8
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/1
 chapter: 2
 verse_number: 1

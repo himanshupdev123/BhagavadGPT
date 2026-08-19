@@ -4,22 +4,22 @@ title: Chapter 2, Verse 15
 description: O best among men, the person who is not disturbed by happiness and distress
   and is steady in both is...
 tags:
-- detachment
-- emotional independence
-- emotional stability
-- equanimity
-- karma
-- mind control
-- mindset
-- resilience
-- stoicism
-related:
-- chapter_14/verse_2
-- chapter_14/verse_24
-- chapter_2/verse_14
-- chapter_5/verse_20
+- lust
+- suffering
+- self-control
+- patience
+- tolerance
+- betrayal
+- heartbreak
+- distraction
+- fear
+- irritation
+- emotional pain
+- burnout
+- anger
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/15
 chapter: 2
 verse_number: 15

@@ -4,22 +4,11 @@ title: Chapter 4, Verse 24
 description: The act of offering is Brahman, the offering itself is Brahman, it is
   offered by Brahman into the fi...
 tags:
-- ego
-- ego reduction
-- interconnectedness
+- surrender
 - karma
-- mind control
-- pride
-- purpose
-- spiritual awareness
-- unity
-related:
-- chapter_6/verse_30
-- chapter_14/verse_4
-- chapter_3/verse_14
-- chapter_6/verse_31
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/24
 chapter: 4
 verse_number: 24

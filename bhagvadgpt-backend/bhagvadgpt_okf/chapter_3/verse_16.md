@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 3, Verse 16
 description: O Partha (Arjuna), one who does not follow the wheel of creation thus
   set in motion in this world, w...
-tags:
-- calling
-- consumerism
-- existential void
-- heartbreak
-- hedonism
-- hyper-individualism
-- life purpose
-- lost love
-- meaning
-- meaninglessness
-- purpose
-- separation
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/16
 chapter: 3
 verse_number: 16

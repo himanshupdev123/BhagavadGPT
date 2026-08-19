@@ -4,30 +4,12 @@ title: Chapter 2, Verse 7
 description: My nature is overcome by weakness and my mind is confused about my duty.
   I ask you to tell me clearl...
 tags:
-- action
-- anxious
-- atma
-- confusion about duty
-- consciousness
-- detachment
-- dharma
-- duty
-- fear
-- humility
-- karma
-- mentorship
-- mind control
-- nervous
-- overthinking
-- responsibility
-- seeking guidance
-- self
-- self-awareness
-- worried
-related:
-- chapter_4/verse_34
+- surrender
+- hopelessness
+- helplessness
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/7
 chapter: 2
 verse_number: 7

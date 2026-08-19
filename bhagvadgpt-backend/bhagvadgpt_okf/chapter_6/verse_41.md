@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 6, Verse 41
 description: After attaining the worlds of the righteous and living there for many
   years, one who has fallen from...
-tags:
-- better person
-- development
-- fear
-- growth
-- hope
-- karma
-- long term growth
-- personal development
-- progress
-- resilience
-related:
-- chapter_6/verse_40
-- chapter_6/verse_45
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/41
 chapter: 6
 verse_number: 41

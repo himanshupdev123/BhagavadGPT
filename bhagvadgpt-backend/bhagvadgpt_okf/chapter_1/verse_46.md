@@ -3,13 +3,10 @@ type: shloka
 title: Chapter 1, Verse 46
 description: If the sons of Dhritarashtra, with weapons in their hands, were to kill
   me in battle while I remain ...
-tags:
-- detachment
-- fear
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/46
 chapter: 1
 verse_number: 46

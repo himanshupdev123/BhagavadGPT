@@ -4,27 +4,15 @@ title: Chapter 2, Verse 61
 description: One should restrain all the senses and remain steady with the mind focused
   on the higher purpose. Fo...
 tags:
-- atma
-- attention control
-- clear thinking
-- concentration
-- consciousness
-- emotional control
-- focus
-- focus on purpose
-- impulse regulation
-- intentional living
-- karma
-- mental stability
-- mind control
-- self
-- self discipline
-related:
-- chapter_4/verse_26
-- chapter_6/verse_16
-- chapter_6/verse_19
+- peace of mind
+- calmness
+- happiness
+- senses
+- spirituality
+- bhakti
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/61
 chapter: 2
 verse_number: 61

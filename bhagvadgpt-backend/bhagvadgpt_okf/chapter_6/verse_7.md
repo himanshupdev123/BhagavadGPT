@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 6, Verse 7
 description: For one who has conquered the mind and remains peaceful, the Supreme
   Self is already realized. Such ...
-tags:
-- atma
-- balance
-- consciousness
-- emotional balance
-- equanimity
-- fear
-- inner stability
-- karma
-- mental resilience
-- mind control
-- priorities
-- self
-- self control
-- time management
-related:
-- chapter_6/verse_4
-- chapter_10/verse_4
-- chapter_2/verse_45
-- chapter_6/verse_22
-- chapter_6/verse_23
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/7
 chapter: 6
 verse_number: 7

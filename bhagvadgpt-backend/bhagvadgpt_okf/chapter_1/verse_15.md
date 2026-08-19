@@ -6,7 +6,7 @@ description: Lord Krishna blew His conch shell, called Panchajanya; Arjuna blew 
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/15
 chapter: 1
 verse_number: 15

@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 3, Verse 36
 description: 'Arjuna said: O descendant of Vrishni, by what is a person driven to
   commit sinful actions, even unwi...'
-tags:
-- action
-- addiction and compulsive behavior
-- atma
-- conflict between knowledge and action
-- consciousness
-- consistency
-- desire
-- dharma
-- duty
-- impulse vs reason
-- inner psychological conflict
-- karma
-- loss of self-control
-- mind control
-- routine
-- self
-- self-control
-- self-sabotage
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/36
 chapter: 3
 verse_number: 36

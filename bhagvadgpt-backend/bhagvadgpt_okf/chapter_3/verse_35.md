@@ -4,25 +4,32 @@ title: Chapter 3, Verse 35
 description: It is better to perform one’s own duty imperfectly than to perform another’s
   duty perfectly. Even de...
 tags:
-- authentic living
-- career identity
-- comparison
-- comparison with others
-- competitive
-- fear
-- following your own path
-- inner conflict
+- duty
+- frustration
+- hopelessness
+- worry
+- feeling stuck
+- procrastination
+- lack of motivation
+- laziness
+- decision making
+- failure
+- overthinking
+- attachment
+- detachment
+- rejection
+- making wrong decisions
+- perfectionism
+- exam stress
+- student life
+- motivation
+- patience
 - karma
-- letting go
-- non-attachment
-- personal purpose
-- rivalry
-- self-acceptance
-- surrender
-related:
-- chapter_3/verse_33
+- duty
+- righteous action
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/35
 chapter: 3
 verse_number: 35

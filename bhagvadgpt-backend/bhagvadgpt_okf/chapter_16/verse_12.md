@@ -18,7 +18,7 @@ tags:
 - the pressure to succeed
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/16/verse/12
 chapter: 16
 verse_number: 12

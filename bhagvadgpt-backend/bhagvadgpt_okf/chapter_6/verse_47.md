@@ -4,19 +4,13 @@ title: Chapter 6, Verse 47
 description: Among all yogis, the one who, with inner faith, remains deeply connected
   to Me and worships Me with ...
 tags:
-- consistency
 - devotion
 - faith
-- inner connection
-- karma
-- mind control
-- purpose
-- routine
-- self-control
-- spiritual commitment
+- intimately
+- worshhip
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/47
 chapter: 6
 verse_number: 47

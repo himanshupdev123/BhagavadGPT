@@ -4,25 +4,12 @@ title: Chapter 4, Verse 18
 description: One who sees inaction in action, and action in inaction, is intelligent
   among humans. Such a person ...
 tags:
-- anxious
-- burnout
-- detachment
-- emotional intelligence
-- fear
-- flow state
 - karma
-- mind control
-- nervous
-- overthinking
-- procrastination
-- worried
-related:
-- chapter_15/verse_7
-- chapter_18/verse_55
-- chapter_3/verse_1
-- chapter_3/verse_9
+- action
+- inaction
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/18
 chapter: 4
 verse_number: 18

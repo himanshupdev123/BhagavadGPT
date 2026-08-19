@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 1, Verse 28
 description: 'Arjuna said: Seeing my own relatives gathered here, eager to fight,
   O Krishna, I am overwhelmed with...'
-tags:
-- attachment
-- choice
-- clinging
-- compassion vs duty
-- crossroads
-- decision paralysis
-- detachment
-- dilemma
-- dream
-- duty
-- emotional conflict
-- inner crisis
-- love for work
-- mind control
-- moral dilemma
-- passion
-- responsibility
-related:
-- chapter_1/verse_31
-- chapter_1/verse_30
-- chapter_1/verse_33
-- chapter_1/verse_35
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/28
 chapter: 1
 verse_number: 28

@@ -13,11 +13,9 @@ tags:
 - psychological software
 - the observer effect
 - the subtle body
-related:
-- chapter_5/verse_9
-- chapter_14/verse_19
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/7/verse/4
 chapter: 7
 verse_number: 4

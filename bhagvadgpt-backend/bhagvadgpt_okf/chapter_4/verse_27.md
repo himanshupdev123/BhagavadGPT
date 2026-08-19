@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 4, Verse 27
 description: Others offer all actions of the senses and the activities of the life
   forces into the fire of self-d...
-tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- desire
-- drive
-- energy management
-- fear
-- focus
-- inspire
-- karma
-- mind control
-- motivate
-- self
-- self discipline
-- self mastery
-related:
-- chapter_6/verse_36
-- chapter_6/verse_6
-- chapter_4/verse_26
-- chapter_6/verse_14
-- chapter_6/verse_18
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/27
 chapter: 4
 verse_number: 27

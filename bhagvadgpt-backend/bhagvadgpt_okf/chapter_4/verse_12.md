@@ -4,21 +4,10 @@ title: Chapter 4, Verse 12
 description: Those who desire quick success in their actions worship the demigods
   in this world, for in the human...
 tags:
-- action
-- desire
-- detachment
-- dharma
-- dopamine addiction
-- duty
-- instant gratification
-- karma
-- materialism
-- short-term success
-- transactional behavior
-related:
-- chapter_5/verse_22
+- success
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/12
 chapter: 4
 verse_number: 12

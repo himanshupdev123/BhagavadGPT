@@ -6,7 +6,7 @@ description: O best of the Brahmanas, for your information, please hear about th
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/7
 chapter: 1
 verse_number: 7

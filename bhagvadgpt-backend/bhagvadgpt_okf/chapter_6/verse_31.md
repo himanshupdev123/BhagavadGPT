@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 6, Verse 31
 description: One who worships Me as present in all beings and remains established
   in unity lives in Me at all tim...
-tags:
-- balance
-- balanced living
-- compassion
-- detachment
-- dream
-- empathy
-- interconnectedness
-- karma
-- love for work
-- passion
-- priorities
-- time management
-- unity
-related:
-- chapter_13/verse_3
-- chapter_6/verse_29
-- chapter_6/verse_30
-- chapter_14/verse_4
-- chapter_4/verse_24
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/31
 chapter: 6
 verse_number: 31

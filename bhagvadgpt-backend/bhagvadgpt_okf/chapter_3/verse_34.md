@@ -4,26 +4,11 @@ title: Chapter 3, Verse 34
 description: Attachment and aversion exist in relation to the objects of each sense.
   One should not come under th...
 tags:
-- attachment
-- attachment and aversion
-- better person
-- clinging
-- comfort vs growth
-- consistency
-- detachment
-- development
-- discipline of the mind
-- emotional impulses
-- emotional regulation
-- growth
-- impulsive decision making
-- karma
-- mind control
-- routine
-- self-control
+- confusion
+- mood swings
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/34
 chapter: 3
 verse_number: 34

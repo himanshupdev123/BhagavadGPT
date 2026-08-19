@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 6, Verse 44
 description: By the force of previous practice, such a person is naturally drawn forward,
   even against their own ...
-tags:
-- atma
-- consciousness
-- curiosity
-- desire
-- drive
-- habit formation
-- inner drive
-- inspire
-- learning
-- mind control
-- motivate
-- self
-- self development
-related:
-- chapter_4/verse_34
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/44
 chapter: 6
 verse_number: 44

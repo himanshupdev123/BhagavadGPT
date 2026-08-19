@@ -4,24 +4,11 @@ title: Chapter 6, Verse 29
 description: A person established in yoga sees the self present in all beings and
   all beings present in the self....
 tags:
-- compassion
-- detachment
-- dream
-- empathy
-- equal vision
-- karma
-- love for work
-- mind control
-- passion
-- shared humanity
-- unity
-related:
-- chapter_6/verse_31
-- chapter_6/verse_32
-- chapter_13/verse_3
-- chapter_6/verse_30
+- god in everyone
+- god everywhere
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/29
 chapter: 6
 verse_number: 29

@@ -14,11 +14,9 @@ tags:
 - resilience
 - servant leadership
 - stress management
-related:
-- chapter_2/verse_24
-- chapter_6/verse_22
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/56
 chapter: 18
 verse_number: 56

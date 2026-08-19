@@ -18,11 +18,9 @@ tags:
 - motivate
 - seeking fulfillment
 - separation
-related:
-- chapter_15/verse_1
-- chapter_2/verse_42
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/9/verse/23
 chapter: 9
 verse_number: 23

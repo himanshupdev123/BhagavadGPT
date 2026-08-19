@@ -4,23 +4,32 @@ title: Chapter 3, Verse 30
 description: Surrendering all your actions unto Me, with your mind focused on the
   highest self, free from desire ...
 tags:
-- anxiety management
-- burnout prevention
-- desire
+- duty
+- frustration
+- hopelessness
+- worry
+- feeling stuck
+- procrastination
+- lack of motivation
+- laziness
+- decision making
+- failure
+- overthinking
+- attachment
 - detachment
-- drive
-- flow state
-- inspire
+- rejection
+- making wrong decisions
+- perfectionism
+- exam stress
+- student life
+- motivation
+- patience
 - karma
-- mind control
-- motivate
-- peak performance
-- purpose-driven work
-related:
-- chapter_9/verse_22
-- chapter_9/verse_9
+- duty
+- righteous action
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/30
 chapter: 3
 verse_number: 30

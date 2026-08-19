@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 4, Verse 7
 description: Whenever and wherever there is a decline in righteousness (dharma), O
   descendant of Bharata, and a p...
-tags:
-- detachment
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/7
 chapter: 4
 verse_number: 7

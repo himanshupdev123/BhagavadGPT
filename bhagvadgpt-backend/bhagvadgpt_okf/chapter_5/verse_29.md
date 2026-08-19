@@ -4,24 +4,12 @@ title: Chapter 5, Verse 29
 description: One who understands Me as the ultimate enjoyer of all sacrifices and
   austerities, the supreme contro...
 tags:
-- calm
-- fear
-- inner peace
-- karma
-- letting go
-- letting go of control
-- mind control
-- non-attachment
-- peace
-- perspective
 - purpose
-- surrender
-- trust
-related:
-- chapter_18/verse_62
-- chapter_18/verse_64
+- pooja
+- work
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/29
 chapter: 5
 verse_number: 29

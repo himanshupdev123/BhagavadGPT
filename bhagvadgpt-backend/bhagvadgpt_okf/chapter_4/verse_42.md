@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 4, Verse 42
 description: Therefore, cut off this doubt in your heart, which has arisen from ignorance,
   with the sword of know...
-tags:
-- action
-- clarity
-- decision making
-- dharma
-- duty
-- fear
-- karma
-- mental strength
-- mind control
-- overcoming doubt
-- taking action
-related:
-- chapter_18/verse_73
-- chapter_4/verse_40
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/42
 chapter: 4
 verse_number: 42

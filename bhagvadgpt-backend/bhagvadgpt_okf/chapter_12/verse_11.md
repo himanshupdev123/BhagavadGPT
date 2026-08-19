@@ -19,10 +19,9 @@ tags:
 - reducing performance anxiety
 - self
 - self control in decision making
-related:
-- chapter_9/verse_27
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/12/verse/11
 chapter: 12
 verse_number: 11

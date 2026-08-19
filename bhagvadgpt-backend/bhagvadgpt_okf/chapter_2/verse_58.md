@@ -4,31 +4,14 @@ title: Chapter 2, Verse 58
 description: When a person withdraws their senses from sense objects just as a tortoise
   withdraws its limbs into ...
 tags:
-- atma
-- attention control
-- avoiding distractions
-- clear thinking
-- concentration
-- consciousness
-- delaying
-- discipline
-- emotional regulation
-- focus
-- karma
-- managing impulses
-- mind control
-- postponing
-- procrastinating
-- self
-- self control
-related:
-- chapter_2/verse_60
-- chapter_4/verse_39
-- chapter_2/verse_67
-- chapter_2/verse_68
-- chapter_4/verse_26
+- peace of mind
+- calmness
+- happiness
+- senses
+- spirituality
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/58
 chapter: 2
 verse_number: 58

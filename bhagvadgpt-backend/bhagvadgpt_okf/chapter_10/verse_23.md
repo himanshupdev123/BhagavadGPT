@@ -13,11 +13,9 @@ tags:
 - seeing greatness in nature
 - separation
 - unity behind diversity
-related:
-- chapter_10/verse_21
-- chapter_10/verse_26
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/23
 chapter: 10
 verse_number: 23

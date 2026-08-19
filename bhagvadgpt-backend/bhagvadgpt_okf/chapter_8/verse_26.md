@@ -22,7 +22,7 @@ tags:
 - the illusion of compromise
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/8/verse/26
 chapter: 8
 verse_number: 26

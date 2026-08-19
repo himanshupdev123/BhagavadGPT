@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 4, Verse 31
 description: Those who partake of the sacred remnants of sacrifice attain the eternal
   Brahman. But for one who pe...
-tags:
-- action
-- contribution
-- desire
-- dharma
-- duty
-- karma
-- purpose
-- responsibility
-- selfless action
-- societal duty
-related:
-- chapter_2/verse_31
-- chapter_3/verse_9
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/31
 chapter: 4
 verse_number: 31

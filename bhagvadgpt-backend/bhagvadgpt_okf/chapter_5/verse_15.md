@@ -3,20 +3,10 @@ type: shloka
 title: Chapter 5, Verse 15
 description: The omnipresent Lord does not accept the sins or the pious deeds of anyone.
   However, true knowledge ...
-tags:
-- accountability
-- atma
-- cognitive distortions
-- consciousness
-- detachment
-- internal wisdom
-- karma
-- moral bookkeeping
-- self
-- self-deception
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/15
 chapter: 5
 verse_number: 15

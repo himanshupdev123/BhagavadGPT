@@ -3,31 +3,10 @@ type: shloka
 title: Chapter 2, Verse 40
 description: In this path, no effort is ever lost, and there is no negative result.
   Even a small step in this pra...
-tags:
-- action
-- better person
-- consistency
-- development
-- dharma
-- duty
-- fear
-- fear of failure
-- growth
-- karma
-- mind control
-- overcoming fear
-- personal growth
-- responsibility
-- routine
-- self-control
-- small progress
-- taking the first step
-related:
-- chapter_2/verse_3
-- chapter_2/verse_37
-- chapter_6/verse_40
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/40
 chapter: 2
 verse_number: 40

@@ -3,20 +3,10 @@ type: shloka
 title: Chapter 3, Verse 14
 description: All living beings subsist on food grains, which are produced from rains.
   Rains are produced by the p...
-tags:
-- cause and effect
-- ecological awareness
-- interconnectedness
-- karma
-- purpose
-- systems thinking
-- universal responsibility
-related:
-- chapter_13/verse_14
-- chapter_3/verse_11
-- chapter_4/verse_24
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/14
 chapter: 3
 verse_number: 14

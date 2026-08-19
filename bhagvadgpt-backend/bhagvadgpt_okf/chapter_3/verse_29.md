@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 3, Verse 29
 description: Those confused by the modes of nature become attached to material activities
   and their results. The ...
-tags:
-- better person
-- detachment
-- development
-- emotional maturity
-- empathy
-- growth
-- leadership
-- mentorship
-- mind control
-- personal growth
-- psychological safety
-related:
-- chapter_18/verse_68
-- chapter_18/verse_69
-- chapter_3/verse_26
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/29
 chapter: 3
 verse_number: 29

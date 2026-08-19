@@ -3,33 +3,10 @@ type: shloka
 title: Chapter 2, Verse 65
 description: When a person attains inner tranquility, all their sorrows are destroyed.
   For one whose mind is calm...
-tags:
-- anxious
-- calm
-- calm mind
-- control mind
-- decision making
-- detachment
-- emotional stability
-- fear
-- inner peace
-- karma
-- mental clarity
-- mind control
-- nervous
-- overthinking
-- peace
-- restless mind
-- stress management
-- worried
-related:
-- chapter_2/verse_41
-- chapter_2/verse_53
-- chapter_2/verse_66
-- chapter_14/verse_2
-- chapter_15/verse_3
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/65
 chapter: 2
 verse_number: 65

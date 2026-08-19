@@ -6,7 +6,7 @@ description: O King, Drupada, the sons of Draupadi, and the mighty-armed son of 
 tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/18
 chapter: 1
 verse_number: 18

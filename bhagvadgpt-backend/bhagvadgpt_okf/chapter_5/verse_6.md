@@ -4,30 +4,12 @@ title: Chapter 5, Verse 6
 description: But mere renunciation of activities, O mighty-armed one, is difficult
   to achieve and brings misery w...
 tags:
-- action
-- action over avoidance
-- calm
-- desire
-- detachment
-- dharma
-- duty
-- escapism
-- fear
-- illusion
-- karma
-- lose hope
-- material world
-- mental discipline
-- mind control
-- peace
-- premature quitting
-- quit
-- surrender to failure
-- temporary
-- the illusion of peace
+- devotion
+- renunciation
+- happiness
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/6
 chapter: 5
 verse_number: 6

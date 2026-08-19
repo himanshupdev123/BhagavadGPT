@@ -4,27 +4,12 @@ title: Chapter 6, Verse 16
 description: Yoga is not possible for one who eats too much or eats too little, for
   one who sleeps excessively or...
 tags:
-- atma
-- balance
-- consciousness
-- consistency
-- healthy habits
-- karma
-- lifestyle management
-- mental stability
 - mind control
-- priorities
-- routine
-- self
-- self discipline
-- self-control
-- time management
-related:
-- chapter_2/verse_61
-- chapter_4/verse_30
-- chapter_6/verse_17
+- eating
+- sleeping
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/16
 chapter: 6
 verse_number: 16

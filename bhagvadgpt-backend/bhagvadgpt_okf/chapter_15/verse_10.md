@@ -15,12 +15,9 @@ tags:
 - self-awareness
 - subconscious programming
 - the observer effect
-related:
-- chapter_13/verse_1
-- chapter_3/verse_28
-- chapter_9/verse_8
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/15/verse/10
 chapter: 15
 verse_number: 10

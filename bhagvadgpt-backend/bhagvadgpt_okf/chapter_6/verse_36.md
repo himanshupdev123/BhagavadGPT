@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 6, Verse 36
 description: For one whose mind is uncontrolled, yoga is difficult to attain. But
   for one who has disciplined the...
-tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- detachment
-- fear
-- focus
-- karma
-- mental training
-- mind control
-- persistence
-- self
-- self discipline
-related:
-- chapter_4/verse_27
-- chapter_6/verse_6
-- chapter_4/verse_26
-- chapter_6/verse_14
-- chapter_6/verse_18
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/36
 chapter: 6
 verse_number: 36

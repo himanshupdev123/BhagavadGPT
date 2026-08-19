@@ -1,0 +1,150 @@
+# PRIORITY TAGS FOR BHAGVADGPT
+# Format: Fill in shloka numbers (e.g., 2.47, 3.35) for each tag in order of priority
+# Verses listed first = highest priority for that tag
+# Leave blank if no verse clearly applies
+
+# Total tags: 143
+
+addiction:
+ambition vs surrender:
+anger:
+anxiety:
+attachment:
+authenticity:
+awakening:
+balance:
+belonging:
+bravery:
+burnout:
+calmness:
+clarity:
+community:
+confidence:
+confusion:
+connection:
+consistency:
+control:
+courage:
+decision making:
+depression:
+detachment:
+devotion:
+dharma:
+direction:
+discipline:
+distraction:
+duty:
+emotional acceptance:
+emotional awareness:
+emotional balance:
+emotional connection:
+emotional control:
+emotional expression:
+emotional healing:
+emotional hurt:
+emotional intelligence:
+emotional intimacy:
+emotional regulation:
+emotional support:
+emotional validation:
+emotional well-being:
+empathy:
+enlightenment:
+existential crisis:
+exploitation:
+faith:
+family:
+fear of failure:
+focus:
+forgiveness:
+freedom:
+friendship:
+giving:
+gratitude:
+grief:
+growth:
+happiness:
+harmony:
+heart vs mind:
+heartfelt love:
+helplessness:
+honesty:
+humility:
+identity:
+inner peace:
+intuition and guidance:
+isolation:
+judgment:
+karma:
+krishna's presence:
+laziness and motivation:
+learning difficulties:
+letting go:
+liberation:
+life purpose:
+loneliness:
+love:
+lust:
+lust control:
+marriage and freedom:
+maya and illusion:
+meaning:
+meditation:
+mental health:
+mental peace:
+mind control:
+mindfulness:
+misery and sickness:
+mistakes:
+morality:
+motivation:
+overwhelmed:
+parenting:
+patience:
+peace:
+perseverance:
+politeness:
+procrastination:
+productivity:
+purpose:
+relationship issues:
+release:
+resilience:
+responsibility:
+sadness:
+satisfaction:
+self-acceptance:
+self-awareness:
+self-compassion:
+self-confidence:
+self-control:
+self-discipline:
+self-discovery:
+self-doubt:
+self-esteem:
+self-forgiveness:
+self-improvement:
+self-love:
+self-regulation:
+self-worth:
+service:
+shraddha and detachment:
+sleep deprivation:
+spiritual connection:
+spiritual evolution:
+spiritual growth:
+spiritual guidance:
+stress:
+study habits:
+success:
+surrender:
+time management:
+transformation:
+trauma:
+true love:
+trust:
+unwanted thoughts:
+values and priorities:
+wellness:
+willpower:
+work-life balance:

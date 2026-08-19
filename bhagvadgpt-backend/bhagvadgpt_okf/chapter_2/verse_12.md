@@ -4,31 +4,10 @@ title: Chapter 2, Verse 12
 description: Never was there a time when I did not exist, nor you, nor all these kings;
   nor in the future shall a...
 tags:
-- afraid
-- angry
-- anxiety
-- courage
-- defeat
-- detachment
-- existential dread
-- failed
-- fear
-- fear of loss
-- fearful
-- fury
-- identity crisis
-- impermanence
-- loss
-- rage
-- scared
-related:
-- chapter_2/verse_16
-- chapter_2/verse_20
-- chapter_15/verse_16
-- chapter_2/verse_18
-- chapter_2/verse_24
+- soul
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/12
 chapter: 2
 verse_number: 12

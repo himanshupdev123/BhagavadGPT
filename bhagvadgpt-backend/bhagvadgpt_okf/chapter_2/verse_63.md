@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 2, Verse 63
 description: From anger arises confusion. From confusion comes loss of memory. From
   loss of memory the intellect ...
-tags:
-- anger management
-- atma
-- cognitive breakdown under stress
-- consciousness
-- defeat
-- desire
-- detachment
-- emotional escalation
-- emotional regulation
-- failed
-- impulsive decisions
-- karma
-- loss
-- loss of rational thinking
-- mind control
-- self
-- self awareness
-related:
-- chapter_4/verse_10
-- chapter_5/verse_23
-- chapter_5/verse_26
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/63
 chapter: 2
 verse_number: 63

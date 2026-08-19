@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 2, Verse 6
 description: Nor do we know which is better for us—whether we should conquer them
   or they should conquer us. The ...
-tags:
-- anxious
-- confused
-- decision paralysis
-- detachment
-- fear
-- fear of consequences
-- inner conflict
-- karma
-- mind control
-- moral confusion
-- nervous
-- overthinking
-- uncertain
-- uncertainty
-- unclear
-- worried
-related:
-- chapter_2/verse_1
-- chapter_2/verse_52
-- chapter_4/verse_16
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/6
 chapter: 2
 verse_number: 6

@@ -4,27 +4,12 @@ title: Chapter 6, Verse 27
 description: Supreme happiness comes to the yogi whose mind is peaceful, whose passions
   are quieted, and who has ...
 tags:
-- balance
-- calm
-- detachment
-- emotional balance
-- fear
-- inner peace
-- karma
-- lasting happiness
-- meditation
-- mental calm
-- mind control
+- hapiness
 - peace
-- priorities
-- time management
-related:
-- chapter_6/verse_20
-- chapter_6/verse_28
-- chapter_6/verse_15
-- chapter_6/verse_19
+- liberation
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/27
 chapter: 6
 verse_number: 27

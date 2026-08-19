@@ -4,26 +4,13 @@ title: Chapter 2, Verse 22
 description: As a person sheds worn-out garments and puts on new ones, likewise, at
   the time of death, the embodi...
 tags:
-- acceptance
-- detachment
-- existential anxiety
-- fear
-- fear of aging
-- heartbreak
-- identity
-- letting go
-- lost love
-- mortality
-- non-attachment
-- separation
-- surrender
-related:
-- chapter_2/verse_13
-- chapter_13/verse_2
-- chapter_14/verse_20
-- chapter_3/verse_28
+- soul
+- who am i
+- body
+- death
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/22
 chapter: 2
 verse_number: 22

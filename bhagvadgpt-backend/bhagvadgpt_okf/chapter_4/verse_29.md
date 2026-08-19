@@ -4,24 +4,11 @@ title: Chapter 4, Verse 29
 description: Some offer the outgoing breath into the incoming breath, and others offer
   the incoming breath into t...
 tags:
-- breath control
-- clear thinking
-- concentration
-- emotional regulation
-- fear
-- focus
-- karma
-- mind control
-- mindfulness
-- stress management
-related:
-- chapter_5/verse_27
-- chapter_13/verse_2
-- chapter_13/verse_7
-- chapter_14/verse_11
-- chapter_14/verse_19
+- self-control
+- breath
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/29
 chapter: 4
 verse_number: 29

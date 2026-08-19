@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 4, Verse 8
 description: To protect the righteous, to annihilate the wicked, and to firmly reestablish
   the principles of dhar...
-tags:
-- detachment
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/8
 chapter: 4
 verse_number: 8

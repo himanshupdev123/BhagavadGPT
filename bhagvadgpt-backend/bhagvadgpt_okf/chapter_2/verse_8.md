@@ -3,28 +3,10 @@ type: shloka
 title: Chapter 2, Verse 8
 description: I do not see anything that could remove this grief which is drying up
   my senses, even if I were to g...
-tags:
-- defeat
-- depressed
-- detachment
-- emotional exhaustion
-- emptiness despite success
-- failed
-- grief
-- heartbreak
-- inner conflict
-- karma
-- loss
-- loss of motivation
-- lost love
-- mental overwhelm
-- mind control
-- sad
-- separation
-related:
-- chapter_2/verse_1
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/8
 chapter: 2
 verse_number: 8

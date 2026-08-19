@@ -14,7 +14,7 @@ tags:
 - the cost of grudges
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/16/verse/3
 chapter: 16
 verse_number: 3

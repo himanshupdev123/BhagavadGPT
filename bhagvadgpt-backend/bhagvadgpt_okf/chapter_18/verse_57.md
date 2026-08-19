@@ -18,10 +18,9 @@ tags:
 - mind control
 - mindfulness
 - pride
-related:
-- chapter_2/verse_66
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/57
 chapter: 18
 verse_number: 57

@@ -3,12 +3,10 @@ type: shloka
 title: Chapter 1, Verse 47
 description: 'Sanjaya said: After speaking these words on the battlefield, Arjuna
   sat down on the chariot, casting...'
-tags:
-- detachment
-- mind control
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/47
 chapter: 1
 verse_number: 47

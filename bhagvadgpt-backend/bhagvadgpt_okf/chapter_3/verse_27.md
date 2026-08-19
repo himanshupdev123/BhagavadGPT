@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 3, Verse 27
 description: All activities are carried out by the three modes of material nature.
   But the individual, confused b...
-tags:
-- anxiety
-- atma
-- consciousness
-- control issues
-- detachment
-- ego
-- karma
-- mind control
-- pride
-- self
-- self-observation
-- stress management
-related:
-- chapter_18/verse_61
-- chapter_4/verse_10
-- chapter_4/verse_19
-- chapter_4/verse_20
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/27
 chapter: 3
 verse_number: 27

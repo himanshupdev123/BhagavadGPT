@@ -4,21 +4,12 @@ title: Chapter 5, Verse 23
 description: One who is able to withstand the forceful urges born of desire and anger
   right here in this world, b...
 tags:
-- anger management
-- desire
-- detachment
-- emotional regulation
-- impulse control
-- reactivity
-- urge surfing
-related:
-- chapter_16/verse_1
-- chapter_2/verse_60
-- chapter_2/verse_63
-- chapter_2/verse_64
-- chapter_4/verse_10
+- senses
+- self control
+- happiness
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/23
 chapter: 5
 verse_number: 23

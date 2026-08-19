@@ -3,30 +3,10 @@ type: shloka
 title: Chapter 2, Verse 55
 description: 'The Blessed Lord said: O Partha, when a person gives up all desires
   that arise in the mind and becom...'
-tags:
-- atma
-- calm
-- calm mind
-- consciousness
-- control mind
-- desire
-- detachment
-- emotional stability
-- freedom from constant desire
-- inner contentment
-- inner fulfillment
-- karma
-- mental peace
-- mind control
-- peace
-- reduced material dependence
-- restless mind
-- self
-- self sufficiency
-- want
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/55
 chapter: 2
 verse_number: 55

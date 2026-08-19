@@ -4,27 +4,13 @@ title: Chapter 6, Verse 6
 description: For one who has conquered the mind, the mind is the best friend. But
   for one who has failed to contr...
 tags:
-- atma
-- clear thinking
-- concentration
-- consciousness
-- desire
-- emotional stability
-- fear
-- focus
-- karma
-- mental strength
-- mind control
-- self
-- self discipline
-related:
-- chapter_4/verse_27
-- chapter_6/verse_36
-- chapter_2/verse_66
-- chapter_4/verse_26
-- chapter_6/verse_14
+- self control
+- friend
+- enemy
+- mind
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/6
 chapter: 6
 verse_number: 6

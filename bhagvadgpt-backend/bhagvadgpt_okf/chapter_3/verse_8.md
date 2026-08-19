@@ -4,24 +4,12 @@ title: Chapter 3, Verse 8
 description: Perform your prescribed duty, for action is better than inaction. Even
   the maintenance of your physi...
 tags:
-- action
-- burnout
-- detachment
-- dharma
-- duty
-- escapism
 - karma
-- pragmatism
-- purposeful action
-- responsibility
-related:
-- chapter_2/verse_33
-- chapter_4/verse_15
-- chapter_2/verse_31
-- chapter_3/verse_1
-- chapter_3/verse_25
+- duty
+- detachment from results
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/8
 chapter: 3
 verse_number: 8

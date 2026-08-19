@@ -17,11 +17,9 @@ tags:
 - purpose
 - separation
 - total immersion
-related:
-- chapter_3/verse_9
-- chapter_4/verse_18
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/18/verse/55
 chapter: 18
 verse_number: 55

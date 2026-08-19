@@ -20,11 +20,9 @@ tags:
 - purpose centered living
 - search for deeper meaning
 - seeing the bigger picture
-related:
-- chapter_10/verse_3
-- chapter_10/verse_7
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/8
 chapter: 10
 verse_number: 8

@@ -4,37 +4,12 @@ title: Chapter 2, Verse 50
 description: A person who is united with wisdom frees themselves from both good and
   bad results in this life. The...
 tags:
-- action
-- anxious
-- balance
-- clarity under pressure
-- clear thinking
-- concentration
-- detachment
-- detachment from outcomes
-- dharma
-- duty
-- emotional balance
-- fear
-- focus
-- focus on process
-- karma
-- mind control
-- nervous
-- overthinking
-- performance mindset
-- priorities
-- skillful action
-- time management
-- worried
-related:
-- chapter_2/verse_38
-- chapter_2/verse_39
-- chapter_2/verse_45
-- chapter_2/verse_47
-- chapter_2/verse_48
+- devotion
+- yoga
+- bhakti
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/50
 chapter: 2
 verse_number: 50

@@ -17,14 +17,9 @@ tags:
 - psychological resilience
 - routine
 - self-control
-related:
-- chapter_13/verse_2
-- chapter_2/verse_64
-- chapter_3/verse_28
-- chapter_13/verse_15
-- chapter_14/verse_11
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/7
 chapter: 13
 verse_number: 7

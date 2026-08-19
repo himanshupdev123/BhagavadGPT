@@ -23,11 +23,9 @@ tags:
 - self-control
 - superficial living
 - toxic habits
-related:
-- chapter_14/verse_12
-- chapter_14/verse_7
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/9/verse/12
 chapter: 9
 verse_number: 12

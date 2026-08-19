@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 3, Verse 37
 description: 'The Blessed Lord said: It is desire, it is anger, born of the quality
   of passion. It is all-devourin...'
-tags:
-- addiction to success or pleasure
-- anger from frustration
-- angry
-- atma
-- consciousness
-- desire
-- detachment
-- emotional reactivity
-- fury
-- impulse control
-- inner psychological enemies
-- karma
-- mind control
-- rage
-- self
-- self-mastery
-- uncontrolled desire
-- want
-related:
-- chapter_3/verse_39
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/3/verse/37
 chapter: 3
 verse_number: 37

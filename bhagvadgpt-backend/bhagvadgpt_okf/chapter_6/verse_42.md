@@ -3,21 +3,10 @@ type: shloka
 title: Chapter 6, Verse 42
 description: Or such a person may be born into a family of wise yogis. Such a birth
   is extremely rare and valuabl...
-tags:
-- better person
-- development
-- growth
-- learning
-- long term development
-- opportunity
-- personal growth
-- supportive environment
-related:
-- chapter_6/verse_43
-- chapter_4/verse_28
-- chapter_4/verse_38
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/42
 chapter: 6
 verse_number: 42

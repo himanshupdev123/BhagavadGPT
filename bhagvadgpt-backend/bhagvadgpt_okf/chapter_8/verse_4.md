@@ -16,10 +16,9 @@ tags:
 - the hierarchy of reality
 - the illusion of isolation
 - the internal witness
-related:
-- chapter_13/verse_14
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/8/verse/4
 chapter: 8
 verse_number: 4

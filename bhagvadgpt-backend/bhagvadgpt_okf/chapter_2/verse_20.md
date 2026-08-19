@@ -4,28 +4,13 @@ title: Chapter 2, Verse 20
 description: For the soul there is neither birth nor death at any time. It has not
   come into being, does not come...
 tags:
-- afraid
-- angry
-- anxiety
-- courage
-- detachment
-- existential dread
-- fear
-- fear of death
-- fearful
-- fury
-- identity
-- rage
-- resilience
-- scared
-related:
-- chapter_2/verse_12
-- chapter_2/verse_17
-- chapter_13/verse_13
-- chapter_14/verse_20
-- chapter_2/verse_13
+- soul
+- who am i
+- body
+- death
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/20
 chapter: 2
 verse_number: 20

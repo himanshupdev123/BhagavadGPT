@@ -3,26 +3,10 @@ type: shloka
 title: Chapter 6, Verse 18
 description: When the disciplined mind becomes steadily established in the self alone,
   free from craving for all ...
-tags:
-- clear thinking
-- concentration
-- desire
-- detachment
-- fear
-- focus
-- freedom from desires
-- inner stability
-- karma
-- mind control
-- want
-related:
-- chapter_2/verse_53
-- chapter_4/verse_19
-- chapter_4/verse_20
-- chapter_4/verse_27
-- chapter_6/verse_10
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/18
 chapter: 6
 verse_number: 18

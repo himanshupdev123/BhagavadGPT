@@ -15,10 +15,9 @@ tags:
 - recognizing patterns in reality
 - seeing the bigger picture
 - separation
-related:
-- chapter_10/verse_42
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/40
 chapter: 10
 verse_number: 40

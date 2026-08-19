@@ -4,21 +4,12 @@ title: Chapter 5, Verse 13
 description: The embodied being who has controlled their nature, having mentally renounced
   all actions, resides h...
 tags:
-- detachment
-- heartbreak
-- internal boundaries
-- karma
-- lost love
-- mind control
-- mind-body separation
-- observer mindset
-- over-identification
-- sensory overload
-- separation
-related:
-- chapter_5/verse_9
+- mentally
+- renounces
+- happiness
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/13
 chapter: 5
 verse_number: 13

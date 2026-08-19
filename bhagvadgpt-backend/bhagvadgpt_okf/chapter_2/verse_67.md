@@ -4,28 +4,11 @@ title: Chapter 2, Verse 67
 description: When the mind follows the wandering senses, it carries away a person's
   wisdom, just as the wind swee...
 tags:
-- action
-- attention control
-- clear thinking
-- concentration
-- dharma
-- digital distractions
 - distraction
-- duty
-- focus
-- impulse control
-- karma
-- mental discipline
-- mind control
-- mind wandering
-related:
-- chapter_2/verse_68
-- chapter_6/verse_13
-- chapter_6/verse_26
-- chapter_2/verse_41
-- chapter_2/verse_58
+- mind
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/67
 chapter: 2
 verse_number: 67

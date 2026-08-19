@@ -4,33 +4,32 @@ title: Chapter 2, Verse 47
 description: You have the right to perform your actions, but never to the results
   of those actions. Do not consid...
 tags:
-- anxiety about results
-- anxious
-- avoiding procrastination
-- dedication
-- delaying
-- detachment from outcomes
-- effort
-- fear
-- fear of failure
-- focus on effort
-- karma
-- mind control
-- nervous
+- duty
+- frustration
+- hopelessness
+- worry
+- feeling stuck
+- procrastination
+- lack of motivation
+- laziness
+- decision making
+- failure
 - overthinking
-- perseverance
-- postponing
-- procrastinating
-- responsibility
-- worried
-related:
-- chapter_2/verse_38
-- chapter_2/verse_37
-- chapter_2/verse_39
-- chapter_2/verse_48
-- chapter_2/verse_50
+- attachment
+- detachment
+- rejection
+- making wrong decisions
+- perfectionism
+- exam stress
+- student life
+- motivation
+- patience
+- karma
+- duty
+- righteous action
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/47
 chapter: 2
 verse_number: 47

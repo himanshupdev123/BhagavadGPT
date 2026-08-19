@@ -21,11 +21,9 @@ tags:
 - self control
 - temporary
 - time management
-related:
-- chapter_6/verse_4
-- chapter_6/verse_7
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/10/verse/4
 chapter: 10
 verse_number: 4

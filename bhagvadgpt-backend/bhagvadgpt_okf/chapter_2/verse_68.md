@@ -3,29 +3,10 @@ type: shloka
 title: Chapter 2, Verse 68
 description: Therefore, O mighty-armed Arjuna, one whose senses are completely restrained
   from their objects has ...
-tags:
-- atma
-- attention regulation
-- clarity of judgment
-- clear thinking
-- concentration
-- consciousness
-- emotional self regulation
-- focus
-- impulse control
-- karma
-- mental discipline
-- mind control
-- self
-- self control
-related:
-- chapter_2/verse_67
-- chapter_2/verse_53
-- chapter_2/verse_58
-- chapter_2/verse_60
-- chapter_4/verse_39
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/68
 chapter: 2
 verse_number: 68

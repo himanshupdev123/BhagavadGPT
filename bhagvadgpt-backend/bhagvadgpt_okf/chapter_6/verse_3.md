@@ -3,33 +3,10 @@ type: shloka
 title: Chapter 6, Verse 3
 description: For a person who seeks to rise toward yoga, action is said to be the
   means. But for one who has alre...
-tags:
-- atma
-- balance
-- better person
-- clear thinking
-- concentration
-- consciousness
-- development
-- discipline
-- focus
-- growth
-- karma
-- mental balance
-- mind control
-- personal growth
-- priorities
-- self
-- self development
-- time management
-related:
-- chapter_2/verse_58
-- chapter_4/verse_25
-- chapter_4/verse_28
-- chapter_4/verse_39
-- chapter_6/verse_11
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/3
 chapter: 6
 verse_number: 3

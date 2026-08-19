@@ -4,37 +4,14 @@ title: Chapter 2, Verse 49
 description: Action driven by selfish desire for results is far inferior to action
   performed with the guidance of...
 tags:
-- anxious
-- clear thinking
-- concentration
-- desire
-- detachment
-- detachment from outcomes
-- drive
-- focus
-- focus on responsibility
-- freedom from external validation
-- heartbreak
-- inspire
-- intrinsic motivation
-- karma
-- lost love
-- mental stability
-- mind control
-- motivate
-- nervous
-- overthinking results
-- purpose driven work
-- separation
-- worried
-related:
-- chapter_12/verse_6
-- chapter_2/verse_38
-- chapter_2/verse_39
-- chapter_2/verse_48
-- chapter_2/verse_51
+- failure
+- attachment
+- sucess
+- work
+- devotion
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/49
 chapter: 2
 verse_number: 49

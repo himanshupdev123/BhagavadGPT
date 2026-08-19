@@ -3,35 +3,10 @@ type: shloka
 title: Chapter 2, Verse 41
 description: Those who are on this path possess a resolute and focused intellect,
   O descendant of the Kurus. But ...
-tags:
-- action
-- anxious
-- clear thinking
-- concentration
-- decision making
-- desire
-- detachment
-- determination
-- dharma
-- distraction
-- duty
-- fear
-- focus
-- karma
-- mental clarity
-- mind control
-- nervous
-- overthinking
-- purpose
-- worried
-related:
-- chapter_2/verse_53
-- chapter_2/verse_65
-- chapter_15/verse_3
-- chapter_18/verse_72
-- chapter_2/verse_39
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/41
 chapter: 2
 verse_number: 41

@@ -4,23 +4,13 @@ title: Chapter 5, Verse 12
 description: The steadfast person, having abandoned attachment to the fruits of action,
   attains lasting peace. Bu...
 tags:
-- anxiety
-- calm
-- chronic stress
-- desire
-- detachment
-- karma
-- letting go
-- letting go of control
-- mind control
-- non-attachment
-- outcome independence
 - peace
-- peace of mind
-- surrender
+- results
+- divine
+- greedy
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/12
 chapter: 5
 verse_number: 12

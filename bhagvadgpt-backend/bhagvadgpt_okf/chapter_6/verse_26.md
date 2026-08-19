@@ -4,28 +4,14 @@ title: Chapter 6, Verse 26
 description: Wherever the restless and unsteady mind wanders, one should bring it
   back and place it again under t...
 tags:
-- action
-- attention control
-- clear thinking
-- concentration
-- detachment
-- dharma
-- duty
-- fear
-- focus
-- karma
-- mental discipline
 - mind control
-- mind training
-- overcoming distraction
-related:
-- chapter_2/verse_67
-- chapter_6/verse_13
-- chapter_2/verse_58
-- chapter_2/verse_68
-- chapter_4/verse_26
+- wandering
+- distractions
+- self control
+- concentration
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/26
 chapter: 6
 verse_number: 26

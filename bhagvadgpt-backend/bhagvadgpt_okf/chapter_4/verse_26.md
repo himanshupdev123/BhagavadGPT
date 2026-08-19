@@ -4,26 +4,10 @@ title: Chapter 4, Verse 26
 description: Some offer the senses such as hearing into the fire of self-control,
   while others offer sound and ot...
 tags:
-- atma
-- attention control
-- clear thinking
-- concentration
-- consciousness
-- focus
-- karma
-- mind control
-- mindfulness
-- self
-- self discipline
-- sense control
-related:
-- chapter_5/verse_27
-- chapter_6/verse_12
-- chapter_2/verse_58
-- chapter_2/verse_61
-- chapter_2/verse_64
+- self-control
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/4/verse/26
 chapter: 4
 verse_number: 26

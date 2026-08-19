@@ -4,31 +4,14 @@ title: Chapter 2, Verse 48
 description: Be established in yoga, O Dhananjaya, and perform your actions while
   abandoning attachment. Remain b...
 tags:
-- balance
-- dedication
-- detachment
-- detachment from outcomes
-- effort
-- emotional balance
-- fear
-- focus on effort
-- karma
-- managing success and failure
-- mental stability
-- mind control
-- performance without anxiety
-- perseverance
-- priorities
-- resilience
-- time management
-related:
-- chapter_2/verse_38
-- chapter_2/verse_14
-- chapter_2/verse_45
-- chapter_2/verse_47
-- chapter_2/verse_49
+- yoga
+- failure
+- attachment
+- sucess
+- work
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/48
 chapter: 2
 verse_number: 48

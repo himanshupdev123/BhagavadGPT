@@ -4,18 +4,13 @@ title: Chapter 5, Verse 10
 description: One who performs their duties without attachment, surrendering the results
   to the Supreme, is never ...
 tags:
-- abusive
-- detachment
-- emotional resilience
-- harmful people
-- higher purpose
-- karma
-- stress immunity
-- toxic
-- toxic environments
+- duty
+- attachment
+- surrender
+- sin
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/5/verse/10
 chapter: 5
 verse_number: 10

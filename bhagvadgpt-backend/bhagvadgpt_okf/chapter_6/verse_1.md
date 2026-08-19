@@ -4,23 +4,10 @@ title: Chapter 6, Verse 1
 description: 'The Blessed Lord said: One who performs the duty that should be done
   without depending on the result...'
 tags:
-- balance
-- balanced living
-- desire
-- detachment
-- fear
-- inner discipline
-- karma
-- mind control
-- priorities
-- responsibility
-- time management
-- work ethic
-related:
-- chapter_4/verse_20
-- chapter_6/verse_2
+- detachment from results
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/1
 chapter: 6
 verse_number: 1

@@ -3,24 +3,10 @@ type: shloka
 title: Chapter 6, Verse 32
 description: One who sees the happiness and suffering of all beings as similar to
   one's own, O Arjuna, and views ...
-tags:
-- compassion
-- dream
-- emotional intelligence
-- empathy
-- fairness
-- karma
-- love for work
-- passion
-- shared humanity
-related:
-- chapter_6/verse_29
-- chapter_13/verse_3
-- chapter_5/verse_7
-- chapter_6/verse_31
-- chapter_6/verse_9
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/32
 chapter: 6
 verse_number: 32

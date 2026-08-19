@@ -3,23 +3,10 @@ type: shloka
 title: Chapter 6, Verse 17
 description: For one who is balanced in eating and recreation, balanced in performing
   actions, and balanced in sl...
-tags:
-- atma
-- balance
-- consciousness
-- healthy lifestyle
-- karma
-- mental well being
-- mind control
-- priorities
-- self
-- self discipline
-- stress management
-- time management
-related:
-- chapter_6/verse_16
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/6/verse/17
 chapter: 6
 verse_number: 17

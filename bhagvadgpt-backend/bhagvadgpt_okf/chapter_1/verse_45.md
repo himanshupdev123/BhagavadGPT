@@ -3,22 +3,10 @@ type: shloka
 title: Chapter 1, Verse 45
 description: Alas, how strange it is that we have resolved to commit such a great
   sin, driven by the desire for r...
-tags:
-- atma
-- consciousness
-- decision paralysis
-- desire
-- detachment
-- distorted thinking under stress
-- emotional reasoning
-- karma
-- mind control
-- moral guilt
-- self
-- self-blame
+tags: []
 related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/1/verse/45
 chapter: 1
 verse_number: 45

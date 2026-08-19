@@ -4,37 +4,12 @@ title: Chapter 2, Verse 71
 description: A person who abandons all selfish desires, moves through life free from
   craving, without possessiven...
 tags:
-- atma
-- attachment
-- calm
-- clinging
-- consciousness
+- self-control
 - desire
-- desire management
-- detachment
-- ego
-- ego management
-- emotional freedom
-- fear
-- inner peace
-- karma
-- letting go
-- letting go of attachment
-- mind control
-- minimalism mindset
-- non-attachment
 - peace
-- pride
-- self
-- self awareness
-- surrender
-- want
-related:
-- chapter_5/verse_26
-- chapter_2/verse_70
-- chapter_6/verse_20
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/71
 chapter: 2
 verse_number: 71

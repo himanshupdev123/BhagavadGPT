@@ -16,14 +16,9 @@ tags:
 - self
 - self-awareness
 - systems thinking
-related:
-- chapter_13/verse_2
-- chapter_13/verse_1
-- chapter_13/verse_21
-- chapter_13/verse_27
-- chapter_14/verse_19
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/13/verse/6
 chapter: 13
 verse_number: 6

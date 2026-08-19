@@ -3,27 +3,10 @@ type: shloka
 title: Chapter 2, Verse 57
 description: One who is not excessively attached to anything, and who neither rejoices
   when good fortune comes no...
-tags:
-- balance
-- calm decision making
-- detachment
-- detachment from circumstances
-- emotional balance
-- emotional regulation
-- managing highs and lows
-- mind control
-- priorities
-- resilience
-- stability under pressure
-- time management
-related:
-- chapter_16/verse_1
-- chapter_2/verse_14
-- chapter_2/verse_48
-- chapter_4/verse_22
-- chapter_5/verse_20
+tags: []
+related: []
 created: '2026-07-12'
-updated: '2026-07-13'
+updated: '2026-08-18'
 resource: bhagavad-gita://chapter/2/verse/57
 chapter: 2
 verse_number: 57
