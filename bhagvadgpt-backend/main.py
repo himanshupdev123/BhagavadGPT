@@ -106,35 +106,13 @@ GROQ_API_KEYS = [
     os.getenv("GROQ_API_KEY1"),
     os.getenv("GROQ_API_KEY2"), 
     os.getenv("GROQ_API_KEY3"),
-    os.getenv("GROQ_API_KEY4"),
-    os.getenv("GROQ_API_KEY5"), 
-    os.getenv("GROQ_API_KEY5"),
-    os.getenv("GROQ_API_KEY6"),
-    os.getenv("GROQ_API_KEY7"),
-    os.getenv("GROQ_API_KEY8"),
-    os.getenv("GROQ_API_KEY9"),
-    os.getenv("Ritam_Khandelwal_1"),
     os.getenv("Ritam_Khandelwal_2"),
     os.getenv("Ritam_Khandelwal_3"),
-    os.getenv("GROQ_API_KEY13"),
-    os.getenv("GROQ_API_KEY14"),
-    os.getenv("GROQ_API_KEY15"),
-    os.getenv("GROQ_API_KEY16"),
-    os.getenv("Jay_Maa_didi"),
-    os.getenv("Vishal_K_Gowda"),
-    os.getenv("Budde_Eshwar"),
-    os.getenv("Chethana_J_R_1"),
     os.getenv("Chethana_J_R_2"),
     os.getenv("Chethana_J_R_3"),
-    os.getenv("Nithish_Sivakumar"),
-    os.getenv("Swati_Bhagat"),
-    os.getenv("Om_Bhagat"),
-    os.getenv("Hari_Bhagat"),
-    os.getenv("Vedhashri_M1"),
     os.getenv("Vedhashri_M2"),
     os.getenv("Vedhashri_M3"),
     os.getenv("Vedhashri_M4"),
-    os.getenv("Krishna_Bhatt_1"),
     os.getenv("Krishna_Bhatt_2"),
     os.getenv("Krishna_Bhatt_3"),
     os.getenv("Krishna_Bhatt_4"),
@@ -142,11 +120,6 @@ GROQ_API_KEYS = [
     os.getenv("Krishna_Bhatt_6"),
     os.getenv("Krishna_Bhatt_7"),
     os.getenv("Krishna_Bhatt_8"),
-    os.getenv("Shalini_G"),
-    os.getenv("A_S_R_S_S_Snigdha_1"),
-    os.getenv("A_S_R_S_S_Snigdha_2"),
-    os.getenv("Kartik_Bhatnagar"),
-    os.getenv("Sushant_Bhat_P_1"),
     os.getenv("Sushant_Bhat_P_2"),
     os.getenv("Sushant_Bhat_P_3"),
     os.getenv("Sushant_Bhat_P_4"),
@@ -154,6 +127,33 @@ GROQ_API_KEYS = [
     os.getenv("Sushant_Bhat_P_6"),
     os.getenv("Sushant_Bhat_P_7"),
     os.getenv("Atharvi_Chevale"),
+    os.getenv("GROQ_API_KEY4"),
+    os.getenv("GROQ_API_KEY5"), 
+    os.getenv("GROQ_API_KEY5"),
+    os.getenv("GROQ_API_KEY6"),
+    os.getenv("GROQ_API_KEY7"),
+    os.getenv("GROQ_API_KEY8"),
+    os.getenv("GROQ_API_KEY9"),
+    os.getenv("GROQ_API_KEY13"),
+    os.getenv("GROQ_API_KEY14"),
+    os.getenv("GROQ_API_KEY15"),
+    os.getenv("GROQ_API_KEY16"),
+    os.getenv("Ritam_Khandelwal_1"),
+    os.getenv("Jay_Maa_didi"),
+    os.getenv("Vishal_K_Gowda"),
+    os.getenv("Budde_Eshwar"),
+    os.getenv("Chethana_J_R_1"),
+    os.getenv("Nithish_Sivakumar"),
+    os.getenv("Swati_Bhagat"),
+    os.getenv("Om_Bhagat"),
+    os.getenv("Hari_Bhagat"),
+    os.getenv("Vedhashri_M1"),
+    os.getenv("Krishna_Bhatt_1"),
+    os.getenv("Shalini_G"),
+    os.getenv("A_S_R_S_S_Snigdha_1"),
+    os.getenv("A_S_R_S_S_Snigdha_2"),
+    os.getenv("Kartik_Bhatnagar"),
+    os.getenv("Sushant_Bhat_P_1"),
     os.getenv("Shreya_Bagal"),
     
     
@@ -412,23 +412,22 @@ class BhagvadOKFGraph:
 
         for tag in self.priority_index:
             tag_words = set(tag.split())
-            # Full tag phrase match (e.g. "fear of failure" in query)
             if tag in query_lower:
                 matched.append(tag)
-            # All words in tag appear in query
             elif tag_words and tag_words.issubset(query_words):
                 matched.append(tag)
-            # Single-word tag directly in query words
             elif len(tag_words) == 1 and tag in query_words:
                 matched.append(tag)
 
         return matched
+
+    def search_by_priority_index(self, tags: list, top_k: int = 3) -> list:
         """
         Look up verses using the curated priority index.
         Returns ordered list of verse node dicts, deduplicated, highest priority first.
         """
         scored = {}  # verse_ref → score
-        
+
         for tag in tags:
             tag_lower = tag.lower()
             if tag_lower not in self.priority_index:
@@ -623,73 +622,59 @@ def get_most_common_tags(limit: int = 100) -> list:
 
 async def extract_semantic_tags(user_question: str, master_tag_list: list) -> list:
     """
-    Use LLM to extract semantic tags from user question.
-    Constrained to only select from the provided tag list.
+    Use LLM to extract the single most relevant semantic tag from user question.
+    Uses the production model with few-shot examples for precision.
     """
     tags_formatted = ', '.join(master_tag_list)
-    
-    extraction_prompt = f"""You are a tag extraction system for a Bhagavad Gita spiritual guidance app.
 
-USER QUESTION: "{user_question}"
+    extraction_prompt = f"""You are a tag classifier for a Bhagavad Gita guidance app.
 
-Pick the most relevant tag(s) from this list:
-{tags_formatted}
+Given a user question, pick the SINGLE most relevant tag from the list below.
+Output ONLY the tag name. Nothing else. No explanation. No brackets.
 
-Rules:
-- Short or simple statements (e.g. "I feel angry", "I am sad") → return EXACTLY 1 tag
-- Only return multiple tags if the question EXPLICITLY mentions distinct themes (e.g. "I feel angry at work and can't focus" → anger, focus)
-- Max 3 tags even for complex questions
-- Choose ONLY from the list above
-- Output ONLY the tags, comma-separated, nothing else
+Tags: {tags_formatted}
 
-Output:"""
+Examples:
+Question: how to be happy → happiness
+Question: I feel angry → anger
+Question: who am I → identity
+Question: how to focus on studies → focus
+Question: I feel so alone → loneliness
+Question: how to control lust → lust control
+Question: how to be good → morality
+Question: I am stressed about exams → stress
+Question: how to deal with failure → fear of failure
+Question: how to meditate → meditation
+
+Question: {user_question} →"""
 
     try:
-        import re as _re
         api_key = get_next_api_key()
-        # Use async Groq for tag extraction — non-blocking and faster
-        from groq import AsyncGroq
-        groq_client = AsyncGroq(api_key=api_key)
-        response = await groq_client.chat.completions.create(
-            model="qwen/qwen3.6-27b",
-            messages=[{"role": "user", "content": extraction_prompt}],
-            temperature=0.1,
-            max_tokens=250
-        )
-        raw_content = response.choices[0].message.content or ""
-        response_text = strip_think_tags(raw_content).strip()
-        # Fallback: extract from reasoning block if content is empty
-        if not response_text:
-            rc = getattr(response.choices[0].message, 'reasoning_content', '') or raw_content
-            m = _re.search(r'[Oo]utput[:\s]+([^\n<]+)', rc)
-            if m:
-                response_text = m.group(1).strip()
-            else:
-                # Last line of reasoning is usually the answer
-                lines = [l.strip() for l in rc.split('\n') if l.strip() and not l.strip().startswith('<')]
-                response_text = lines[-1] if lines else ""
-        
-        # Parse comma or newline separated tags
-        raw_tags = [t.strip().lstrip('- ').strip('"\'') for t in response_text.replace('\n', ',').split(',') if t.strip()]
-        
-        # Filter to only valid tags from master list
+        llm = create_llm_with_key(api_key)
+        response = await llm.ainvoke(extraction_prompt)
+        response_text = strip_think_tags(response.content).strip()
+
+        # Clean up — take only the first line, strip punctuation
+        first_line = response_text.split('\n')[0].strip().rstrip('.').strip('"\'').lower()
+
+        # Validate against master list
         master_set = set(master_tag_list)
-        valid_tags = [tag for tag in raw_tags if tag in master_set]
-        
-        invalid_tags = [tag for tag in raw_tags if tag not in master_set]
-        if invalid_tags:
-            print(f"⚠️ LLM generated invalid tags (filtered out): {invalid_tags}")
-        
-        print(f"🏷️ Extracted {len(valid_tags)} semantic tags: {valid_tags}")
-        return valid_tags
-        
+        if first_line in master_set:
+            print(f"🏷️ Extracted tag: [{first_line}]")
+            return [first_line]
+
+        # Try partial match if exact fails
+        for tag in master_tag_list:
+            if tag in first_line or first_line in tag:
+                print(f"🏷️ Partial match tag: [{tag}]")
+                return [tag]
+
+        print(f"⚠️ LLM returned unrecognized tag: '{first_line}'")
+        return []
+
     except Exception as e:
         print(f"❌ Semantic tag extraction failed: {e}")
         return []
-        
-    except Exception as e:
-        print(f"❌ Semantic tag extraction failed: {e}")
-        return []  # Return empty list to fallback to keyword search
 
 def search_by_semantic_tags(semantic_tags: list, top_k: int = 3, include_related: bool = True):
     """
@@ -1034,7 +1019,7 @@ Radhe Radhe!
 
 Now format your actual response:
 
-Namaste! \nTo your situation these shlokas from the Gita are the best answers:
+Namaste {username}! \nTo your situation these shlokas from the Gita are the best answers:
 
 [FOR EACH VERSE IN THE CONTEXT, REPEAT THIS BLOCK EXACTLY:]
 **[Reference in user's language]**
@@ -1501,3 +1486,30 @@ async def sync_status():
             "message": "Google Sheets integration not initialized",
             "verses_loaded": len(okf_graph.nodes)
         }
+
+
+# Telegram Bot Webhook
+
+@app.get("/telegram/webhook")
+async def telegram_webhook_get():
+    """Telegram verification ping"""
+    return {"ok": True}
+
+
+@app.post("/telegram/webhook")
+async def telegram_webhook(request: Request):
+    try:
+        update = await request.json()
+        from telegram_bot import handle_telegram_message
+        asyncio.create_task(handle_telegram_message(update))
+        return {"ok": True}
+    except Exception as e:
+        print(f"Telegram webhook error: {e}")
+        return {"ok": False}
+
+
+@app.get("/telegram/set-webhook")
+async def telegram_set_webhook(url: str):
+    from telegram_bot import set_webhook
+    result = await set_webhook(url)
+    return result
