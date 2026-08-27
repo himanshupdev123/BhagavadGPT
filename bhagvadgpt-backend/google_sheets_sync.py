@@ -202,7 +202,7 @@ class GoogleSheetsSync:
             sheet = self.service.spreadsheets()
             result = sheet.values().get(
                 spreadsheetId=self.sheet_id,
-                range='PriorityIndex!A2:F200',  # Tag col + up to 5 priority verse cols
+                range='PriorityIndex!A2:P200',  # Tag col + up to 15 priority verse cols
                 valueRenderOption='FORMATTED_VALUE'
             ).execute()
             
