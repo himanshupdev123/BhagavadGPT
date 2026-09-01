@@ -970,40 +970,17 @@ If the User Question is about mundane, modern, or non-spiritual topics (such as 
 HOWEVER, if the question involves human emotions, relationships, workplace stress, mental health, or ethical dilemmas, even in a modern setting (e.g., "stress at work" or "family conflict"), you MUST treat these as valid spiritual inquiries and proceed to STEP 5.
 
 STEP 5: IF THE QUESTION IS SAFE AND VALID, FORMAT YOUR RESPONSE
-Your strictly enforced task is to output EXACTLY what is in the database, without summarizing, truncating, or altering the sacred text.
 
-⚠️ MANDATORY: You MUST present EVERY SINGLE verse from the context. Do NOT skip any. The number of verse blocks in your response MUST equal the number of verses in the context.
+The shlokas have already been displayed to the user. Your job is ONLY to write:
+1. The Gitafication summary
+2. The Action Plan
 
-IMPORTANT: Follow these multilingual formatting rules:
-- Greeting, headings, and explanations → User's language
-- Sanskrit shloka → ALWAYS keep in Devanagari (never translate Sanskrit)
-- English Translation → Translate to user's language IF user is not speaking English
-- Reference format → Keep as "Chapter X, Verse Y" in user's language
+DO NOT display or repeat any shlokas, Sanskrit, or translations — those are already shown.
 
-Namaste {username}! \nTo your situation, the Gita offers these shlokas:
-
-IMPORTANT: Follow these multilingual formatting rules:
-- All headings, explanations, summary, action plan → User's language
-- Sanskrit shloka → ALWAYS keep in Devanagari (never translate)
-- Translations → Translate to user's language if not English
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[DISPLAY ONLY THE FIRST 3 VERSES from the context as full shlokas. For each:]
-
-**[Reference in user's language]**
-[Copy the ENTIRE Sanskrit shloka from the "Sanskrit (Devanagari):" section. Keep in Devanagari.]
-
-**Translation:**
-[Copy the translation. Translate to user's language if not English.]
-
-
-[Repeat for verse 2 and verse 3 only]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT: Respond in the user's language. Keep headings in user's language too.
 
 **Gitafication of your question:**
-[Write 4-6 sentences IN USER'S LANGUAGE. This is a synthesis drawing wisdom from ALL the verses in the context — not just the 3 shown. Begin with the user's own words or a direct restatement of their question (e.g. "You asked about...", "When you say you feel..."). Then weave together the consistent message across all the shlokas and show how it answers exactly what they asked. Use their specific phrases. Make them feel seen and understood, not lectured.]
+[Write 4-6 sentences IN USER'S LANGUAGE. Begin by directly referencing the user's own words or rephrasing their question (e.g. "You asked about...", "When you say you feel..."). Then synthesize the wisdom from ALL the verses in the context and show exactly how it answers what they asked. Use their specific phrases. Make them feel seen and understood, not lectured.]
 
 **Your Gita Action Plan — starting today:**
 [Write 3-4 bullet points IN USER'S LANGUAGE. Each point must be a specific action the user can do THE NEXT TIME they face this exact situation — not a daily habit, not a concept.
@@ -1217,6 +1194,7 @@ Title:"""
         include_related = False
         context_str = ""
         extra_nodes = []  # verses beyond top 3, appended after LLM stream
+        llm_nodes = []    # top 3 verses shown instantly from DB
         
         try:
             # Step 1: Use priority index tags if available, else fall back to master tags
@@ -1285,7 +1263,7 @@ Title:"""
         # Build "Related Shlokas" appendix from extra_nodes — appended after LLM stream, no LLM needed
         related_shlokas_appendix = ""
         if extra_nodes:
-            parts = ["\n\n---\n\n*📚 **Also from the Gita on this topic:***\n"]
+            parts = ["\n\n---\n\n **Also from the Gita on this topic:**\n"]
             for node in extra_nodes:
                 content = node["content"]
                 lines = content.split('\n')
@@ -1336,7 +1314,47 @@ Title:"""
                     "choices": [{"index": 0, "delta": {"role": "assistant"}, "finish_reason": None}]
                 }
                 yield f"data: {json.dumps(chunk1)}\n\n"
-                
+
+                # ── STEP A: Stream shlokas instantly from database (0ms latency) ──
+                if llm_nodes:
+                    greeting = f"Namaste {username}! 🙏\nTo your situation, the Gita offers these shlokas:\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+                    db_content = greeting
+                    for node in llm_nodes:
+                        content = node["content"]
+                        lines = content.split('\n')
+                        sanskrit = ""
+                        translation = ""
+                        meaning_lines = []
+                        current_section = None
+                        for line in lines:
+                            if "**Sanskrit" in line or "Sanskrit (" in line:
+                                current_section = "sanskrit"
+                            elif "**English Translation" in line or "**Translation" in line:
+                                current_section = "translation"
+                            elif "**Meaning & Purport" in line or "**Meaning:" in line:
+                                current_section = "meaning"
+                            elif current_section == "sanskrit" and line.strip():
+                                sanskrit += line + "\n"
+                            elif current_section == "translation" and line.strip():
+                                translation += line + "\n"
+                            elif current_section == "meaning" and line.strip():
+                                meaning_lines.append(line)
+                                if len(meaning_lines) >= 4:
+                                    break
+                        db_content += (
+                            f"**{node['title']}**\n\n"
+                            f"{sanskrit.strip()}\n\n"
+                            f"**Translation:** {translation.strip()}\n\n"
+                            f"*{' '.join(meaning_lines)}*\n\n"
+                            f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+                        )
+                    db_chunk = {
+                        "id": "chatcmpl-bhagvadgpt", "object": "chat.completion.chunk",
+                        "model": data.get("model", "bhagvadgpt"),
+                        "choices": [{"index": 0, "delta": {"content": db_content}, "finish_reason": None}]
+                    }
+                    yield f"data: {json.dumps(db_chunk)}\n\n"
+
                 t_llm_start = time.time()
                 first_token = True
                 # Stream content token-by-token

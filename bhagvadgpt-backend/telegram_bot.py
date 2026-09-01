@@ -122,18 +122,20 @@ async def handle_telegram_message(update: dict):
         if not semantic_tags:
             semantic_tags = await extract_semantic_tags(search_query, tag_list)
 
-        # Step 3: Verse retrieval
+        # Step 3: Verse retrieval — top 3 for LLM, rest as appendix
         context_str = ""
+        extra_nodes = []
         if semantic_tags:
-            # Try priority index if available
             if hasattr(okf_graph, 'search_by_priority_index'):
-                priority_nodes = okf_graph.search_by_priority_index(semantic_tags, top_k=3)
-                if priority_nodes:
-                    context_str = format_verses_to_context(priority_nodes, include_related=True)
+                all_nodes = okf_graph.search_by_priority_index(semantic_tags, top_k=10)
+                if all_nodes:
+                    llm_nodes = all_nodes[:3]
+                    extra_nodes = all_nodes[3:]
+                    context_str = format_verses_to_context(llm_nodes, include_related=False)
             if not context_str:
-                context_str = search_by_semantic_tags(semantic_tags, top_k=3, include_related=True)
+                context_str = search_by_semantic_tags(semantic_tags, top_k=3, include_related=False)
         if not context_str:
-            context_str = okf_graph.search(search_query, top_k=3, include_related=True)
+            context_str = okf_graph.search(search_query, top_k=3, include_related=False)
         if not context_str:
             context_str = "No specific verses found. Provide general spiritual guidance."
 
@@ -160,7 +162,42 @@ async def handle_telegram_message(update: dict):
                 response_text = "Namaste! BhagvadGPT is experiencing high traffic. Please try again in a moment. 🙏"
                 break
 
-        # Telegram has a 4096 char limit per message — split if needed
+        # Build related shlokas appendix
+        if extra_nodes:
+            appendix_lines = ["\n\n📚 *Also from the Gita on this topic:*\n"]
+            for node in extra_nodes:
+                content = node["content"]
+                lines = content.split('\n')
+                sanskrit = ""
+                translation = ""
+                current_section = None
+                for line in lines:
+                    if "**Sanskrit" in line or "Sanskrit (" in line:
+                        current_section = "sanskrit"
+                    elif "**English Translation" in line or "**Translation" in line:
+                        current_section = "translation"
+                    elif "**Meaning" in line:
+                        break
+                    elif current_section == "sanskrit" and line.strip():
+                        sanskrit += line + "\n"
+                    elif current_section == "translation" and line.strip():
+                        translation += line + "\n"
+                appendix_lines.append(
+                    f"\n_{node['title']}_\n"
+                    f"_{sanskrit.strip()}_\n"
+                    f"_Translation: {translation.strip()}_\n"
+                )
+            response_text += "\n".join(appendix_lines)
+
+        # Fix markdown for Telegram (convert ** to * for bold, fix --- separators)
+        import re
+        response_text = re.sub(r'\*\*(.+?)\*\*', r'*\1*', response_text)  # **bold** → *bold*
+        response_text = response_text.replace('\n---\n', '\n──────────\n')
+        response_text = response_text.replace('---\n', '──────────\n')
+        response_text = response_text.replace('\n### ', '\n*')  # ### heading → *bold
+        response_text = re.sub(r'\n### (.+)', r'\n*\1*', response_text)
+
+        # Telegram 4096 char limit — split if needed
         if len(response_text) > 4000:
             parts = [response_text[i:i+4000] for i in range(0, len(response_text), 4000)]
             for part in parts:
