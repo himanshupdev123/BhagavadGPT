@@ -1006,11 +1006,14 @@ IMPORTANT: Follow these multilingual formatting rules:
 [Write 4-6 sentences IN USER'S LANGUAGE. This is a synthesis drawing wisdom from ALL the verses in the context — not just the 3 shown. Begin with the user's own words or a direct restatement of their question (e.g. "You asked about...", "When you say you feel..."). Then weave together the consistent message across all the shlokas and show how it answers exactly what they asked. Use their specific phrases. Make them feel seen and understood, not lectured.]
 
 **Your Gita Action Plan — starting today:**
-[Write 3-4 bullet points IN USER'S LANGUAGE. Each point must:
-- Be directly tied to what the user asked (use their words where possible)
-- Be a specific, small, doable action — not a principle or concept
-- Be something they can start within 24 hours
-Example format: "Since you feel [their phrase], try [specific action] for just [time] today."]
+[Write 3-4 bullet points IN USER'S LANGUAGE. Each point must be a specific action the user can do THE NEXT TIME they face this exact situation — not a daily habit, not a concept.
+Think of it as: "The next time this happens to you, here is exactly what to do in that moment."
+Use the user's own words. Be blunt, practical, and human — not philosophical.
+Examples of the RIGHT style:
+- "The next time you feel angry at someone, pause and silently remind yourself: 'This person is also the divine.' Then respond instead of react."
+- "When you feel like you hate someone, before judging them, ask yourself: 'What pain are they carrying that I cannot see?'"
+- "The next time you want to give up, say out loud: 'My duty is to act. The result is not mine to control.' Then take the very next small step."
+NEVER say things like "start a meditation practice" or "maintain a gratitude journal" — that is generic advice. Give them a tool for the exact moment they are in.]
 
 Radhe Radhe!
 
@@ -1210,9 +1213,10 @@ Title:"""
         # 2. OKF Knowledge Graph Retrieval - PRIORITY INDEX + SEMANTIC TAG SEARCH
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
-        top_k = 10          # increased from 3 — more shlokas = richer response
-        include_related = False  # skip related to stay within token limit at 10 shlokas
+        top_k = 10          # fetch up to 10 from priority index
+        include_related = False
         context_str = ""
+        extra_nodes = []  # verses beyond top 3, appended after LLM stream
         
         try:
             # Step 1: Use priority index tags if available, else fall back to master tags
@@ -1253,23 +1257,58 @@ Title:"""
 
                 if priority_nodes:
                     print(f"✅ Priority index matched {len(priority_nodes)} verses")
-                    context_str = format_verses_to_context(priority_nodes, include_related=False)
+                    # Only pass top 3 to LLM — rest appended as "Related Shlokas" after stream
+                    llm_nodes = priority_nodes[:3]
+                    extra_nodes = priority_nodes[3:]
+                    context_str = format_verses_to_context(llm_nodes, include_related=False)
 
                 # Step 3b: Fall back to semantic tag search for unmatched tags
                 if not context_str:
-                    context_str = search_by_semantic_tags(semantic_tags, top_k=top_k, include_related=False)
+                    all_nodes = []  # semantic search returns string not nodes
+                    context_str = search_by_semantic_tags(semantic_tags, top_k=3, include_related=False)
+                    extra_nodes = []
             
             # Step 4: Final fallback — keyword search
             if not context_str:
-                context_str = okf_graph.search(search_query, top_k=top_k, include_related=False)
+                context_str = okf_graph.search(search_query, top_k=3, include_related=False)
+                extra_nodes = []
             
             t3 = time.time()
             print(f"⏱️ Verse retrieval: {t3-t2:.2f}s")
                 
         except Exception as e:
             print(f"[{timestamp}] ⚠️ Search failed: {e}, using keyword search")
-            context_str = okf_graph.search(search_query, top_k=top_k, include_related=include_related)
+            context_str = okf_graph.search(search_query, top_k=3, include_related=False)
+            extra_nodes = []
             t3 = time.time()
+        
+        # Build "Related Shlokas" appendix from extra_nodes — appended after LLM stream, no LLM needed
+        related_shlokas_appendix = ""
+        if extra_nodes:
+            parts = ["\n\n---\n\n*📚 **Also from the Gita on this topic:***\n"]
+            for node in extra_nodes:
+                content = node["content"]
+                lines = content.split('\n')
+                sanskrit = ""
+                translation = ""
+                current_section = None
+                for line in lines:
+                    if "**Sanskrit" in line or "Sanskrit (" in line:
+                        current_section = "sanskrit"
+                    elif "**English Translation" in line or "**Translation" in line:
+                        current_section = "translation"
+                    elif "**Meaning" in line:
+                        break
+                    elif current_section == "sanskrit" and line.strip():
+                        sanskrit += line + "\n"
+                    elif current_section == "translation" and line.strip():
+                        translation += line + "\n"
+                parts.append(
+                    f"\n*{node['title']}*\n\n"
+                    f"*{sanskrit.strip()}*\n\n"
+                    f"*Translation: {translation.strip()}*\n"
+                )
+            related_shlokas_appendix = "\n".join(parts)
         
         if not context_str:
             # No matching verses found - provide a gentle response
@@ -1324,6 +1363,15 @@ Title:"""
                         
                         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                         print(f"[{timestamp}] ✅ Stream completed using key #{current_key_index + 1}")
+                        
+                        # Append related shlokas directly from database (no LLM cost)
+                        if related_shlokas_appendix:
+                            appendix_chunk = {
+                                "id": "chatcmpl-bhagvadgpt", "object": "chat.completion.chunk",
+                                "model": data.get("model", "bhagvadgpt"),
+                                "choices": [{"index": 0, "delta": {"content": related_shlokas_appendix}, "finish_reason": None}]
+                            }
+                            yield f"data: {json.dumps(appendix_chunk)}\n\n"
                         
                         # Increment question counter
                         count = increment_question_counter()

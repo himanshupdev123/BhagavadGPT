@@ -3188,3 +3188,124 @@ html {
 .sharepoint-picker-bg {
   background-color: #f5f5f5;
 }
+
+
+/* ============================================================ */
+/*  BhagvadGPT Golden Dark Theme                                */
+/* ============================================================ */
+
+/* -- Override dark mode foundation to cosmic dark ------------ */
+.dark {
+  --surface-primary: #09070F;
+  --surface-primary-alt: #0D0A17;
+  --surface-primary-contrast: #120E1C;
+  --surface-secondary: #0D0A17;
+  --surface-secondary-alt: #120E1C;
+  --surface-tertiary: #16111F;
+  --surface-tertiary-alt: #16111F;
+  --surface-chat: #120E1C;
+  --header-primary: #0D0A17;
+  --header-hover: #16111F;
+  --header-button-hover: #16111F;
+  --border-light: rgba(212, 175, 55, 0.25);
+  --border-medium: rgba(212, 175, 55, 0.35);
+  --border-medium-alt: rgba(212, 175, 55, 0.35);
+  --ring-primary: #D4AF37;
+}
+
+/* -- Main background ----------------------------------------- */
+.dark body,
+.dark html {
+  background-color: #09070F !important;
+}
+
+/* -- Golden glowing input box --------------------------------- */
+.dark form textarea,
+.dark form [contenteditable],
+.dark [data-testid="text-input"],
+.dark .chat-input-wrapper,
+.dark form>div {
+  background-color: #120E1C !important;
+  border: 1px solid #D4AF37 !important;
+  border-radius: 1.5rem !important;
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.3),
+    inset 0 0 10px rgba(212, 175, 55, 0.08) !important;
+  color: #FFFFFF !important;
+  transition: box-shadow 0.3s ease !important;
+}
+
+.dark form textarea:focus,
+.dark form [contenteditable]:focus {
+  box-shadow: 0 0 30px rgba(255, 223, 0, 0.45),
+    inset 0 0 12px rgba(212, 175, 55, 0.12) !important;
+  border-color: #FFDF00 !important;
+  outline: none !important;
+}
+
+/* -- Sidebar chat item outlines ------------------------------ */
+.dark nav a,
+.dark [data-testid="conversation-item"],
+.dark .conversation-item {
+  border: 1px solid rgba(212, 175, 55, 0.35) !important;
+  border-radius: 8px !important;
+  margin-bottom: 2px !important;
+  transition: all 0.25s ease !important;
+}
+
+.dark nav a:hover,
+.dark [data-testid="conversation-item"]:hover,
+.dark .conversation-item:hover,
+.dark nav a.active,
+.dark [data-testid="conversation-item"].active {
+  border-color: #FFDF00 !important;
+  box-shadow: 0 0 12px rgba(255, 223, 0, 0.35) !important;
+  background-color: rgba(212, 175, 55, 0.06) !important;
+}
+
+/* -- Golden welcome / greeting text -------------------------- */
+.dark .welcome-message,
+.dark [class*="greeting"],
+.dark h1[class*="welcome"] {
+  background: linear-gradient(90deg, #FFDF00, #D4AF37, #FFDF00) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  text-shadow: none !important;
+  filter: drop-shadow(0px 0px 8px rgba(255, 223, 0, 0.4));
+  font-weight: bold !important;
+}
+
+/* -- Radhe Radhe golden text in assistant messages ----------- */
+.dark .markdown p:last-child:has-text("Radhe"),
+.dark .message-content p:last-of-type {
+  color: #D4AF37 !important;
+}
+
+/* -- SVG icons: ensure visibility on dark background --------- */
+.dark nav svg,
+.dark header svg,
+.dark button svg {
+  color: #D4AF37 !important;
+  fill: currentColor !important;
+}
+
+/* -- Sidebar background -------------------------------------- */
+.dark nav,
+.dark aside {
+  background-color: #0D0A17 !important;
+  border-right: 1px solid rgba(212, 175, 55, 0.2) !important;
+}
+
+/* -- Scrollbar gold styling ---------------------------------- */
+.dark ::-webkit-scrollbar-track {
+  background: #09070F !important;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.4) !important;
+  border-radius: 4px !important;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 223, 0, 0.6) !important;
+}
