@@ -241,6 +241,7 @@ class BhagvadOKFGraph:
         self.nodes = []
         self.verse_index = {}  # Index for quick lookup by reference
         self.priority_index = {}  # tag → ordered list of verse refs (from PriorityIndex sheet)
+        self.fallback_verse_set = set()  # Curated set of best verses for fallback search
         
         if use_google_sheets:
             self.google_sync = GoogleSheetsSync()
@@ -292,6 +293,13 @@ class BhagvadOKFGraph:
                 print(f"⚠️ Error loading {file_path}: {e}")
         
         print(f" Loaded {len(self.nodes)} OKF verses into memory")
+        
+        # Load curated fallback verse set
+        fallback_file = Path("fallback_verse_set.json")
+        if fallback_file.exists():
+            import json as _json
+            self.fallback_verse_set = set(_json.loads(fallback_file.read_text()))
+            print(f"✅ Loaded {len(self.fallback_verse_set)} curated fallback verses")
     
     def get_verse_by_reference(self, reference):
         """Get a specific verse by its reference (e.g., 'chapter_2/verse_47')"""
@@ -466,14 +474,21 @@ class BhagvadOKFGraph:
     def search(self, query_text: str, top_k: int = 10, include_related: bool = True):
         """
         Search for verses matching extracted keywords/themes.
-        Optionally includes related verses via knowledge graph traversal.
-        Returns formatted context string with top matching verses.
+        Uses curated fallback_verse_set when available (312 best verses),
+        otherwise falls back to all 700.
         """
         # Extract keywords from query (simple approach - split and lowercase)
         query_terms = set(query_text.lower().split())
+
+        # Only search within curated fallback set if available
+        search_pool = (
+            [n for n in self.nodes if n['reference'] in self.fallback_verse_set]
+            if self.fallback_verse_set
+            else self.nodes
+        )
         scored_nodes = []
         
-        for node in self.nodes:
+        for node in search_pool:
             score = 0
             
             # Score based on tag matches
@@ -948,7 +963,7 @@ If the User Question is a NON-QUESTION, you MUST output EXACTLY and ONLY this me
 STEP 2: SUICIDE & SELF-HARM OVERRIDE (HIGHEST PRIORITY)
 If the User Question mentions suicide, ending life, self-harm, or suicidal thoughts, you MUST completely ignore the provided context. You must output EXACTLY and ONLY this message:
 
-"Namaste {username}, your life has immense value and purpose.
+"Namaste , your life has immense value and purpose.
 
 If you're in crisis, please reach out immediately:
 🇮🇳 India: AASRA - 9820466726 | iCall - 9152987821
@@ -1317,35 +1332,29 @@ Title:"""
 
                 # ── STEP A: Stream shlokas instantly from database (0ms latency) ──
                 if llm_nodes:
-                    greeting = f"Namaste {username}! 🙏\nTo your situation, the Gita offers these shlokas:\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+                    greeting = f"Namaste ! \nTo your situation, the Gita offers these shlokas:\n"
                     db_content = greeting
                     for node in llm_nodes:
                         content = node["content"]
                         lines = content.split('\n')
                         sanskrit = ""
                         translation = ""
-                        meaning_lines = []
                         current_section = None
                         for line in lines:
                             if "**Sanskrit" in line or "Sanskrit (" in line:
                                 current_section = "sanskrit"
                             elif "**English Translation" in line or "**Translation" in line:
                                 current_section = "translation"
-                            elif "**Meaning & Purport" in line or "**Meaning:" in line:
-                                current_section = "meaning"
+                            elif "**Meaning" in line:
+                                break
                             elif current_section == "sanskrit" and line.strip():
                                 sanskrit += line + "\n"
                             elif current_section == "translation" and line.strip():
                                 translation += line + "\n"
-                            elif current_section == "meaning" and line.strip():
-                                meaning_lines.append(line)
-                                if len(meaning_lines) >= 4:
-                                    break
                         db_content += (
                             f"**{node['title']}**\n\n"
                             f"{sanskrit.strip()}\n\n"
                             f"**Translation:** {translation.strip()}\n\n"
-                            f"*{' '.join(meaning_lines)}*\n\n"
                             f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
                         )
                     db_chunk = {

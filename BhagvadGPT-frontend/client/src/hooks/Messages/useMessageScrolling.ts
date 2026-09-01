@@ -80,8 +80,21 @@ export default function useMessageScrolling(messagesTree?: TMessage[] | null) {
       return;
     }
 
-    if (isSubmitting && scrollToBottom && abortScroll !== true) {
-      scrollToBottom();
+    // BhagvadGPT: On submission, scroll to the TOP of the new response (not bottom)
+    // so users read from the first shloka without needing to scroll up
+    if (isSubmitting && abortScroll !== true) {
+      const newMessageEl = scrollableRef.current?.querySelector('[data-message-id]:last-child');
+      if (newMessageEl) {
+        newMessageEl.scrollIntoView({ behavior: 'instant', block: 'start' });
+      }
+      // fallback: scroll container to top of content area
+      else if (scrollableRef.current) {
+        const firstAssistantMsg = scrollableRef.current.querySelectorAll('[data-testid="bot-message"]');
+        const lastMsg = firstAssistantMsg[firstAssistantMsg.length - 1];
+        if (lastMsg) {
+          lastMsg.scrollIntoView({ behavior: 'instant', block: 'start' });
+        }
+      }
     }
 
     return () => {
